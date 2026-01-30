@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>SEOニュースラジオ</title>
-    <description>毎日のSEO関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
+    <title>最新SEO・マーケニュース</title>
+    <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 03:01:36 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 03:11:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
-    <itunes:summary>毎日のSEO関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
+    <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
