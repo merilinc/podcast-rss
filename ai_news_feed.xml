@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AIニュースラジオ</title>
+    <description>毎日のAI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
+    <language>ja</language>
+    <copyright>© 2026 株式会社メリル</copyright>
+    <lastBuildDate>Sat, 31 Jan 2026 02:36:11 +0900</lastBuildDate>
+    <itunes:author>株式会社メリル</itunes:author>
+    <itunes:summary>毎日のAI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>株式会社メリル</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>【テスト】01月31日 テストエピソード</title>
+      <description>これはポッドキャスト配信機能のテストエピソードです。</description>
+      <itunes:summary>これはポッドキャスト配信機能のテストエピソードです。</itunes:summary>
+      <pubDate>Sat, 31 Jan 2026 02:36:07 +0900</pubDate>
+      <guid isPermaLink="false">gdrive-1Y1IH75wVMppWaDSpEknBpWw8XTh2j4EE</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y1IH75wVMppWaDSpEknBpWw8XTh2j4EE" length="1773236" type="audio/mpeg"/>
+      <itunes:duration>03:31</itunes:duration>
+      <itunes:episode>999</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
