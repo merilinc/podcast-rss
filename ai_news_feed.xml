@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 03:12:30 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 04:32:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,5 +15,16 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【1月31日】OpenAI・Nvidia1000億ドル破談！AI業界に激震</title>
+      <description>今日は衝撃のニュースからスタート！OpenAIとNvidiaの間で進んでいた約15兆円規模の超巨大インフラ契約が決裂しました。その背景にあるNvidia CEOの本音とは？さらにOpenAIは新たにAmazonやSoftBankから6兆円規模の資金調達を目指す動きも。一方、MicrosoftはAI投資が急増し市場から懸念の声。国内ではソフトバンクと東急不動産がAIで動画自動生成の実証実験、楽天はAIが消費者になりきるインタビュー機能を搭載。そしてIPAの脅威ランキングでAIリスクが初のトップ3入り、MITが警鐘を鳴らす「思考の空洞化」問題まで、AI業界の最前線を徹底解説します！</description>
+      <itunes:summary>今日は衝撃のニュースからスタート！OpenAIとNvidiaの間で進んでいた約15兆円規模の超巨大インフラ契約が決裂しました。その背景にあるNvidia CEOの本音とは？さらにOpenAIは新たにAmazonやSoftBankから6兆円規模の資金調達を目指す動きも。一方、MicrosoftはAI投資が急増し市場から懸念の声。国内ではソフトバンクと東急不動産がAIで動画自動生成の実証実験、楽天はAIが消費者になりきるインタビュー機能を搭載。そしてIPAの脅威ランキングでAIリスクが初のトップ3入り、MITが警鐘を鳴らす「思考の空洞化」問題まで、AI業界の最前線を徹底解説します！</itunes:summary>
+      <pubDate>Sat, 31 Jan 2026 04:32:10 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260131-20260131</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gAQKP8c5Og_NIwr6w8PuYUP_fqp4Uj-q" length="12239805" type="audio/mpeg"/>
+      <itunes:duration>25:24</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
