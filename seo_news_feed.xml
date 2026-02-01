@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 31 Jan 2026 04:36:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 14:01:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月1日】Google AI検索に激震！英国が「オプトアウト権」提案＆Yahoo新AI検索参入</title>
+      <description>今回は検索とAIの融合が新たなフェーズに突入した激動の3日間をお届けします。英国当局がGoogleに「AI検索からのオプトアウト権」を提案した衝撃のニュースから、BingのAIパフォーマンスレポート、Google Search Consoleの自然言語分析機能まで徹底解説。さらに「ググる」の終焉を示すデータ、Google広告の新機能、InstagramとTikTokのマーケティング機能強化など、SEO担当者必聴の6つのトピックを深掘りします。LLMOって何？という方も、これを聴けばバッチリ理解できますよ！</description>
+      <itunes:summary>今回は検索とAIの融合が新たなフェーズに突入した激動の3日間をお届けします。英国当局がGoogleに「AI検索からのオプトアウト権」を提案した衝撃のニュースから、BingのAIパフォーマンスレポート、Google Search Consoleの自然言語分析機能まで徹底解説。さらに「ググる」の終焉を示すデータ、Google広告の新機能、InstagramとTikTokのマーケティング機能強化など、SEO担当者必聴の6つのトピックを深掘りします。LLMOって何？という方も、これを聴けばバッチリ理解できますよ！</itunes:summary>
+      <pubDate>Sun, 01 Feb 2026 06:38:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260201-20260201</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b-6ecPyO5KW87HjiTWenTSQLPcVRFeCP" length="15888885" type="audio/mpeg"/>
+      <itunes:duration>32:49</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【1月31日】AI検索時代到来！Google変動とYahoo Scout登場の衝撃</title>
       <description>今回は検索とAIの融合が新たなフェーズに突入した激動の3日間をお届けします。英国当局がGoogleに「AI検索からのオプトアウト権」を提案した衝撃のニュースから、BingのAIパフォーマンスレポート、Google Search Consoleの自然言語分析機能まで徹底解説。さらに「ググる」の終焉を示すデータ、Google広告の新機能、InstagramとTikTokのマーケティング機能強化など、SEO担当者必聴の6つのトピックを深掘りします。LLMOって何？という方も、これを聴けばバッチリ理解できますよ！</description>
