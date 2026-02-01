@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 14:06:10 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 21:46:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月01日】Google検索が激変！AIエージェント時代のSEO新常識とは</title>
+      <description>今回はSEO・検索エンジン業界の最新動向をたっぷりお届けします。Google検索で「極めて激しい」順位変動が発生中！その背景にある「Authenticity Update」とは？さらに、Googleが発表した研究論文「SAGE」が示すAIエージェント時代の新しいSEO対策、ChromeブラウザへのGemini 3統合で変わるWebの未来、OpenAIがChatGPTで始めた広告テストの衝撃など、検索とAIの最前線を徹底解説します。マーケター・Web担当者必聴の内容です！</description>
+      <itunes:summary>今回はSEO・検索エンジン業界の最新動向をたっぷりお届けします。Google検索で「極めて激しい」順位変動が発生中！その背景にある「Authenticity Update」とは？さらに、Googleが発表した研究論文「SAGE」が示すAIエージェント時代の新しいSEO対策、ChromeブラウザへのGemini 3統合で変わるWebの未来、OpenAIがChatGPTで始めた広告テストの衝撃など、検索とAIの最前線を徹底解説します。マーケター・Web担当者必聴の内容です！</itunes:summary>
+      <pubDate>Sun, 01 Feb 2026 21:46:11 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260202-20260202</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18Tv9s6WbL8ciIJr9vqHBgxfJZn-lmSr0" length="11126133" type="audio/mpeg"/>
+      <itunes:duration>23:11</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月1日】Google AI検索に激震！英国が「オプトアウト権」提案＆Yahoo新AI検索参入</title>
       <description>今回は検索とAIの融合が新たなフェーズに突入した激動の3日間をお届けします。英国当局がGoogleに「AI検索からのオプトアウト権」を提案した衝撃のニュースから、BingのAIパフォーマンスレポート、Google Search Consoleの自然言語分析機能まで徹底解説。さらに「ググる」の終焉を示すデータ、Google広告の新機能、InstagramとTikTokのマーケティング機能強化など、SEO担当者必聴の6つのトピックを深掘りします。LLMOって何？という方も、これを聴けばバッチリ理解できますよ！</description>
