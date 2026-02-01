@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 14:06:12 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 21:41:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月01日】Google軍事利用疑惑＆AIエンジニアがコードを書かない時代へ</title>
+      <description>今日はGoogleのAI「Gemini」がイスラエル軍のドローン映像解析に使われた疑惑で内部告発があったニュースからスタート。さらにAI専用SNS「Moltbook」の急成長と脆弱性、NvidiaとOpenAIの1000億ドル投資交渉の停滞など、業界を揺るがすニュースが続きます。驚きなのは、AnthropicやOpenAIのエンジニアがコードの100%をAI生成に移行したという話。エンジニアの役割が「書く人」から「監督」へ変わる歴史的転換点かもしれません。Appleの20億ドル買収、欧州AIユニコーンの台頭、そしてAI映画への批判まで、盛りだくさんでお届けします！</description>
+      <itunes:summary>今日はGoogleのAI「Gemini」がイスラエル軍のドローン映像解析に使われた疑惑で内部告発があったニュースからスタート。さらにAI専用SNS「Moltbook」の急成長と脆弱性、NvidiaとOpenAIの1000億ドル投資交渉の停滞など、業界を揺るがすニュースが続きます。驚きなのは、AnthropicやOpenAIのエンジニアがコードの100%をAI生成に移行したという話。エンジニアの役割が「書く人」から「監督」へ変わる歴史的転換点かもしれません。Appleの20億ドル買収、欧州AIユニコーンの台頭、そしてAI映画への批判まで、盛りだくさんでお届けします！</itunes:summary>
+      <pubDate>Sun, 01 Feb 2026 21:41:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260202-20260202</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwdqVRbnlCXWUPmk3rzcpjbbuEISzreD" length="18050301" type="audio/mpeg"/>
+      <itunes:duration>37:14</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月1日】火星でAI自律走行成功＆ゲーム業界に激震走る</title>
       <description>今回は火星探査車がAIで自律走行に成功したという驚きのニュースから、AIがゲーム業界に与える影響まで、幅広いトピックをお届けします。OpenAIとNvidiaの1000億ドル規模の提携破談のニュースや、最新のAI技術動向について、AIくんとサチコがわかりやすく解説します。</description>
