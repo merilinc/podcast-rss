@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 21:46:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:22:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -46,6 +46,96 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WAGNG3lJkDqyIBCEHfrCnp76tYP2p0iE" length="15007053" type="audio/mpeg"/>
       <itunes:duration>31:15</itunes:duration>
       <itunes:episode>1</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月29日】SEOニュース</title>
+      <description>1月29日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月29日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Thu, 29 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260129-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ITOMLKRiRoJB8Jew_fL-r23LcmybUVCG" length="16093197" type="audio/mpeg"/>
+      <itunes:duration>15:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月28日】SEOニュース</title>
+      <description>1月28日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月28日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Wed, 28 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260128-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iVRyB7wMWiYGSVTth0j9C2dmM0bEbLpd" length="14245173" type="audio/mpeg"/>
+      <itunes:duration>13:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月27日】SEOニュース</title>
+      <description>1月27日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月27日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Tue, 27 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260127-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_B5FjDlLAThwh8DltopeKUl5-0-sPFGA" length="12336909" type="audio/mpeg"/>
+      <itunes:duration>11:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月26日】SEOニュース</title>
+      <description>1月26日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月26日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Mon, 26 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260126-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JUwXhqbCJaw2YubXvlENr1W_nTineA9_" length="13000077" type="audio/mpeg"/>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月25日】SEOニュース</title>
+      <description>1月25日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月25日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Sun, 25 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260125-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16-xo00Mdc_RqDYjAJTS835EpK1_D20Oj" length="12105309" type="audio/mpeg"/>
+      <itunes:duration>11:32</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月24日】SEOニュース</title>
+      <description>1月24日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月24日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Sat, 24 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260124-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DWr7D2lt_Pj_2sorlF6JKx3UGAP1wgoJ" length="16809333" type="audio/mpeg"/>
+      <itunes:duration>16:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月23日】SEOニュース</title>
+      <description>1月23日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月23日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Fri, 23 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260123-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_mH0To8jWP6WL5CaixsaiiXnjbJfq74_" length="13814565" type="audio/mpeg"/>
+      <itunes:duration>13:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月22日】SEOニュース</title>
+      <description>1月22日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月22日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Thu, 22 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260122-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RJwvKJwy6PKtB_vFz4pc-C8qii6kJ4zt" length="15963572" type="audio/mpeg"/>
+      <itunes:duration>15:13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>【1月21日】SEOニュース</title>
+      <description>1月21日のSEO関連ニュースをお届けします。</description>
+      <itunes:summary>1月21日のSEO関連ニュースをお届けします。</itunes:summary>
+      <pubDate>Wed, 21 Jan 2026 06:00:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260121-original</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hM4wWkgp2ji-unimKsf3AN8vkjBrgNO3" length="14809749" type="audio/mpeg"/>
+      <itunes:duration>14:07</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
