@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 09:22:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 09:24:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -16,10 +16,10 @@
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
     <item>
-      <title>【2月01日】Google軍事利用疑惑＆AIエンジニアがコードを書かない時代へ</title>
+      <title>【2月02日】Google軍事利用疑惑＆AIエンジニアがコードを書かない時代へ</title>
       <description>今日はGoogleのAI「Gemini」がイスラエル軍のドローン映像解析に使われた疑惑で内部告発があったニュースからスタート。さらにAI専用SNS「Moltbook」の急成長と脆弱性、NvidiaとOpenAIの1000億ドル投資交渉の停滞など、業界を揺るがすニュースが続きます。驚きなのは、AnthropicやOpenAIのエンジニアがコードの100%をAI生成に移行したという話。エンジニアの役割が「書く人」から「監督」へ変わる歴史的転換点かもしれません。Appleの20億ドル買収、欧州AIユニコーンの台頭、そしてAI映画への批判まで、盛りだくさんでお届けします！</description>
       <itunes:summary>今日はGoogleのAI「Gemini」がイスラエル軍のドローン映像解析に使われた疑惑で内部告発があったニュースからスタート。さらにAI専用SNS「Moltbook」の急成長と脆弱性、NvidiaとOpenAIの1000億ドル投資交渉の停滞など、業界を揺るがすニュースが続きます。驚きなのは、AnthropicやOpenAIのエンジニアがコードの100%をAI生成に移行したという話。エンジニアの役割が「書く人」から「監督」へ変わる歴史的転換点かもしれません。Appleの20億ドル買収、欧州AIユニコーンの台頭、そしてAI映画への批判まで、盛りだくさんでお届けします！</itunes:summary>
-      <pubDate>Sun, 01 Feb 2026 21:41:59 +0900</pubDate>
+      <pubDate>Mon, 02 Feb 2026 06:41:59 +0900</pubDate>
       <guid isPermaLink="false">ai_news_radio_20260202-20260202</guid>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NwdqVRbnlCXWUPmk3rzcpjbbuEISzreD" length="18050301" type="audio/mpeg"/>
       <itunes:duration>37:14</itunes:duration>
@@ -46,116 +46,6 @@
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gAQKP8c5Og_NIwr6w8PuYUP_fqp4Uj-q" length="12239805" type="audio/mpeg"/>
       <itunes:duration>25:24</itunes:duration>
       <itunes:episode>1</itunes:episode>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月29日】AIニュース</title>
-      <description>1月29日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月29日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Thu, 29 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260129-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vF9Sn6z9SbwQGzKKQxABykhSMATfF3Zy" length="12896277" type="audio/mpeg"/>
-      <itunes:duration>12:17</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月28日】AIニュース</title>
-      <description>1月28日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月28日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Wed, 28 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260128-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CTbio3l5VyTUTqn7pvVubXx5jvPpQhHJ" length="14208981" type="audio/mpeg"/>
-      <itunes:duration>13:33</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月27日】AIニュース</title>
-      <description>1月27日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月27日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Tue, 27 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260127-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OBM83yBtXrttDsxg9AebFj3FFjmzekVy" length="18247149" type="audio/mpeg"/>
-      <itunes:duration>17:24</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月26日】AIニュース</title>
-      <description>1月26日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月26日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Mon, 26 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260126-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cUSq1dxyYibZE67QDlQC76nFhh49kzB9" length="18075309" type="audio/mpeg"/>
-      <itunes:duration>17:14</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月25日】AIニュース</title>
-      <description>1月25日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月25日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Sun, 25 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260125-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AHyAoQGUx4iwJ6-daRTRIIed0wkL8uS-" length="19291725" type="audio/mpeg"/>
-      <itunes:duration>18:23</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月24日】AIニュース</title>
-      <description>1月24日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月24日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Sat, 24 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260124-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Sw--h4ma7yOVn7iDlUol6fRn5AP1sVk_" length="18612189" type="audio/mpeg"/>
-      <itunes:duration>17:44</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月23日】AIニュース</title>
-      <description>1月23日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月23日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Fri, 23 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260123-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VU8wWT4wlS-LcTr_eROPTeaxnRKK5cAP" length="18455565" type="audio/mpeg"/>
-      <itunes:duration>17:36</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月22日】AIニュース</title>
-      <description>1月22日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月22日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Thu, 22 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260122-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1J8qi_rJzouBtzwswwHP4Gcj933o_8gdJ" length="16574781" type="audio/mpeg"/>
-      <itunes:duration>15:48</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月21日】AIニュース</title>
-      <description>1月21日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月21日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Wed, 21 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260121-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LE45ydaKsCoO6sYG0FJFFdBJioPmxI1A" length="18406197" type="audio/mpeg"/>
-      <itunes:duration>17:33</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月20日】AIニュース</title>
-      <description>1月20日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月20日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Tue, 20 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260120-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NvclQ093h3UU6G0dqaTswLq0t3URbfqX" length="18573525" type="audio/mpeg"/>
-      <itunes:duration>17:42</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>【1月17日】AIニュース</title>
-      <description>1月17日のAI関連ニュースをお届けします。</description>
-      <itunes:summary>1月17日のAI関連ニュースをお届けします。</itunes:summary>
-      <pubDate>Sat, 17 Jan 2026 06:00:00 +0900</pubDate>
-      <guid isPermaLink="false">ai_news_radio_20260117-original</guid>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V6IFVPJSaqXPAHsi1nQdWaYk_XN3uQWo" length="15717525" type="audio/mpeg"/>
-      <itunes:duration>14:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
