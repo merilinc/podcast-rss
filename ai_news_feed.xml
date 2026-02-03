@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 10:37:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:45:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月04日】SpaceXがxAI買収で宇宙データセンター構想始動＆OpenAI新アプリ登場</title>
+      <description>今日はビッグニュースが目白押し！SpaceXがイーロン・マスク氏のAI企業xAIを買収し、評価額180兆円規模の巨大合併へ。宇宙空間にデータセンターを作る壮大な構想とは？SnowflakeとOpenAIの2億ドル提携、デスクトップ型コーディングアプリ「Codex」の登場、さらにはAIに依存しすぎると人間が「無力化」するというAnthropicの衝撃的な研究結果まで。Oracleの7兆円規模の資金調達、話題の「Vibe Coding」、ElevenLabsの感情豊かな音声AI、AIボット専用SNSのセキュリティ問題など、12本のニュースを徹底解説します！</description>
+      <itunes:summary>今日はビッグニュースが目白押し！SpaceXがイーロン・マスク氏のAI企業xAIを買収し、評価額180兆円規模の巨大合併へ。宇宙空間にデータセンターを作る壮大な構想とは？SnowflakeとOpenAIの2億ドル提携、デスクトップ型コーディングアプリ「Codex」の登場、さらにはAIに依存しすぎると人間が「無力化」するというAnthropicの衝撃的な研究結果まで。Oracleの7兆円規模の資金調達、話題の「Vibe Coding」、ElevenLabsの感情豊かな音声AI、AIボット専用SNSのセキュリティ問題など、12本のニュースを徹底解説します！</itunes:summary>
+      <pubDate>Wed, 04 Feb 2026 06:45:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260204-20260204</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uqLn5LkMzj9q8sC5AILTXxO65ZEiFHI1" length="17985597" type="audio/mpeg"/>
+      <itunes:duration>37:26</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月03日】SpaceX×xAI宇宙合併で185兆円企業誕生＆AIだけのSNS爆誕</title>
       <description>今回はAI業界の激震ニュースをお届けします。イーロン・マスク氏がSpaceXとxAIの合併を発表し、時価総額185兆円の巨大企業が誕生！さらに、AIボットだけが参加する新しいSNSプラットフォームの登場、主要AI企業の最新動向など、AIの未来を左右する重要ニュースをAIくんとサチコがわかりやすく解説します。</description>
