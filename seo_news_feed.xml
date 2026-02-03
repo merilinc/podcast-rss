@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 09:24:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:37:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月03日】AI検索時代の到来！SEOの常識が根底から覆る</title>
+      <description>今回はAI検索時代のSEO最新動向をお届けします。Googleの「AI Overview」機能がSEO業界に与える影響、AIエージェントを使った検索体験の変化、そしてこれからのSEO対策で必要となる新しいアプローチについて徹底解説。従来の「キーワード最適化」から「意図理解最適化」への転換期を迎えた今、マーケター・Web担当者が知っておくべき重要ポイントをAIくんとサチコがわかりやすく解説します。</description>
+      <itunes:summary>今回はAI検索時代のSEO最新動向をお届けします。Googleの「AI Overview」機能がSEO業界に与える影響、AIエージェントを使った検索体験の変化、そしてこれからのSEO対策で必要となる新しいアプローチについて徹底解説。従来の「キーワード最適化」から「意図理解最適化」への転換期を迎えた今、マーケター・Web担当者が知っておくべき重要ポイントをAIくんとサチコがわかりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 03 Feb 2026 09:41:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_news_radio_20260203-20260203</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PZaTD-4xrzDoN2r2x9dkJzunnI8IueWe" length="12653373" type="audio/mpeg"/>
+      <itunes:duration>26:17</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月02日】Google検索が激変！AIエージェント時代のSEO新常識とは</title>
       <description>今回はSEO・検索エンジン業界の最新動向をたっぷりお届けします。Google検索で「極めて激しい」順位変動が発生中！その背景にある「Authenticity Update」とは？さらに、Googleが発表した研究論文「SAGE」が示すAIエージェント時代の新しいSEO対策、ChromeブラウザへのGemini 3統合で変わるWebの未来、OpenAIがChatGPTで始めた広告テストの衝撃など、検索とAIの最前線を徹底解説します。マーケター・Web担当者必聴の内容です！</description>
