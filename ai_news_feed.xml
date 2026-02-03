@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 09:24:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 10:37:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月03日】SpaceX×xAI宇宙合併で185兆円企業誕生＆AIだけのSNS爆誕</title>
+      <description>今回はAI業界の激震ニュースをお届けします。イーロン・マスク氏がSpaceXとxAIの合併を発表し、時価総額185兆円の巨大企業が誕生！さらに、AIボットだけが参加する新しいSNSプラットフォームの登場、主要AI企業の最新動向など、AIの未来を左右する重要ニュースをAIくんとサチコがわかりやすく解説します。</description>
+      <itunes:summary>今回はAI業界の激震ニュースをお届けします。イーロン・マスク氏がSpaceXとxAIの合併を発表し、時価総額185兆円の巨大企業が誕生！さらに、AIボットだけが参加する新しいSNSプラットフォームの登場、主要AI企業の最新動向など、AIの未来を左右する重要ニュースをAIくんとサチコがわかりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 03 Feb 2026 09:41:00 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_news_radio_20260203-20260203</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11POKC89bG-IsabO7csrmQfWldiB_1Y4o" length="13109421" type="audio/mpeg"/>
+      <itunes:duration>27:16</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月02日】Google軍事利用疑惑＆AIエンジニアがコードを書かない時代へ</title>
       <description>今日はGoogleのAI「Gemini」がイスラエル軍のドローン映像解析に使われた疑惑で内部告発があったニュースからスタート。さらにAI専用SNS「Moltbook」の急成長と脆弱性、NvidiaとOpenAIの1000億ドル投資交渉の停滞など、業界を揺るがすニュースが続きます。驚きなのは、AnthropicやOpenAIのエンジニアがコードの100%をAI生成に移行したという話。エンジニアの役割が「書く人」から「監督」へ変わる歴史的転換点かもしれません。Appleの20億ドル買収、欧州AIユニコーンの台頭、そしてAI映画への批判まで、盛りだくさんでお届けします！</description>
