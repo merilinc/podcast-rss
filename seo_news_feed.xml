@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 07:00:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:49:47 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月6日】Google検索が激変！Gemini 3統合とAIボット急増の衝撃</title>
+      <description>今週はGoogleの検索エンジンに最新AIモデル「Gemini 3」が正式統合され、検索体験が大きく変わろうとしています。さらにAIボットによるウェブトラフィックが急増し、50回に1回はボットという衝撃の調査結果も。LinkedInでは最大60%のトラフィック減少、ローカル検索では電話問い合わせの激減など、AI時代の検索とSEOの変化を徹底解説。SmartNewsの新広告フォーマットやGoogleの設備投資1800億ドル計画など、マーケター必見のニュースも満載でお届けします！</description>
+      <itunes:summary>今週はGoogleの検索エンジンに最新AIモデル「Gemini 3」が正式統合され、検索体験が大きく変わろうとしています。さらにAIボットによるウェブトラフィックが急増し、50回に1回はボットという衝撃の調査結果も。LinkedInでは最大60%のトラフィック減少、ローカル検索では電話問い合わせの激減など、AI時代の検索とSEOの変化を徹底解説。SmartNewsの新広告フォーマットやGoogleの設備投資1800億ドル計画など、マーケター必見のニュースも満載でお届けします！</itunes:summary>
+      <pubDate>Fri, 06 Feb 2026 06:49:43 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260206-20260206</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nf-CSPws5fIFCMnkd8jWzShxEZDLtP45" length="13085013" type="audio/mpeg"/>
+      <itunes:duration>27:16</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月05日】Google大型アップデート＆AI検索でSEOが激変！GEO時代の到来</title>
       <description>今日のメリルニュースは盛りだくさん！Googleが2026年2月コアアップデートを開始し、低品質なAIコンテンツ「AI Slop」への取り締まりを強化しました。さらに、検索に自律型エージェント「Deep Research」が登場し、SEOからGEO（生成AI最適化）への移行が加速しています。WordPressも公式ガイドラインを発表し、LinkedInはAI検索でトラフィック60%減という衝撃データを公開。Google Adsのセキュリティ強化やMeta広告の新機能など、マーケター必見の20本のニュースを詳しく解説します！</description>
