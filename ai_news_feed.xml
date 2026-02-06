@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 06 Feb 2026 06:54:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 07:02:40 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月7日】AIエージェント戦争勃発＆SaaS株暴落の衝撃</title>
+      <description>OpenAIとAnthropicが同日に自律型AIエージェントを発表し、業界に激震が走りました。企業向けプラットフォーム「Frontier」やAIチームが協力して働く「Agent Teams」など、AIが本格的に「仕事をする」時代の到来です。一方で、AIに仕事を奪われる懸念からSaaS関連株が暴落する「SaaSpocalypse」が発生。Amazon、Google、Metaは合計5000億ドル超のAI投資を発表し、まさに国家予算規模の争いに。さらに音楽生成AI「ACE-Step」やバイオ実験を自律で回すGPT-5など、多彩なニュースをお届けします。</description>
+      <itunes:summary>OpenAIとAnthropicが同日に自律型AIエージェントを発表し、業界に激震が走りました。企業向けプラットフォーム「Frontier」やAIチームが協力して働く「Agent Teams」など、AIが本格的に「仕事をする」時代の到来です。一方で、AIに仕事を奪われる懸念からSaaS関連株が暴落する「SaaSpocalypse」が発生。Amazon、Google、Metaは合計5000億ドル超のAI投資を発表し、まさに国家予算規模の争いに。さらに音楽生成AI「ACE-Step」やバイオ実験を自律で回すGPT-5など、多彩なニュースをお届けします。</itunes:summary>
+      <pubDate>Sat, 07 Feb 2026 07:02:36 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260207-20260207</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Tl0kLSAYgNoaolUyg_SYlB-YTcfdkVRB" length="12823341" type="audio/mpeg"/>
+      <itunes:duration>26:36</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月6日】AIエージェント戦争激化！AnthropicとOpenAIが同日発表、Amazon7.6兆円出資検討</title>
       <description>今週のAI業界は激動の展開！AnthropicとOpenAIが同日にコーディング特化モデルを発表し、「AIエージェント戦争」が本格化しました。さらにAmazonがOpenAIへ最大7.6兆円の出資を検討中という驚きのニュースも。Googleは年間27兆円超の設備投資を表明し、巨額マネーが動いています。一方で、Anthropicは「広告なし」を宣言してOpenAIを牽制、中国DeepSeekの新モデル発表も迫っており、AI覇権争いは新たな局面へ。労働組合のAI規制要請や国際安全性レポートの警告など、技術と社会の狭間で揺れるAI業界の最前線を詳しくお届けします。</description>
