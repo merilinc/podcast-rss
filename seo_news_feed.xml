@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 07 Feb 2026 07:06:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:39:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月8日】Google Discover大変革＆AI検索時代のSEO新常識</title>
+      <description>今日はSEO・デジタルマーケティングの最新動向を徹底解説！Googleが発表した「Discoverコアアップデート」の衝撃、LLMボット向けMarkdownページがなぜ危険なのか、そしてWooCommerceのクロールバジェット問題まで。さらにGoogle広告の新セキュリティ機能「マルチパーティ承認」や、AI検索時代に求められる新しい最適化戦略「GEO」についても詳しくお伝えします。ECサイト運営者、マーケター、SEO担当者必聴の内容です！</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最新動向を徹底解説！Googleが発表した「Discoverコアアップデート」の衝撃、LLMボット向けMarkdownページがなぜ危険なのか、そしてWooCommerceのクロールバジェット問題まで。さらにGoogle広告の新セキュリティ機能「マルチパーティ承認」や、AI検索時代に求められる新しい最適化戦略「GEO」についても詳しくお伝えします。ECサイト運営者、マーケター、SEO担当者必聴の内容です！</itunes:summary>
+      <pubDate>Sun, 08 Feb 2026 06:39:04 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260208-20260208</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17nErLgjbovTRNLxp7HhNmEcl7R0AHwtv" length="12987813" type="audio/mpeg"/>
+      <itunes:duration>26:45</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月7日】Google初のDiscover専用アップデート＆AI検索でCTR58%減の衝撃</title>
       <description>今日はGoogleが史上初めて実施した「Discover専用コアアップデート」の詳細と、AI Overviewによって検索1位のクリック率が最大58%も低下しているという衝撃的な調査結果をお届けします。さらに、GA4が予算配分まで提案する「プランニングツール」へ進化したニュースや、ユーザーの37%がGoogle検索ではなくChatGPTなどのAIツールで情報収集を始めているという調査結果も。SEOからGEO（生成AI最適化）への転換が迫られる今、マーケターが知っておくべき14のニュースを徹底解説します。</description>
