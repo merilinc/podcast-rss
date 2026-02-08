@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 06:43:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 06:42:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月9日】AIスーパーボウル広告戦争＆宇宙データセンター構想の衝撃</title>
+      <description>今回はAnthropicとOpenAIがスーパーボウル広告で激突したビジネスモデル論争から、ゴールドマン・サックスのAIエージェント導入、NY州のデータセンター建設凍結法案、SpaceXの宇宙データセンター構想まで盛りだくさん。さらにOpenAIの新プラットフォーム「Frontier」、中国AI「DeepSeek」排除法案、GoogleとMicrosoftのインフルエンサー戦略、テック大手の97兆円規模のAI投資が債券市場に与える影響、日本政府のAI基本計画、そしてGoogleのAI生成コンテンツ排除アップデートまで、AI業界の最前線を徹底解説します。</description>
+      <itunes:summary>今回はAnthropicとOpenAIがスーパーボウル広告で激突したビジネスモデル論争から、ゴールドマン・サックスのAIエージェント導入、NY州のデータセンター建設凍結法案、SpaceXの宇宙データセンター構想まで盛りだくさん。さらにOpenAIの新プラットフォーム「Frontier」、中国AI「DeepSeek」排除法案、GoogleとMicrosoftのインフルエンサー戦略、テック大手の97兆円規模のAI投資が債券市場に与える影響、日本政府のAI基本計画、そしてGoogleのAI生成コンテンツ排除アップデートまで、AI業界の最前線を徹底解説します。</itunes:summary>
+      <pubDate>Mon, 09 Feb 2026 06:42:05 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260209-20260209</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hW_ba_sFbSlINey_ChUNP5cpjo3AVXY-" length="17005269" type="audio/mpeg"/>
+      <itunes:duration>35:07</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月8日】AIエージェント革命でSaaS企業株価急落！Anthropic・OpenAI・Meta最新動向</title>
       <description>今回は激動のAI業界を徹底解説！Anthropicの新モデル「Claude Opus 4.6」発表でSalesforceやIntuitの株価が25%以上急落した「SaaSapocalypse」の衝撃、OpenAIの企業向けエージェント基盤「Frontier」とSnowflakeとの300億円規模の提携、Metaのメタバースから超知能（ASI）への劇的ピボットと20兆円の設備投資など、AI業界の歴史的転換点をお届けします。さらに、Anthropicの物理書籍スキャン問題、日本初のAI推進法案、医療AIの希少疾患治療への貢献、GPT-4o終了への反発まで、盛りだくさんの内容です！</description>
