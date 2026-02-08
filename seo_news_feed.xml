@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 06:39:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 06:46:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月9日】Google Discover大変革＆ChatGPT広告の衝撃</title>
+      <description>今週のSEOニュースは盛りだくさん！Googleが史上初のDiscover専用コアアップデートを展開し、釣りタイトルやアフィリエイトサイトに激震が走っています。さらにOpenAIがChatGPT内で広告テストを開始、最低出稿額なんと1億5千万円という超プレミアム路線に。AI検索用のマークダウンページがクローキング認定されるリスクや、Search ConsoleでAI Modeのトラフィックが見えるようになった話、TikTokからの大量ユーザー流出、Threads広告のグローバル展開まで、検索とSNSの未来を左右する8つのトピックを徹底解説します。</description>
+      <itunes:summary>今週のSEOニュースは盛りだくさん！Googleが史上初のDiscover専用コアアップデートを展開し、釣りタイトルやアフィリエイトサイトに激震が走っています。さらにOpenAIがChatGPT内で広告テストを開始、最低出稿額なんと1億5千万円という超プレミアム路線に。AI検索用のマークダウンページがクローキング認定されるリスクや、Search ConsoleでAI Modeのトラフィックが見えるようになった話、TikTokからの大量ユーザー流出、Threads広告のグローバル展開まで、検索とSNSの未来を左右する8つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Mon, 09 Feb 2026 06:46:54 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260209-20260209</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CZPydKZpKERZ58eDu6zOYvWQ4PCD2HE7" length="17404917" type="audio/mpeg"/>
+      <itunes:duration>35:49</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月8日】Google Discover大変革＆AI検索時代のSEO新常識</title>
       <description>今日はSEO・デジタルマーケティングの最新動向を徹底解説！Googleが発表した「Discoverコアアップデート」の衝撃、LLMボット向けMarkdownページがなぜ危険なのか、そしてWooCommerceのクロールバジェット問題まで。さらにGoogle広告の新セキュリティ機能「マルチパーティ承認」や、AI検索時代に求められる新しい最適化戦略「GEO」についても詳しくお伝えします。ECサイト運営者、マーケター、SEO担当者必聴の内容です！</description>
