@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 09 Feb 2026 06:42:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 14:05:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月10日】ChatGPTに広告が来る！Databricks驚異の成長＆物理AIの時代へ</title>
+      <description>今日はAI業界の大きな転換点をお届けします。OpenAIがChatGPTに広告導入をテスト開始、一方Anthropicはスーパーボウル広告で「広告なし」を痛烈アピール。データ基盤企業Databricksが年間収益8000億円突破でIPO秒読み。EUがMetaのWhatsApp上のAI独占に警告。倉庫ドローンのGather AIやNVIDIAのロボット世界モデルなど「物理AI」が急加速。OpenAIのCodexアプリが100万DL突破、AIエージェント専用SNSでセキュリティ事故も。全9トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界の大きな転換点をお届けします。OpenAIがChatGPTに広告導入をテスト開始、一方Anthropicはスーパーボウル広告で「広告なし」を痛烈アピール。データ基盤企業Databricksが年間収益8000億円突破でIPO秒読み。EUがMetaのWhatsApp上のAI独占に警告。倉庫ドローンのGather AIやNVIDIAのロボット世界モデルなど「物理AI」が急加速。OpenAIのCodexアプリが100万DL突破、AIエージェント専用SNSでセキュリティ事故も。全9トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 10 Feb 2026 14:05:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260210-20260210</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=150rTtzLbWqNM-Poe3XgK2qrytmTlqOz3" length="14131845" type="audio/mpeg"/>
+      <itunes:duration>29:23</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月9日】AIスーパーボウル広告戦争＆宇宙データセンター構想の衝撃</title>
       <description>今回はAnthropicとOpenAIがスーパーボウル広告で激突したビジネスモデル論争から、ゴールドマン・サックスのAIエージェント導入、NY州のデータセンター建設凍結法案、SpaceXの宇宙データセンター構想まで盛りだくさん。さらにOpenAIの新プラットフォーム「Frontier」、中国AI「DeepSeek」排除法案、GoogleとMicrosoftのインフルエンサー戦略、テック大手の97兆円規模のAI投資が債券市場に与える影響、日本政府のAI基本計画、そしてGoogleのAI生成コンテンツ排除アップデートまで、AI業界の最前線を徹底解説します。</description>
