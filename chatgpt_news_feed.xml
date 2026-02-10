@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <description/>
+    <language>ja</language>
+    <copyright>© 2026 株式会社メリル</copyright>
+    <lastBuildDate>Tue, 10 Feb 2026 14:00:44 +0900</lastBuildDate>
+    <itunes:author>株式会社メリル</itunes:author>
+    <itunes:summary/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>株式会社メリル</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>【2月10日】ChatGPTに広告が来た！新プラン・訴訟・成長率回復の全貌</title>
+      <description>OpenAIがついにChatGPT無料版と新プラン「ChatGPT Go」への広告表示テストを米国で開始しました。月額8ドルの廉価プランの狙いとは？競合Anthropicがスーパーボウルで「広告なし」を皮肉る展開も。さらにGPT-5.3-CodexのGitHub Copilot統合、サム・アルトマンCEOが明かす月間成長率10%超回復、Adobeや電通との提携、1000億ドル規模の資金調達、メンタルヘルス利用率48%超の衝撃、イーロン・マスクとの訴訟の意外な影響まで、全13トピックを徹底解説します。</description>
+      <itunes:summary>OpenAIがついにChatGPT無料版と新プラン「ChatGPT Go」への広告表示テストを米国で開始しました。月額8ドルの廉価プランの狙いとは？競合Anthropicがスーパーボウルで「広告なし」を皮肉る展開も。さらにGPT-5.3-CodexのGitHub Copilot統合、サム・アルトマンCEOが明かす月間成長率10%超回復、Adobeや電通との提携、1000億ドル規模の資金調達、メンタルヘルス利用率48%超の衝撃、イーロン・マスクとの訴訟の意外な影響まで、全13トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 10 Feb 2026 14:00:41 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260210-20260210</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-5ctuUUC-sbuexwUYnlGc95sYMlkYZnM" length="17873421" type="audio/mpeg"/>
+      <itunes:duration>36:58</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
