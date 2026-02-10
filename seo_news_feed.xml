@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 16:38:44 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:12:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月11日】ChatGPTに広告登場！AI検索の収益化とSEO大変動の全貌</title>
+      <description>OpenAIがChatGPT無料版で検索広告テストを開始し、AI検索の収益化競争が本格化。GoogleのP-MaxにA/Bテスト機能が追加され広告運用に革命が。Perplexityは複数AIモデルで回答を検証する「Model Council」を発表、信頼性の新基準を提示しました。さらにGoogleの特許から判明した「Query Fan-out」技術、AI OverviewのGemini 3移行、2月10日の大規模順位変動、Discoverのローカル重視アップデートなど、SEOの常識が根底から覆る12のニュースを徹底解説します。GA4だけでは測れないAI時代の新KPIや、AIエージェントに選ばれるeコマース戦略まで、最前線をお届けします。</description>
+      <itunes:summary>OpenAIがChatGPT無料版で検索広告テストを開始し、AI検索の収益化競争が本格化。GoogleのP-MaxにA/Bテスト機能が追加され広告運用に革命が。Perplexityは複数AIモデルで回答を検証する「Model Council」を発表、信頼性の新基準を提示しました。さらにGoogleの特許から判明した「Query Fan-out」技術、AI OverviewのGemini 3移行、2月10日の大規模順位変動、Discoverのローカル重視アップデートなど、SEOの常識が根底から覆る12のニュースを徹底解説します。GA4だけでは測れないAI時代の新KPIや、AIエージェントに選ばれるeコマース戦略まで、最前線をお届けします。</itunes:summary>
+      <pubDate>Wed, 11 Feb 2026 07:12:12 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260211-20260211</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DC9-Bh-AVaw0gR15UW8TT3KdRAD_7Kk0" length="15875757" type="audio/mpeg"/>
+      <itunes:duration>33:05</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月10日】ChatGPTに広告登場！AI検索が変えるSEOの常識</title>
       <description>OpenAIがChatGPTで広告テストを開始し、いよいよAI検索の収益化が本格化。GoogleもAI Overviewsに新UIやフォローアップ提案を導入し、検索体験が大きく変わろうとしています。さらに「ファーストビュー神話」の崩壊、GA4がAI流入を正しく測れない問題、YouTubeへの流入急増、Reddit CEOのデータ利用への苦言など、AI主導の検索エコシステムへの移行を象徴するニュースが盛りだくさん。2026年のコンテンツ戦略や新しいSEO指標についても詳しく解説します。</description>
