@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 10 Feb 2026 16:38:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 07:13:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月11日】Runway世界モデルへ転換＆ChatGPTに広告＆AI業界の大型資金調達ラッシュ</title>
+      <description>今日は盛りだくさんの20本をお届けします。動画生成AIのRunwayが「世界モデル」へ戦略転換し3億ドル超を調達。OpenAIがついにChatGPTに広告を導入し、ライバルのAnthropicがスーパーボウルで痛烈な批判広告を展開。Databricksは評価額20兆円で50億ドル調達、法務AI Harvey、音声AI ElevenLabsも巨額調達と、AI業界は資金調達ラッシュです。さらにDeepSeek次世代モデルV4のリリース情報、Googleの Geminiユーザー7.5億人突破、AIデータセンターの環境問題、そしてNTT×TBSのAIテーマパーク構想まで、最新トレンドを徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの20本をお届けします。動画生成AIのRunwayが「世界モデル」へ戦略転換し3億ドル超を調達。OpenAIがついにChatGPTに広告を導入し、ライバルのAnthropicがスーパーボウルで痛烈な批判広告を展開。Databricksは評価額20兆円で50億ドル調達、法務AI Harvey、音声AI ElevenLabsも巨額調達と、AI業界は資金調達ラッシュです。さらにDeepSeek次世代モデルV4のリリース情報、Googleの Geminiユーザー7.5億人突破、AIデータセンターの環境問題、そしてNTT×TBSのAIテーマパーク構想まで、最新トレンドを徹底解説します。</itunes:summary>
+      <pubDate>Wed, 11 Feb 2026 07:13:12 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260211-20260211</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fjTuj52hI9yqz_x7WW7dlx_-AQqzrrcU" length="19749645" type="audio/mpeg"/>
+      <itunes:duration>40:53</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月10日】ChatGPTに広告が来る！Databricks驚異の成長＆物理AIの時代へ</title>
       <description>今日はAI業界の大きな転換点をお届けします。OpenAIがChatGPTに広告導入をテスト開始、一方Anthropicはスーパーボウル広告で「広告なし」を痛烈アピール。データ基盤企業Databricksが年間収益8000億円突破でIPO秒読み。EUがMetaのWhatsApp上のAI独占に警告。倉庫ドローンのGather AIやNVIDIAのロボット世界モデルなど「物理AI」が急加速。OpenAIのCodexアプリが100万DL突破、AIエージェント専用SNSでセキュリティ事故も。全9トピックを徹底解説します。</description>
