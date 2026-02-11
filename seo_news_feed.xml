@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 07:12:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:10:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月12日】AIが買い物も操作も完結？WebMCPとUCPでウェブが激変</title>
+      <description>今日はGoogleが発表したAIエージェント用プロトコル「WebMCP」と、AI内で買い物が完結する「UCP」の拡大について詳しく解説します。さらにMicrosoftがBing Webmaster ToolsでAI引用を可視化する業界初のレポートを公開、Google検索では未確認の大規模ランキング変動も発生。OpenAIのDeep Researchアップデートや、SEOの常識を覆す「Above the Fold神話の崩壊」、Google広告のAI Max推進など、ウェブの未来を左右する8つのニュースを徹底解説します。</description>
+      <itunes:summary>今日はGoogleが発表したAIエージェント用プロトコル「WebMCP」と、AI内で買い物が完結する「UCP」の拡大について詳しく解説します。さらにMicrosoftがBing Webmaster ToolsでAI引用を可視化する業界初のレポートを公開、Google検索では未確認の大規模ランキング変動も発生。OpenAIのDeep Researchアップデートや、SEOの常識を覆す「Above the Fold神話の崩壊」、Google広告のAI Max推進など、ウェブの未来を左右する8つのニュースを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 12 Feb 2026 07:10:28 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260212-20260212</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BMMPtdPVKcTuoJad4l1tt3RrzKas8UMo" length="13383933" type="audio/mpeg"/>
+      <itunes:duration>28:02</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月11日】ChatGPTに広告登場！AI検索の収益化とSEO大変動の全貌</title>
       <description>OpenAIがChatGPT無料版で検索広告テストを開始し、AI検索の収益化競争が本格化。GoogleのP-MaxにA/Bテスト機能が追加され広告運用に革命が。Perplexityは複数AIモデルで回答を検証する「Model Council」を発表、信頼性の新基準を提示しました。さらにGoogleの特許から判明した「Query Fan-out」技術、AI OverviewのGemini 3移行、2月10日の大規模順位変動、Discoverのローカル重視アップデートなど、SEOの常識が根底から覆る12のニュースを徹底解説します。GA4だけでは測れないAI時代の新KPIや、AIエージェントに選ばれるeコマース戦略まで、最前線をお届けします。</description>
