@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 07:16:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:11:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月12日】ChatGPTに広告が来た！研究者辞任・軍事契約・Anthropicの痛烈批判</title>
+      <description>OpenAIがついにChatGPT無料版に広告表示を開始。それに抗議して研究者が辞任し、競合Anthropicはスーパーボウルで痛烈な風刺CMを放映。さらに米国防総省との軍事契約締結、安全性チームの解散、ジョニー・アイブとのハードウェア延期、成人向けコンテンツ反対幹部の解雇など、OpenAI激動の1週間を徹底解説。GPT-4o引退の波紋、次世代モデルGPT-5.2/5.3のリーク情報、Deep Researchの進化、保険業界初のGPT Storeアプリ承認まで、13本のニュースをたっぷりお届けします。</description>
+      <itunes:summary>OpenAIがついにChatGPT無料版に広告表示を開始。それに抗議して研究者が辞任し、競合Anthropicはスーパーボウルで痛烈な風刺CMを放映。さらに米国防総省との軍事契約締結、安全性チームの解散、ジョニー・アイブとのハードウェア延期、成人向けコンテンツ反対幹部の解雇など、OpenAI激動の1週間を徹底解説。GPT-4o引退の波紋、次世代モデルGPT-5.2/5.3のリーク情報、Deep Researchの進化、保険業界初のGPT Storeアプリ承認まで、13本のニュースをたっぷりお届けします。</itunes:summary>
+      <pubDate>Thu, 12 Feb 2026 07:11:31 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260212-20260212</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z4ZE-v1k3HWkVhT7kWlcHSa9dOLg-sPH" length="14741733" type="audio/mpeg"/>
+      <itunes:duration>30:31</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月11日】ChatGPTに広告が！？軍事利用・医療問題・急成長の裏側</title>
       <description>今日はOpenAI周辺の大きな動きをまとめてお届けします。ChatGPT無料版に広告が表示されるテスト開始、米国防総省300万人への正式導入、カリフォルニア州AI安全法違反の提訴、そして医療アドバイスの精度問題まで。さらにDeep Researchの機能強化、GPT-4oの廃止予告、電通ジャパンとの戦略提携、保険業界初のChatGPTアプリ、Codexアプリの爆速100万DL達成など、全10トピックを徹底解説します。AI業界の今が丸ごとわかる回です！</description>
