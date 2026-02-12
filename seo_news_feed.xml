@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 12 Feb 2026 07:10:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:08:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月13日】Google大変動＆ゼロクリック60%超え！AI時代のSEO新常識</title>
+      <description>2月10日以降、Google検索で大規模な順位変動が発生中！Discoverコアアップデートとの関連や、影響を受けやすいサイトの特徴を詳しく解説します。さらに、検索の6割がクリックなしで完結する「ゼロクリック時代」の到来と、AIに選ばれるための新戦略「GEO（生成エンジン最適化）」についても深掘り。Google広告の新機能やキャンペーン統合の最新ガイドライン、ローカルSEOの90日スプリント計画、YouTube動画がAI検索で急浮上している話題まで、SEO・マーケティング担当者必聴の10本立てでお届けします。</description>
+      <itunes:summary>2月10日以降、Google検索で大規模な順位変動が発生中！Discoverコアアップデートとの関連や、影響を受けやすいサイトの特徴を詳しく解説します。さらに、検索の6割がクリックなしで完結する「ゼロクリック時代」の到来と、AIに選ばれるための新戦略「GEO（生成エンジン最適化）」についても深掘り。Google広告の新機能やキャンペーン統合の最新ガイドライン、ローカルSEOの90日スプリント計画、YouTube動画がAI検索で急浮上している話題まで、SEO・マーケティング担当者必聴の10本立てでお届けします。</itunes:summary>
+      <pubDate>Fri, 13 Feb 2026 07:08:08 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260213-20260213</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bt5tiXEIybuzA1aabUamO6KaJnGXvebw" length="16394445" type="audio/mpeg"/>
+      <itunes:duration>34:01</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月12日】AIが買い物も操作も完結？WebMCPとUCPでウェブが激変</title>
       <description>今日はGoogleが発表したAIエージェント用プロトコル「WebMCP」と、AI内で買い物が完結する「UCP」の拡大について詳しく解説します。さらにMicrosoftがBing Webmaster ToolsでAI引用を可視化する業界初のレポートを公開、Google検索では未確認の大規模ランキング変動も発生。OpenAIのDeep Researchアップデートや、SEOの常識を覆す「Above the Fold神話の崩壊」、Google広告のAI Max推進など、ウェブの未来を左右する8つのニュースを徹底解説します。</description>
