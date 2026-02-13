@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 07:03:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:03:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月14日】GPT-4o廃止の衝撃＆Nvidia離れの新モデル登場</title>
+      <description>今日はAI業界が大きく動いた一日をお届けします。OpenAIが「迎合しすぎ」問題でGPT-4oを完全廃止、ユーザーの悲鳴が広がっています。さらにNvidiaのGPUではなくCerebras製チップを使った爆速新モデル「GPT-5.3-Codex-Spark」が登場。マサチューセッツ州が全米初の全庁ChatGPT導入に踏み切った話題や、OpenAIのミッションから「安全に」が消えた意味、GPT-5.2が理論物理学で新発見した驚きのニュースも。ChatGPTへの広告導入とAnthropicの「広告なし」対抗戦略、Deep Researchの進化、そしてソフトバンク孫正義氏のAI全賭け戦略まで、9つのニュースを徹底解説します。</description>
+      <itunes:summary>今日はAI業界が大きく動いた一日をお届けします。OpenAIが「迎合しすぎ」問題でGPT-4oを完全廃止、ユーザーの悲鳴が広がっています。さらにNvidiaのGPUではなくCerebras製チップを使った爆速新モデル「GPT-5.3-Codex-Spark」が登場。マサチューセッツ州が全米初の全庁ChatGPT導入に踏み切った話題や、OpenAIのミッションから「安全に」が消えた意味、GPT-5.2が理論物理学で新発見した驚きのニュースも。ChatGPTへの広告導入とAnthropicの「広告なし」対抗戦略、Deep Researchの進化、そしてソフトバンク孫正義氏のAI全賭け戦略まで、9つのニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sat, 14 Feb 2026 07:03:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260214-20260214</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RmKMptpxz5HJ8zW7O9h5itKbKVt9bWK-" length="15237693" type="audio/mpeg"/>
+      <itunes:duration>31:12</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月13日】OpenAIが脱Nvidia宣言＆安全チーム解散の衝撃</title>
       <description>OpenAIがNvidia以外のチップを初採用した新モデル「GPT-5.3-Codex-Spark」を発表。Cerebras社との提携でAI半導体業界に激震が走りました。一方で安全性チーム「Mission Alignment」の解散、広告導入への研究者の抗議辞任、米国防総省との大型提携など、OpenAIの急速な変貌が浮き彫りに。さらにSoftBankの決算でOpenAI投資が3兆円の利益を生み出した話題や、社内リーク調査にAIを活用する衝撃の報道、GPT-4oの完全廃止、元社員が立ち上げた脳型AIスタートアップまで、全12本のニュースを徹底解説します。</description>
