@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 07:08:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:08:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月14日】AI検索が買い物も変える！SEO大変革の最前線</title>
+      <description>今週のSEOニュースを徹底解説！Cloudflareが発表した「Markdown for Agents」でAIボット向けのWeb配信が変わる話題から、Bingが業界初の「AI引用」計測ツールを公開した衝撃、さらにGoogleが発表した「Universal Commerce Protocol」でAIエージェントが買い物を代行する時代の到来まで。SEOの新概念「Demand SEO」や「分類層（SSIT）」、ローカルSEOの90日スプリント戦略、AppLovinのEコマース参入、AdSense全面広告の拡張、OpenAIの広告本格化、Google Discoverのアップデートまで、全10トピックをお届けします。</description>
+      <itunes:summary>今週のSEOニュースを徹底解説！Cloudflareが発表した「Markdown for Agents」でAIボット向けのWeb配信が変わる話題から、Bingが業界初の「AI引用」計測ツールを公開した衝撃、さらにGoogleが発表した「Universal Commerce Protocol」でAIエージェントが買い物を代行する時代の到来まで。SEOの新概念「Demand SEO」や「分類層（SSIT）」、ローカルSEOの90日スプリント戦略、AppLovinのEコマース参入、AdSense全面広告の拡張、OpenAIの広告本格化、Google Discoverのアップデートまで、全10トピックをお届けします。</itunes:summary>
+      <pubDate>Sat, 14 Feb 2026 07:08:31 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260214-20260214</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SA1w5Q9LvndnBQqRs6o0VxZoqjltL2QB" length="18372741" type="audio/mpeg"/>
+      <itunes:duration>37:46</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月13日】Google大変動＆ゼロクリック60%超え！AI時代のSEO新常識</title>
       <description>2月10日以降、Google検索で大規模な順位変動が発生中！Discoverコアアップデートとの関連や、影響を受けやすいサイトの特徴を詳しく解説します。さらに、検索の6割がクリックなしで完結する「ゼロクリック時代」の到来と、AIに選ばれるための新戦略「GEO（生成エンジン最適化）」についても深掘り。Google広告の新機能やキャンペーン統合の最新ガイドライン、ローカルSEOの90日スプリント計画、YouTube動画がAI検索で急浮上している話題まで、SEO・マーケティング担当者必聴の10本立てでお届けします。</description>
