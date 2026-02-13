@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 13 Feb 2026 07:05:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:04:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月14日】Anthropic57兆円到達＆OpenAIから「安全」が消えた日</title>
+      <description>今日はAI業界を揺るがす15本のニュースをお届けします。OpenAIがミッションから「安全に」を削除した衝撃、Anthropicが評価額57兆円に到達した巨額資金調達、国家ハッカーによるAIモデル盗み出し攻撃、ByteDanceの動画生成AI「Seedance 2.0」、OpenAIがNvidia以外のチップを採用した意味、中国Zhipu AIの国産チップ訓練モデル、xAI共同創業者の離脱劇、Nvidiaの推論コスト8倍削減技術、そしてThreadsの新AI機能まで、技術・ビジネス・地政学の全方位から徹底解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす15本のニュースをお届けします。OpenAIがミッションから「安全に」を削除した衝撃、Anthropicが評価額57兆円に到達した巨額資金調達、国家ハッカーによるAIモデル盗み出し攻撃、ByteDanceの動画生成AI「Seedance 2.0」、OpenAIがNvidia以外のチップを採用した意味、中国Zhipu AIの国産チップ訓練モデル、xAI共同創業者の離脱劇、Nvidiaの推論コスト8倍削減技術、そしてThreadsの新AI機能まで、技術・ビジネス・地政学の全方位から徹底解説します。</itunes:summary>
+      <pubDate>Sat, 14 Feb 2026 07:04:38 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260214-20260214</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JtRPQJ-nfdaAoWfQnnasjaffYoYYNMWK" length="17471133" type="audio/mpeg"/>
+      <itunes:duration>35:57</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月13日】Anthropic4.5兆円調達＆MSの衝撃参戦、AI軍事利用の行方</title>
       <description>今日はAI業界を揺るがす大型ニュースが目白押しです。AnthropicがシリーズGで約4.5兆円を調達し、なんとMicrosoftまで投資に参加した衝撃の背景を徹底解説。ByteDanceがSamsungと組んで独自AIチップ開発に動く対中規制回避戦略、Googleの推論特化モデル「Gemini 3 Deep Think」の進化、Metaの1.5兆円データセンター着工、米国防総省がAI企業に迫る機密ネットワーク展開の是非、OpenAIの広告モデル導入、そしてCerebrasチップでコード生成15倍速へ。xAIの人材流出問題やAnthropicの政治献金、中国で炎上するAIの人間化議論まで、全11トピックをたっぷりお届けします。</description>
