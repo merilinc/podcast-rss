@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 07:04:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:04:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月15日】Anthropic評価額57兆円＆中国AI勢の超低コスト攻勢</title>
+      <description>今日はAI業界の大ニュースが目白押し！Anthropicが評価額57兆円に到達した巨額資金調達の裏側、OpenAIがNvidia依存から脱却する新チップ戦略、SamsungのHBM4量産開始によるメモリ覇権争い、Metaの顔認識復活で再燃するプライバシー論争、中国MiniMaxとDeepSeekが仕掛ける超低コストAIモデルの衝撃、そして国連AI科学パネルへの米国の反対票の意味まで。さらにOpenAIのミッションから「安全に」が消えた問題、マサチューセッツ州の全庁ChatGPT導入、自動運転のVLAモデル、選挙ディープフェイク規制など全20トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界の大ニュースが目白押し！Anthropicが評価額57兆円に到達した巨額資金調達の裏側、OpenAIがNvidia依存から脱却する新チップ戦略、SamsungのHBM4量産開始によるメモリ覇権争い、Metaの顔認識復活で再燃するプライバシー論争、中国MiniMaxとDeepSeekが仕掛ける超低コストAIモデルの衝撃、そして国連AI科学パネルへの米国の反対票の意味まで。さらにOpenAIのミッションから「安全に」が消えた問題、マサチューセッツ州の全庁ChatGPT導入、自動運転のVLAモデル、選挙ディープフェイク規制など全20トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 15 Feb 2026 07:04:06 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260215-20260215</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Pvcs0CfezeuUGZIEufYVSQvftE8EoYUl" length="19408149" type="audio/mpeg"/>
+      <itunes:duration>40:13</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月14日】Anthropic57兆円到達＆OpenAIから「安全」が消えた日</title>
       <description>今日はAI業界を揺るがす15本のニュースをお届けします。OpenAIがミッションから「安全に」を削除した衝撃、Anthropicが評価額57兆円に到達した巨額資金調達、国家ハッカーによるAIモデル盗み出し攻撃、ByteDanceの動画生成AI「Seedance 2.0」、OpenAIがNvidia以外のチップを採用した意味、中国Zhipu AIの国産チップ訓練モデル、xAI共同創業者の離脱劇、Nvidiaの推論コスト8倍削減技術、そしてThreadsの新AI機能まで、技術・ビジネス・地政学の全方位から徹底解説します。</description>
