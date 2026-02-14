@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 07:08:35 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:00:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月15日】AIがウェブを変える！Cloudflare・Google・OpenAIの新技術ラッシュ</title>
+      <description>今回はAIとウェブの関係を根本から変える大ニュースが目白押しです。CloudflareのAIボット向け新機能「Markdown for Agents」、GoogleとMicrosoftが共同で作るAIエージェント用プロトコル「WebMCP」、OpenAIの超高速コーディングモデル発表など、インフラレベルの変革が相次いでいます。さらにSaaS企業のAI経由トラフィック53%減少の真相、SEOからGEOへの移行、Bing Webmaster Toolsの画期的な新レポート、Google AI Modeでの広告・決済統合まで、全11トピックを徹底解説します。ウェブに関わるすべての人必聴の回です！</description>
+      <itunes:summary>今回はAIとウェブの関係を根本から変える大ニュースが目白押しです。CloudflareのAIボット向け新機能「Markdown for Agents」、GoogleとMicrosoftが共同で作るAIエージェント用プロトコル「WebMCP」、OpenAIの超高速コーディングモデル発表など、インフラレベルの変革が相次いでいます。さらにSaaS企業のAI経由トラフィック53%減少の真相、SEOからGEOへの移行、Bing Webmaster Toolsの画期的な新レポート、Google AI Modeでの広告・決済統合まで、全11トピックを徹底解説します。ウェブに関わるすべての人必聴の回です！</itunes:summary>
+      <pubDate>Sun, 15 Feb 2026 07:00:23 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260215-20260215</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kZTxYGRHJefwxn05dituMydcsIZF_m1w" length="18655845" type="audio/mpeg"/>
+      <itunes:duration>38:25</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月14日】AI検索が買い物も変える！SEO大変革の最前線</title>
       <description>今週のSEOニュースを徹底解説！Cloudflareが発表した「Markdown for Agents」でAIボット向けのWeb配信が変わる話題から、Bingが業界初の「AI引用」計測ツールを公開した衝撃、さらにGoogleが発表した「Universal Commerce Protocol」でAIエージェントが買い物を代行する時代の到来まで。SEOの新概念「Demand SEO」や「分類層（SSIT）」、ローカルSEOの90日スプリント戦略、AppLovinのEコマース参入、AdSense全面広告の拡張、OpenAIの広告本格化、Google Discoverのアップデートまで、全10トピックをお届けします。</description>
