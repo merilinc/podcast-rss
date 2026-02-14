@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Feb 2026 07:03:46 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 06:56:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月15日】AIが物理学の定説を覆した！GPT-4o廃止で大騒動＆NVIDIA脱却の衝撃</title>
+      <description>今日は盛りだくさんのOpenAIニュースをお届けします。GPT-5.2が40年以上信じられてきた素粒子物理学の定説を覆すという歴史的快挙を達成。さらにCerebras社チップ採用でNVIDIA依存からの脱却を開始し、毎秒1000トークン超の爆速推論を実現した「GPT-5.3 Codex Spark」の詳細も解説します。一方で、愛されたGPT-4oの完全廃止による「#Keep4o」運動や、中国DeepSeek社への蒸留疑惑告発、企業向けセキュリティ新機能、インドでの未成年保護策、ChatGPT内の会話型広告、社内リーク対策、そして「#QuitGPT」ボイコット運動まで、全14トピックを徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんのOpenAIニュースをお届けします。GPT-5.2が40年以上信じられてきた素粒子物理学の定説を覆すという歴史的快挙を達成。さらにCerebras社チップ採用でNVIDIA依存からの脱却を開始し、毎秒1000トークン超の爆速推論を実現した「GPT-5.3 Codex Spark」の詳細も解説します。一方で、愛されたGPT-4oの完全廃止による「#Keep4o」運動や、中国DeepSeek社への蒸留疑惑告発、企業向けセキュリティ新機能、インドでの未成年保護策、ChatGPT内の会話型広告、社内リーク対策、そして「#QuitGPT」ボイコット運動まで、全14トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 15 Feb 2026 06:56:48 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260215-20260215</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Yj3KFTUYkIKucvSDVS2GuD7o8B_I0wn7" length="16430229" type="audio/mpeg"/>
+      <itunes:duration>33:50</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月14日】GPT-4o廃止の衝撃＆Nvidia離れの新モデル登場</title>
       <description>今日はAI業界が大きく動いた一日をお届けします。OpenAIが「迎合しすぎ」問題でGPT-4oを完全廃止、ユーザーの悲鳴が広がっています。さらにNvidiaのGPUではなくCerebras製チップを使った爆速新モデル「GPT-5.3-Codex-Spark」が登場。マサチューセッツ州が全米初の全庁ChatGPT導入に踏み切った話題や、OpenAIのミッションから「安全に」が消えた意味、GPT-5.2が理論物理学で新発見した驚きのニュースも。ChatGPTへの広告導入とAnthropicの「広告なし」対抗戦略、Deep Researchの進化、そしてソフトバンク孫正義氏のAI全賭け戦略まで、9つのニュースを徹底解説します。</description>
