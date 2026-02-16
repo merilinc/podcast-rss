@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 06:59:03 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:12:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月17日】AIエージェント新時代突入＆ペンタゴンvsAnthropic倫理対立</title>
+      <description>今日はOpenAIがOSS開発者を獲得しエージェント戦略を加速させたニュースを皮切りに、米国防総省とAnthropicの軍事利用を巡る深刻な対立、ByteDanceの「Doubao 2.0」発表とDisneyからの著作権侵害訴訟、トランプ政権のAI規制統一政策、インドの巨額AI投資、メモリチップ危機、DeepSeekの100万トークンモデル、Alibabaのロボット向けAI、そしてOpenAI次世代コーディングモデルの噂まで、全14本のニュースを徹底解説します。AIの覇権争いが軍事・産業・規制の全方面で激化する最前線をお届けします。</description>
+      <itunes:summary>今日はOpenAIがOSS開発者を獲得しエージェント戦略を加速させたニュースを皮切りに、米国防総省とAnthropicの軍事利用を巡る深刻な対立、ByteDanceの「Doubao 2.0」発表とDisneyからの著作権侵害訴訟、トランプ政権のAI規制統一政策、インドの巨額AI投資、メモリチップ危機、DeepSeekの100万トークンモデル、Alibabaのロボット向けAI、そしてOpenAI次世代コーディングモデルの噂まで、全14本のニュースを徹底解説します。AIの覇権争いが軍事・産業・規制の全方面で激化する最前線をお届けします。</itunes:summary>
+      <pubDate>Tue, 17 Feb 2026 07:12:21 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260217-20260217</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hhWj5PSI6dduAFs5YDo0H5nKLZuNMrez" length="22079997" type="audio/mpeg"/>
+      <itunes:duration>44:51</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月16日】米国防総省vsAI倫理＆AIバブル警戒と主権AI同盟の衝撃</title>
       <description>今日は盛りだくさんの16本のAIニュースをお届けします。米国防総省がAnthropicとの契約打ち切りを示唆した衝撃の背景と、対照的に軍事協力を深めるOpenAIの戦略を徹底解説。さらにホワイトハウスが州のAI規制を潰しにかかる異例の事態、カナダとドイツの「主権AI同盟」発足、ByteDanceの動画生成AIにハリウッドが猛反発、GPT-5.2が理論物理で新発見、AIバブル懸念でデリバティブ市場が急成長、AI専用SNSでシンギュラリティ議論、Appleが時価総額2000億ドル喪失など、AI業界の激動をわかりやすくお伝えします。</description>
