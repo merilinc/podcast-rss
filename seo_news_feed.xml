@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 16 Feb 2026 07:02:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 07:07:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月17日】Google広告バグ発生＆AI検索がSEOを激変させる最前線</title>
+      <description>今日はGoogle広告で一時停止キーワードが勝手に再開される重大バグの詳細から、AI Overviewがオーガニック検索を侵食し広告シフトが加速している現状まで詳しく解説します。さらにRedditが検索競合として急成長、GoogleとBingがLLM用Markdownファイルに警告、2月中旬の大規模順位変動、JavaScript表示の落とし穴、新指標SAGEOの登場、AI Overview引用バグ修正、そしてHubSpotが明かしたAI検索ユーザーのコンバージョン率4.4倍の衝撃データまで、SEO・デジタルマーケティングの最新動向を9本まとめてお届けします。</description>
+      <itunes:summary>今日はGoogle広告で一時停止キーワードが勝手に再開される重大バグの詳細から、AI Overviewがオーガニック検索を侵食し広告シフトが加速している現状まで詳しく解説します。さらにRedditが検索競合として急成長、GoogleとBingがLLM用Markdownファイルに警告、2月中旬の大規模順位変動、JavaScript表示の落とし穴、新指標SAGEOの登場、AI Overview引用バグ修正、そしてHubSpotが明かしたAI検索ユーザーのコンバージョン率4.4倍の衝撃データまで、SEO・デジタルマーケティングの最新動向を9本まとめてお届けします。</itunes:summary>
+      <pubDate>Tue, 17 Feb 2026 07:07:48 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260217-20260217</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15_WaOIq8UYdkWSbTZqqCSwB5Shvt3XvU" length="16135269" type="audio/mpeg"/>
+      <itunes:duration>32:59</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月16日】Google大変動＆CloudflareのAI革命で検索の常識が激変</title>
       <description>今週末、Google検索で激しい順位変動が発生し、多くのサイトがトラフィック急減に見舞われています。さらにCloudflareが発表した「Markdown for Agents」はAI時代のウェブのあり方を根本から変える可能性を秘めた注目機能。OpenAIのGPT-5.2への強制移行、Google Adsの新しいROAS入札ツール、Search Consoleのデータが実は75%不完全だったという衝撃の分析、そしてSEOの未来像「視認性システム」の提唱まで、全14トピックを徹底解説します。検索・広告・AIの最前線を追いかけるすべての方、必聴の回です。</description>
