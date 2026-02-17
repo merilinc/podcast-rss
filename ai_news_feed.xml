@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 07:12:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:25:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月18日】Anthropic57兆円評価額＆AI著作権戦争・エージェント時代到来</title>
+      <description>今日はAI業界が大きく動いた1週間のニュースを一挙にお届けします。Anthropicが評価額57兆円で巨額資金調達を完了、xAIのGrok 3が世界最大級スパコンで誕生、GoogleのGemini 3 Deep Thinkが推論能力で他社を圧倒。さらにDisneyがByteDanceを著作権侵害で提訴、日本政府がAIエージェントに人間承認を必須化する方針など、技術革新と社会的摩擦の両面を詳しく解説します。楽天のAI利益255億円、NASAの火星探査へのAI活用、ビッグテック株急落の背景まで、全20トピックを網羅してお届けします。</description>
+      <itunes:summary>今日はAI業界が大きく動いた1週間のニュースを一挙にお届けします。Anthropicが評価額57兆円で巨額資金調達を完了、xAIのGrok 3が世界最大級スパコンで誕生、GoogleのGemini 3 Deep Thinkが推論能力で他社を圧倒。さらにDisneyがByteDanceを著作権侵害で提訴、日本政府がAIエージェントに人間承認を必須化する方針など、技術革新と社会的摩擦の両面を詳しく解説します。楽天のAI利益255億円、NASAの火星探査へのAI活用、ビッグテック株急落の背景まで、全20トピックを網羅してお届けします。</itunes:summary>
+      <pubDate>Wed, 18 Feb 2026 07:25:49 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260218-20260218</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c6xXUiFdFlfFA9cfW_r034iWH2fsyi7N" length="18580773" type="audio/mpeg"/>
+      <itunes:duration>38:33</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月17日】AIエージェント新時代突入＆ペンタゴンvsAnthropic倫理対立</title>
       <description>今日はOpenAIがOSS開発者を獲得しエージェント戦略を加速させたニュースを皮切りに、米国防総省とAnthropicの軍事利用を巡る深刻な対立、ByteDanceの「Doubao 2.0」発表とDisneyからの著作権侵害訴訟、トランプ政権のAI規制統一政策、インドの巨額AI投資、メモリチップ危機、DeepSeekの100万トークンモデル、Alibabaのロボット向けAI、そしてOpenAI次世代コーディングモデルの噂まで、全14本のニュースを徹底解説します。AIの覇権争いが軍事・産業・規制の全方面で激化する最前線をお届けします。</description>
