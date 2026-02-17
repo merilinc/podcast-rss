@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 07:04:12 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:18:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月18日】OpenAI「安全性」削除の衝撃＆GPT-4o廃止で#Keep4o運動拡大</title>
+      <description>今日はOpenAI周辺の重要ニュースを9本まとめてお届けします。ミッションから「安全に」の文言が消えた衝撃、愛されたGPT-4oの廃止に対するユーザーの反発運動、自律型エージェント開発者の採用が示すAIの未来像、企業向け新セキュリティ機能「Lockdown Mode」、マサチューセッツ州4万人への導入、インド市場への戦略転換、電話帳同期によるソーシャル化、コーディングAI急成長、そして広告導入の市場インパクトまで。OpenAIが「対話」から「行動」へ大きくシフトする2026年の最前線を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAI周辺の重要ニュースを9本まとめてお届けします。ミッションから「安全に」の文言が消えた衝撃、愛されたGPT-4oの廃止に対するユーザーの反発運動、自律型エージェント開発者の採用が示すAIの未来像、企業向け新セキュリティ機能「Lockdown Mode」、マサチューセッツ州4万人への導入、インド市場への戦略転換、電話帳同期によるソーシャル化、コーディングAI急成長、そして広告導入の市場インパクトまで。OpenAIが「対話」から「行動」へ大きくシフトする2026年の最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 18 Feb 2026 07:18:11 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260218-20260218</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tOr6IHpG_26W97ex4XDaxflmI96cDEMl" length="15424725" type="audio/mpeg"/>
+      <itunes:duration>31:33</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月17日】OpenAIエージェント戦略本格化＆インド1億人突破の衝撃</title>
       <description>今日はOpenAIの最新動向を5つのニュースで徹底解説します。人気オープンソースAIエージェント「OpenClaw」開発者の電撃移籍が示すAIエージェント時代の幕開け、インドでの週間ユーザー1億人突破の裏側、企業向け新セキュリティ機能「Lockdown Mode」の仕組み、Cerebrasチップで毎秒1000トークン超を実現した超高速コーディングモデル「GPT-5.3 Codex-Spark」の衝撃、そして旧モデル廃止とおべっか問題に揺れるユーザーコミュニティの声まで、盛りだくさんでお届けします。</description>
