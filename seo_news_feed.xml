@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 07:07:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:22:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月18日】AI検索の裏側公開＆オーガニック激減の衝撃データ</title>
+      <description>今日はGoogleのチーフサイエンティストJeff Dean氏が明かしたAI検索の仕組みの裏側を詳しく解説します。LLMはWeb全体を読んでいないという衝撃の事実とは？さらに、AI Overviewでオーガニッククリックが激減しショッピング広告へ大幅シフトしているデータや、生成AI検索最適化（GEO）の初の実践的ベンチマーク「SAGEO Arena」の登場、Google広告の推奨事項に効果検証タブが追加された話題、Search ConsoleのAI機能全ユーザー展開など、SEO・広告担当者必聴の9つのトピックをお届けします。</description>
+      <itunes:summary>今日はGoogleのチーフサイエンティストJeff Dean氏が明かしたAI検索の仕組みの裏側を詳しく解説します。LLMはWeb全体を読んでいないという衝撃の事実とは？さらに、AI Overviewでオーガニッククリックが激減しショッピング広告へ大幅シフトしているデータや、生成AI検索最適化（GEO）の初の実践的ベンチマーク「SAGEO Arena」の登場、Google広告の推奨事項に効果検証タブが追加された話題、Search ConsoleのAI機能全ユーザー展開など、SEO・広告担当者必聴の9つのトピックをお届けします。</itunes:summary>
+      <pubDate>Wed, 18 Feb 2026 07:22:29 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260218-20260218</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11VPUFnePk0WmiDi5jkmkRGLZjuOtz8TN" length="15079749" type="audio/mpeg"/>
+      <itunes:duration>30:55</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月17日】Google広告バグ発生＆AI検索がSEOを激変させる最前線</title>
       <description>今日はGoogle広告で一時停止キーワードが勝手に再開される重大バグの詳細から、AI Overviewがオーガニック検索を侵食し広告シフトが加速している現状まで詳しく解説します。さらにRedditが検索競合として急成長、GoogleとBingがLLM用Markdownファイルに警告、2月中旬の大規模順位変動、JavaScript表示の落とし穴、新指標SAGEOの登場、AI Overview引用バグ修正、そしてHubSpotが明かしたAI検索ユーザーのコンバージョン率4.4倍の衝撃データまで、SEO・デジタルマーケティングの最新動向を9本まとめてお届けします。</description>
