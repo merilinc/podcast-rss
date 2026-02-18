@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 07:22:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:39:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月19日】Google検索AI化の光と影＆広告主が怒った自動キーワード復活問題</title>
+      <description>今日はSEO・AI検索・広告まわりの注目ニュースを11本まとめてお届けします。Search ConsoleにAI機能が全展開されデータ分析が誰でも簡単に。AI Overviewではリンクの見せ方が大幅改善された一方、オプトアウトは技術的に困難との公式見解も。健康情報の免責表示が目立たなくなり批判殺到、レシピ検索のゼロクリック問題、PMaxの透明性向上、一時停止キーワードが勝手に再開される騒動、OpenAI「Cameo」商標訴訟敗訴、AhrefsとClaude連携、AI向けコンテンツ構造の新常識、Bing AI Performanceレポートの活用事例まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今日はSEO・AI検索・広告まわりの注目ニュースを11本まとめてお届けします。Search ConsoleにAI機能が全展開されデータ分析が誰でも簡単に。AI Overviewではリンクの見せ方が大幅改善された一方、オプトアウトは技術的に困難との公式見解も。健康情報の免責表示が目立たなくなり批判殺到、レシピ検索のゼロクリック問題、PMaxの透明性向上、一時停止キーワードが勝手に再開される騒動、OpenAI「Cameo」商標訴訟敗訴、AhrefsとClaude連携、AI向けコンテンツ構造の新常識、Bing AI Performanceレポートの活用事例まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Thu, 19 Feb 2026 07:39:19 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260219-20260219</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AKNgn7hjH-ssx2SzYlE6ahtAbe3Ay4ry" length="14821845" type="audio/mpeg"/>
+      <itunes:duration>30:30</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月18日】AI検索の裏側公開＆オーガニック激減の衝撃データ</title>
       <description>今日はGoogleのチーフサイエンティストJeff Dean氏が明かしたAI検索の仕組みの裏側を詳しく解説します。LLMはWeb全体を読んでいないという衝撃の事実とは？さらに、AI Overviewでオーガニッククリックが激減しショッピング広告へ大幅シフトしているデータや、生成AI検索最適化（GEO）の初の実践的ベンチマーク「SAGEO Arena」の登場、Google広告の推奨事項に効果検証タブが追加された話題、Search ConsoleのAI機能全ユーザー展開など、SEO・広告担当者必聴の9つのトピックをお届けします。</description>
