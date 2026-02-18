@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 07:18:15 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:35:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月19日】Grok 3登場＆GPT-4o廃止で2万人署名！AI業界激動の1週間</title>
+      <description>今日はイーロン・マスク率いるxAIが「地球上で最も賢いAI」と称するGrok 3をリリースしたニュースから、OpenAIがGPT-4oを廃止したことで2万人以上が復活を求める署名活動に発展した話題まで、AI業界の激動をお届けします。さらにOpenAIがインド市場で大学・旅行大手と大規模提携、元Instagram幹部がOpenAIに移籍してハリウッド攻略を狙う人事、商標訴訟でOpenAIが敗れた「Cameo」問題、医療機関UCSFのChatGPT Enterprise全学導入、教育現場へのAI浸透、音声機能アップデート、AIバイアス研究、セキュリティ新機能「Lockdown Mode」、そして元英財務相の「AI導入しない国は取り残される」発言まで、全12トピックを徹底解説します。</description>
+      <itunes:summary>今日はイーロン・マスク率いるxAIが「地球上で最も賢いAI」と称するGrok 3をリリースしたニュースから、OpenAIがGPT-4oを廃止したことで2万人以上が復活を求める署名活動に発展した話題まで、AI業界の激動をお届けします。さらにOpenAIがインド市場で大学・旅行大手と大規模提携、元Instagram幹部がOpenAIに移籍してハリウッド攻略を狙う人事、商標訴訟でOpenAIが敗れた「Cameo」問題、医療機関UCSFのChatGPT Enterprise全学導入、教育現場へのAI浸透、音声機能アップデート、AIバイアス研究、セキュリティ新機能「Lockdown Mode」、そして元英財務相の「AI導入しない国は取り残される」発言まで、全12トピックを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 19 Feb 2026 07:35:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260219-20260219</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1N4G3nSFX_WZ0XSAcSpf9jUIqR57ClCEq" length="17120397" type="audio/mpeg"/>
+      <itunes:duration>35:16</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月18日】OpenAI「安全性」削除の衝撃＆GPT-4o廃止で#Keep4o運動拡大</title>
       <description>今日はOpenAI周辺の重要ニュースを9本まとめてお届けします。ミッションから「安全に」の文言が消えた衝撃、愛されたGPT-4oの廃止に対するユーザーの反発運動、自律型エージェント開発者の採用が示すAIの未来像、企業向け新セキュリティ機能「Lockdown Mode」、マサチューセッツ州4万人への導入、インド市場への戦略転換、電話帳同期によるソーシャル化、コーディングAI急成長、そして広告導入の市場インパクトまで。OpenAIが「対話」から「行動」へ大きくシフトする2026年の最前線を詳しく解説します。</description>
