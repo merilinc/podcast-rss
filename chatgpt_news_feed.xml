@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 07:35:11 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:15:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月20日】ChatGPT離れ加速？QuitGPT運動と軍事利用の波紋</title>
+      <description>今日はChatGPTを取り巻く3つの大きな動きをお届けします。まず、GPT-4oの廃止や政治的な問題から「#QuitGPT」というキャンセル運動が拡大中。ClaudeやGeminiへの乗り換えが進んでいます。次に、OpenAIが独自ブラウザ「ChatGPT Atlas」を大幅アップデート。AIがタブを自動整理してくれる新機能とは？そして米国防総省のAIプラットフォームにChatGPTが統合拡大。安全保障でのAI活用が進む一方、軍事利用への批判も。技術革新と倫理のジレンマについて詳しく解説します。</description>
+      <itunes:summary>今日はChatGPTを取り巻く3つの大きな動きをお届けします。まず、GPT-4oの廃止や政治的な問題から「#QuitGPT」というキャンセル運動が拡大中。ClaudeやGeminiへの乗り換えが進んでいます。次に、OpenAIが独自ブラウザ「ChatGPT Atlas」を大幅アップデート。AIがタブを自動整理してくれる新機能とは？そして米国防総省のAIプラットフォームにChatGPTが統合拡大。安全保障でのAI活用が進む一方、軍事利用への批判も。技術革新と倫理のジレンマについて詳しく解説します。</itunes:summary>
+      <pubDate>Fri, 20 Feb 2026 07:15:06 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260220-20260220</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1feO-rX3SiYS7MLdwVRJlos9vbSraC76Z" length="10713789" type="audio/mpeg"/>
+      <itunes:duration>22:15</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月19日】Grok 3登場＆GPT-4o廃止で2万人署名！AI業界激動の1週間</title>
       <description>今日はイーロン・マスク率いるxAIが「地球上で最も賢いAI」と称するGrok 3をリリースしたニュースから、OpenAIがGPT-4oを廃止したことで2万人以上が復活を求める署名活動に発展した話題まで、AI業界の激動をお届けします。さらにOpenAIがインド市場で大学・旅行大手と大規模提携、元Instagram幹部がOpenAIに移籍してハリウッド攻略を狙う人事、商標訴訟でOpenAIが敗れた「Cameo」問題、医療機関UCSFのChatGPT Enterprise全学導入、教育現場へのAI浸透、音声機能アップデート、AIバイアス研究、セキュリティ新機能「Lockdown Mode」、そして元英財務相の「AI導入しない国は取り残される」発言まで、全12トピックを徹底解説します。</description>
