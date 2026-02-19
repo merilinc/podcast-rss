@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 19 Feb 2026 07:39:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:15:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月20日】AI検索リンク刷新＆新SEO指標LCRS登場！Google広告にも大変動</title>
+      <description>今回はSEO・デジタルマーケティング界隈の注目ニュースを一挙にお届けします。GoogleがAI OverviewとAI Modeで引用リンクのデザインを大幅刷新し、ゼロクリック問題への対策に動きました。さらにAI検索時代の新KPI「LCRS」の提唱、CIAデータベース閉鎖によるナレッジグラフへの影響、P-MAXの透明性向上、AdSenseの閉じられないバグ騒動など盛りだくさん。OpenAIのセキュリティベンチマーク「EVMbench」やGoogle広告の仮想通貨認証プロセス更新、タイトルタグのペナルティ都市伝説の真相まで、全8トピックを徹底解説します。</description>
+      <itunes:summary>今回はSEO・デジタルマーケティング界隈の注目ニュースを一挙にお届けします。GoogleがAI OverviewとAI Modeで引用リンクのデザインを大幅刷新し、ゼロクリック問題への対策に動きました。さらにAI検索時代の新KPI「LCRS」の提唱、CIAデータベース閉鎖によるナレッジグラフへの影響、P-MAXの透明性向上、AdSenseの閉じられないバグ騒動など盛りだくさん。OpenAIのセキュリティベンチマーク「EVMbench」やGoogle広告の仮想通貨認証プロセス更新、タイトルタグのペナルティ都市伝説の真相まで、全8トピックを徹底解説します。</itunes:summary>
+      <pubDate>Fri, 20 Feb 2026 07:15:37 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260220-20260220</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c_QoFklS-ZWbcawlFDTpOSMcjoT2rK45" length="11661501" type="audio/mpeg"/>
+      <itunes:duration>24:06</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月19日】Google検索AI化の光と影＆広告主が怒った自動キーワード復活問題</title>
       <description>今日はSEO・AI検索・広告まわりの注目ニュースを11本まとめてお届けします。Search ConsoleにAI機能が全展開されデータ分析が誰でも簡単に。AI Overviewではリンクの見せ方が大幅改善された一方、オプトアウトは技術的に困難との公式見解も。健康情報の免責表示が目立たなくなり批判殺到、レシピ検索のゼロクリック問題、PMaxの透明性向上、一時停止キーワードが勝手に再開される騒動、OpenAI「Cameo」商標訴訟敗訴、AhrefsとClaude連携、AI向けコンテンツ構造の新常識、Bing AI Performanceレポートの活用事例まで、盛りだくさんでお届けします。</description>
