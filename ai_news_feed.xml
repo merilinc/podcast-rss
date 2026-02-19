@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 07:25:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 07:22:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月20日】OpenAIインド巨大DC＆Anthropic国防総省と対立！AI最前線</title>
+      <description>今日はOpenAIとTata Groupがインドに1GW規模の巨大AIデータセンターを建設する話題からスタート。Anthropicが国防総省と倫理をめぐり対立する衝撃ニュース、MetaとNVIDIAの次世代インフラ提携、Claude Sonnet 4.6の驚異的性能、GoogleとAppleの音楽生成AI、インド独自の主権AI「Sarvam-105B」、OpenAIの商標トラブル、Microsoft Copilotの機密メール漏洩バグ、CerebrasチップでのGPT新モデル、AI専用SNS「Moltbook」など全18本のニュースを徹底解説します。AI業界の地殻変動をお見逃しなく！</description>
+      <itunes:summary>今日はOpenAIとTata Groupがインドに1GW規模の巨大AIデータセンターを建設する話題からスタート。Anthropicが国防総省と倫理をめぐり対立する衝撃ニュース、MetaとNVIDIAの次世代インフラ提携、Claude Sonnet 4.6の驚異的性能、GoogleとAppleの音楽生成AI、インド独自の主権AI「Sarvam-105B」、OpenAIの商標トラブル、Microsoft Copilotの機密メール漏洩バグ、CerebrasチップでのGPT新モデル、AI専用SNS「Moltbook」など全18本のニュースを徹底解説します。AI業界の地殻変動をお見逃しなく！</itunes:summary>
+      <pubDate>Fri, 20 Feb 2026 07:22:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260220-20260220</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HXqx61vYiuEQnEm4isfOEx_st2dZcBYt" length="22170837" type="audio/mpeg"/>
+      <itunes:duration>46:01</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月18日】Anthropic57兆円評価額＆AI著作権戦争・エージェント時代到来</title>
       <description>今日はAI業界が大きく動いた1週間のニュースを一挙にお届けします。Anthropicが評価額57兆円で巨額資金調達を完了、xAIのGrok 3が世界最大級スパコンで誕生、GoogleのGemini 3 Deep Thinkが推論能力で他社を圧倒。さらにDisneyがByteDanceを著作権侵害で提訴、日本政府がAIエージェントに人間承認を必須化する方針など、技術革新と社会的摩擦の両面を詳しく解説します。楽天のAI利益255億円、NASAの火星探査へのAI活用、ビッグテック株急落の背景まで、全20トピックを網羅してお届けします。</description>
