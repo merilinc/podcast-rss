@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 07:15:09 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:54:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月26日】Deep Research開放＆中国の日本首相中傷をAIが阻止</title>
+      <description>今日はOpenAIの大ニュースが盛りだくさん！月額200ドル限定だった「Deep Research」機能がついに月額20ドルのPlusユーザーにも開放されました。さらに、中国関連の脅威アクターが日本の高市早苗首相を狙った中傷キャンペーンをChatGPTが阻止した衝撃の事例や、イーロン・マスク率いるxAIからの訴訟棄却、マッキンゼーら4大コンサルとの提携「Frontier Alliances」、NvidiaによるOpenAIへの巨額投資交渉、競合Anthropicの新モデル発表、カナダの銃撃事件を巡るAI安全性議論、ミッションステートメントから「安全に」が消えた問題など、全15トピックを徹底解説します。</description>
+      <itunes:summary>今日はOpenAIの大ニュースが盛りだくさん！月額200ドル限定だった「Deep Research」機能がついに月額20ドルのPlusユーザーにも開放されました。さらに、中国関連の脅威アクターが日本の高市早苗首相を狙った中傷キャンペーンをChatGPTが阻止した衝撃の事例や、イーロン・マスク率いるxAIからの訴訟棄却、マッキンゼーら4大コンサルとの提携「Frontier Alliances」、NvidiaによるOpenAIへの巨額投資交渉、競合Anthropicの新モデル発表、カナダの銃撃事件を巡るAI安全性議論、ミッションステートメントから「安全に」が消えた問題など、全15トピックを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 26 Feb 2026 19:54:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260226-20260226</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1N79pM74WN8nElx5PzpkWjwqckB52mubT" length="17296389" type="audio/mpeg"/>
+      <itunes:duration>35:44</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月20日】ChatGPT離れ加速？QuitGPT運動と軍事利用の波紋</title>
       <description>今日はChatGPTを取り巻く3つの大きな動きをお届けします。まず、GPT-4oの廃止や政治的な問題から「#QuitGPT」というキャンセル運動が拡大中。ClaudeやGeminiへの乗り換えが進んでいます。次に、OpenAIが独自ブラウザ「ChatGPT Atlas」を大幅アップデート。AIがタブを自動整理してくれる新機能とは？そして米国防総省のAIプラットフォームにChatGPTが統合拡大。安全保障でのAI活用が進む一方、軍事利用への批判も。技術革新と倫理のジレンマについて詳しく解説します。</description>
