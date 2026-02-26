@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 07:15:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:58:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月26日】Google広告の予算ルール激変＆AI検索広告の未来</title>
+      <description>今日はGoogle広告の予算消化ロジックが3月から大きく変わるニュースを詳しく解説。OpenAIのChatGPTに検索広告が本格導入される動きや、SEOの次の概念「AAO（支援エージェント最適化）」の登場、LLMトラフィックのコンバージョン率が驚異の18%というデータ、GeminiのAndroidエージェント機能、WebMCPという新プロトコル、さらにEUの規制によるGoogle検索結果の変化まで、全12トピックをたっぷりお届けします。広告運用者もSEO担当者も必聴の回です！</description>
+      <itunes:summary>今日はGoogle広告の予算消化ロジックが3月から大きく変わるニュースを詳しく解説。OpenAIのChatGPTに検索広告が本格導入される動きや、SEOの次の概念「AAO（支援エージェント最適化）」の登場、LLMトラフィックのコンバージョン率が驚異の18%というデータ、GeminiのAndroidエージェント機能、WebMCPという新プロトコル、さらにEUの規制によるGoogle検索結果の変化まで、全12トピックをたっぷりお届けします。広告運用者もSEO担当者も必聴の回です！</itunes:summary>
+      <pubDate>Thu, 26 Feb 2026 19:58:09 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260226-20260226</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_ck5U53naOfsJ0Pu7iTLGgS00onn0ouH" length="18190413" type="audio/mpeg"/>
+      <itunes:duration>37:40</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月20日】AI検索リンク刷新＆新SEO指標LCRS登場！Google広告にも大変動</title>
       <description>今回はSEO・デジタルマーケティング界隈の注目ニュースを一挙にお届けします。GoogleがAI OverviewとAI Modeで引用リンクのデザインを大幅刷新し、ゼロクリック問題への対策に動きました。さらにAI検索時代の新KPI「LCRS」の提唱、CIAデータベース閉鎖によるナレッジグラフへの影響、P-MAXの透明性向上、AdSenseの閉じられないバグ騒動など盛りだくさん。OpenAIのセキュリティベンチマーク「EVMbench」やGoogle広告の仮想通貨認証プロセス更新、タイトルタグのペナルティ都市伝説の真相まで、全8トピックを徹底解説します。</description>
