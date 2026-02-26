@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 19:58:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 07:05:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月27日】Google順位変動再燃＆Chegg提訴でAI検索の未来が揺れる</title>
+      <description>今日はSEO・AI・マーケティングの最新ニュースを一挙にお届けします。2月25日〜26日にかけて発生したGoogle検索の大規模順位変動、EUのデジタル市場法に対応した垂直検索サービスの表示テスト、教育大手CheggによるGoogle提訴の衝撃、そしてAI Overviewがクリック率に与える深刻な影響まで。さらにOpenAIの自律型リサーチエージェント「Deep Research」、ChatGPT検索での広告テスト拡大、2026年注目の「エージェントコマース」トレンドなど全21トピックを徹底解説。AIと検索の境界線が揺らぐ今、知っておくべき情報が満載です。</description>
+      <itunes:summary>今日はSEO・AI・マーケティングの最新ニュースを一挙にお届けします。2月25日〜26日にかけて発生したGoogle検索の大規模順位変動、EUのデジタル市場法に対応した垂直検索サービスの表示テスト、教育大手CheggによるGoogle提訴の衝撃、そしてAI Overviewがクリック率に与える深刻な影響まで。さらにOpenAIの自律型リサーチエージェント「Deep Research」、ChatGPT検索での広告テスト拡大、2026年注目の「エージェントコマース」トレンドなど全21トピックを徹底解説。AIと検索の境界線が揺らぐ今、知っておくべき情報が満載です。</itunes:summary>
+      <pubDate>Fri, 27 Feb 2026 07:05:03 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260227-20260227</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_b0U_5imvqp52epUpNd6aVbHAnyxiiZa" length="21401997" type="audio/mpeg"/>
+      <itunes:duration>43:49</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月26日】Google広告の予算ルール激変＆AI検索広告の未来</title>
       <description>今日はGoogle広告の予算消化ロジックが3月から大きく変わるニュースを詳しく解説。OpenAIのChatGPTに検索広告が本格導入される動きや、SEOの次の概念「AAO（支援エージェント最適化）」の登場、LLMトラフィックのコンバージョン率が驚異の18%というデータ、GeminiのAndroidエージェント機能、WebMCPという新プロトコル、さらにEUの規制によるGoogle検索結果の変化まで、全12トピックをたっぷりお届けします。広告運用者もSEO担当者も必聴の回です！</description>
