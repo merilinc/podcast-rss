@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Feb 2026 07:22:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:50:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【2月26日】Googleロボット統合＆Galaxy S26マルチAI時代到来</title>
+      <description>今日は盛りだくさんの18本のAIニュースをお届けします。Googleがロボティクス企業Intrinsicを統合し「物理AI」開発を加速させる動きや、Samsung Galaxy S26がGeminiとPerplexityのマルチエージェント体制で登場した話題を詳しく解説。さらにAnthropicが中国AI企業による「モデル蒸留」攻撃を告発した衝撃のニュース、NVIDIAの過去最高益決算、AIが詐欺電話を検出する新機能、解釈可能なLLMの登場、セキュリティ診断OSへのAI統合、AmazonのOpenAIへの巨額投資交渉など、AI業界の最前線を余すところなくお届けします。</description>
+      <itunes:summary>今日は盛りだくさんの18本のAIニュースをお届けします。Googleがロボティクス企業Intrinsicを統合し「物理AI」開発を加速させる動きや、Samsung Galaxy S26がGeminiとPerplexityのマルチエージェント体制で登場した話題を詳しく解説。さらにAnthropicが中国AI企業による「モデル蒸留」攻撃を告発した衝撃のニュース、NVIDIAの過去最高益決算、AIが詐欺電話を検出する新機能、解釈可能なLLMの登場、セキュリティ診断OSへのAI統合、AmazonのOpenAIへの巨額投資交渉など、AI業界の最前線を余すところなくお届けします。</itunes:summary>
+      <pubDate>Thu, 26 Feb 2026 19:50:03 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260226-20260226</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MGaMyEzO-k2QExyBbwtQOqesjS8bHDCP" length="24304581" type="audio/mpeg"/>
+      <itunes:duration>50:13</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月20日】OpenAIインド巨大DC＆Anthropic国防総省と対立！AI最前線</title>
       <description>今日はOpenAIとTata Groupがインドに1GW規模の巨大AIデータセンターを建設する話題からスタート。Anthropicが国防総省と倫理をめぐり対立する衝撃ニュース、MetaとNVIDIAの次世代インフラ提携、Claude Sonnet 4.6の驚異的性能、GoogleとAppleの音楽生成AI、インド独自の主権AI「Sarvam-105B」、OpenAIの商標トラブル、Microsoft Copilotの機密メール漏洩バグ、CerebrasチップでのGPT新モデル、AI専用SNS「Moltbook」など全18本のニュースを徹底解説します。AI業界の地殻変動をお見逃しなく！</description>
