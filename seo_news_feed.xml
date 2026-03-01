@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 16:07:31 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:15:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月2日】Google検索の未来が激変？AI生成ページ特許＆SEO大変動</title>
+      <description>今日は盛りだくさんの17トピックをお届けします。Google検索順位の異常な変動、そしてGoogleが取得した「AI生成ランディングページ」特許の衝撃。SEOの終焉すら囁かれる中、Bing CopilotやPerplexityのSamsung端末統合など、AI検索の覇権争いが激化しています。さらに、計測不能な「Dark SEO Funnel」問題、Claude 3.7 Sonnetのハイブリッド推論、Google広告のパスキー対応やAI生成広告のトーン制御機能など、SEO・広告・AI分野の最新動向を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの17トピックをお届けします。Google検索順位の異常な変動、そしてGoogleが取得した「AI生成ランディングページ」特許の衝撃。SEOの終焉すら囁かれる中、Bing CopilotやPerplexityのSamsung端末統合など、AI検索の覇権争いが激化しています。さらに、計測不能な「Dark SEO Funnel」問題、Claude 3.7 Sonnetのハイブリッド推論、Google広告のパスキー対応やAI生成広告のトーン制御機能など、SEO・広告・AI分野の最新動向を徹底解説します。</itunes:summary>
+      <pubDate>Mon, 02 Mar 2026 07:15:00 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260302-20260302</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SjDj4cLkpHJxXoX4QFZJK0drmYQ1NQBl" length="17190597" type="audio/mpeg"/>
+      <itunes:duration>35:43</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月1日】Google Discover初の専用アップデート＆ダークSEOファネルとは</title>
       <description>今日はSEO業界を揺るがす大きなニュースが盛りだくさん！Google史上初となるDiscover専用コアアップデートの完了と「ローカル回帰」の影響、AI時代に提唱された新概念「ダークSEOファネル」の正体、さらにGoogleがAIでランディングページを自動生成する特許を取得した衝撃についても詳しく解説します。OpenAIの週間ユーザー9億人突破、プログラミング不要でPPCツールが作れる「Vibe Coding」、Gemini 3によるAI Overview引用元の大変動など、検索とAIの境界線が消えつつある最前線をお届けします。</description>
