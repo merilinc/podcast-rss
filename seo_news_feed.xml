@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 27 Feb 2026 07:05:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 16:07:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月1日】Google Discover初の専用アップデート＆ダークSEOファネルとは</title>
+      <description>今日はSEO業界を揺るがす大きなニュースが盛りだくさん！Google史上初となるDiscover専用コアアップデートの完了と「ローカル回帰」の影響、AI時代に提唱された新概念「ダークSEOファネル」の正体、さらにGoogleがAIでランディングページを自動生成する特許を取得した衝撃についても詳しく解説します。OpenAIの週間ユーザー9億人突破、プログラミング不要でPPCツールが作れる「Vibe Coding」、Gemini 3によるAI Overview引用元の大変動など、検索とAIの境界線が消えつつある最前線をお届けします。</description>
+      <itunes:summary>今日はSEO業界を揺るがす大きなニュースが盛りだくさん！Google史上初となるDiscover専用コアアップデートの完了と「ローカル回帰」の影響、AI時代に提唱された新概念「ダークSEOファネル」の正体、さらにGoogleがAIでランディングページを自動生成する特許を取得した衝撃についても詳しく解説します。OpenAIの週間ユーザー9億人突破、プログラミング不要でPPCツールが作れる「Vibe Coding」、Gemini 3によるAI Overview引用元の大変動など、検索とAIの境界線が消えつつある最前線をお届けします。</itunes:summary>
+      <pubDate>Sun, 01 Mar 2026 16:07:27 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260301-20260301</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fPb7TGan8_1o57rv4SELP6BZd6t-RAzh" length="17379813" type="audio/mpeg"/>
+      <itunes:duration>36:02</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月27日】Google順位変動再燃＆Chegg提訴でAI検索の未来が揺れる</title>
       <description>今日はSEO・AI・マーケティングの最新ニュースを一挙にお届けします。2月25日〜26日にかけて発生したGoogle検索の大規模順位変動、EUのデジタル市場法に対応した垂直検索サービスの表示テスト、教育大手CheggによるGoogle提訴の衝撃、そしてAI Overviewがクリック率に与える深刻な影響まで。さらにOpenAIの自律型リサーチエージェント「Deep Research」、ChatGPT検索での広告テスト拡大、2026年注目の「エージェントコマース」トレンドなど全21トピックを徹底解説。AIと検索の境界線が揺らぐ今、知っておくべき情報が満載です。</description>
