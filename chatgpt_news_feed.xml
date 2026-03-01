@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 16:06:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 07:09:22 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月2日】OpenAI国防総省契約で大炎上＆史上最大16兆円の資金調達</title>
+      <description>OpenAIが米国防総省と機密ネットワーク契約を締結し、世界中で「#CancelChatGPT」運動が拡大。競合Anthropicのクロードがアプリストア1位に急浮上しています。さらにOpenAIは1,100億ドル（約16兆円）という史上最大規模の資金調達を完了し、Amazonとの新提携で「Stateful Runtime」を発表。一方でMicrosoftとの関係はどうなるのか？Deep Research機能の障害、GPT-5.2への不満、従業員の公開書簡など、OpenAIを取り巻く激動の最新ニュースを徹底解説します。</description>
+      <itunes:summary>OpenAIが米国防総省と機密ネットワーク契約を締結し、世界中で「#CancelChatGPT」運動が拡大。競合Anthropicのクロードがアプリストア1位に急浮上しています。さらにOpenAIは1,100億ドル（約16兆円）という史上最大規模の資金調達を完了し、Amazonとの新提携で「Stateful Runtime」を発表。一方でMicrosoftとの関係はどうなるのか？Deep Research機能の障害、GPT-5.2への不満、従業員の公開書簡など、OpenAIを取り巻く激動の最新ニュースを徹底解説します。</itunes:summary>
+      <pubDate>Mon, 02 Mar 2026 07:09:17 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260302-20260302</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qjVRP6Ay7kxWDO0MTBwMlXrSjzRzRvdE" length="15669933" type="audio/mpeg"/>
+      <itunes:duration>32:13</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月1日】OpenAI史上最大16兆円調達＆米軍契約で激震走る</title>
       <description>OpenAIがAmazon・Nvidia・ソフトバンクから総額1,100億ドル（約16兆円）という空前の資金調達を完了。評価額は110兆円超に。さらにAWSとの提携で記憶を保持するAI新技術「Stateful Runtime Environment」を発表しました。一方、米国防総省との機密ネットワーク契約が波紋を呼び、SNSでは「#QuitGPT」運動が拡大。競合Anthropicは倫理的理由で政府から排除される事態に。中国による日本の高市首相への影響工作にChatGPTが悪用された事例や、ChatGPTの市場シェア低下とGemini急伸の最新データも詳しく解説します。</description>
