@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Feb 2026 19:50:08 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 16:11:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月1日】Anthropic政府追放とOpenAI国防総省提携〜AI倫理vs軍事利用の激突</title>
+      <description>トランプ大統領がAnthropicの連邦政府利用を全面禁止、その直後にOpenAIが国防総省と機密ネットワークでの提携を発表。AI企業の倫理と軍事利用の境界線が激しく揺れています。さらにOpenAIが史上最大1,100億ドルの資金調達を完了し、AmazonがAnthropicとOpenAI両方に巨額出資する異例の展開も。Googleの新モデル「Nano Banana 2」、テック企業に電力自給を求める新政策、DeepSeek V4の延期、そしてAI従業員300名超の公開書簡まで、全20トピックを徹底解説します。</description>
+      <itunes:summary>トランプ大統領がAnthropicの連邦政府利用を全面禁止、その直後にOpenAIが国防総省と機密ネットワークでの提携を発表。AI企業の倫理と軍事利用の境界線が激しく揺れています。さらにOpenAIが史上最大1,100億ドルの資金調達を完了し、AmazonがAnthropicとOpenAI両方に巨額出資する異例の展開も。Googleの新モデル「Nano Banana 2」、テック企業に電力自給を求める新政策、DeepSeek V4の延期、そしてAI従業員300名超の公開書簡まで、全20トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 01 Mar 2026 16:11:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260301-20260301</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13V_29gLm4wXYWdRHGxs5VI-edURMfK0k" length="18183669" type="audio/mpeg"/>
+      <itunes:duration>37:38</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【2月26日】Googleロボット統合＆Galaxy S26マルチAI時代到来</title>
       <description>今日は盛りだくさんの18本のAIニュースをお届けします。Googleがロボティクス企業Intrinsicを統合し「物理AI」開発を加速させる動きや、Samsung Galaxy S26がGeminiとPerplexityのマルチエージェント体制で登場した話題を詳しく解説。さらにAnthropicが中国AI企業による「モデル蒸留」攻撃を告発した衝撃のニュース、NVIDIAの過去最高益決算、AIが詐欺電話を検出する新機能、解釈可能なLLMの登場、セキュリティ診断OSへのAI統合、AmazonのOpenAIへの巨額投資交渉など、AI業界の最前線を余すところなくお届けします。</description>
