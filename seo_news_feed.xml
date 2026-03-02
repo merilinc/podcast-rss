@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 07:15:03 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:51:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月3日】AI検索が主役に！GEO時代到来とGoogle新プロトコルWebMCP</title>
+      <description>今回はSEO・マーケティング業界を揺るがす8つのビッグニュースをお届けします。Google AI Overviewが教育分野で83%を占有する衝撃データ、AIエージェントのための新標準「WebMCP」発表、BingがGEO（生成エンジン最適化）を公式採用、Google検索の激しい順位変動、Google広告AI Maxのブランド保護機能、TikTokアルゴリズム大転換、Merchant Centerの製品ID分割義務化、そしてAWSとOpenAIの戦略提携拡大まで。SEOからAEOへ、検索の世界が大きく変わる今、知っておくべき情報を徹底解説します。</description>
+      <itunes:summary>今回はSEO・マーケティング業界を揺るがす8つのビッグニュースをお届けします。Google AI Overviewが教育分野で83%を占有する衝撃データ、AIエージェントのための新標準「WebMCP」発表、BingがGEO（生成エンジン最適化）を公式採用、Google検索の激しい順位変動、Google広告AI Maxのブランド保護機能、TikTokアルゴリズム大転換、Merchant Centerの製品ID分割義務化、そしてAWSとOpenAIの戦略提携拡大まで。SEOからAEOへ、検索の世界が大きく変わる今、知っておくべき情報を徹底解説します。</itunes:summary>
+      <pubDate>Tue, 03 Mar 2026 07:51:29 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260303-20260303</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OvgfXE1THO1jel9M414dPlb7zy_cJDFl" length="17074197" type="audio/mpeg"/>
+      <itunes:duration>35:27</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月2日】Google検索の未来が激変？AI生成ページ特許＆SEO大変動</title>
       <description>今日は盛りだくさんの17トピックをお届けします。Google検索順位の異常な変動、そしてGoogleが取得した「AI生成ランディングページ」特許の衝撃。SEOの終焉すら囁かれる中、Bing CopilotやPerplexityのSamsung端末統合など、AI検索の覇権争いが激化しています。さらに、計測不能な「Dark SEO Funnel」問題、Claude 3.7 Sonnetのハイブリッド推論、Google広告のパスキー対応やAI生成広告のトーン制御機能など、SEO・広告・AI分野の最新動向を徹底解説します。</description>
