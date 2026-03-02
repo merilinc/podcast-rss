@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 07:09:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:55:47 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月3日】OpenAI国防総省と契約＆Anthropic排除の衝撃、AI業界が真っ二つ</title>
+      <description>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが米国防総省と機密ネットワークでのAI展開で正式合意した一方、倫理的立場を貫いたAnthropicが「サプライチェーンリスク」に指定される異例の事態に。ClaudeがApp Store1位を獲得するも大規模障害が発生、#CancelChatGPT運動も拡大中です。さらにOpenAIの1,100億ドル資金調達、ChatGPTへの広告導入、本人確認書類による年齢認証、AmazonとMicrosoftの関係変化、サム・アルトマンの「AGIは政府主導で」発言まで、全20トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが米国防総省と機密ネットワークでのAI展開で正式合意した一方、倫理的立場を貫いたAnthropicが「サプライチェーンリスク」に指定される異例の事態に。ClaudeがApp Store1位を獲得するも大規模障害が発生、#CancelChatGPT運動も拡大中です。さらにOpenAIの1,100億ドル資金調達、ChatGPTへの広告導入、本人確認書類による年齢認証、AmazonとMicrosoftの関係変化、サム・アルトマンの「AGIは政府主導で」発言まで、全20トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 03 Mar 2026 07:55:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260303-20260303</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xcSUIcTGCKKlMZP_9wf-xEZsuKE--g7v" length="19108533" type="audio/mpeg"/>
+      <itunes:duration>39:40</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月2日】OpenAI国防総省契約で大炎上＆史上最大16兆円の資金調達</title>
       <description>OpenAIが米国防総省と機密ネットワーク契約を締結し、世界中で「#CancelChatGPT」運動が拡大。競合Anthropicのクロードがアプリストア1位に急浮上しています。さらにOpenAIは1,100億ドル（約16兆円）という史上最大規模の資金調達を完了し、Amazonとの新提携で「Stateful Runtime」を発表。一方でMicrosoftとの関係はどうなるのか？Deep Research機能の障害、GPT-5.2への不満、従業員の公開書簡など、OpenAIを取り巻く激動の最新ニュースを徹底解説します。</description>
