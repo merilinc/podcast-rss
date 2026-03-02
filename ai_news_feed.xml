@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Mar 2026 16:11:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:25:34 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月2日】OpenAI史上最大1100億ドル調達＆Anthropic政府と全面対決</title>
+      <description>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが史上最大となる1,100億ドル（約16兆円）の資金調達を完了し、評価額は8,400億ドルに到達。一方、Anthropicは米国防総省から「サプライチェーンリスク」に指定され、政府を提訴する事態に。さらにBlock社がAI活用で4,000人を解雇し株価が急騰、「SaaSの終焉」議論も加速しています。GoogleやMicrosoftの動向、AIエージェント時代の到来、そしてテック企業の倫理と国家安全保障の衝突まで、20のトピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが史上最大となる1,100億ドル（約16兆円）の資金調達を完了し、評価額は8,400億ドルに到達。一方、Anthropicは米国防総省から「サプライチェーンリスク」に指定され、政府を提訴する事態に。さらにBlock社がAI活用で4,000人を解雇し株価が急騰、「SaaSの終焉」議論も加速しています。GoogleやMicrosoftの動向、AIエージェント時代の到来、そしてテック企業の倫理と国家安全保障の衝突まで、20のトピックを徹底解説します。</itunes:summary>
+      <pubDate>Mon, 02 Mar 2026 10:25:24 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260302-20260302</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=119DSwZpj9wunDTToP8YU5sbecU5R_TNF" length="17984132" type="audio/mpeg"/>
+      <itunes:duration>37:12</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月1日】Anthropic政府追放とOpenAI国防総省提携〜AI倫理vs軍事利用の激突</title>
       <description>トランプ大統領がAnthropicの連邦政府利用を全面禁止、その直後にOpenAIが国防総省と機密ネットワークでの提携を発表。AI企業の倫理と軍事利用の境界線が激しく揺れています。さらにOpenAIが史上最大1,100億ドルの資金調達を完了し、AmazonがAnthropicとOpenAI両方に巨額出資する異例の展開も。Googleの新モデル「Nano Banana 2」、テック企業に電力自給を求める新政策、DeepSeek V4の延期、そしてAI従業員300名超の公開書簡まで、全20トピックを徹底解説します。</description>
