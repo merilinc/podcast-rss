@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 10:25:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:50:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月3日】OpenAI国防総省と契約＆Anthropic排除の衝撃、AI業界激動の1週間</title>
+      <description>今日は盛りだくさんの15本のニュースをお届けします。OpenAIが米国防総省の機密ネットワークにAIを展開する契約を締結、一方で倫理を貫いたAnthropicが政府から「サプライチェーンリスク」に指定される異例の事態に。さらにOpenAIはAmazonから500億ドルの投資を受け、Microsoftとの独占関係にも変化が。技術面ではQualcommのWi-Fi 8発表やNVIDIAの6G構想、職場監視AI「ボスウェア」の問題、シリコンバレー41万人の雇用リスクなど、AI時代の光と影を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの15本のニュースをお届けします。OpenAIが米国防総省の機密ネットワークにAIを展開する契約を締結、一方で倫理を貫いたAnthropicが政府から「サプライチェーンリスク」に指定される異例の事態に。さらにOpenAIはAmazonから500億ドルの投資を受け、Microsoftとの独占関係にも変化が。技術面ではQualcommのWi-Fi 8発表やNVIDIAの6G構想、職場監視AI「ボスウェア」の問題、シリコンバレー41万人の雇用リスクなど、AI時代の光と影を徹底解説します。</itunes:summary>
+      <pubDate>Tue, 03 Mar 2026 07:50:32 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260303-20260303</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10zeOoDRyjUfHDHrkWI_Q4l7d_srDAFse" length="16884621" type="audio/mpeg"/>
+      <itunes:duration>34:47</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月2日】OpenAI史上最大1100億ドル調達＆Anthropic政府と全面対決</title>
       <description>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが史上最大となる1,100億ドル（約16兆円）の資金調達を完了し、評価額は8,400億ドルに到達。一方、Anthropicは米国防総省から「サプライチェーンリスク」に指定され、政府を提訴する事態に。さらにBlock社がAI活用で4,000人を解雇し株価が急騰、「SaaSの終焉」議論も加速しています。GoogleやMicrosoftの動向、AIエージェント時代の到来、そしてテック企業の倫理と国家安全保障の衝突まで、20のトピックを徹底解説します。</description>
