@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 07:51:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 07:31:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月4日】Google検索サムネ新ルール＆AI Overview引用元が激変</title>
+      <description>今日はSEOに関する重要ニュースを4本お届けします。まずGoogleが検索結果やDiscoverのサムネイル画像の選び方を公式に明文化した話題から。次にGoogle Adsに導入された「3ストライク制度」の詳細を解説します。さらに、AI Overviewの引用元がYouTubeやフォーラムへと多様化している最新トレンド、そしてUniversal Commerce Protocol（UCP）がECサイトのSEOをどう変えるのかについても深掘りします。サイト運営者や広告担当者は必聴の内容です。</description>
+      <itunes:summary>今日はSEOに関する重要ニュースを4本お届けします。まずGoogleが検索結果やDiscoverのサムネイル画像の選び方を公式に明文化した話題から。次にGoogle Adsに導入された「3ストライク制度」の詳細を解説します。さらに、AI Overviewの引用元がYouTubeやフォーラムへと多様化している最新トレンド、そしてUniversal Commerce Protocol（UCP）がECサイトのSEOをどう変えるのかについても深掘りします。サイト運営者や広告担当者は必聴の内容です。</itunes:summary>
+      <pubDate>Wed, 04 Mar 2026 07:31:07 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260304-20260304</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rUf22eQiO1LO2auN6dJvW2G2HqdiF2AE" length="13451421" type="audio/mpeg"/>
+      <itunes:duration>27:57</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月3日】AI検索が主役に！GEO時代到来とGoogle新プロトコルWebMCP</title>
       <description>今回はSEO・マーケティング業界を揺るがす8つのビッグニュースをお届けします。Google AI Overviewが教育分野で83%を占有する衝撃データ、AIエージェントのための新標準「WebMCP」発表、BingがGEO（生成エンジン最適化）を公式採用、Google検索の激しい順位変動、Google広告AI Maxのブランド保護機能、TikTokアルゴリズム大転換、Merchant Centerの製品ID分割義務化、そしてAWSとOpenAIの戦略提携拡大まで。SEOからAEOへ、検索の世界が大きく変わる今、知っておくべき情報を徹底解説します。</description>
