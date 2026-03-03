@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 07:50:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 07:40:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月4日】AI倫理vs国家安全保障！Anthropic排除とOpenAI契約の衝撃</title>
+      <description>今日は盛りだくさんの16本のニュースをお届けします。Anthropicが国防総省から「供給網リスク」に指定され全面排除される一方、OpenAIは監視禁止条項を盛り込んで契約締結という衝撃の展開。さらにOpenAIの新モデル「GPT-5.3 Instant」、MetaがGoogleのAIチップをレンタルする異例の提携、ソフトバンクと三菱重工のエッジAI実証実験、米最高裁のAI著作権判断、FRBのAI雇用影響への警戒など、技術・ビジネス・政策のあらゆる面でAIが激動する最新動向を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの16本のニュースをお届けします。Anthropicが国防総省から「供給網リスク」に指定され全面排除される一方、OpenAIは監視禁止条項を盛り込んで契約締結という衝撃の展開。さらにOpenAIの新モデル「GPT-5.3 Instant」、MetaがGoogleのAIチップをレンタルする異例の提携、ソフトバンクと三菱重工のエッジAI実証実験、米最高裁のAI著作権判断、FRBのAI雇用影響への警戒など、技術・ビジネス・政策のあらゆる面でAIが激動する最新動向を徹底解説します。</itunes:summary>
+      <pubDate>Wed, 04 Mar 2026 07:40:19 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260304-20260304</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1u9658_3h-jCgV9dZh0m77Y_HwHMmOYR7" length="18471909" type="audio/mpeg"/>
+      <itunes:duration>38:03</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月3日】OpenAI国防総省と契約＆Anthropic排除の衝撃、AI業界激動の1週間</title>
       <description>今日は盛りだくさんの15本のニュースをお届けします。OpenAIが米国防総省の機密ネットワークにAIを展開する契約を締結、一方で倫理を貫いたAnthropicが政府から「サプライチェーンリスク」に指定される異例の事態に。さらにOpenAIはAmazonから500億ドルの投資を受け、Microsoftとの独占関係にも変化が。技術面ではQualcommのWi-Fi 8発表やNVIDIAの6G構想、職場監視AI「ボスウェア」の問題、シリコンバレー41万人の雇用リスクなど、AI時代の光と影を徹底解説します。</description>
