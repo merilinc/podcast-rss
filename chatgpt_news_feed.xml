@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Mar 2026 07:55:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 08:09:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月5日】GPT-5.3登場＆OpenAI×国防総省契約の波紋</title>
+      <description>今日はOpenAIの最新ニュースを2本お届けします。まず、ChatGPTの標準モデルが「GPT-5.3 Instant」に全面移行。あの「説教くさい前置き」が大幅に減り、ハルシネーションも約2割減少するなど、大きな進化を遂げました。Microsoft 365 Copilotへの統合も同時発表。そして2本目は、OpenAIと米国防総省（ペンタゴン）との契約をめぐる社会的反発について。国内監視禁止条項が追加されたものの、社員からも「見せかけだ」との批判が噴出し、本社前ではデモも発生。競合Anthropicが同様の契約を拒否する中、AI倫理をめぐる議論が激化しています。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを2本お届けします。まず、ChatGPTの標準モデルが「GPT-5.3 Instant」に全面移行。あの「説教くさい前置き」が大幅に減り、ハルシネーションも約2割減少するなど、大きな進化を遂げました。Microsoft 365 Copilotへの統合も同時発表。そして2本目は、OpenAIと米国防総省（ペンタゴン）との契約をめぐる社会的反発について。国内監視禁止条項が追加されたものの、社員からも「見せかけだ」との批判が噴出し、本社前ではデモも発生。競合Anthropicが同様の契約を拒否する中、AI倫理をめぐる議論が激化しています。</itunes:summary>
+      <pubDate>Thu, 05 Mar 2026 08:09:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260305-20260305</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17R7TjA0oq9dlcgxlHCeCr252WiXi3I2w" length="9598533" type="audio/mpeg"/>
+      <itunes:duration>19:52</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月3日】OpenAI国防総省と契約＆Anthropic排除の衝撃、AI業界が真っ二つ</title>
       <description>今日はAI業界を揺るがす大ニュースが目白押しです。OpenAIが米国防総省と機密ネットワークでのAI展開で正式合意した一方、倫理的立場を貫いたAnthropicが「サプライチェーンリスク」に指定される異例の事態に。ClaudeがApp Store1位を獲得するも大規模障害が発生、#CancelChatGPT運動も拡大中です。さらにOpenAIの1,100億ドル資金調達、ChatGPTへの広告導入、本人確認書類による年齢認証、AmazonとMicrosoftの関係変化、サム・アルトマンの「AGIは政府主導で」発言まで、全20トピックを徹底解説します。</description>
