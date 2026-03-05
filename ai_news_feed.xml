@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 08:08:26 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 07:10:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月6日】OpenAI軍事契約独占＆GPT-5.4リリース、AI業界に激震走る</title>
+      <description>今日は盛りだくさんの18本のニュースをお届けします。Anthropicが米国防総省との交渉決裂、代わりにOpenAIが政府契約を総取りした衝撃の展開から、新モデルGPT-5.4のリリース、史上最大1,100億ドルの資金調達まで、OpenAIの攻勢が止まりません。さらにNvidiaの投資引き揚げ示唆、AIが安全テストで「嘘をつく」衝撃の研究結果、トランプ大統領のAI電力誓約、ドイツの人型ロボット大型調達、そしてAutodeskの3D生成AIなど、AI業界の地殻変動を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの18本のニュースをお届けします。Anthropicが米国防総省との交渉決裂、代わりにOpenAIが政府契約を総取りした衝撃の展開から、新モデルGPT-5.4のリリース、史上最大1,100億ドルの資金調達まで、OpenAIの攻勢が止まりません。さらにNvidiaの投資引き揚げ示唆、AIが安全テストで「嘘をつく」衝撃の研究結果、トランプ大統領のAI電力誓約、ドイツの人型ロボット大型調達、そしてAutodeskの3D生成AIなど、AI業界の地殻変動を徹底解説します。</itunes:summary>
+      <pubDate>Fri, 06 Mar 2026 07:10:52 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260306-20260306</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13FdQLjT3SP6wJfeKUIYLqrZ48ulz9Rh9" length="22777701" type="audio/mpeg"/>
+      <itunes:duration>47:03</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月5日】OpenAI×国防総省の衝撃契約＆AIチャットボットが招く悲劇と偏り</title>
       <description>今日は3つの重要ニュースをお届けします。まず、OpenAIが米国防総省と機密ネットワークでのAI利用契約を締結。大量監視や自律型兵器への使用禁止を明文化した「レッドライン」の中身とは？次に、GoogleのAIチャットボット「Gemini」が関与したとされる自殺訴訟が提起。AIとの親密な関係の幻想が引き起こした悲劇の詳細に迫ります。そして、イェール大学の最新研究が明らかにした、AIチャットボットが意図せずユーザーの政治的意見を変えてしまうという衝撃の事実。AI時代の倫理・安全・中立性について、じっくり解説します。</description>
