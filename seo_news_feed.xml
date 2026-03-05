@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 05 Mar 2026 08:12:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 07:01:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月6日】AI検索の大変革〜レビューSEO・WebMCP・LINE×ヤフー統合</title>
+      <description>今日は3つの注目ニュースをお届けします。まず、Googleのローカル検索でレビューの影響力が急上昇中。AIがレビュー本文を解析してランキングに直結する時代に突入しています。次に、AIエージェントがウェブサイトを直接操作できる新プロトコル「WebMCP」がChrome 146で導入される見込み。「フライトを予約して」と言うだけでAIが全部やってくれる未来が目前です。そして、LINE広告とヤフー広告が4月に完全統合。日本のデジタルマーケティングに大きな変化が訪れます。SEO・AI・広告の最前線をわかりやすく解説します。</description>
+      <itunes:summary>今日は3つの注目ニュースをお届けします。まず、Googleのローカル検索でレビューの影響力が急上昇中。AIがレビュー本文を解析してランキングに直結する時代に突入しています。次に、AIエージェントがウェブサイトを直接操作できる新プロトコル「WebMCP」がChrome 146で導入される見込み。「フライトを予約して」と言うだけでAIが全部やってくれる未来が目前です。そして、LINE広告とヤフー広告が4月に完全統合。日本のデジタルマーケティングに大きな変化が訪れます。SEO・AI・広告の最前線をわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 06 Mar 2026 07:01:15 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260306-20260306</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Azuj0yLNjyDqKaha2itJdnuWOD_O_cBG" length="13494669" type="audio/mpeg"/>
+      <itunes:duration>27:35</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月5日】AI検索の引用が激変＆Google画像サムネイル新ルール</title>
       <description>今日はSEOに関わる重要ニュースを4本お届けします。Googleが検索やDiscoverのサムネイル画像選定ルールを公式に明示した話題から、AI Overviewsでトップ10ページからの引用率が半減した衝撃のデータ、OpenAIのGPT-5.3 Instantがリンク表示を減らした影響、そしてGoogle Ads APIの移行義務化まで。AI検索時代にSEOはどう変わるのか、従来の「上位表示すればOK」が通用しなくなりつつある今、新たに求められる戦略を分かりやすく解説します。</description>
