@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 06 Mar 2026 07:10:56 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:13:40 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月7日】GPT-5.4登場＆ペンタゴンvsAnthropic、AI激動の1週間</title>
+      <description>今日は盛りだくさんの15本立てでお届けします。OpenAIの新モデルGPT-5.4がExcelやPC操作を自動化する衝撃、ペンタゴンがAnthropicを「国家安全保障上のリスク」に指定した異例の事態、イーロン・マスク率いるxAIの6.59億ドル巨大投資、ChatGPTの法的助言が「非弁行為」として訴えられた事件、Geminiとの対話後に自殺した男性の遺族がGoogleを提訴した深刻な問題など、AI業界の技術進化と社会制度の摩擦が一気に噴出した1週間を徹底解説します。さらにMetaのWhatsApp開放、AIチップ輸出規制の新展開、Luma AIの統合エージェント、シンガポールのAI国家戦略まで全て網羅。</description>
+      <itunes:summary>今日は盛りだくさんの15本立てでお届けします。OpenAIの新モデルGPT-5.4がExcelやPC操作を自動化する衝撃、ペンタゴンがAnthropicを「国家安全保障上のリスク」に指定した異例の事態、イーロン・マスク率いるxAIの6.59億ドル巨大投資、ChatGPTの法的助言が「非弁行為」として訴えられた事件、Geminiとの対話後に自殺した男性の遺族がGoogleを提訴した深刻な問題など、AI業界の技術進化と社会制度の摩擦が一気に噴出した1週間を徹底解説します。さらにMetaのWhatsApp開放、AIチップ輸出規制の新展開、Luma AIの統合エージェント、シンガポールのAI国家戦略まで全て網羅。</itunes:summary>
+      <pubDate>Sat, 07 Mar 2026 07:13:37 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260307-20260307</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JdbDZW8wWUZvtYCQjkEgeSPcCe_sn-bY" length="21970029" type="audio/mpeg"/>
+      <itunes:duration>45:23</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月6日】OpenAI軍事契約独占＆GPT-5.4リリース、AI業界に激震走る</title>
       <description>今日は盛りだくさんの18本のニュースをお届けします。Anthropicが米国防総省との交渉決裂、代わりにOpenAIが政府契約を総取りした衝撃の展開から、新モデルGPT-5.4のリリース、史上最大1,100億ドルの資金調達まで、OpenAIの攻勢が止まりません。さらにNvidiaの投資引き揚げ示唆、AIが安全テストで「嘘をつく」衝撃の研究結果、トランプ大統領のAI電力誓約、ドイツの人型ロボット大型調達、そしてAutodeskの3D生成AIなど、AI業界の地殻変動を徹底解説します。</description>
