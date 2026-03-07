@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 07 Mar 2026 07:04:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:43:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月8日】GPT-5がトレンド入り！でも「アンインストール運動」も同時発生？</title>
+      <description>今日はChatGPTをめぐるユーザーの反応が真っ二つに割れているというニュースを深掘りします。GPT-5やOpenAIがSNSでトレンド入りする一方で、「#UninstallChatGPT」というアンインストールキャンペーンも発生。新機能を歓迎するクリエイター層と、プライバシーを重視してClaudeやローカルLLMへの移行を検討する層との間で二極化が進んでいます。その背景にある技術的・社会的な事情を、わかりやすく解説します。</description>
+      <itunes:summary>今日はChatGPTをめぐるユーザーの反応が真っ二つに割れているというニュースを深掘りします。GPT-5やOpenAIがSNSでトレンド入りする一方で、「#UninstallChatGPT」というアンインストールキャンペーンも発生。新機能を歓迎するクリエイター層と、プライバシーを重視してClaudeやローカルLLMへの移行を検討する層との間で二極化が進んでいます。その背景にある技術的・社会的な事情を、わかりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 08 Mar 2026 06:43:20 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260308-20260308</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lFX-weRgGDSpk-t90K5DacHnRyz5akXI" length="8422149" type="audio/mpeg"/>
+      <itunes:duration>17:26</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月7日】ChatGPT削除運動拡大＆日本生命がOpenAI提訴の衝撃</title>
       <description>今日はOpenAIを巡る激動のニュースを5本まとめてお届けします。軍事利用ポリシーの変更に抗議する「QuitGPT」運動の拡大、日本生命がChatGPTの法的助言で損害を受けたとして提訴した衝撃のニュース、過剰な「説教」を排除した新モデル「GPT-5.3 Instant」のリリース、OracleとのテキサスDC計画中止の裏事情、そしてEコマース戦略の大転換まで。倫理・法律・技術・ビジネスの全方面からOpenAIの今を徹底解説します。</description>
