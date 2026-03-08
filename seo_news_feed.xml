@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 06:47:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:24:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月9日】Google3月コアアプデ直撃！AI記事が大量圏外へ</title>
+      <description>今日はSEOに関わる重要ニュースを3本まとめてお届けします。まずはGoogle March 2026 Core Updateが展開開始。AI生成コンテンツや薄いアフィリエイトサイトが順位を大きく落とし、専門性の高いサイトが躍進しています。次に、史上初のDiscover専用コアアップデートが完了。ローカル性やオリジナル性が重視される新しい評価基準とは？最後にGoogle Adsのレポート機能が大幅強化され、Cookie規制時代の広告最適化がどう変わるのかを詳しく解説します。サイト運営者もマーケターも必聴の回です！</description>
+      <itunes:summary>今日はSEOに関わる重要ニュースを3本まとめてお届けします。まずはGoogle March 2026 Core Updateが展開開始。AI生成コンテンツや薄いアフィリエイトサイトが順位を大きく落とし、専門性の高いサイトが躍進しています。次に、史上初のDiscover専用コアアップデートが完了。ローカル性やオリジナル性が重視される新しい評価基準とは？最後にGoogle Adsのレポート機能が大幅強化され、Cookie規制時代の広告最適化がどう変わるのかを詳しく解説します。サイト運営者もマーケターも必聴の回です！</itunes:summary>
+      <pubDate>Mon, 09 Mar 2026 06:24:55 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260309-20260309</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YWa87742BwT20-EQ0KSIocNaOerkRqFf" length="10770477" type="audio/mpeg"/>
+      <itunes:duration>22:09</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月8日】Googleコアアプデ開始＆ChatGPT広告参入でSEO激変</title>
       <description>今週のSEOニュースを一挙解説！Googleが2026年3月コアアップデートを開始し、AI生成コンテンツへの対策を強化。Search Consoleには自然言語フィルタリング機能が追加されました。さらにOpenAIがChatGPTで広告配信を開始し、検索連動型広告のパラダイムシフトが到来。AI Overviewの引用傾向の変化、ゼロクリック検索の加速、Perplexityの引用ロジック変更など、SEOとLLMOの分離が進む最新動向を詳しくお届けします。Google Pixelの「かこって検索」強化やMeta広告のアトリビューション更新も必聴です。</description>
