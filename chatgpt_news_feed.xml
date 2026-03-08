@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 06:43:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:29:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月9日】GPT-5.4登場＆OpenAI国防契約の衝撃と訴訟リスク</title>
+      <description>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まずはプロ向け最新モデル「GPT-5.4」の技術的な進化と競合との比較を詳しく解説。さらに、成人向け「アダルトモード」がまたもや延期となった背景、テキサス州のデータセンター拡張計画の中止がAIインフラ戦略に与える影響、日本生命がOpenAIを訴えた「無資格法律助言」問題の衝撃、そして米国防省との契約合意がもたらす倫理的議論とユーザー離れの実態まで、多角的に深掘りします。AI業界の今を知るための必聴エピソードです。</description>
+      <itunes:summary>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まずはプロ向け最新モデル「GPT-5.4」の技術的な進化と競合との比較を詳しく解説。さらに、成人向け「アダルトモード」がまたもや延期となった背景、テキサス州のデータセンター拡張計画の中止がAIインフラ戦略に与える影響、日本生命がOpenAIを訴えた「無資格法律助言」問題の衝撃、そして米国防省との契約合意がもたらす倫理的議論とユーザー離れの実態まで、多角的に深掘りします。AI業界の今を知るための必聴エピソードです。</itunes:summary>
+      <pubDate>Mon, 09 Mar 2026 06:29:47 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260309-20260309</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1prP-PcD_bZM937n8ZWwLXjyyUMK0sMbG" length="13460205" type="audio/mpeg"/>
+      <itunes:duration>27:52</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月8日】GPT-5がトレンド入り！でも「アンインストール運動」も同時発生？</title>
       <description>今日はChatGPTをめぐるユーザーの反応が真っ二つに割れているというニュースを深掘りします。GPT-5やOpenAIがSNSでトレンド入りする一方で、「#UninstallChatGPT」というアンインストールキャンペーンも発生。新機能を歓迎するクリエイター層と、プライバシーを重視してClaudeやローカルLLMへの移行を検討する層との間で二極化が進んでいます。その背景にある技術的・社会的な事情を、わかりやすく解説します。</description>
