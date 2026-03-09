@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 06:24:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:17:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月10日】AI検索革命！ChatGPTの裏側とGoogleの大転換</title>
+      <description>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。ChatGPTの商品おすすめ機能が実はGoogle Shoppingのデータに83%も依存していたという衝撃の調査結果や、AIが1つの質問を裏で8〜12個に分解して検索する「クエリファンアウト」の仕組みを詳しく解説。さらに、GoogleがAI生成テキストの電子透かし技術をオープンソース化した狙い、GA4の「Direct」トラフィック急増の意外な真実、Google検索トップのLiz Reid氏が語るAIエージェントの未来など、全11トピックを網羅的にお届けします。</description>
+      <itunes:summary>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。ChatGPTの商品おすすめ機能が実はGoogle Shoppingのデータに83%も依存していたという衝撃の調査結果や、AIが1つの質問を裏で8〜12個に分解して検索する「クエリファンアウト」の仕組みを詳しく解説。さらに、GoogleがAI生成テキストの電子透かし技術をオープンソース化した狙い、GA4の「Direct」トラフィック急増の意外な真実、Google検索トップのLiz Reid氏が語るAIエージェントの未来など、全11トピックを網羅的にお届けします。</itunes:summary>
+      <pubDate>Tue, 10 Mar 2026 07:17:29 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260310-20260310</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bwIs0sETWL52shtXFxcB5gTdtCMGjMbx" length="22665909" type="audio/mpeg"/>
+      <itunes:duration>47:13</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月9日】Google3月コアアプデ直撃！AI記事が大量圏外へ</title>
       <description>今日はSEOに関わる重要ニュースを3本まとめてお届けします。まずはGoogle March 2026 Core Updateが展開開始。AI生成コンテンツや薄いアフィリエイトサイトが順位を大きく落とし、専門性の高いサイトが躍進しています。次に、史上初のDiscover専用コアアップデートが完了。ローカル性やオリジナル性が重視される新しい評価基準とは？最後にGoogle Adsのレポート機能が大幅強化され、Cookie規制時代の広告最適化がどう変わるのかを詳しく解説します。サイト運営者もマーケターも必聴の回です！</description>
