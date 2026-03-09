@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 06:26:32 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:07:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月10日】Anthropicが国防総省を提訴！AI軍事利用で業界が真っ二つ</title>
+      <description>今日はAI業界を揺るがす大ニュースが目白押しです。Anthropicが米国防総省を提訴した衝撃の背景から、OpenAI社員が競合Anthropicを支援するという異例の事態、さらに250万人がChatGPTを離脱する「#QuitGPT」運動まで詳しく解説。MicrosoftがOpenAI依存から脱却する新戦略、声優・梶裕貴プロデュースのAIアプリ、そして大手テック企業による総額150兆円規模の借り入れ計画まで、AI業界の激動を余すところなくお届けします。</description>
+      <itunes:summary>今日はAI業界を揺るがす大ニュースが目白押しです。Anthropicが米国防総省を提訴した衝撃の背景から、OpenAI社員が競合Anthropicを支援するという異例の事態、さらに250万人がChatGPTを離脱する「#QuitGPT」運動まで詳しく解説。MicrosoftがOpenAI依存から脱却する新戦略、声優・梶裕貴プロデュースのAIアプリ、そして大手テック企業による総額150兆円規模の借り入れ計画まで、AI業界の激動を余すところなくお届けします。</itunes:summary>
+      <pubDate>Tue, 10 Mar 2026 07:07:32 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260310-20260310</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SkYkNnQXUfRtqVg6_vCPHUDUhIE3oKZ-" length="18388509" type="audio/mpeg"/>
+      <itunes:duration>38:03</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月9日】GPT-5.4登場＆米国防省vsAnthropic、AI倫理と国家安全の衝突</title>
       <description>今日はOpenAIが発表した新モデルGPT-5.4の驚きの性能と、ビジネス現場を変える可能性について詳しく解説します。さらに、米国防総省がAI倫理企業Anthropicを「供給網リスク」に指定するという前代未聞の事態、そしてOpenAI内部からロボティクス部門トップが辞任した背景にある倫理とビジネスの深刻な対立にも迫ります。AI技術の進化と、その軍事利用をめぐる緊張関係がかつてないレベルに達している今、知っておくべき3つのニュースをお届けします。</description>
