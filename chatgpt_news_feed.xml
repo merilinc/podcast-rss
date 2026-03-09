@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 06:29:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:12:22 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月10日】OpenAI買収・訴訟・軍事契約…激動の一週間を総まとめ</title>
+      <description>今週はOpenAIを巡るニュースが目白押し！AIセキュリティ企業Promptfooの買収計画、日本生命による「AI無資格法律業務」訴訟、ロボティクス責任者の抗議辞任、#QuitGPT運動でClaudeがApp Store首位に、アダルトモード無期限延期、ショッピング機能撤退、そして新モデルGPT-5.4の実力とコスト問題まで。AI業界の倫理・ビジネス・技術が激しくぶつかり合う激動の一週間を、8つのニュースで徹底解説します。</description>
+      <itunes:summary>今週はOpenAIを巡るニュースが目白押し！AIセキュリティ企業Promptfooの買収計画、日本生命による「AI無資格法律業務」訴訟、ロボティクス責任者の抗議辞任、#QuitGPT運動でClaudeがApp Store首位に、アダルトモード無期限延期、ショッピング機能撤退、そして新モデルGPT-5.4の実力とコスト問題まで。AI業界の倫理・ビジネス・技術が激しくぶつかり合う激動の一週間を、8つのニュースで徹底解説します。</itunes:summary>
+      <pubDate>Tue, 10 Mar 2026 07:12:18 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260310-20260310</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lL5hC00iKFDwXUqxFVYBJSVZlney8jx9" length="19920645" type="audio/mpeg"/>
+      <itunes:duration>41:07</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月9日】GPT-5.4登場＆OpenAI国防契約の衝撃と訴訟リスク</title>
       <description>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まずはプロ向け最新モデル「GPT-5.4」の技術的な進化と競合との比較を詳しく解説。さらに、成人向け「アダルトモード」がまたもや延期となった背景、テキサス州のデータセンター拡張計画の中止がAIインフラ戦略に与える影響、日本生命がOpenAIを訴えた「無資格法律助言」問題の衝撃、そして米国防省との契約合意がもたらす倫理的議論とユーザー離れの実態まで、多角的に深掘りします。AI業界の今を知るための必聴エピソードです。</description>
