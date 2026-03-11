@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 10 Mar 2026 07:17:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:08:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月12日】AI検索が56%突破！SEOの常識が根本から変わる</title>
+      <description>世界の検索ボリュームの56%がAI検索に移行し、SEOの常識が激変しています。今回はGoogleコアアップデートの最新動向、AI Overviewに引用されるコンテンツの意外な法則、Gemini 3の検索・広告への本格統合、そしてPerplexityの新機能「Model Council」まで全20トピックを徹底解説。Metaの欧州デジタル税転嫁やマッキンゼーが提唱する「ポジションレスマーケティング」など、マーケター必聴の最新情報をお届けします。従来のSEOからLLMO/GEO時代へ、今すぐ知るべき変化の全体像がわかります。</description>
+      <itunes:summary>世界の検索ボリュームの56%がAI検索に移行し、SEOの常識が激変しています。今回はGoogleコアアップデートの最新動向、AI Overviewに引用されるコンテンツの意外な法則、Gemini 3の検索・広告への本格統合、そしてPerplexityの新機能「Model Council」まで全20トピックを徹底解説。Metaの欧州デジタル税転嫁やマッキンゼーが提唱する「ポジションレスマーケティング」など、マーケター必聴の最新情報をお届けします。従来のSEOからLLMO/GEO時代へ、今すぐ知るべき変化の全体像がわかります。</itunes:summary>
+      <pubDate>Thu, 12 Mar 2026 07:08:45 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260312-20260312</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WVwxLRXYnhtgESlrtJmwcjM3uXZpGMBT" length="20672901" type="audio/mpeg"/>
+      <itunes:duration>42:14</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月10日】AI検索革命！ChatGPTの裏側とGoogleの大転換</title>
       <description>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。ChatGPTの商品おすすめ機能が実はGoogle Shoppingのデータに83%も依存していたという衝撃の調査結果や、AIが1つの質問を裏で8〜12個に分解して検索する「クエリファンアウト」の仕組みを詳しく解説。さらに、GoogleがAI生成テキストの電子透かし技術をオープンソース化した狙い、GA4の「Direct」トラフィック急増の意外な真実、Google検索トップのLiz Reid氏が語るAIエージェントの未来など、全11トピックを網羅的にお届けします。</description>
