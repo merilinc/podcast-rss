@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 07:10:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:21:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月12日】NVIDIA新チップ＆OpenAI300億ドル調達！AI軍事利用で法廷闘争も</title>
+      <description>今日はNVIDIAの次世代AIプロセッサ発表やOpenAIへの300億ドル出資など、AIインフラ戦争の最新動向をお届けします。MetaがAIエージェント専用SNSを買収、世界モデル開発に巨額資金が流入する一方、Anthropicが米国防総省を提訴するという衝撃のニュースも。GoogleのWorkspace全自動化、AIアプリの継続利用率低迷問題、Grammarlyの無断名義使用騒動、カリフォルニア州のAIデータ透明性法まで、全19トピックを徹底解説します。AI業界の地殻変動をお見逃しなく！</description>
+      <itunes:summary>今日はNVIDIAの次世代AIプロセッサ発表やOpenAIへの300億ドル出資など、AIインフラ戦争の最新動向をお届けします。MetaがAIエージェント専用SNSを買収、世界モデル開発に巨額資金が流入する一方、Anthropicが米国防総省を提訴するという衝撃のニュースも。GoogleのWorkspace全自動化、AIアプリの継続利用率低迷問題、Grammarlyの無断名義使用騒動、カリフォルニア州のAIデータ透明性法まで、全19トピックを徹底解説します。AI業界の地殻変動をお見逃しなく！</itunes:summary>
+      <pubDate>Thu, 12 Mar 2026 07:21:28 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260312-20260312</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oCVZxHllbzuh91Bf1eoghwUwf-3YUea8" length="25102797" type="audio/mpeg"/>
+      <itunes:duration>51:39</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月11日】AIエージェント経済が本格始動＆軍事AI利用で業界が二分</title>
       <description>今日は2026年3月上旬のAI業界を揺るがす大ニュースを一挙にお届けします。Anthropicが米国防総省を提訴し全米政府機関で使用禁止に。一方でGoogleは軍との連携を深め、OpenAIは社内紛争で幹部辞任。AIの軍事利用を巡り業界が真っ二つに割れています。さらにMetaがAI同士が交流するSNSを買収、Microsoftは月額99ドルのAI特化プランを発表、Geminiのユーザーが7.5億人突破など、エージェント経済の加速が止まりません。中東の地政学リスクや学術論文のAI利用問題、日本の外交戦略まで、全16トピックを徹底解説します。</description>
