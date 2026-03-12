@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 12 Mar 2026 07:08:49 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:25:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月13日】AI検索が56%制覇！SEOの常識が根底から覆る時代へ</title>
+      <description>今回はSEO・デジタルマーケティングの最前線を一挙にお届けします。AI検索が世界の検索行動の56%を占め、従来のSEOが通用しなくなる衝撃の調査結果を詳しく解説。さらに、Google Search ConsoleのAI機能が全ユーザーに解放された話題や、AIに自社ブランドの語られ方をコントロールする「防衛的SEO」という新概念、Google Mapsの会話型検索「Ask Maps」の登場、Meta広告のクリック定義の大改修まで、全13トピックを漏れなくカバー。AI時代のマーケティング戦略を知りたい方は必聴です！</description>
+      <itunes:summary>今回はSEO・デジタルマーケティングの最前線を一挙にお届けします。AI検索が世界の検索行動の56%を占め、従来のSEOが通用しなくなる衝撃の調査結果を詳しく解説。さらに、Google Search ConsoleのAI機能が全ユーザーに解放された話題や、AIに自社ブランドの語られ方をコントロールする「防衛的SEO」という新概念、Google Mapsの会話型検索「Ask Maps」の登場、Meta広告のクリック定義の大改修まで、全13トピックを漏れなくカバー。AI時代のマーケティング戦略を知りたい方は必聴です！</itunes:summary>
+      <pubDate>Fri, 13 Mar 2026 07:25:08 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260313-20260313</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_TleiFw2zglm9thRs7rwERibPlqTlQCy" length="18633357" type="audio/mpeg"/>
+      <itunes:duration>38:08</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月12日】AI検索が56%突破！SEOの常識が根本から変わる</title>
       <description>世界の検索ボリュームの56%がAI検索に移行し、SEOの常識が激変しています。今回はGoogleコアアップデートの最新動向、AI Overviewに引用されるコンテンツの意外な法則、Gemini 3の検索・広告への本格統合、そしてPerplexityの新機能「Model Council」まで全20トピックを徹底解説。Metaの欧州デジタル税転嫁やマッキンゼーが提唱する「ポジションレスマーケティング」など、マーケター必聴の最新情報をお届けします。従来のSEOからLLMO/GEO時代へ、今すぐ知るべき変化の全体像がわかります。</description>
