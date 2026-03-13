@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 13 Mar 2026 07:30:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 07:08:30 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月14日】Meta AI遅延の衝撃＆AI同士が戦う医療費バトル</title>
+      <description>今日はMetaの次世代AIモデル「Avocado」のリリース延期とGoogle Geminiライセンス検討という衝撃ニュースからスタート。Google Mapsの過去10年最大の刷新、イーロン・マスクのPC自動操作AI「Macrohard」、営業AI「Rox AI」の異例のユニコーン到達、SaaS業界崩壊論争、米国医療現場でのAI対AIの攻防、Googleのニュース記事を使った洪水予測AI、Microsoft Copilot Healthのプライバシー問題、NVIDIAのGTC2026直前発表、富士通のサプライチェーンAI、SnowflakeとOpenAIの提携、AnthropicのペンタゴンAI訴訟など全19本を徹底解説します。</description>
+      <itunes:summary>今日はMetaの次世代AIモデル「Avocado」のリリース延期とGoogle Geminiライセンス検討という衝撃ニュースからスタート。Google Mapsの過去10年最大の刷新、イーロン・マスクのPC自動操作AI「Macrohard」、営業AI「Rox AI」の異例のユニコーン到達、SaaS業界崩壊論争、米国医療現場でのAI対AIの攻防、Googleのニュース記事を使った洪水予測AI、Microsoft Copilot Healthのプライバシー問題、NVIDIAのGTC2026直前発表、富士通のサプライチェーンAI、SnowflakeとOpenAIの提携、AnthropicのペンタゴンAI訴訟など全19本を徹底解説します。</itunes:summary>
+      <pubDate>Sat, 14 Mar 2026 07:08:27 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260314-20260314</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12YieG6QjE-Ur7bWn6xudo6K0PoAUaqEC" length="27581469" type="audio/mpeg"/>
+      <itunes:duration>56:22</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月13日】AI軍事利用の攻防＆NVIDIA新チップRubinで推論コスト激減</title>
       <description>今日は盛りだくさんの17本のAIニュースをお届けします。米国防総省がAnthropicを「サプライチェーンリスク」に指定した衝撃の背景と、OpenAI・Googleとの三つ巴の攻防を詳しく解説。NVIDIAの新チップ「Rubin」がAI推論コストを10分の1にする衝撃、NECが開発した人の心理状態まで予測する「フィジカルAI」、MetaのAI専用SNS買収、Perplexityのハードウェア参入、そして日本のデジタル庁が国産LLMを選定した「源内」プロジェクトまで、AI業界の最前線を余すところなくお届けします。</description>
