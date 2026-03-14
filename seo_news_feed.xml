@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 07:02:28 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:57:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月15日】Google検索が激変！AI時代のSEO生存戦略</title>
+      <description>今回はSEO・検索エンジン関連のニュースを一挙にお届けします。AIで量産されたリスト記事がGoogleの逆鱗に触れて壊滅的な打撃を受けた話、Google Discoverが地方メディアの全国リーチを最大80%カットした衝撃のアップデート、Search ConsoleにAI機能が搭載されてデータ分析が劇的に簡単になった話など盛りだくさん。さらにGoogle AI Modeの自己引用率が3倍に急増し、外部サイトへのトラフィックが危機的状況に。検索順位という概念が崩壊しつつある今、マーケターはどう生き残るべきか？最前線の動向を分かりやすく解説します。</description>
+      <itunes:summary>今回はSEO・検索エンジン関連のニュースを一挙にお届けします。AIで量産されたリスト記事がGoogleの逆鱗に触れて壊滅的な打撃を受けた話、Google Discoverが地方メディアの全国リーチを最大80%カットした衝撃のアップデート、Search ConsoleにAI機能が搭載されてデータ分析が劇的に簡単になった話など盛りだくさん。さらにGoogle AI Modeの自己引用率が3倍に急増し、外部サイトへのトラフィックが危機的状況に。検索順位という概念が崩壊しつつある今、マーケターはどう生き残るべきか？最前線の動向を分かりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 15 Mar 2026 06:57:15 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260315-20260315</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11kBqaDGS1HPzaiZ9C41vv1QxBkjSHRHE" length="19034133" type="audio/mpeg"/>
+      <itunes:duration>39:24</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月14日】検索トラフィック42%減の衝撃！AI検索時代のSEO大変革</title>
       <description>Google AI Overviewsによりオーガニック検索クリックが42%も減少したという衝撃の調査結果を詳しく解説。さらにSearch Consoleの新機能「指名検索フィルター」や「AI構成機能」、史上初のDiscover専用コアアップデート、GoogleマップへのGemini搭載「Ask Maps」など、Google関連の大型ニュースが目白押しです。ChatGPTの無料版と有料版で引用ソースが全く違う驚きの事実、Yahoo ScoutのMyScout、防衛的SEOの重要性、そしてMeta広告のAI完全自動化まで、デジタルマーケティング業界を揺るがす21本のニュースを徹底解説します。</description>
