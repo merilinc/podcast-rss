@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 12 Mar 2026 07:15:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:52:28 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月15日】ChatGPTが&quot;何でも屋&quot;に進化＆軍事契約で大炎上</title>
+      <description>今日はChatGPT関連の大型ニュースを9本まとめてお届けします。DoorDashやUberがチャット画面から直接使えるようになった衝撃のアプリ統合、動画生成AI「Sora」の戦略転換、数学や科学を体験型で学べる新機能、最新モデルGPT-5.3/5.4の実力、英国初のクレジットスコア連携、GoogleやMicrosoftへの書き込み機能、そしてOpenAIの米国防総省との契約で起きたアンインストール急増とClaude躍進の裏側まで。イーロン・マスク氏のxAIがGrokを作り直す決断や、法人向け分析ツールの新展開も詳しく解説します。</description>
+      <itunes:summary>今日はChatGPT関連の大型ニュースを9本まとめてお届けします。DoorDashやUberがチャット画面から直接使えるようになった衝撃のアプリ統合、動画生成AI「Sora」の戦略転換、数学や科学を体験型で学べる新機能、最新モデルGPT-5.3/5.4の実力、英国初のクレジットスコア連携、GoogleやMicrosoftへの書き込み機能、そしてOpenAIの米国防総省との契約で起きたアンインストール急増とClaude躍進の裏側まで。イーロン・マスク氏のxAIがGrokを作り直す決断や、法人向け分析ツールの新展開も詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 15 Mar 2026 06:52:25 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260315-20260315</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w98Gnr1qnX945mpxGBvkRyKMyeUfyUHf" length="18048693" type="audio/mpeg"/>
+      <itunes:duration>37:36</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月12日】Sora統合＆Excel革命！ChatGPT大変革ウィーク</title>
       <description>今週のOpenAIは激動の1週間でした。動画生成AI「Sora」がChatGPTに直接統合される計画が浮上し、クリエイティブの民主化が一気に加速しそうです。さらに「ChatGPT for Excel」ベータ版が登場し、ビジネスパーソンの働き方が根本から変わるかもしれません。一方で、無料版への広告導入、ショッピング機能からの撤退、カナダでの訴訟問題など、急拡大するプラットフォームの光と影も浮き彫りに。米国上院がAIツールを公式承認した歴史的ニュースや、Shazamとの音楽連携、教育ツールの新機能まで、全11トピックを徹底解説します。</description>
