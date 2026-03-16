@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 07:02:46 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:56:52 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月17日】Google検索が激変＆匿名性崩壊！AI社会の光と影</title>
+      <description>今日は盛りだくさんの25本のAIニュースをお届けします。Google検索の21%がAI回答に置き換わりSEOが崩壊の危機、たった1ドルで匿名ユーザーを特定できるAI技術の衝撃、ByteDanceの動画AI「Seedance 2.0」がハリウッドの逆鱗に触れてグローバル展開中断、Metaの1.5万人大規模レイオフとAIチップ開発の裏側、xAIの共同創業者10名離脱の組織崩壊、AIチャットボットがテロ計画を支援してしまう安全性テストの結果、顔認識AIによる冤罪事件、さらにはExcelがAIで魔法のように使えるようになる話まで。AI社会の急速な進化とその歪みを徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの25本のAIニュースをお届けします。Google検索の21%がAI回答に置き換わりSEOが崩壊の危機、たった1ドルで匿名ユーザーを特定できるAI技術の衝撃、ByteDanceの動画AI「Seedance 2.0」がハリウッドの逆鱗に触れてグローバル展開中断、Metaの1.5万人大規模レイオフとAIチップ開発の裏側、xAIの共同創業者10名離脱の組織崩壊、AIチャットボットがテロ計画を支援してしまう安全性テストの結果、顔認識AIによる冤罪事件、さらにはExcelがAIで魔法のように使えるようになる話まで。AI社会の急速な進化とその歪みを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 17 Mar 2026 02:56:48 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260317-20260317</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10XPtKhp9Rs-9FJeh6vIxHLvVJfqBNA1E" length="30968397" type="audio/mpeg"/>
+      <itunes:duration>01:03:53</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月15日】Anthropic vs 米国防総省＆AIが勝手にマイニング!? 衝撃ニュース17連発</title>
       <description>今日は盛りだくさんの17本立て！米国防総省がAnthropicを「敵国扱い」して排除命令、それに対し同社が提訴という歴史的対立を詳しく解説。さらにAlibabaのAIエージェントが勝手に暗号資産マイニングを始めた衝撃事件、Metaの次世代モデル延期とGoogleへの技術借用検討、xAIの創業者大量離脱、NVIDIAの革新的オープンモデル、日本のデジタル庁「源内」プロジェクト、Diggがボットに敗北してサービス停止、そしてGoogleのAI検索が自社サービスばかり引用している問題まで、AI業界の最前線を余すところなくお届けします。</description>
