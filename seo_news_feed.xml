@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 06:57:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:15:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月17日】AI時代にSEOは死んだ？検索の常識が根底から覆る</title>
+      <description>オーガニック検索クリックが42%も減少し、「SEOは根本的に破壊された」と断言する専門家も。AIエージェントがブランドを選ぶ時代、信頼性が新たなランキング要因になるとは？プレスリリースがAIにほぼ無視されている衝撃データ、エンティティ権威という新概念、WordPress・Shopify・Wixの3社がウェブの73%を支配する寡占構造、Googleの新広告フォーマット「Sponsored Shops」、LinkedInのLLM駆動アルゴリズム刷新、GA4の新機能まで、SEO・デジタルマーケティングの最前線を11本のニュースで徹底解説します。</description>
+      <itunes:summary>オーガニック検索クリックが42%も減少し、「SEOは根本的に破壊された」と断言する専門家も。AIエージェントがブランドを選ぶ時代、信頼性が新たなランキング要因になるとは？プレスリリースがAIにほぼ無視されている衝撃データ、エンティティ権威という新概念、WordPress・Shopify・Wixの3社がウェブの73%を支配する寡占構造、Googleの新広告フォーマット「Sponsored Shops」、LinkedInのLLM駆動アルゴリズム刷新、GA4の新機能まで、SEO・デジタルマーケティングの最前線を11本のニュースで徹底解説します。</itunes:summary>
+      <pubDate>Tue, 17 Mar 2026 07:15:46 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260317-20260317</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CssgRFgd6U2GYBpY1vm_fguGpRNFg-m7" length="21272805" type="audio/mpeg"/>
+      <itunes:duration>43:31</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月15日】Google検索が激変！AI時代のSEO生存戦略</title>
       <description>今回はSEO・検索エンジン関連のニュースを一挙にお届けします。AIで量産されたリスト記事がGoogleの逆鱗に触れて壊滅的な打撃を受けた話、Google Discoverが地方メディアの全国リーチを最大80%カットした衝撃のアップデート、Search ConsoleにAI機能が搭載されてデータ分析が劇的に簡単になった話など盛りだくさん。さらにGoogle AI Modeの自己引用率が3倍に急増し、外部サイトへのトラフィックが危機的状況に。検索順位という概念が崩壊しつつある今、マーケターはどう生き残るべきか？最前線の動向を分かりやすく解説します。</description>
