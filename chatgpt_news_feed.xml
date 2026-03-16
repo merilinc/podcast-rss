@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 15 Mar 2026 06:52:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 07:15:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月17日】OpenAI巨額合弁会社＆Sora統合で激変するAIの未来</title>
+      <description>今日はOpenAIがPEファンド4社と1.5兆円規模の合弁会社設立へ動き出したニュースを筆頭に、動画生成AI「Sora」のChatGPT統合計画、ブリタニカ百科事典からの著作権訴訟、ChatGPT内の決済機能縮小とエージェント型AIへの戦略転換など、OpenAIの大きな方針転換を10本のニュースで徹底解説します。さらに、WSU研究が暴いたAIの推論能力の限界、新モデルGPT-5.3/5.4の全貌、広告展開の噂の真相、アダルトモード延期の裏事情、そして注目のオープンソースAIエージェント「OpenClaw」まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今日はOpenAIがPEファンド4社と1.5兆円規模の合弁会社設立へ動き出したニュースを筆頭に、動画生成AI「Sora」のChatGPT統合計画、ブリタニカ百科事典からの著作権訴訟、ChatGPT内の決済機能縮小とエージェント型AIへの戦略転換など、OpenAIの大きな方針転換を10本のニュースで徹底解説します。さらに、WSU研究が暴いたAIの推論能力の限界、新モデルGPT-5.3/5.4の全貌、広告展開の噂の真相、アダルトモード延期の裏事情、そして注目のオープンソースAIエージェント「OpenClaw」まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Tue, 17 Mar 2026 07:15:23 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260317-20260317</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R3dGSzE5Geri5Qa0Gu53zpqhfP4ldRMg" length="20782077" type="audio/mpeg"/>
+      <itunes:duration>42:50</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月15日】ChatGPTが&quot;何でも屋&quot;に進化＆軍事契約で大炎上</title>
       <description>今日はChatGPT関連の大型ニュースを9本まとめてお届けします。DoorDashやUberがチャット画面から直接使えるようになった衝撃のアプリ統合、動画生成AI「Sora」の戦略転換、数学や科学を体験型で学べる新機能、最新モデルGPT-5.3/5.4の実力、英国初のクレジットスコア連携、GoogleやMicrosoftへの書き込み機能、そしてOpenAIの米国防総省との契約で起きたアンインストール急増とClaude躍進の裏側まで。イーロン・マスク氏のxAIがGrokを作り直す決断や、法人向け分析ツールの新展開も詳しく解説します。</description>
