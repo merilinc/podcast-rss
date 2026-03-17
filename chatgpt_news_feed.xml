@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Mar 2026 07:15:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:58:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月18日】OpenAI大転換！IPO準備・新モデル・愛犬がんワクチンまで</title>
+      <description>今日はOpenAIを取り巻く激動のニュースを一挙にお届けします。最速・最安の新モデル「GPT-5.4 mini/nano」のリリース、年内IPOに向けたサイドプロジェクト縮小と生産性ツールへの転換宣言、さらにMicrosoftがCopilotに競合Claudeを導入するという衝撃の展開も。ChatGPTで愛犬のがんワクチンを設計した技術者の感動エピソードや、ブリタニカ百科事典からの著作権訴訟、アダルトモードの延期騒動、Nvidiaの次世代AIチップ発表など、AI業界の今がわかる20本のニュースを徹底解説します。</description>
+      <itunes:summary>今日はOpenAIを取り巻く激動のニュースを一挙にお届けします。最速・最安の新モデル「GPT-5.4 mini/nano」のリリース、年内IPOに向けたサイドプロジェクト縮小と生産性ツールへの転換宣言、さらにMicrosoftがCopilotに競合Claudeを導入するという衝撃の展開も。ChatGPTで愛犬のがんワクチンを設計した技術者の感動エピソードや、ブリタニカ百科事典からの著作権訴訟、アダルトモードの延期騒動、Nvidiaの次世代AIチップ発表など、AI業界の今がわかる20本のニュースを徹底解説します。</itunes:summary>
+      <pubDate>Wed, 18 Mar 2026 06:58:17 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260318-20260318</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CT9YGgErXqEjaakkOE5gbbFw5B82_WXJ" length="26029125" type="audio/mpeg"/>
+      <itunes:duration>53:34</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月17日】OpenAI巨額合弁会社＆Sora統合で激変するAIの未来</title>
       <description>今日はOpenAIがPEファンド4社と1.5兆円規模の合弁会社設立へ動き出したニュースを筆頭に、動画生成AI「Sora」のChatGPT統合計画、ブリタニカ百科事典からの著作権訴訟、ChatGPT内の決済機能縮小とエージェント型AIへの戦略転換など、OpenAIの大きな方針転換を10本のニュースで徹底解説します。さらに、WSU研究が暴いたAIの推論能力の限界、新モデルGPT-5.3/5.4の全貌、広告展開の噂の真相、アダルトモード延期の裏事情、そして注目のオープンソースAIエージェント「OpenClaw」まで、盛りだくさんでお届けします。</description>
