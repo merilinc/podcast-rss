@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 07:13:07 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:07:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月19日】NVIDIA新時代宣言＆米国防総省がAI企業を乗り換えた衝撃の理由</title>
+      <description>今日は盛りだくさんの20本をお届けします。米国防総省がAnthropicとの2億ドル契約を打ち切りOpenAIへ移行した衝撃の背景、NVIDIAがGTC 2026で発表した次世代AI基盤「Vera Rubin」や宇宙用AIモジュールの全貌、Metaが270億ドルという過去最大のAIインフラ契約を結んだ狙い、さらにAIでプログラマーの仕事が実際に減り始めた証拠、楽天の7000億パラメータ国産LLM、ブリタニカ百科事典がOpenAIを訴えた知的財産バトルなど、AI業界の地殻変動を余すところなく解説します。</description>
+      <itunes:summary>今日は盛りだくさんの20本をお届けします。米国防総省がAnthropicとの2億ドル契約を打ち切りOpenAIへ移行した衝撃の背景、NVIDIAがGTC 2026で発表した次世代AI基盤「Vera Rubin」や宇宙用AIモジュールの全貌、Metaが270億ドルという過去最大のAIインフラ契約を結んだ狙い、さらにAIでプログラマーの仕事が実際に減り始めた証拠、楽天の7000億パラメータ国産LLM、ブリタニカ百科事典がOpenAIを訴えた知的財産バトルなど、AI業界の地殻変動を余すところなく解説します。</itunes:summary>
+      <pubDate>Thu, 19 Mar 2026 07:07:42 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260319-20260319</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KgdZhETHejr1dgN1YAr-J81Lf6zqAfxY" length="25181829" type="audio/mpeg"/>
+      <itunes:duration>52:22</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月18日】NVIDIA GTC総まとめ＆宇宙データセンター・AI著作権戦争の行方</title>
       <description>今日はNVIDIA GTC 2026の衝撃的な発表を徹底解説！ロボット用データ工場、推論専用チップ、さらには宇宙でAIを動かす新チップまで登場しました。さらにGoogleのGemini有料会員が驚異の258%増、ブリタニカがOpenAIを著作権侵害で提訴、米国防総省がAnthropicを排除する前代未聞の事態、MetaとNebiusの4兆円規模の巨額契約、ByteDanceの動画生成AIがハリウッドの壁にぶつかった話、日本政府のフィジカルAI戦略、RivianCEOの新ロボット企業設立まで、全21トピックをお届けします。AI業界の地殻変動をまるごとお伝えする特大回です！</description>
