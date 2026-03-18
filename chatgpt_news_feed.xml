@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Mar 2026 06:58:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 07:03:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月19日】OpenAI大転換！サイドクエスト縮小＆超高速新モデル登場</title>
+      <description>OpenAIが動画生成AI「Sora」など消費者向け事業を縮小し、ビジネス・コーディング領域に全力集中する戦略転換を発表。その背景にはAnthropicの猛追がありました。さらに、エージェント時代に向けた超高速・低コストの新モデル「GPT-5.4 mini/nano」の詳細、評価額1兆ドル規模の史上最大IPO計画、ChatGPTの料金体系の大幅見直し、そしてMicrosoft Azureとの連携強化まで、OpenAIの歴史的転換点を徹底解説します。</description>
+      <itunes:summary>OpenAIが動画生成AI「Sora」など消費者向け事業を縮小し、ビジネス・コーディング領域に全力集中する戦略転換を発表。その背景にはAnthropicの猛追がありました。さらに、エージェント時代に向けた超高速・低コストの新モデル「GPT-5.4 mini/nano」の詳細、評価額1兆ドル規模の史上最大IPO計画、ChatGPTの料金体系の大幅見直し、そしてMicrosoft Azureとの連携強化まで、OpenAIの歴史的転換点を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 19 Mar 2026 07:03:25 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260319-20260319</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11hux0o0jLiTW8cC8ivHpEI0WTl3ZyO8j" length="15701709" type="audio/mpeg"/>
+      <itunes:duration>32:40</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月18日】OpenAI大転換！IPO準備・新モデル・愛犬がんワクチンまで</title>
       <description>今日はOpenAIを取り巻く激動のニュースを一挙にお届けします。最速・最安の新モデル「GPT-5.4 mini/nano」のリリース、年内IPOに向けたサイドプロジェクト縮小と生産性ツールへの転換宣言、さらにMicrosoftがCopilotに競合Claudeを導入するという衝撃の展開も。ChatGPTで愛犬のがんワクチンを設計した技術者の感動エピソードや、ブリタニカ百科事典からの著作権訴訟、アダルトモードの延期騒動、Nvidiaの次世代AIチップ発表など、AI業界の今がわかる20本のニュースを徹底解説します。</description>
