@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 07:13:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:09:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月20日】Google AI検索が買い物まで完結！SEO激変の全貌</title>
+      <description>今週はGoogle検索の歴史的転換点をお届けします。AI Modeに決済機能が搭載され、検索画面から直接お買い物ができる時代が到来。AI Overviewの拡大でゼロクリック検索が69%に急増する一方、AI経由のコンバージョン率は従来の4.4倍という驚きのデータも。さらにSearch Consoleの新AI機能、Googlebotの知られざる内部構造、記事冒頭30%がAI引用の鍵という統計データ、Google Ads アトリビューション短縮によるROAS62%向上の裏技、Yahoo CEOのGoogle批判まで、全17トピックを徹底解説します。</description>
+      <itunes:summary>今週はGoogle検索の歴史的転換点をお届けします。AI Modeに決済機能が搭載され、検索画面から直接お買い物ができる時代が到来。AI Overviewの拡大でゼロクリック検索が69%に急増する一方、AI経由のコンバージョン率は従来の4.4倍という驚きのデータも。さらにSearch Consoleの新AI機能、Googlebotの知られざる内部構造、記事冒頭30%がAI引用の鍵という統計データ、Google Ads アトリビューション短縮によるROAS62%向上の裏技、Yahoo CEOのGoogle批判まで、全17トピックを徹底解説します。</itunes:summary>
+      <pubDate>Fri, 20 Mar 2026 07:09:33 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260320-20260320</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10Nh8bGMOEE60PyLmG4gO-n7nMCbG6DNf" length="22325805" type="audio/mpeg"/>
+      <itunes:duration>46:37</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月19日】AI検索の罠とGoogle大変革〜SEOの常識が崩壊する</title>
       <description>今週のSEOニュースは激動の1週間！AI検索最適化（GEO）が逆効果でペナルティを受ける衝撃事例、GoogleマップにGemini搭載の「Ask Maps」登場、個人データを活用した究極のパーソナライズ検索「Personal Intelligence」の無料化、さらにはフェイクニュースがAI Overviewに堂々とランクインしてしまう脆弱性も発覚。広告面ではMeta広告のアトリビューション激変への対応策、Google広告の自動化一本化、新フォーマット「Sponsored Shops」のテスト開始など盛りだくさん。SEO・広告担当者必聴の全13トピックを徹底解説します！</description>
