@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 19 Mar 2026 07:03:29 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 07:02:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月20日】ChatGPT大刷新！UI3階層化・使い放題廃止・MS法的措置の衝撃</title>
+      <description>今日はOpenAI関連の重要ニュースを11本まとめてお届けします。ChatGPTのモデル選択UIが「Instant」「Thinking」「Pro」の3階層に大刷新。さらに使い放題プラン廃止の示唆、MicrosoftがOpenAIとAmazonの500億ドル契約に法的措置を検討という衝撃のニュースも。新モデルGPT-5.4 mini/nanoのリリース、サイドプロジェクト縮小によるIPOへの本気度、Sam Altmanの感謝ツイート炎上事件、そしてOpenAI Japanの未成年保護の取り組みまで、AI業界の最前線を徹底解説します。</description>
+      <itunes:summary>今日はOpenAI関連の重要ニュースを11本まとめてお届けします。ChatGPTのモデル選択UIが「Instant」「Thinking」「Pro」の3階層に大刷新。さらに使い放題プラン廃止の示唆、MicrosoftがOpenAIとAmazonの500億ドル契約に法的措置を検討という衝撃のニュースも。新モデルGPT-5.4 mini/nanoのリリース、サイドプロジェクト縮小によるIPOへの本気度、Sam Altmanの感謝ツイート炎上事件、そしてOpenAI Japanの未成年保護の取り組みまで、AI業界の最前線を徹底解説します。</itunes:summary>
+      <pubDate>Fri, 20 Mar 2026 07:02:15 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260320-20260320</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iuvHVLBu5Qm1ZmaMfOIKBeAQJqQNeTOr" length="21728805" type="audio/mpeg"/>
+      <itunes:duration>45:07</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月19日】OpenAI大転換！サイドクエスト縮小＆超高速新モデル登場</title>
       <description>OpenAIが動画生成AI「Sora」など消費者向け事業を縮小し、ビジネス・コーディング領域に全力集中する戦略転換を発表。その背景にはAnthropicの猛追がありました。さらに、エージェント時代に向けた超高速・低コストの新モデル「GPT-5.4 mini/nano」の詳細、評価額1兆ドル規模の史上最大IPO計画、ChatGPTの料金体系の大幅見直し、そしてMicrosoft Azureとの連携強化まで、OpenAIの歴史的転換点を徹底解説します。</description>
