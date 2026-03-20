@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Mar 2026 07:09:37 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 07:04:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月21日】AI検索でクリック率61%激減！SEOの常識が崩壊する</title>
+      <description>今日はSEO・デジタルマーケティングの最前線を17本のニュースで徹底解説します。Google AI Overviewsの本格稼働で情報系記事のクリック率が最大61%も激減した衝撃データや、GoogleがAI検索内で直接買い物を完結させる「Universal Commerce Protocol」の拡大、一方でWalmartがChatGPT内決済のコンバージョン率が自社サイトの3分の1だったという冷や水データも。さらにAI検索時代の新概念「コンセンサスレイヤー」、PerplexityがなぜかGoogleをデフォルト検索に採用した理由、Google Search Consoleの新AI機能など、マーケター必聴の内容をお届けします。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最前線を17本のニュースで徹底解説します。Google AI Overviewsの本格稼働で情報系記事のクリック率が最大61%も激減した衝撃データや、GoogleがAI検索内で直接買い物を完結させる「Universal Commerce Protocol」の拡大、一方でWalmartがChatGPT内決済のコンバージョン率が自社サイトの3分の1だったという冷や水データも。さらにAI検索時代の新概念「コンセンサスレイヤー」、PerplexityがなぜかGoogleをデフォルト検索に採用した理由、Google Search Consoleの新AI機能など、マーケター必聴の内容をお届けします。</itunes:summary>
+      <pubDate>Sat, 21 Mar 2026 07:04:51 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260321-20260321</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hskqjo_RMKVoNdE4XpA5tm5YxEGPhju7" length="21155181" type="audio/mpeg"/>
+      <itunes:duration>43:22</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月20日】Google AI検索が買い物まで完結！SEO激変の全貌</title>
       <description>今週はGoogle検索の歴史的転換点をお届けします。AI Modeに決済機能が搭載され、検索画面から直接お買い物ができる時代が到来。AI Overviewの拡大でゼロクリック検索が69%に急増する一方、AI経由のコンバージョン率は従来の4.4倍という驚きのデータも。さらにSearch Consoleの新AI機能、Googlebotの知られざる内部構造、記事冒頭30%がAI引用の鍵という統計データ、Google Ads アトリビューション短縮によるROAS62%向上の裏技、Yahoo CEOのGoogle批判まで、全17トピックを徹底解説します。</description>
