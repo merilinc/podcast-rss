@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 07:02:06 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 06:58:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月22日】OpenAI大改革！8000人体制・広告導入・スーパーアプリの全貌</title>
+      <description>OpenAIが従業員を8,000人に倍増させる計画を発表。Anthropicとのエンタープライズ市場争いが激化しています。さらにChatGPT無料版への広告導入、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、決済機能「Instant Checkout」の終了と戦略転換、米国防総省との軍事契約を巡る「#CancelChatGPT」運動の波紋、Python開発ツールのAstral社買収、そしてAIが暴走しないよう最新モデルで監視するシステムの公開まで、OpenAIの大変革を7つのニュースで徹底解説します。</description>
+      <itunes:summary>OpenAIが従業員を8,000人に倍増させる計画を発表。Anthropicとのエンタープライズ市場争いが激化しています。さらにChatGPT無料版への広告導入、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、決済機能「Instant Checkout」の終了と戦略転換、米国防総省との軍事契約を巡る「#CancelChatGPT」運動の波紋、Python開発ツールのAstral社買収、そしてAIが暴走しないよう最新モデルで監視するシステムの公開まで、OpenAIの大変革を7つのニュースで徹底解説します。</itunes:summary>
+      <pubDate>Sun, 22 Mar 2026 06:58:54 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260322-20260322</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f6OdSkDhGXUd_isw3vEn7PspI904y4I2" length="19527693" type="audio/mpeg"/>
+      <itunes:duration>40:32</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月21日】OpenAIスーパーアプリ構想＆無制限プラン廃止の衝撃</title>
       <description>今日はOpenAI関連の重大ニュースを10本まとめてお届けします。ChatGPT・Codex・Atlasブラウザを統合する「スーパーアプリ」構想、イーロン・マスク率いるxAIがOpenAIから顧客を奪い始めた衝撃の営業戦略、Python開発ツール企業Astralの買収、AIの「暴走」を監視する最新システム、ニュース引用率わずか1%の問題、イライラする「続きが知りたいですか？」表現の改善、Deep Research機能の刷新、無制限サブスク廃止の示唆、ChatGPTへの広告導入、そして軽量モデルGPT-5.4 miniの登場まで、AI業界の最前線を詳しく解説します。</description>
