@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 21 Mar 2026 07:04:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:49:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月23日】Google大変革！AI時代のSEO新ルールを徹底解説</title>
+      <description>今回はSEO・デジタルマーケティング領域に激震が走った3つの重要ニュースをお届けします。まず、Googleの「2026年3月コアアップデート」が完了し、AIが量産した低品質コンテンツが一掃される一方、独自データや専門知識を持つサイトが大躍進しています。さらに、検索結果のタイトルをAIが勝手に書き換えるテストが公式確認され、パブリッシャーから猛反発が。そして、AI検索からのオプトアウト機能の開発も発表され、メディアとGoogleの主導権争いが激化しています。SEOの常識が根底から覆る今、何をすべきかを分かりやすく解説します。</description>
+      <itunes:summary>今回はSEO・デジタルマーケティング領域に激震が走った3つの重要ニュースをお届けします。まず、Googleの「2026年3月コアアップデート」が完了し、AIが量産した低品質コンテンツが一掃される一方、独自データや専門知識を持つサイトが大躍進しています。さらに、検索結果のタイトルをAIが勝手に書き換えるテストが公式確認され、パブリッシャーから猛反発が。そして、AI検索からのオプトアウト機能の開発も発表され、メディアとGoogleの主導権争いが激化しています。SEOの常識が根底から覆る今、何をすべきかを分かりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 23 Mar 2026 06:48:56 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260323-20260323</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V3HfUShy6vh2SlzHR_XRs0ofFXNhF5gb" length="13179645" type="audio/mpeg"/>
+      <itunes:duration>27:14</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月21日】AI検索でクリック率61%激減！SEOの常識が崩壊する</title>
       <description>今日はSEO・デジタルマーケティングの最前線を17本のニュースで徹底解説します。Google AI Overviewsの本格稼働で情報系記事のクリック率が最大61%も激減した衝撃データや、GoogleがAI検索内で直接買い物を完結させる「Universal Commerce Protocol」の拡大、一方でWalmartがChatGPT内決済のコンバージョン率が自社サイトの3分の1だったという冷や水データも。さらにAI検索時代の新概念「コンセンサスレイヤー」、PerplexityがなぜかGoogleをデフォルト検索に採用した理由、Google Search Consoleの新AI機能など、マーケター必聴の内容をお届けします。</description>
