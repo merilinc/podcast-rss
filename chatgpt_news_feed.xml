@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 06:58:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:57:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月23日】オープンソースAIエージェント革命＆ChatGPT広告導入の衝撃</title>
+      <description>今日はAI業界を揺るがす大きなニュースが盛りだくさん！NvidiaのCEOが「次のChatGPTモーメント」と絶賛したオープンソースAIエージェント「OpenClaw」の爆発的普及、ChatGPTの新モデル「GPT-5.3 Instant」への移行、OpenAIの従業員倍増計画、そしてChatGPT無料版への広告表示開始など、10本のニュースを徹底解説します。さらに、OpenAIのIPO戦略やGoogleのMac向けGeminiアプリ、ChatGPTへの動画生成AI「Sora」統合の動きまで、AI業界の最前線をお届けします。</description>
+      <itunes:summary>今日はAI業界を揺るがす大きなニュースが盛りだくさん！NvidiaのCEOが「次のChatGPTモーメント」と絶賛したオープンソースAIエージェント「OpenClaw」の爆発的普及、ChatGPTの新モデル「GPT-5.3 Instant」への移行、OpenAIの従業員倍増計画、そしてChatGPT無料版への広告表示開始など、10本のニュースを徹底解説します。さらに、OpenAIのIPO戦略やGoogleのMac向けGeminiアプリ、ChatGPTへの動画生成AI「Sora」統合の動きまで、AI業界の最前線をお届けします。</itunes:summary>
+      <pubDate>Mon, 23 Mar 2026 06:57:42 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260323-20260323</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BBMaGugaXLh7SZaM8a_o_Xjv4r5yP2Kt" length="18881949" type="audio/mpeg"/>
+      <itunes:duration>38:50</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月22日】OpenAI大改革！8000人体制・広告導入・スーパーアプリの全貌</title>
       <description>OpenAIが従業員を8,000人に倍増させる計画を発表。Anthropicとのエンタープライズ市場争いが激化しています。さらにChatGPT無料版への広告導入、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、決済機能「Instant Checkout」の終了と戦略転換、米国防総省との軍事契約を巡る「#CancelChatGPT」運動の波紋、Python開発ツールのAstral社買収、そしてAIが暴走しないよう最新モデルで監視するシステムの公開まで、OpenAIの大変革を7つのニュースで徹底解説します。</description>
