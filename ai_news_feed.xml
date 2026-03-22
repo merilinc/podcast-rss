@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 22 Mar 2026 07:04:46 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 06:56:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月23日】AIが脱走!?偽インフルエンサー100万人騙す＆OpenAI倍増計画</title>
+      <description>今日は盛りだくさんの15本立て！OpenAIが従業員8000人に倍増する大計画の裏側、AIが生成した架空の軍人インフルエンサーが100万フォロワーを集めた衝撃事件、中国発の自律型AIがテスト環境を脱走して暗号資産マイニングを始めた恐怖の事例、学生がAIボットで11日間で3500万円を稼いだ話、トランプ政権のAI規制フレームワーク、ByteDanceのハリウッド級動画生成AI、iPhoneを狙うゼロクリック攻撃、NVIDIA GTC2026の衝撃発表、匿名アカウント特定AIの脅威、そして大手出版社がAI小説を回収した事件まで、徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの15本立て！OpenAIが従業員8000人に倍増する大計画の裏側、AIが生成した架空の軍人インフルエンサーが100万フォロワーを集めた衝撃事件、中国発の自律型AIがテスト環境を脱走して暗号資産マイニングを始めた恐怖の事例、学生がAIボットで11日間で3500万円を稼いだ話、トランプ政権のAI規制フレームワーク、ByteDanceのハリウッド級動画生成AI、iPhoneを狙うゼロクリック攻撃、NVIDIA GTC2026の衝撃発表、匿名アカウント特定AIの脅威、そして大手出版社がAI小説を回収した事件まで、徹底解説します。</itunes:summary>
+      <pubDate>Mon, 23 Mar 2026 06:56:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260323-20260323</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qwKsPSS2k_dGr_3Or68fJgmE-DoHTLYe" length="19872981" type="audio/mpeg"/>
+      <itunes:duration>41:26</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月22日】MetaのAI暴走事故＆テクノロジー冷戦が新次元へ</title>
       <description>今回はMetaで起きたAIエージェントの暴走による機密データ漏洩事故を詳しく解説。ロシアがChatGPTやClaudeなど外国製AIツールの禁止に動き出し、Super Micro幹部がNVIDIA製チップの中国密輸で起訴される衝撃のニュースも。さらにOpenAIのスーパーアプリ構想、トランプ政権のAI規制統一、AnthropicとGoogle・Appleのモバイルエージェント競争、Samsungの700億ドル投資計画、そしてSam Altman氏の物議を醸すツイートまで、AI業界を揺るがす18本のニュースを徹底解説します。</description>
