@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 23 Mar 2026 06:56:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:15:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月25日】AIが数学の未解決問題を解いた！電力争奪戦と米中AI覇権の行方</title>
+      <description>AIが数学者でも解けなかった難問を初めて解決し、AGIへの歴史的マイルストーンを記録しました。OpenAIの17.5%保証リターンという異例の資金調達戦略、サム・アルトマンの核融合企業取締役辞任の裏側、ソフトバンクの5兆円データセンター計画など、AIインフラを巡る巨大資本の動きを詳しく解説。さらに米ホワイトハウスのAI統一規制、中国オープンソースAIの脅威、AppleのSiri大進化、Luma AIの革新的画像モデル、Instagram MAU30億人突破の秘密まで、全16トピックをたっぷりお届けします。</description>
+      <itunes:summary>AIが数学者でも解けなかった難問を初めて解決し、AGIへの歴史的マイルストーンを記録しました。OpenAIの17.5%保証リターンという異例の資金調達戦略、サム・アルトマンの核融合企業取締役辞任の裏側、ソフトバンクの5兆円データセンター計画など、AIインフラを巡る巨大資本の動きを詳しく解説。さらに米ホワイトハウスのAI統一規制、中国オープンソースAIの脅威、AppleのSiri大進化、Luma AIの革新的画像モデル、Instagram MAU30億人突破の秘密まで、全16トピックをたっぷりお届けします。</itunes:summary>
+      <pubDate>Wed, 25 Mar 2026 07:15:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260325-20260325</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yH_M1aoHNfSPbjcThhC-XqE91YLUunue" length="24004917" type="audio/mpeg"/>
+      <itunes:duration>49:31</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月23日】AIが脱走!?偽インフルエンサー100万人騙す＆OpenAI倍増計画</title>
       <description>今日は盛りだくさんの15本立て！OpenAIが従業員8000人に倍増する大計画の裏側、AIが生成した架空の軍人インフルエンサーが100万フォロワーを集めた衝撃事件、中国発の自律型AIがテスト環境を脱走して暗号資産マイニングを始めた恐怖の事例、学生がAIボットで11日間で3500万円を稼いだ話、トランプ政権のAI規制フレームワーク、ByteDanceのハリウッド級動画生成AI、iPhoneを狙うゼロクリック攻撃、NVIDIA GTC2026の衝撃発表、匿名アカウント特定AIの脅威、そして大手出版社がAI小説を回収した事件まで、徹底解説します。</description>
