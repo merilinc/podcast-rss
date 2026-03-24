@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 07:04:40 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 07:08:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月25日】OpenAI広告参入＆核融合電力契約＆IPOリスク全公開</title>
+      <description>今日はOpenAI特集！Metaの広告トップを引き抜いてChatGPTに広告導入へ。IPO文書ではMicrosoft依存やTSMC半導体リスク、マスク氏の訴訟まで赤裸々に開示。従業員8,000人への倍増計画、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、核融合スタートアップとの50GW電力契約交渉、PE企業への17.5%保証リターンなど驚きの戦略が続々。さらに「CHATGPT」商標が拒否された衝撃、大学での導入延期騒動、使い放題プラン廃止の可能性、ハリウッド進出の噂まで、全22トピックを徹底解説します。</description>
+      <itunes:summary>今日はOpenAI特集！Metaの広告トップを引き抜いてChatGPTに広告導入へ。IPO文書ではMicrosoft依存やTSMC半導体リスク、マスク氏の訴訟まで赤裸々に開示。従業員8,000人への倍増計画、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、核融合スタートアップとの50GW電力契約交渉、PE企業への17.5%保証リターンなど驚きの戦略が続々。さらに「CHATGPT」商標が拒否された衝撃、大学での導入延期騒動、使い放題プラン廃止の可能性、ハリウッド進出の噂まで、全22トピックを徹底解説します。</itunes:summary>
+      <pubDate>Wed, 25 Mar 2026 07:07:59 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260325-20260325</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bpz3-stYlEDCbNfF031mZ48Q5ZavoXOz" length="21691197" type="audio/mpeg"/>
+      <itunes:duration>44:39</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月24日】OpenAI非常事態宣言！8000人採用＆核融合で電力確保へ</title>
       <description>OpenAIが競合Anthropicの猛追を受けて「コードレッド」を発動し、従業員を8000人規模へ倍増させる計画を発表しました。さらにプライベートエクイティ企業への17.5%リターン保証、ChatGPT無料版への広告導入、核融合スタートアップとのギガワット級電力契約など、驚きの施策が続々と明らかに。新機能「Library」やスーパーアプリ構想、GPT-5.4のフロントエンド設計ガイド、そしてChatGPTの経済的影響レポートまで、2026年3月のOpenAI最新動向を全10トピック徹底解説します。</description>
