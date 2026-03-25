@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 07:15:58 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:16:14 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月26日】AI軍事利用で大激震＆OpenAI Sora終了の衝撃</title>
+      <description>トランプ政権がAI規制を一気に撤廃する新フレームワークを発表。米国防総省がAnthropicを排除しOpenAIと契約、抗議運動「#QuitGPT」で280万人が離反する事態に。OpenAIは動画生成AI「Sora」を突如終了し、ディズニーとの10億ドル提携も白紙。一方、GoogleのメモリAI圧縮技術やAlibabaの独自チップ、Armの歴史的戦略転換など半導体の覇権争いも激化。楽天AIモデルの中国製リブランド問題、NASAの火星探査AI、AIボット専用SNSの珍事件まで、全20本のニュースを徹底解説します。</description>
+      <itunes:summary>トランプ政権がAI規制を一気に撤廃する新フレームワークを発表。米国防総省がAnthropicを排除しOpenAIと契約、抗議運動「#QuitGPT」で280万人が離反する事態に。OpenAIは動画生成AI「Sora」を突如終了し、ディズニーとの10億ドル提携も白紙。一方、GoogleのメモリAI圧縮技術やAlibabaの独自チップ、Armの歴史的戦略転換など半導体の覇権争いも激化。楽天AIモデルの中国製リブランド問題、NASAの火星探査AI、AIボット専用SNSの珍事件まで、全20本のニュースを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 26 Mar 2026 07:16:11 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260326-20260326</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eBFYqk6Ng_24y00wUUqbUteUDTjsnh5A" length="20942085" type="audio/mpeg"/>
+      <itunes:duration>43:05</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月25日】AIが数学の未解決問題を解いた！電力争奪戦と米中AI覇権の行方</title>
       <description>AIが数学者でも解けなかった難問を初めて解決し、AGIへの歴史的マイルストーンを記録しました。OpenAIの17.5%保証リターンという異例の資金調達戦略、サム・アルトマンの核融合企業取締役辞任の裏側、ソフトバンクの5兆円データセンター計画など、AIインフラを巡る巨大資本の動きを詳しく解説。さらに米ホワイトハウスのAI統一規制、中国オープンソースAIの脅威、AppleのSiri大進化、Luma AIの革新的画像モデル、Instagram MAU30億人突破の秘密まで、全16トピックをたっぷりお届けします。</description>
