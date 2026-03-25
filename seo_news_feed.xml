@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 24 Mar 2026 07:18:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:21:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月26日】Google大激変！情報増分コアアプデ＆AI検索時代のSEO生存戦略</title>
+      <description>2026年3月のGoogle関連アップデートを全方位で徹底解説！「情報増分」を初めて本格採用したコアアップデートの衝撃、わずか19時間半で完了したSpamBrainスパム検知、Search Consoleの革新的AI機能、そしてGEO（生成エンジン最適化）へのパラダイムシフトまで。さらにAI Overviewsの広告拡大、PMaxの自動ボイスオーバー炎上、自律型AIエージェントによる広告運用の全自動化など、SEO・広告運用者が今すぐ知るべき21のニュースを2人が楽しく深掘りします。AI時代に生き残るための戦略がここに！</description>
+      <itunes:summary>2026年3月のGoogle関連アップデートを全方位で徹底解説！「情報増分」を初めて本格採用したコアアップデートの衝撃、わずか19時間半で完了したSpamBrainスパム検知、Search Consoleの革新的AI機能、そしてGEO（生成エンジン最適化）へのパラダイムシフトまで。さらにAI Overviewsの広告拡大、PMaxの自動ボイスオーバー炎上、自律型AIエージェントによる広告運用の全自動化など、SEO・広告運用者が今すぐ知るべき21のニュースを2人が楽しく深掘りします。AI時代に生き残るための戦略がここに！</itunes:summary>
+      <pubDate>Thu, 26 Mar 2026 07:21:12 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260326-20260326</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rJltnNxwvRzcIFRlMBCEZaIC5wwAe-Td" length="20345325" type="audio/mpeg"/>
+      <itunes:duration>42:16</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月24日】AI検索革命とゼロクリック時代のSEO生存戦略</title>
       <description>今回はSEO・デジタルマーケティングの最前線を全13トピックでお届けします。Googleローカルパックの電話ボタン激減の衝撃、AI生成コンテンツの16ヶ月実験が示した限界、ゼロクリック検索時代の新指標「シェア・オブ・ボイス」、Perplexityの新ブラウザがあえてGoogleを採用した理由、GA4のデータ誤差25〜40%問題、マーケティング代理店の53%がAIを脅威と感じている実態まで、AI時代を生き残るための実践的な知識を徹底解説します。</description>
