@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 25 Mar 2026 07:08:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 07:14:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月26日】Sora終了＆GPT-5.4全面移行！OpenAI大転換の全貌</title>
+      <description>OpenAIが激動の転換期を迎えています。話題の動画生成AI「Sora」がまさかの完全終了、ディズニーとの10億ドル提携も白紙に。一方で最新モデル「GPT-5.4」シリーズへの完全移行、ショッピング機能の大幅リニューアル、AIの行動ルールブック「Model Spec」の公開、そしてIPOに向けた約100億ドルの巨額資金調達など、怒涛の16本のニュースを徹底解説します。Armの自社製AIチップにOpenAIが初期顧客として参加する衝撃のハードウェア戦略や、無料版ChatGPTへの広告導入計画まで、見逃せない話題が満載です。</description>
+      <itunes:summary>OpenAIが激動の転換期を迎えています。話題の動画生成AI「Sora」がまさかの完全終了、ディズニーとの10億ドル提携も白紙に。一方で最新モデル「GPT-5.4」シリーズへの完全移行、ショッピング機能の大幅リニューアル、AIの行動ルールブック「Model Spec」の公開、そしてIPOに向けた約100億ドルの巨額資金調達など、怒涛の16本のニュースを徹底解説します。Armの自社製AIチップにOpenAIが初期顧客として参加する衝撃のハードウェア戦略や、無料版ChatGPTへの広告導入計画まで、見逃せない話題が満載です。</itunes:summary>
+      <pubDate>Thu, 26 Mar 2026 07:14:00 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260326-20260326</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z1qSnyd7ml_nib_dBijAoCifqB21IqWB" length="18874605" type="audio/mpeg"/>
+      <itunes:duration>39:08</itunes:duration>
+      <itunes:episode>34</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月25日】OpenAI広告参入＆核融合電力契約＆IPOリスク全公開</title>
       <description>今日はOpenAI特集！Metaの広告トップを引き抜いてChatGPTに広告導入へ。IPO文書ではMicrosoft依存やTSMC半導体リスク、マスク氏の訴訟まで赤裸々に開示。従業員8,000人への倍増計画、ChatGPT・Codex・Atlasを統合する「スーパーアプリ」構想、核融合スタートアップとの50GW電力契約交渉、PE企業への17.5%保証リターンなど驚きの戦略が続々。さらに「CHATGPT」商標が拒否された衝撃、大学での導入延期騒動、使い放題プラン廃止の可能性、ハリウッド進出の噂まで、全22トピックを徹底解説します。</description>
