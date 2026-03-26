@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 07:16:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:14:22 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月27日】OpenAI Sora終了の衝撃＆Arm初の自社チップ参戦</title>
+      <description>今日は盛りだくさんの19本のAIニュースをお届けします。OpenAIがAI動画生成アプリ「Sora」を突如終了しディズニーとの10億ドル契約も白紙に。GoogleのメモリをSF級に圧縮する新技術「TurboQuant」、Armが35年の歴史で初めて自社チップを直販する衝撃の戦略転換、AppleがGoogleのGeminiを「家庭教師」にして自社AIを育てる蒸留戦略、Anthropicと米国防総省の法廷闘争、AIデータセンター建設の一時停止法案、NASAの火星ローバーがClaude搭載で完全自動運転成功など、インフラからアプリ、規制、宇宙まで、AI業界の大転換期を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの19本のAIニュースをお届けします。OpenAIがAI動画生成アプリ「Sora」を突如終了しディズニーとの10億ドル契約も白紙に。GoogleのメモリをSF級に圧縮する新技術「TurboQuant」、Armが35年の歴史で初めて自社チップを直販する衝撃の戦略転換、AppleがGoogleのGeminiを「家庭教師」にして自社AIを育てる蒸留戦略、Anthropicと米国防総省の法廷闘争、AIデータセンター建設の一時停止法案、NASAの火星ローバーがClaude搭載で完全自動運転成功など、インフラからアプリ、規制、宇宙まで、AI業界の大転換期を徹底解説します。</itunes:summary>
+      <pubDate>Fri, 27 Mar 2026 07:14:19 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260327-20260327</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dv0r6ckNUSnNILz6aV0Ex_YzzG_a9YrG" length="27431661" type="audio/mpeg"/>
+      <itunes:duration>56:03</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月26日】AI軍事利用で大激震＆OpenAI Sora終了の衝撃</title>
       <description>トランプ政権がAI規制を一気に撤廃する新フレームワークを発表。米国防総省がAnthropicを排除しOpenAIと契約、抗議運動「#QuitGPT」で280万人が離反する事態に。OpenAIは動画生成AI「Sora」を突如終了し、ディズニーとの10億ドル提携も白紙。一方、GoogleのメモリAI圧縮技術やAlibabaの独自チップ、Armの歴史的戦略転換など半導体の覇権争いも激化。楽天AIモデルの中国製リブランド問題、NASAの火星探査AI、AIボット専用SNSの珍事件まで、全20本のニュースを徹底解説します。</description>
