@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Mar 2026 07:14:02 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 07:19:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月27日】Sora終了＆ディズニー撤退！ChatGPTの大転換期を徹底解説</title>
+      <description>今日は盛りだくさんです！OpenAIの動画生成AI「Sora」がわずか半年で完全終了、ディズニーとの10億ドル提携も白紙に。その隙を突くイーロン・マスクのxAIの動きとは？さらにChatGPTのショッピング機能が大幅刷新、成人向け「Citronモード」の開発中止の裏事情、元Meta幹部の引き抜きによる広告事業本格化、ClaudeがApp Storeで首位奪取した衝撃の背景、そしてGPT旧モデルの完全退役まで。全21トピックを余すところなくお届けします！</description>
+      <itunes:summary>今日は盛りだくさんです！OpenAIの動画生成AI「Sora」がわずか半年で完全終了、ディズニーとの10億ドル提携も白紙に。その隙を突くイーロン・マスクのxAIの動きとは？さらにChatGPTのショッピング機能が大幅刷新、成人向け「Citronモード」の開発中止の裏事情、元Meta幹部の引き抜きによる広告事業本格化、ClaudeがApp Storeで首位奪取した衝撃の背景、そしてGPT旧モデルの完全退役まで。全21トピックを余すところなくお届けします！</itunes:summary>
+      <pubDate>Fri, 27 Mar 2026 07:19:08 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260327-20260327</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VOQdjiQN9V2y2u32NmEX95vtoC6TDUGB" length="22578429" type="audio/mpeg"/>
+      <itunes:duration>46:12</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月26日】Sora終了＆GPT-5.4全面移行！OpenAI大転換の全貌</title>
       <description>OpenAIが激動の転換期を迎えています。話題の動画生成AI「Sora」がまさかの完全終了、ディズニーとの10億ドル提携も白紙に。一方で最新モデル「GPT-5.4」シリーズへの完全移行、ショッピング機能の大幅リニューアル、AIの行動ルールブック「Model Spec」の公開、そしてIPOに向けた約100億ドルの巨額資金調達など、怒涛の16本のニュースを徹底解説します。Armの自社製AIチップにOpenAIが初期顧客として参加する衝撃のハードウェア戦略や、無料版ChatGPTへの広告導入計画まで、見逃せない話題が満載です。</description>
