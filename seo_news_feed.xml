@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 27 Mar 2026 07:08:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 06:59:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月28日】Google史上最速スパム更新＆AI検索CVR4.4倍の衝撃</title>
+      <description>今回はGoogle検索まわりの大きな動きをたっぷりお届けします。史上最速20時間で完了したスパムアップデートと3月コアアップデートの中身、Discover特化型アップデートの影響分析、サーチコンソールに追加されたAI構成機能やブランドクエリフィルターなど新機能ラッシュを解説。さらにGemini 3.1 Flash Liveの200ヶ国展開、Perplexityの利用制限騒動、AI検索経由のCVRが通常の4.4倍という衝撃データ、GoogleのAIエージェント構想によるSEOの大転換、動画生成AI「Veo」の広告統合、GA4連携の強化まで、SEO担当者必聴の14本のニュースを網羅的にお届けします。</description>
+      <itunes:summary>今回はGoogle検索まわりの大きな動きをたっぷりお届けします。史上最速20時間で完了したスパムアップデートと3月コアアップデートの中身、Discover特化型アップデートの影響分析、サーチコンソールに追加されたAI構成機能やブランドクエリフィルターなど新機能ラッシュを解説。さらにGemini 3.1 Flash Liveの200ヶ国展開、Perplexityの利用制限騒動、AI検索経由のCVRが通常の4.4倍という衝撃データ、GoogleのAIエージェント構想によるSEOの大転換、動画生成AI「Veo」の広告統合、GA4連携の強化まで、SEO担当者必聴の14本のニュースを網羅的にお届けします。</itunes:summary>
+      <pubDate>Sat, 28 Mar 2026 06:59:48 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260328-20260328</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QP9eSeNDUZLdhVQ5nCDSewh2SMz-oXwC" length="18034509" type="audio/mpeg"/>
+      <itunes:duration>37:17</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月27日】Google最速スパム更新＆SEOからGEOへ大転換の全貌</title>
       <description>今日はSEO・デジタルマーケティングの最新ニュースを15本一挙にお届けします。Googleのスパムアップデートがわずか20時間で完了した衝撃の背景、コアアップデートで「経験」重視が鮮明になった理由、新クローラー「Google-Agent」が示すAIエージェント時代の到来、そしてSEOからGEO（生成AI最適化）へのマーケティング予算シフトの実態まで徹底解説。OpenAIの広告事業参入やMeta広告の決済変更、Google PMaxの大型アップデートなど、広告運用者必聴の話題も満載です。AI時代のデジタルマーケティングの全体像が掴める保存版エピソードです。</description>
