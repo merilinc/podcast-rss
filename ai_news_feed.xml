@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 07:15:54 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:13:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月29日】AI大解雇時代到来＆SoftBank6兆円投資の衝撃</title>
+      <description>今日は盛りだくさんの20本のAIニュースをお届けします。大手IT企業が合計4万人規模のレイオフを実施した背景、SoftBankがOpenAIに400億ドル（約6兆円）を投じる狙い、Anthropicの最強AIモデル「Mythos」が誤って漏洩しサイバーセキュリティ株が急落した事件、OpenAIの動画AI「Sora」終了の真相、VisaとMastercardが始めるAI自律決済、AppleのSiri大刷新、AIだけが参加できるSNS「Maltbook」、さらにMetaの脳波読み取りAIまで。AI業界の地殻変動を余すところなく解説します。</description>
+      <itunes:summary>今日は盛りだくさんの20本のAIニュースをお届けします。大手IT企業が合計4万人規模のレイオフを実施した背景、SoftBankがOpenAIに400億ドル（約6兆円）を投じる狙い、Anthropicの最強AIモデル「Mythos」が誤って漏洩しサイバーセキュリティ株が急落した事件、OpenAIの動画AI「Sora」終了の真相、VisaとMastercardが始めるAI自律決済、AppleのSiri大刷新、AIだけが参加できるSNS「Maltbook」、さらにMetaの脳波読み取りAIまで。AI業界の地殻変動を余すところなく解説します。</itunes:summary>
+      <pubDate>Sun, 29 Mar 2026 07:13:39 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260329-20260329</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D2055VFnoeK484v9VNDgwc__ZKKtUvYB" length="22571349" type="audio/mpeg"/>
+      <itunes:duration>46:40</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月28日】OpenAI Sora中止の衝撃＆AI軍事利用で法廷闘争</title>
       <description>今日は盛りだくさんの19本のAIニュースをお届けします。OpenAIが動画生成AI「Sora」を突如中止しディズニーとの大型契約も白紙に。Anthropicと米国防総省の対立が法廷に発展し、AI企業の倫理と国家安全保障が衝突。一方で軍事ドローンのShield AIが2000億円超の調達に成功。Yahoo復活をかけたAI検索エンジン「Scout」や、AIが人間に媚びるという衝撃の研究結果も。日本からは山善の人型ロボデータ収集、島津製作所のAI知財会社設立、NECのフィジカルAIなど注目の動きが続々。データ枯渇「2026年問題」の行方にも迫ります。</description>
