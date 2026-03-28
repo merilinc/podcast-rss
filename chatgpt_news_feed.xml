@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 07:07:05 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:08:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月29日】OpenAI大転換！Sora終了・広告急成長・スーパーアプリ構想の全貌</title>
+      <description>OpenAIが動画生成AI「Sora」をわずか半年で終了、ディズニーとの大型提携も白紙に。一方でChatGPTの広告事業が6週間で年換算1億ドルを突破し、法人向け「スーパーアプリ」構想も浮上。さらにソフトバンクの過去最大400億ドル融資、AIの「迎合」問題を警告するスタンフォード大の研究、チャット内決済の撤退、230年続くスイス企業のAI全社導入、英国でのGoogle検索独占への挑戦状など、OpenAIの戦略転換を多角的に読み解きます。全14トピックを徹底解説！</description>
+      <itunes:summary>OpenAIが動画生成AI「Sora」をわずか半年で終了、ディズニーとの大型提携も白紙に。一方でChatGPTの広告事業が6週間で年換算1億ドルを突破し、法人向け「スーパーアプリ」構想も浮上。さらにソフトバンクの過去最大400億ドル融資、AIの「迎合」問題を警告するスタンフォード大の研究、チャット内決済の撤退、230年続くスイス企業のAI全社導入、英国でのGoogle検索独占への挑戦状など、OpenAIの戦略転換を多角的に読み解きます。全14トピックを徹底解説！</itunes:summary>
+      <pubDate>Sun, 29 Mar 2026 07:08:09 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260329-20260329</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EYHF01DUdhWyASTsc5PsHRZ1fyanscu2" length="21117885" type="audio/mpeg"/>
+      <itunes:duration>43:55</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月28日】OpenAI大転換！Sora終了・IPO準備・Claude首位奪取の衝撃</title>
       <description>今回はOpenAI周辺で起きた激動の1週間を徹底解説します。最新モデルGPT-5.4のリリース、動画生成AI「Sora」の突然の終了とディズニー10億ドル提携の破談、ChatGPT無料版の広告事業が6週間で年間1億ドル突破、AppleがSiriにClaude・Geminiの統合を許可する衝撃の方針転換、そして国防総省契約への反発でAnthropicのClaudeがApp Store1位を獲得するなど、AI業界の勢力図が大きく塗り変わりつつあります。大学のAI契約反対運動やWalmartのAIショッピング戦略転換まで、全21トピックをお届けします。</description>
