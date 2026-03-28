@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Mar 2026 06:59:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 07:01:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月29日】Google大変動＆AIがタイトルを勝手に書き換える時代到来</title>
+      <description>今回はSEO界隈を揺るがす大ニュースが目白押しです。Googleの2026年3月コアアップデートとスパムアップデートが連続展開され、過去最大級の順位変動が発生中。さらにGoogleがAIで検索結果のタイトルを自動書き換えするテストや、YouTubeが動画タイトルをAI要約に置き換えるテストも。ChatGPTに引用されるための構造化テクニック、WikipediaのAI禁止令、GA4の新機能「Scenario Planner」、メールマーケティングの新指標など、SEO・マーケティング担当者必聴の14本のニュースを徹底解説します。</description>
+      <itunes:summary>今回はSEO界隈を揺るがす大ニュースが目白押しです。Googleの2026年3月コアアップデートとスパムアップデートが連続展開され、過去最大級の順位変動が発生中。さらにGoogleがAIで検索結果のタイトルを自動書き換えするテストや、YouTubeが動画タイトルをAI要約に置き換えるテストも。ChatGPTに引用されるための構造化テクニック、WikipediaのAI禁止令、GA4の新機能「Scenario Planner」、メールマーケティングの新指標など、SEO・マーケティング担当者必聴の14本のニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 29 Mar 2026 07:01:20 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260329-20260329</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ikQThBDet5ZK3smMqB1IGbvToWVrfszU" length="19376205" type="audio/mpeg"/>
+      <itunes:duration>39:52</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月28日】Google史上最速スパム更新＆AI検索CVR4.4倍の衝撃</title>
       <description>今回はGoogle検索まわりの大きな動きをたっぷりお届けします。史上最速20時間で完了したスパムアップデートと3月コアアップデートの中身、Discover特化型アップデートの影響分析、サーチコンソールに追加されたAI構成機能やブランドクエリフィルターなど新機能ラッシュを解説。さらにGemini 3.1 Flash Liveの200ヶ国展開、Perplexityの利用制限騒動、AI検索経由のCVRが通常の4.4倍という衝撃データ、GoogleのAIエージェント構想によるSEOの大転換、動画生成AI「Veo」の広告統合、GA4連携の強化まで、SEO担当者必聴の14本のニュースを網羅的にお届けします。</description>
