@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 07:01:23 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:15:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月30日】Google3月コアアップデート開始＆AI時代のSEO新常識</title>
+      <description>今回はSEO特集です。Googleが2026年3月コアアップデートのグローバル展開を開始し、史上最速のスパムアップデートとの相乗効果で検索順位が大変動中。さらに、SNSで飛び交うアップデート情報の誤報とAIのハルシネーション問題、Googleが検索結果のタイトルをAIで勝手に書き換えるテストの波紋、全サイトの43%が未達というCore Web VitalsのINP問題、そしてSearch Consoleの新AI機能まで、デジタルマーケティング担当者必聴の5つのトピックを徹底解説します。</description>
+      <itunes:summary>今回はSEO特集です。Googleが2026年3月コアアップデートのグローバル展開を開始し、史上最速のスパムアップデートとの相乗効果で検索順位が大変動中。さらに、SNSで飛び交うアップデート情報の誤報とAIのハルシネーション問題、Googleが検索結果のタイトルをAIで勝手に書き換えるテストの波紋、全サイトの43%が未達というCore Web VitalsのINP問題、そしてSearch Consoleの新AI機能まで、デジタルマーケティング担当者必聴の5つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Mon, 30 Mar 2026 07:15:16 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260330-20260330</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tpSbAcgQhRMHri1SNZISjgG4O4sU4-QZ" length="15220557" type="audio/mpeg"/>
+      <itunes:duration>31:24</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月29日】Google大変動＆AIがタイトルを勝手に書き換える時代到来</title>
       <description>今回はSEO界隈を揺るがす大ニュースが目白押しです。Googleの2026年3月コアアップデートとスパムアップデートが連続展開され、過去最大級の順位変動が発生中。さらにGoogleがAIで検索結果のタイトルを自動書き換えするテストや、YouTubeが動画タイトルをAI要約に置き換えるテストも。ChatGPTに引用されるための構造化テクニック、WikipediaのAI禁止令、GA4の新機能「Scenario Planner」、メールマーケティングの新指標など、SEO・マーケティング担当者必聴の14本のニュースを徹底解説します。</description>
