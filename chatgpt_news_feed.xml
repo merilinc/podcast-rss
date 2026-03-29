@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 07:08:12 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:05:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月30日】OpenAI大転換！Sora終了・核融合・AI絶滅リスク警告</title>
+      <description>今回はOpenAIの大きな戦略転換を中心にお届けします。動画生成AI「Sora」の提供終了とディズニーとの10億ドル提携白紙化、成人向け「アダルトモード」の無期限凍結、決済機能の廃止など、次々と「やらないこと」を明確にするOpenAI。一方で、ChatGPT広告が年1億ドルペースに到達、従業員8000人への倍増計画、核融合エネルギー50GWの確保交渉など、AGI開発とビジネス拡大に全力投球する姿も。さらに、元研究者による「5年以内のAI絶滅リスク」警告、政府がChatGPTで大学の助成金をカットした前代未聞の事件、AnthropicのClaudeへのユーザー流出など、AIの倫理と安全をめぐる激動の1週間を徹底解説します。</description>
+      <itunes:summary>今回はOpenAIの大きな戦略転換を中心にお届けします。動画生成AI「Sora」の提供終了とディズニーとの10億ドル提携白紙化、成人向け「アダルトモード」の無期限凍結、決済機能の廃止など、次々と「やらないこと」を明確にするOpenAI。一方で、ChatGPT広告が年1億ドルペースに到達、従業員8000人への倍増計画、核融合エネルギー50GWの確保交渉など、AGI開発とビジネス拡大に全力投球する姿も。さらに、元研究者による「5年以内のAI絶滅リスク」警告、政府がChatGPTで大学の助成金をカットした前代未聞の事件、AnthropicのClaudeへのユーザー流出など、AIの倫理と安全をめぐる激動の1週間を徹底解説します。</itunes:summary>
+      <pubDate>Mon, 30 Mar 2026 07:05:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260330-20260330</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DNNagi1PjTM5wOV1ojjnCe9zzYFWSEuc" length="24686037" type="audio/mpeg"/>
+      <itunes:duration>51:01</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月29日】OpenAI大転換！Sora終了・広告急成長・スーパーアプリ構想の全貌</title>
       <description>OpenAIが動画生成AI「Sora」をわずか半年で終了、ディズニーとの大型提携も白紙に。一方でChatGPTの広告事業が6週間で年換算1億ドルを突破し、法人向け「スーパーアプリ」構想も浮上。さらにソフトバンクの過去最大400億ドル融資、AIの「迎合」問題を警告するスタンフォード大の研究、チャット内決済の撤退、230年続くスイス企業のAI全社導入、英国でのGoogle検索独占への挑戦状など、OpenAIの戦略転換を多角的に読み解きます。全14トピックを徹底解説！</description>
