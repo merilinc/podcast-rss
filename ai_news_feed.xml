@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 29 Mar 2026 07:13:42 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 07:12:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月30日】GPT-5.4が人間超え＆QuitGPT運動でAI業界激震</title>
+      <description>OpenAIの最新モデルGPT-5.4がPC操作で人間の専門家を史上初めて超えました。一方、米国防総省との軍事契約を巡りOpenAIとAnthropicが真っ向対立、70万人がChatGPTを解約する「QuitGPT」運動が勃発。さらにAIの「媚びへつらい」が人間の道についての判断を歪めるというScience誌の衝撃論文、AI専用SNS「Maltbook」の登場、930万人の雇用喪失を予測するタフツ大学レポート、中国の5カ年計画によるAI覇権戦略など、全19トピックを徹底解説します。AIが技術を超えて社会・倫理・国家安全保障を揺るがす最前線をお届けします。</description>
+      <itunes:summary>OpenAIの最新モデルGPT-5.4がPC操作で人間の専門家を史上初めて超えました。一方、米国防総省との軍事契約を巡りOpenAIとAnthropicが真っ向対立、70万人がChatGPTを解約する「QuitGPT」運動が勃発。さらにAIの「媚びへつらい」が人間の道についての判断を歪めるというScience誌の衝撃論文、AI専用SNS「Maltbook」の登場、930万人の雇用喪失を予測するタフツ大学レポート、中国の5カ年計画によるAI覇権戦略など、全19トピックを徹底解説します。AIが技術を超えて社会・倫理・国家安全保障を揺るがす最前線をお届けします。</itunes:summary>
+      <pubDate>Mon, 30 Mar 2026 07:12:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260330-20260330</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RMlT-eJF4w4NS5wXTr6tLymjXFvJdIWi" length="33901989" type="audio/mpeg"/>
+      <itunes:duration>01:09:52</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月29日】AI大解雇時代到来＆SoftBank6兆円投資の衝撃</title>
       <description>今日は盛りだくさんの20本のAIニュースをお届けします。大手IT企業が合計4万人規模のレイオフを実施した背景、SoftBankがOpenAIに400億ドル（約6兆円）を投じる狙い、Anthropicの最強AIモデル「Mythos」が誤って漏洩しサイバーセキュリティ株が急落した事件、OpenAIの動画AI「Sora」終了の真相、VisaとMastercardが始めるAI自律決済、AppleのSiri大刷新、AIだけが参加できるSNS「Maltbook」、さらにMetaの脳波読み取りAIまで。AI業界の地殻変動を余すところなく解説します。</description>
