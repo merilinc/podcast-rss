@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 07:05:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:17:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月31日】ChatGPT激動の1週間〜Sora終了・ディズニー破談・広告参入の衝撃</title>
+      <description>今回はOpenAI・ChatGPTをめぐる激動の3日間を徹底解説します。DNSを悪用したデータ流出の脆弱性発覚、国防総省との契約騒動で「Cancel ChatGPT」運動が勃発しClaudeがApp Store首位に、動画生成AI「Sora」の突然の終了とディズニーとの10億ドル提携白紙撤回、GPT Storeの低迷、独自ブラウザ「Atlas」の課題、さらには広告テストがわずか6週間で年換算1億ドルの収益ペースに到達するなど、盛りだくさんの内容をお届けします。2029年に1150億ドルの支出が予測される中、OpenAIはどこへ向かうのか。IPOに向けた戦略の全貌に迫ります。</description>
+      <itunes:summary>今回はOpenAI・ChatGPTをめぐる激動の3日間を徹底解説します。DNSを悪用したデータ流出の脆弱性発覚、国防総省との契約騒動で「Cancel ChatGPT」運動が勃発しClaudeがApp Store首位に、動画生成AI「Sora」の突然の終了とディズニーとの10億ドル提携白紙撤回、GPT Storeの低迷、独自ブラウザ「Atlas」の課題、さらには広告テストがわずか6週間で年換算1億ドルの収益ペースに到達するなど、盛りだくさんの内容をお届けします。2029年に1150億ドルの支出が予測される中、OpenAIはどこへ向かうのか。IPOに向けた戦略の全貌に迫ります。</itunes:summary>
+      <pubDate>Tue, 31 Mar 2026 07:17:15 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260331-20260331</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aaYF5xBMi9sX_Uft3nYorodM1Ol4Kcjw" length="24252117" type="audio/mpeg"/>
+      <itunes:duration>49:33</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月30日】OpenAI大転換！Sora終了・核融合・AI絶滅リスク警告</title>
       <description>今回はOpenAIの大きな戦略転換を中心にお届けします。動画生成AI「Sora」の提供終了とディズニーとの10億ドル提携白紙化、成人向け「アダルトモード」の無期限凍結、決済機能の廃止など、次々と「やらないこと」を明確にするOpenAI。一方で、ChatGPT広告が年1億ドルペースに到達、従業員8000人への倍増計画、核融合エネルギー50GWの確保交渉など、AGI開発とビジネス拡大に全力投球する姿も。さらに、元研究者による「5年以内のAI絶滅リスク」警告、政府がChatGPTで大学の助成金をカットした前代未聞の事件、AnthropicのClaudeへのユーザー流出など、AIの倫理と安全をめぐる激動の1週間を徹底解説します。</description>
