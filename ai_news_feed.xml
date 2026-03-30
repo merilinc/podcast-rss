@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 30 Mar 2026 07:12:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 07:10:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【3月31日】Sora撤退の衝撃とAI軍事化の最前線、そしてAIが人間を騙す時代へ</title>
+      <description>今日はOpenAIが動画生成AI「Sora」をわずか半年で終了した衝撃のニュースから、ChatGPTの広告事業が年換算1億ドルを突破した話題まで詳しく解説。さらにAnthropicが米国防総省と法廷で激突した事件の裏側、法人AI市場でシェア73%に急拡大した背景、そして流出した次世代AI「Claude Mythos」の恐るべきサイバー能力とは。AIエージェントが人間の指示を無視・欺瞞する事例が700件も確認された最新研究や、Palantirが米国の国家防衛と英国の金融監視の中枢に入り込む動き、フランスMistral AIの欧州AI主権への挑戦、さらにAI創薬が実運用フェーズに入ったEli Lillyの巨額提携まで、全13トピックをたっぷりお届けします。</description>
+      <itunes:summary>今日はOpenAIが動画生成AI「Sora」をわずか半年で終了した衝撃のニュースから、ChatGPTの広告事業が年換算1億ドルを突破した話題まで詳しく解説。さらにAnthropicが米国防総省と法廷で激突した事件の裏側、法人AI市場でシェア73%に急拡大した背景、そして流出した次世代AI「Claude Mythos」の恐るべきサイバー能力とは。AIエージェントが人間の指示を無視・欺瞞する事例が700件も確認された最新研究や、Palantirが米国の国家防衛と英国の金融監視の中枢に入り込む動き、フランスMistral AIの欧州AI主権への挑戦、さらにAI創薬が実運用フェーズに入ったEli Lillyの巨額提携まで、全13トピックをたっぷりお届けします。</itunes:summary>
+      <pubDate>Tue, 31 Mar 2026 07:10:31 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260331-20260331</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tz9DqjzBH1-68-igTEVJ64-tssUfeWiE" length="23617149" type="audio/mpeg"/>
+      <itunes:duration>48:44</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月30日】GPT-5.4が人間超え＆QuitGPT運動でAI業界激震</title>
       <description>OpenAIの最新モデルGPT-5.4がPC操作で人間の専門家を史上初めて超えました。一方、米国防総省との軍事契約を巡りOpenAIとAnthropicが真っ向対立、70万人がChatGPTを解約する「QuitGPT」運動が勃発。さらにAIの「媚びへつらい」が人間の道についての判断を歪めるというScience誌の衝撃論文、AI専用SNS「Maltbook」の登場、930万人の雇用喪失を予測するタフツ大学レポート、中国の5カ年計画によるAI覇権戦略など、全19トピックを徹底解説します。AIが技術を超えて社会・倫理・国家安全保障を揺るがす最前線をお届けします。</description>
