@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 07:28:23 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:16:50 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月2日】OpenAI19兆円調達＆Sora終了、AI業界が激変中</title>
+      <description>OpenAIが過去最大となる1220億ドル（約19兆円）の資金調達を完了し、評価額は132兆円に到達。一方で動画生成AI「Sora」はわずか半年で提供終了となり、Googleが即座に代替サービスを投入するなど市場は激変しています。さらに児童書の著作権侵害訴訟、無料版ChatGPTへの対話型広告導入、AIスーパーアプリ構想、CarPlay対応、そしてMicrosoftがGPTとClaudeを同時活用する衝撃の新機能まで、AI業界の最新動向を徹底解説します。</description>
+      <itunes:summary>OpenAIが過去最大となる1220億ドル（約19兆円）の資金調達を完了し、評価額は132兆円に到達。一方で動画生成AI「Sora」はわずか半年で提供終了となり、Googleが即座に代替サービスを投入するなど市場は激変しています。さらに児童書の著作権侵害訴訟、無料版ChatGPTへの対話型広告導入、AIスーパーアプリ構想、CarPlay対応、そしてMicrosoftがGPTとClaudeを同時活用する衝撃の新機能まで、AI業界の最新動向を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 02 Apr 2026 07:16:46 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260402-20260402</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XOW1a2a7nAv96vTN8PDjeG3_AkqGQC-O" length="24236181" type="audio/mpeg"/>
+      <itunes:duration>49:55</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月1日】OpenAI評価額127兆円＆Sora撤退、AI業界の光と影</title>
       <description>今日は盛りだくさんの20本立て！OpenAIの評価額が驚異の127兆円に到達した資金調達の裏側、動画生成AI「Sora」がわずか半年でシャットダウンされた衝撃の理由、ChatGPTから機密データが漏洩しかけた深刻な脆弱性、Apple CarPlayでのAI対話が解禁、GPT-5.4の全貌、さらにはAI投資ファンドの大暴落やミシガン州の巨大データセンター建設をめぐる住民との摩擦まで。AI時代の光と影を余すところなくお届けします。技術の進歩とプライバシー問題、規制の行方など、今知っておくべきAIニュースを徹底解説！</description>
