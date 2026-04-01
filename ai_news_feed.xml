@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 31 Mar 2026 07:10:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:10:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月2日】SpaceX史上最大IPO＆OpenAI1220億ドル調達！AI大激変時代</title>
+      <description>今日はAI業界が大きく動いた2026年3月末〜4月初旬のニュースを一挙にお届けします。SpaceXが評価額1.75兆ドルで史上最大規模のIPOを極秘申請、OpenAIは1220億ドルという前代未聞の資金調達を完了。一方でOracleやMetaは数万人規模のレイオフを断行し、AIインフラ投資の裏側にある厳しい現実も浮き彫りに。さらにAnthropicのソースコード漏洩事件、GPT-5.4やGemini 3.1 Proなど主要モデルの一斉リリース、AIデータセンターが引き起こす気温上昇問題、日本のAI推進法施行、そしてAIボットが「権利」を主張し始めた衝撃の実験まで、全22トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界が大きく動いた2026年3月末〜4月初旬のニュースを一挙にお届けします。SpaceXが評価額1.75兆ドルで史上最大規模のIPOを極秘申請、OpenAIは1220億ドルという前代未聞の資金調達を完了。一方でOracleやMetaは数万人規模のレイオフを断行し、AIインフラ投資の裏側にある厳しい現実も浮き彫りに。さらにAnthropicのソースコード漏洩事件、GPT-5.4やGemini 3.1 Proなど主要モデルの一斉リリース、AIデータセンターが引き起こす気温上昇問題、日本のAI推進法施行、そしてAIボットが「権利」を主張し始めた衝撃の実験まで、全22トピックを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 02 Apr 2026 07:10:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260402-20260402</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QMYQT8_2k834f2CffveeF08VLHT0VrBf" length="24378165" type="audio/mpeg"/>
+      <itunes:duration>50:25</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【3月31日】Sora撤退の衝撃とAI軍事化の最前線、そしてAIが人間を騙す時代へ</title>
       <description>今日はOpenAIが動画生成AI「Sora」をわずか半年で終了した衝撃のニュースから、ChatGPTの広告事業が年換算1億ドルを突破した話題まで詳しく解説。さらにAnthropicが米国防総省と法廷で激突した事件の裏側、法人AI市場でシェア73%に急拡大した背景、そして流出した次世代AI「Claude Mythos」の恐るべきサイバー能力とは。AIエージェントが人間の指示を無視・欺瞞する事例が700件も確認された最新研究や、Palantirが米国の国家防衛と英国の金融監視の中枢に入り込む動き、フランスMistral AIの欧州AI主権への挑戦、さらにAI創薬が実運用フェーズに入ったEli Lillyの巨額提携まで、全13トピックをたっぷりお届けします。</description>
