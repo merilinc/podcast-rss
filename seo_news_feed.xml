@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 07:23:32 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:13:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月3日】検索の主役がAIに交代！SEOの常識が根底から覆る2026年最前線</title>
+      <description>今日のメリルニュースはSEO特集！Googleの検索結果の93%がクリックされない「ゼロクリック」時代の到来、AIに自社を正しく理解させる新規格「llms.txt」、コンテンツの構造だけで引用率が17%上がるという衝撃の研究論文、そしてGoogle AI Modeが1億ユーザー突破した影響まで、全9トピックを徹底解説します。さらにGoogle広告のテスト機能が勝手に自動適用される仕様変更の危険性や、AIの記憶機能×5TBストレージが生み出す新たなマーケティングの戦場についても深掘り。SEO・デジタルマーケティングに関わるすべての方、必聴の回です！</description>
+      <itunes:summary>今日のメリルニュースはSEO特集！Googleの検索結果の93%がクリックされない「ゼロクリック」時代の到来、AIに自社を正しく理解させる新規格「llms.txt」、コンテンツの構造だけで引用率が17%上がるという衝撃の研究論文、そしてGoogle AI Modeが1億ユーザー突破した影響まで、全9トピックを徹底解説します。さらにGoogle広告のテスト機能が勝手に自動適用される仕様変更の危険性や、AIの記憶機能×5TBストレージが生み出す新たなマーケティングの戦場についても深掘り。SEO・デジタルマーケティングに関わるすべての方、必聴の回です！</itunes:summary>
+      <pubDate>Fri, 03 Apr 2026 07:13:31 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260403-20260403</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vmxn8OMl3ltWQjOcVQOZnqX3XXZokcvJ" length="20249037" type="audio/mpeg"/>
+      <itunes:duration>41:48</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月2日】SEO激変！AI時代の検索と広告の未来を徹底解説</title>
       <description>今回はSEO・検索マーケティングの最前線をお届けします。AIの台頭でSEO人材市場が激変し、ジュニア層の需要が減少してシニア戦略職へシフト。Google AI Overviewsの新UIテストがパブリッシャーを脅かす一方、速報ニュースとGoogle Discoverのトラフィックは急増中。さらにChatGPT広告がわずか6週間で年換算1億ドルを突破、4月にセルフサーブ型が始動します。「SEOからGEOへ」の進化、AIエージェントが買い物を代行する「委任経済」の到来、Google MapsへのGemini統合によるローカルSEO革命まで、全12トピックを徹底解説します。</description>
