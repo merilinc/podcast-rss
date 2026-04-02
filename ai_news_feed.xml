@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 02 Apr 2026 07:10:19 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 07:19:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月3日】OpenAI18兆円調達＆AI専用SNS誕生の衝撃</title>
+      <description>OpenAIが約18兆円という空前の資金調達を実施し、評価額は世界の多くの国のGDPを超える規模に。一方で動画生成AI「Sora」の開発中止という驚きの決断も。さらにAIエージェント同士だけが交流するSNS「Moltbook」の登場とMetaによる即買収、Anthropicの次世代モデル流出やソースコード誤公開の衝撃、MicrosoftのOpenAI対抗モデル発表、GPT-5.4のPC直接操作機能など、AI業界が歴史的転換点を迎えた1週間を全20トピック徹底解説します。</description>
+      <itunes:summary>OpenAIが約18兆円という空前の資金調達を実施し、評価額は世界の多くの国のGDPを超える規模に。一方で動画生成AI「Sora」の開発中止という驚きの決断も。さらにAIエージェント同士だけが交流するSNS「Moltbook」の登場とMetaによる即買収、Anthropicの次世代モデル流出やソースコード誤公開の衝撃、MicrosoftのOpenAI対抗モデル発表、GPT-5.4のPC直接操作機能など、AI業界が歴史的転換点を迎えた1週間を全20トピック徹底解説します。</itunes:summary>
+      <pubDate>Fri, 03 Apr 2026 07:19:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260403-20260403</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16Khpv3FbRYOqUClFwgl4f5WfGkImreY-" length="26663397" type="audio/mpeg"/>
+      <itunes:duration>54:50</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月2日】SpaceX史上最大IPO＆OpenAI1220億ドル調達！AI大激変時代</title>
       <description>今日はAI業界が大きく動いた2026年3月末〜4月初旬のニュースを一挙にお届けします。SpaceXが評価額1.75兆ドルで史上最大規模のIPOを極秘申請、OpenAIは1220億ドルという前代未聞の資金調達を完了。一方でOracleやMetaは数万人規模のレイオフを断行し、AIインフラ投資の裏側にある厳しい現実も浮き彫りに。さらにAnthropicのソースコード漏洩事件、GPT-5.4やGemini 3.1 Proなど主要モデルの一斉リリース、AIデータセンターが引き起こす気温上昇問題、日本のAI推進法施行、そしてAIボットが「権利」を主張し始めた衝撃の実験まで、全22トピックを徹底解説します。</description>
