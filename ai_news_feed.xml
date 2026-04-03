@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 07:19:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 07:23:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月4日】カリフォルニアAI規制が全米標準に？Anthropic政治参入＆Google驚異の圧縮技術</title>
+      <description>今日はカリフォルニア州がAI規制の全米標準を作ろうとしている動きから、Anthropicが政治資金委員会を設立して政策に本格参入したニュース、Alibabaの新モデル「Qwen3.6-Plus」によるエンタープライズAIの転換、Anthropicと米国防総省の法廷バトル、IntelのMLPerfベンチマーク結果、そしてGoogleの新技術「TurboQuant」でLLMのメモリを6分の1に削減する驚きの圧縮アルゴリズムまで、盛りだくさんでお届けします。AI業界の規制・技術・ビジネスが一気に動いた3日間を徹底解説！</description>
+      <itunes:summary>今日はカリフォルニア州がAI規制の全米標準を作ろうとしている動きから、Anthropicが政治資金委員会を設立して政策に本格参入したニュース、Alibabaの新モデル「Qwen3.6-Plus」によるエンタープライズAIの転換、Anthropicと米国防総省の法廷バトル、IntelのMLPerfベンチマーク結果、そしてGoogleの新技術「TurboQuant」でLLMのメモリを6分の1に削減する驚きの圧縮アルゴリズムまで、盛りだくさんでお届けします。AI業界の規制・技術・ビジネスが一気に動いた3日間を徹底解説！</itunes:summary>
+      <pubDate>Sat, 04 Apr 2026 07:23:09 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260404-20260404</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a3-9-4PN7pKJK4EqXhHrVjtidMT60y1m" length="15074949" type="audio/mpeg"/>
+      <itunes:duration>31:01</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月3日】OpenAI18兆円調達＆AI専用SNS誕生の衝撃</title>
       <description>OpenAIが約18兆円という空前の資金調達を実施し、評価額は世界の多くの国のGDPを超える規模に。一方で動画生成AI「Sora」の開発中止という驚きの決断も。さらにAIエージェント同士だけが交流するSNS「Moltbook」の登場とMetaによる即買収、Anthropicの次世代モデル流出やソースコード誤公開の衝撃、MicrosoftのOpenAI対抗モデル発表、GPT-5.4のPC直接操作機能など、AI業界が歴史的転換点を迎えた1週間を全20トピック徹底解説します。</description>
