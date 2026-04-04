@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 07:23:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 07:09:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月5日】AI業界激震！流出・買収・超巨額調達の裏側</title>
+      <description>今日はAI業界が大きく揺れた1週間を総まとめ。Metaのデータベンダーがハッキングされ「AIの秘伝レシピ」が流出危機に。MicrosoftはOpenAIとAnthropicのAIを同時搭載する異例の新機能を発表し、さらにOpenAI依存から脱却する独自モデルもリリース。OpenAIは約18兆円の超大型資金調達を完了し、テック系メディアまで買収。一方Anthropicでは未発表の10兆パラメータモデルやソースコード50万行が流出する事態に。AIに頼りすぎて思考停止する「認知降伏」の研究結果や、推論AIが他のAIの安全装置を97%突破するという衝撃の論文も紹介します。全23トピックを徹底解説！</description>
+      <itunes:summary>今日はAI業界が大きく揺れた1週間を総まとめ。Metaのデータベンダーがハッキングされ「AIの秘伝レシピ」が流出危機に。MicrosoftはOpenAIとAnthropicのAIを同時搭載する異例の新機能を発表し、さらにOpenAI依存から脱却する独自モデルもリリース。OpenAIは約18兆円の超大型資金調達を完了し、テック系メディアまで買収。一方Anthropicでは未発表の10兆パラメータモデルやソースコード50万行が流出する事態に。AIに頼りすぎて思考停止する「認知降伏」の研究結果や、推論AIが他のAIの安全装置を97%突破するという衝撃の論文も紹介します。全23トピックを徹底解説！</itunes:summary>
+      <pubDate>Sun, 05 Apr 2026 07:09:10 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260405-20260405</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tRZF2Q6B43MiFZ0oPoxPn4M93EU3q5Id" length="26322909" type="audio/mpeg"/>
+      <itunes:duration>54:13</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月4日】カリフォルニアAI規制が全米標準に？Anthropic政治参入＆Google驚異の圧縮技術</title>
       <description>今日はカリフォルニア州がAI規制の全米標準を作ろうとしている動きから、Anthropicが政治資金委員会を設立して政策に本格参入したニュース、Alibabaの新モデル「Qwen3.6-Plus」によるエンタープライズAIの転換、Anthropicと米国防総省の法廷バトル、IntelのMLPerfベンチマーク結果、そしてGoogleの新技術「TurboQuant」でLLMのメモリを6分の1に削減する驚きの圧縮アルゴリズムまで、盛りだくさんでお届けします。AI業界の規制・技術・ビジネスが一気に動いた3日間を徹底解説！</description>
