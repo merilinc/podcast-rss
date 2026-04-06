@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 04 Apr 2026 07:30:18 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 07:15:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月7日】ChatGPTスーパーアプリ化＆Sora閉鎖の衝撃</title>
+      <description>今日はOpenAI周辺の激動の1週間を徹底解説します。GPT-5.4への完全移行で「AIが冷たくなった」とユーザーが大反発、動画生成AI「Sora」の突然の閉鎖とディズニーとの10億ドル契約崩壊、ChatGPTがUberやSpotifyを直接操作できる「スーパーアプリ」へ進化、イランによるAIデータセンターへのミサイル脅迫、さらにOpenAIが米政府に「ロボット税」を提言するなど、AIが社会インフラそのものになりつつある今、知っておくべきニュースが盛りだくさんです。</description>
+      <itunes:summary>今日はOpenAI周辺の激動の1週間を徹底解説します。GPT-5.4への完全移行で「AIが冷たくなった」とユーザーが大反発、動画生成AI「Sora」の突然の閉鎖とディズニーとの10億ドル契約崩壊、ChatGPTがUberやSpotifyを直接操作できる「スーパーアプリ」へ進化、イランによるAIデータセンターへのミサイル脅迫、さらにOpenAIが米政府に「ロボット税」を提言するなど、AIが社会インフラそのものになりつつある今、知っておくべきニュースが盛りだくさんです。</itunes:summary>
+      <pubDate>Tue, 07 Apr 2026 07:15:20 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260407-20260407</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1O4OGRXKIyY9UPOIzPX_UAhMh6u4UJnqr" length="21287973" type="audio/mpeg"/>
+      <itunes:duration>43:46</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月4日】OpenAI18兆円調達＆Sora終了、Microsoft独自AI宣言</title>
       <description>今日はOpenAIの歴史的な1220億ドル（約18兆円）の資金調達と、動画AI「Sora」の衝撃的な終了についてお届けします。さらにMicrosoftが独自AIモデル「MAI」を発表しOpenAI離れを加速、ChatGPTがApple CarPlayに対応して車内AIアシスタントに、OpenAIがテック番組TBPNを買収してメディア戦略に乗り出すなど、AI業界の地殻変動をまるごと解説。コード生成AIの料金革命や、AIを使った脱過激化ツールの開発まで、盛りだくさんの内容です。</description>
