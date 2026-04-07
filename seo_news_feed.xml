@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 07:10:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:11:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月8日】AI検索が変える集客の常識＆Google大変革まとめ</title>
+      <description>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleが検索結果の見出しをAIで自動書き換えるテスト開始、AI検索経由のコンバージョン率が驚異の30〜40%に達した衝撃データ、SEOとAI最適化を統合する「3層アプローチ」の登場、さらにAnthropicの10兆パラメータ新モデル「Claude Mythos 5」の限定公開など、全12トピックを徹底解説。Google広告やGA4のAI新機能、AIエージェントによる広告予算自動配分のトレンドまで、マーケター必聴の内容です。</description>
+      <itunes:summary>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleが検索結果の見出しをAIで自動書き換えるテスト開始、AI検索経由のコンバージョン率が驚異の30〜40%に達した衝撃データ、SEOとAI最適化を統合する「3層アプローチ」の登場、さらにAnthropicの10兆パラメータ新モデル「Claude Mythos 5」の限定公開など、全12トピックを徹底解説。Google広告やGA4のAI新機能、AIエージェントによる広告予算自動配分のトレンドまで、マーケター必聴の内容です。</itunes:summary>
+      <pubDate>Wed, 08 Apr 2026 07:11:23 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260408-20260408</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DfF5Mcu9qAwzRXIF3WwIso7DQtbgVdLy" length="18157173" type="audio/mpeg"/>
+      <itunes:duration>37:27</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月7日】AI検索が変えるSEOの常識〜CVR4.4倍の衝撃と生き残り戦略</title>
       <description>今週のSEOニュースを徹底解説！GoogleがニュースのAI見出し自動生成テストを開始、人間コンテンツがAIコンテンツの8倍も検索1位を獲得しやすいという衝撃の調査結果、AI検索経由のCVRが従来の4.4倍という驚異的データなど、全20トピックをお届けします。ChatGPTの引用がBingランキングに87%依存している事実や、日本でもゼロクリック検索が60%超えという現実、さらには「Share of Model」という新KPIの登場まで、2026年のSEO・デジタルマーケティングの最前線を余すところなくカバーします。</description>
