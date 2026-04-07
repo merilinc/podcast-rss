@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 07:03:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 07:26:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月8日】MS日本1.6兆円投資＆OpenAI超知能時代の国家政策提言</title>
+      <description>今日はMicrosoftが日本に1.6兆円を投じるデータ主権強化の大型ニュースから、Anthropicが人間のハッカーを超えるサイバー防御AIを発表した衝撃、さらにはイーロン・マスクとIntelが組む250億ドルの巨大半導体工場「Terafab」計画まで、AI業界を揺るがす22本のニュースを徹底解説。OpenAIが提唱するロボット税や週4日労働制、Googleの単一GPUで動く新モデルGemma 4、そしてAIに思考を奪われる「認知の降伏」現象まで、技術と社会の最前線をお届けします。</description>
+      <itunes:summary>今日はMicrosoftが日本に1.6兆円を投じるデータ主権強化の大型ニュースから、Anthropicが人間のハッカーを超えるサイバー防御AIを発表した衝撃、さらにはイーロン・マスクとIntelが組む250億ドルの巨大半導体工場「Terafab」計画まで、AI業界を揺るがす22本のニュースを徹底解説。OpenAIが提唱するロボット税や週4日労働制、Googleの単一GPUで動く新モデルGemma 4、そしてAIに思考を奪われる「認知の降伏」現象まで、技術と社会の最前線をお届けします。</itunes:summary>
+      <pubDate>Wed, 08 Apr 2026 07:26:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260408-20260408</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kSCpBtBuB94dPMq4D2jvGE5MeqRN0n6O" length="27253605" type="audio/mpeg"/>
+      <itunes:duration>56:22</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月6日】OpenAI史上最大1220億ドル調達＆AIに感情がある!?</title>
       <description>今週のAI業界は激動の一週間でした。OpenAIが非上場企業として史上最大の1,220億ドル（約18兆円）を調達し、企業評価額は8,520億ドルに。一方で動画生成AI「Sora」の終了を決断。Microsoftは日本に100億ドルのAIインフラ投資を発表し、完全自社開発のAIモデル「MAI」でOpenAI依存からの脱却を図ります。Anthropicは「AIに感情がある」ことを実証する衝撃の研究成果を発表。さらにPrismMLの1-bit LLM革命、中国DeepSeekのHuaweiチップ完全移行、Google Gemma 4のオープンソース戦略など、全15トピックを徹底解説します。</description>
