@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 07:15:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:23:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月9日】OpenAI児童保護宣言＆銃乱射訴訟、Meta新モデル参戦で激震</title>
+      <description>OpenAIが児童搾取対策の「チャイルド・セーフティ・ブループリント」を発表した一方、フロリダ州立大銃乱射事件でChatGPTの責任を問う訴訟が浮上。Metaは140億ドル投資の新モデル「Muse Spark」を発表しAI覇権争いが激化。さらにTubiのChatGPT内アプリ、医療費請求でのAI活用急増、元OpenAI社員のVCファンド設立、社内の不穏な空気、突然のAPI停止騒動、Codex旧モデル廃止、週4日労働制の提言、Musk氏の訴訟戦略、そして米中AI知財戦争まで、怒涛の12本をお届けします。</description>
+      <itunes:summary>OpenAIが児童搾取対策の「チャイルド・セーフティ・ブループリント」を発表した一方、フロリダ州立大銃乱射事件でChatGPTの責任を問う訴訟が浮上。Metaは140億ドル投資の新モデル「Muse Spark」を発表しAI覇権争いが激化。さらにTubiのChatGPT内アプリ、医療費請求でのAI活用急増、元OpenAI社員のVCファンド設立、社内の不穏な空気、突然のAPI停止騒動、Codex旧モデル廃止、週4日労働制の提言、Musk氏の訴訟戦略、そして米中AI知財戦争まで、怒涛の12本をお届けします。</itunes:summary>
+      <pubDate>Thu, 09 Apr 2026 07:23:42 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260409-20260409</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wy5tA8iplwkq97nj9GIj-VOuJcnDRLRO" length="20811525" type="audio/mpeg"/>
+      <itunes:duration>42:38</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月7日】ChatGPTスーパーアプリ化＆Sora閉鎖の衝撃</title>
       <description>今日はOpenAI周辺の激動の1週間を徹底解説します。GPT-5.4への完全移行で「AIが冷たくなった」とユーザーが大反発、動画生成AI「Sora」の突然の閉鎖とディズニーとの10億ドル契約崩壊、ChatGPTがUberやSpotifyを直接操作できる「スーパーアプリ」へ進化、イランによるAIデータセンターへのミサイル脅迫、さらにOpenAIが米政府に「ロボット税」を提言するなど、AIが社会インフラそのものになりつつある今、知っておくべきニュースが盛りだくさんです。</description>
