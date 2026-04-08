@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 07:26:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:29:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月9日】Apple×Google衝撃提携＆GPT-5登場！AI業界が一変した1週間</title>
+      <description>今週のAI業界は歴史的な転換点を迎えました。AppleがSiriの頭脳にGoogleのGeminiを採用するという衝撃の発表、OpenAIが自律型エージェント搭載のGPT-5 Turboをサプライズ公開、さらにAnthropicは危険すぎるAIの一般公開を見送るという前代未聞の決断を下しました。MetaのLlama 4電撃公開、中国AIの躍進、米中AI対立の激化、OpenAIによる超知能時代の社会制度提言、EU AI法の本格運用開始、電力危機、そしてAIスタートアップの最新動向まで、全14トピックを徹底解説します。</description>
+      <itunes:summary>今週のAI業界は歴史的な転換点を迎えました。AppleがSiriの頭脳にGoogleのGeminiを採用するという衝撃の発表、OpenAIが自律型エージェント搭載のGPT-5 Turboをサプライズ公開、さらにAnthropicは危険すぎるAIの一般公開を見送るという前代未聞の決断を下しました。MetaのLlama 4電撃公開、中国AIの躍進、米中AI対立の激化、OpenAIによる超知能時代の社会制度提言、EU AI法の本格運用開始、電力危機、そしてAIスタートアップの最新動向まで、全14トピックを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 09 Apr 2026 07:29:06 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260409-20260409</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1egakAlO5TNXeYcxX88xJGgVMTNg9YB9a" length="25133781" type="audio/mpeg"/>
+      <itunes:duration>51:57</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月8日】MS日本1.6兆円投資＆OpenAI超知能時代の国家政策提言</title>
       <description>今日はMicrosoftが日本に1.6兆円を投じるデータ主権強化の大型ニュースから、Anthropicが人間のハッカーを超えるサイバー防御AIを発表した衝撃、さらにはイーロン・マスクとIntelが組む250億ドルの巨大半導体工場「Terafab」計画まで、AI業界を揺るがす22本のニュースを徹底解説。OpenAIが提唱するロボット税や週4日労働制、Googleの単一GPUで動く新モデルGemma 4、そしてAIに思考を奪われる「認知の降伏」現象まで、技術と社会の最前線をお届けします。</description>
