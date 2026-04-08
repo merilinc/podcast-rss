@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 07:11:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 07:23:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月9日】Google4月コアアプデ開始＆AI検索最適化の最前線</title>
+      <description>今日はSEO・デジタルマーケティングの最新動向を一挙にお届けします。Googleが3月に続き4月のコアアップデートを開始、AI生成スパムの排除と「実体験」重視が鮮明に。AI Overviewsの精度が90%に達する一方で数百万件の誤答問題も。PerplexityとOpenAIが共同提案した新仕様「llm-citation」や、GA4に追加された生成AIトラフィック計測チャネルなど、AI検索時代のSEO戦術を徹底解説。さらにGoogle Adsの革新的なAI広告機能やサイバーエージェントの広告配信AIエージェントなど、マーケティングの未来を変える18本のニュースを網羅します。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最新動向を一挙にお届けします。Googleが3月に続き4月のコアアップデートを開始、AI生成スパムの排除と「実体験」重視が鮮明に。AI Overviewsの精度が90%に達する一方で数百万件の誤答問題も。PerplexityとOpenAIが共同提案した新仕様「llm-citation」や、GA4に追加された生成AIトラフィック計測チャネルなど、AI検索時代のSEO戦術を徹底解説。さらにGoogle Adsの革新的なAI広告機能やサイバーエージェントの広告配信AIエージェントなど、マーケティングの未来を変える18本のニュースを網羅します。</itunes:summary>
+      <pubDate>Thu, 09 Apr 2026 07:23:13 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260409-20260409</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16qlD9Ki9uOaqZKa9rmWqJS8Gh-QQq0QO" length="20336949" type="audio/mpeg"/>
+      <itunes:duration>42:28</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月8日】AI検索が変える集客の常識＆Google大変革まとめ</title>
       <description>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleが検索結果の見出しをAIで自動書き換えるテスト開始、AI検索経由のコンバージョン率が驚異の30〜40%に達した衝撃データ、SEOとAI最適化を統合する「3層アプローチ」の登場、さらにAnthropicの10兆パラメータ新モデル「Claude Mythos 5」の限定公開など、全12トピックを徹底解説。Google広告やGA4のAI新機能、AIエージェントによる広告予算自動配分のトレンドまで、マーケター必聴の内容です。</description>
