@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 07:23:46 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:14:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月10日】OpenAI週9億人突破の裏で噴出する法的リスクと社内不和</title>
+      <description>今日はOpenAI・ChatGPT関連の重大ニュースを一挙16本お届けします。フロリダ州銃撃事件をきっかけにOpenAIへの本格調査が開始、児童搾取対策の新指針発表、そしてエンタープライズ収益が全体の40%を突破しIPO競争が過熱。さらにAnthropicが衝撃のサイバーセキュリティ特化モデル「Claude Mythos」を発表し業界に激震。社内では幹部の療養休暇や動画AI「Sora」開発終了など不穏な空気も。日本企業ZETAのChatGPT連携、Tubiのネイティブ統合、月額100ドルの新Proプラン、GPT-5.4シリーズの全貌まで、AI最前線を徹底解説します。</description>
+      <itunes:summary>今日はOpenAI・ChatGPT関連の重大ニュースを一挙16本お届けします。フロリダ州銃撃事件をきっかけにOpenAIへの本格調査が開始、児童搾取対策の新指針発表、そしてエンタープライズ収益が全体の40%を突破しIPO競争が過熱。さらにAnthropicが衝撃のサイバーセキュリティ特化モデル「Claude Mythos」を発表し業界に激震。社内では幹部の療養休暇や動画AI「Sora」開発終了など不穏な空気も。日本企業ZETAのChatGPT連携、Tubiのネイティブ統合、月額100ドルの新Proプラン、GPT-5.4シリーズの全貌まで、AI最前線を徹底解説します。</itunes:summary>
+      <pubDate>Fri, 10 Apr 2026 07:14:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260410-20260410</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IoykXB6j1k3gu3Dl_bylmd21xt2SA7eV" length="23005269" type="audio/mpeg"/>
+      <itunes:duration>47:16</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月9日】OpenAI児童保護宣言＆銃乱射訴訟、Meta新モデル参戦で激震</title>
       <description>OpenAIが児童搾取対策の「チャイルド・セーフティ・ブループリント」を発表した一方、フロリダ州立大銃乱射事件でChatGPTの責任を問う訴訟が浮上。Metaは140億ドル投資の新モデル「Muse Spark」を発表しAI覇権争いが激化。さらにTubiのChatGPT内アプリ、医療費請求でのAI活用急増、元OpenAI社員のVCファンド設立、社内の不穏な空気、突然のAPI停止騒動、Codex旧モデル廃止、週4日労働制の提言、Musk氏の訴訟戦略、そして米中AI知財戦争まで、怒涛の12本をお届けします。</description>
