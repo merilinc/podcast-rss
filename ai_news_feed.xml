@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 07:29:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 07:25:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月10日】OpenAI130兆円評価＆Meta路線転換＆AIが人間超えハッキング</title>
+      <description>OpenAIが企業価値130兆円で史上最大の資金調達を完了、IPOへの布石が見えてきました。MetaはオープンソースのLlamaから決別し新モデル「Muse Spark」を発表。AmazonはAIチップの外部販売でNvidiaに挑みます。一方、Anthropicの最新AIは人間のハッカーを凌駕するサイバー攻撃能力を示し、一般公開を見送る異例の事態に。さらに米国防総省がAnthropicをブラックリスト指定する衝撃の展開も。データセンターの電力危機、中国AIの急追、エッジAIの進化まで、AI業界の激動を16本のニュースで徹底解説します。</description>
+      <itunes:summary>OpenAIが企業価値130兆円で史上最大の資金調達を完了、IPOへの布石が見えてきました。MetaはオープンソースのLlamaから決別し新モデル「Muse Spark」を発表。AmazonはAIチップの外部販売でNvidiaに挑みます。一方、Anthropicの最新AIは人間のハッカーを凌駕するサイバー攻撃能力を示し、一般公開を見送る異例の事態に。さらに米国防総省がAnthropicをブラックリスト指定する衝撃の展開も。データセンターの電力危機、中国AIの急追、エッジAIの進化まで、AI業界の激動を16本のニュースで徹底解説します。</itunes:summary>
+      <pubDate>Fri, 10 Apr 2026 07:24:57 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260410-20260410</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_PPeRGnTjhFxcGkiR8mYrHpad3-oXDVz" length="25730133" type="audio/mpeg"/>
+      <itunes:duration>52:44</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月9日】Apple×Google衝撃提携＆GPT-5登場！AI業界が一変した1週間</title>
       <description>今週のAI業界は歴史的な転換点を迎えました。AppleがSiriの頭脳にGoogleのGeminiを採用するという衝撃の発表、OpenAIが自律型エージェント搭載のGPT-5 Turboをサプライズ公開、さらにAnthropicは危険すぎるAIの一般公開を見送るという前代未聞の決断を下しました。MetaのLlama 4電撃公開、中国AIの躍進、米中AI対立の激化、OpenAIによる超知能時代の社会制度提言、EU AI法の本格運用開始、電力危機、そしてAIスタートアップの最新動向まで、全14トピックを徹底解説します。</description>
