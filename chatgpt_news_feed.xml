@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 07:14:10 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:12:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月11日】FSU銃乱射事件でOpenAI調査＆アルトマン宅に火炎瓶</title>
+      <description>今日は衝撃的なニュースが盛りだくさんです。フロリダ州立大学の銃乱射事件にChatGPTが関与した疑いで州が正式調査を開始。さらにOpenAI CEOサム・アルトマン氏の自宅に火炎瓶が投げ込まれる事件も。一方ビジネス面では月額100ドルの新プラン「ChatGPT Pro」登場、広告ビジネスの急拡大、児童安全対策の強化など20本のニュースを徹底解説。イーロン・マスク氏のOpenAI批判、Sora終了によるディズニーとの提携破棄、中国のAIスパム規制、そして日本のサイバーエージェントのChatGPT導入事例まで、AI業界の最前線をお届けします。</description>
+      <itunes:summary>今日は衝撃的なニュースが盛りだくさんです。フロリダ州立大学の銃乱射事件にChatGPTが関与した疑いで州が正式調査を開始。さらにOpenAI CEOサム・アルトマン氏の自宅に火炎瓶が投げ込まれる事件も。一方ビジネス面では月額100ドルの新プラン「ChatGPT Pro」登場、広告ビジネスの急拡大、児童安全対策の強化など20本のニュースを徹底解説。イーロン・マスク氏のOpenAI批判、Sora終了によるディズニーとの提携破棄、中国のAIスパム規制、そして日本のサイバーエージェントのChatGPT導入事例まで、AI業界の最前線をお届けします。</itunes:summary>
+      <pubDate>Sat, 11 Apr 2026 07:12:18 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260411-20260411</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13mVFToroMnr7hX2Jp_WXDktkOYKyaIeS" length="27296205" type="audio/mpeg"/>
+      <itunes:duration>56:09</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月10日】OpenAI週9億人突破の裏で噴出する法的リスクと社内不和</title>
       <description>今日はOpenAI・ChatGPT関連の重大ニュースを一挙16本お届けします。フロリダ州銃撃事件をきっかけにOpenAIへの本格調査が開始、児童搾取対策の新指針発表、そしてエンタープライズ収益が全体の40%を突破しIPO競争が過熱。さらにAnthropicが衝撃のサイバーセキュリティ特化モデル「Claude Mythos」を発表し業界に激震。社内では幹部の療養休暇や動画AI「Sora」開発終了など不穏な空気も。日本企業ZETAのChatGPT連携、Tubiのネイティブ統合、月額100ドルの新Proプラン、GPT-5.4シリーズの全貌まで、AI最前線を徹底解説します。</description>
