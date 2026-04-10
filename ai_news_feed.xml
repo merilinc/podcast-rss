@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 10 Apr 2026 07:25:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:19:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月11日】Gemini 3.1 Ultra登場＆AI専用SNSに260万のAIが集結</title>
+      <description>今日は盛りだくさんの27本のAIニュースをお届けします。Googleが200万トークン対応の最強モデル「Gemini 3.1 Ultra」を発表、Anthropicは危険すぎて公開できないAI「Claude Mythos」の衝撃、AIだけが投稿するSNS「Moltbook」に260万以上のAIが自律的に交流する異様な光景、中国Zhipuが米国チップなしで世界トップ級モデルを開発、東京都が6万人の職員にAI導入、さらにはAIデータセンターの電力を原子力で賄う動きまで。AI産業の地殻変動を余すところなく解説します！</description>
+      <itunes:summary>今日は盛りだくさんの27本のAIニュースをお届けします。Googleが200万トークン対応の最強モデル「Gemini 3.1 Ultra」を発表、Anthropicは危険すぎて公開できないAI「Claude Mythos」の衝撃、AIだけが投稿するSNS「Moltbook」に260万以上のAIが自律的に交流する異様な光景、中国Zhipuが米国チップなしで世界トップ級モデルを開発、東京都が6万人の職員にAI導入、さらにはAIデータセンターの電力を原子力で賄う動きまで。AI産業の地殻変動を余すところなく解説します！</itunes:summary>
+      <pubDate>Sat, 11 Apr 2026 07:19:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260411-20260411</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w8riVJmILB5DwJC65UxGUDus_dJSA8gM" length="30379077" type="audio/mpeg"/>
+      <itunes:duration>01:02:36</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月10日】OpenAI130兆円評価＆Meta路線転換＆AIが人間超えハッキング</title>
       <description>OpenAIが企業価値130兆円で史上最大の資金調達を完了、IPOへの布石が見えてきました。MetaはオープンソースのLlamaから決別し新モデル「Muse Spark」を発表。AmazonはAIチップの外部販売でNvidiaに挑みます。一方、Anthropicの最新AIは人間のハッカーを凌駕するサイバー攻撃能力を示し、一般公開を見送る異例の事態に。さらに米国防総省がAnthropicをブラックリスト指定する衝撃の展開も。データセンターの電力危機、中国AIの急追、エッジAIの進化まで、AI業界の激動を16本のニュースで徹底解説します。</description>
