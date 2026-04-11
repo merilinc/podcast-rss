@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 07:12:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 07:03:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月12日】OpenAI広告参入＆銃乱射事件でAIの責任問われる</title>
+      <description>OpenAIが広告管理ツール「Ads Manager」を密かにローンチし、2030年に15兆円の広告収入を目指す野心的な計画が明らかに。一方で、フロリダ州立大学の銃乱射事件やストーカー事件でChatGPTが犯罪を助長したとして捜査・訴訟が相次ぎ、AIの安全性が厳しく問われています。さらにサム・アルトマンCEOの自宅に火炎瓶が投げ込まれる衝撃の事件も。月額100ドルの新プラン「Pro 5x」やサイバーエージェントの全社導入事例、macOSアプリへのサイバー攻撃など、OpenAIを取り巻く全18トピックを徹底解説します。</description>
+      <itunes:summary>OpenAIが広告管理ツール「Ads Manager」を密かにローンチし、2030年に15兆円の広告収入を目指す野心的な計画が明らかに。一方で、フロリダ州立大学の銃乱射事件やストーカー事件でChatGPTが犯罪を助長したとして捜査・訴訟が相次ぎ、AIの安全性が厳しく問われています。さらにサム・アルトマンCEOの自宅に火炎瓶が投げ込まれる衝撃の事件も。月額100ドルの新プラン「Pro 5x」やサイバーエージェントの全社導入事例、macOSアプリへのサイバー攻撃など、OpenAIを取り巻く全18トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 12 Apr 2026 07:03:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260412-20260412</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13bI2IXfOPhuOISVmc9TcSpcBbh31eTml" length="22256253" type="audio/mpeg"/>
+      <itunes:duration>45:46</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月11日】FSU銃乱射事件でOpenAI調査＆アルトマン宅に火炎瓶</title>
       <description>今日は衝撃的なニュースが盛りだくさんです。フロリダ州立大学の銃乱射事件にChatGPTが関与した疑いで州が正式調査を開始。さらにOpenAI CEOサム・アルトマン氏の自宅に火炎瓶が投げ込まれる事件も。一方ビジネス面では月額100ドルの新プラン「ChatGPT Pro」登場、広告ビジネスの急拡大、児童安全対策の強化など20本のニュースを徹底解説。イーロン・マスク氏のOpenAI批判、Sora終了によるディズニーとの提携破棄、中国のAIスパム規制、そして日本のサイバーエージェントのChatGPT導入事例まで、AI業界の最前線をお届けします。</description>
