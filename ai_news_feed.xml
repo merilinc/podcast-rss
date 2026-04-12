@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 07:19:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:15:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月13日】Sora終了の衝撃＆AI兵器級ハッカー誕生、業界大激変の全貌</title>
+      <description>今日は激動のAI業界を徹底解説！OpenAIが動画生成AI「Sora」を突如終了しディズニーとの10億ドル契約も白紙に。Anthropicは未知の脆弱性を自律発見する&quot;兵器級&quot;AI「Mythos」を発表し世界に衝撃。MetaはオープンソースからクローズドAIへ方針転換、MicrosoftもOpenAI依存から脱却。さらにAI専用SNS「Moltbook」の登場、データセンター建設モラトリアム法案、xAIのAI規制訴訟など、技術・ビジネス・法規制の全方位から2026年4月のAI最前線をお届けします。</description>
+      <itunes:summary>今日は激動のAI業界を徹底解説！OpenAIが動画生成AI「Sora」を突如終了しディズニーとの10億ドル契約も白紙に。Anthropicは未知の脆弱性を自律発見する&quot;兵器級&quot;AI「Mythos」を発表し世界に衝撃。MetaはオープンソースからクローズドAIへ方針転換、MicrosoftもOpenAI依存から脱却。さらにAI専用SNS「Moltbook」の登場、データセンター建設モラトリアム法案、xAIのAI規制訴訟など、技術・ビジネス・法規制の全方位から2026年4月のAI最前線をお届けします。</itunes:summary>
+      <pubDate>Mon, 13 Apr 2026 07:15:08 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260413-20260413</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SldJAC_2yqQQTxw4veo-dhnsBqhc5xOe" length="24602301" type="audio/mpeg"/>
+      <itunes:duration>50:43</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月11日】Gemini 3.1 Ultra登場＆AI専用SNSに260万のAIが集結</title>
       <description>今日は盛りだくさんの27本のAIニュースをお届けします。Googleが200万トークン対応の最強モデル「Gemini 3.1 Ultra」を発表、Anthropicは危険すぎて公開できないAI「Claude Mythos」の衝撃、AIだけが投稿するSNS「Moltbook」に260万以上のAIが自律的に交流する異様な光景、中国Zhipuが米国チップなしで世界トップ級モデルを開発、東京都が6万人の職員にAI導入、さらにはAIデータセンターの電力を原子力で賄う動きまで。AI産業の地殻変動を余すところなく解説します！</description>
