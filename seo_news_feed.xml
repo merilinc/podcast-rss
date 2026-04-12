@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 07:14:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 07:04:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月13日】AI検索でクリック率61%激減！SEOの常識が崩壊する</title>
+      <description>Google検索にAI Overviewsが標準搭載され、オーガニックCTRが最大61%も低下するという衝撃データが判明。一方で「引用プレミアム」という新たな勝ち筋も。今回は、AIに選ばれるための新戦略「GEO」「AEO」の全貌、DellのAIエージェント経由トラフィックの意外な課題、Google Search Consoleで11ヶ月も放置されたインプレッション水増しバグの真相、Google広告の拡張コンバージョン簡素化、3月コアアップデートの影響、そしてエンタープライズ向けエージェンティックAIの最新動向まで、SEO・デジタルマーケティングの地殻変動を徹底解説します。</description>
+      <itunes:summary>Google検索にAI Overviewsが標準搭載され、オーガニックCTRが最大61%も低下するという衝撃データが判明。一方で「引用プレミアム」という新たな勝ち筋も。今回は、AIに選ばれるための新戦略「GEO」「AEO」の全貌、DellのAIエージェント経由トラフィックの意外な課題、Google Search Consoleで11ヶ月も放置されたインプレッション水増しバグの真相、Google広告の拡張コンバージョン簡素化、3月コアアップデートの影響、そしてエンタープライズ向けエージェンティックAIの最新動向まで、SEO・デジタルマーケティングの地殻変動を徹底解説します。</itunes:summary>
+      <pubDate>Mon, 13 Apr 2026 07:04:10 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260413-20260413</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XFvy6LAw3WEYZqS4NFdemSuHq9FUcala" length="22517853" type="audio/mpeg"/>
+      <itunes:duration>46:18</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月12日】AI検索でクリック率58%減！SEOの常識が完全崩壊</title>
       <description>今週のSEOニュースは衝撃の連続です。GoogleのAI Overviewが普及し、検索1位のクリック率が最大58%も低下する事態に。さらにAIエージェント経由のEC流入はコンバージョンしない問題、Search Consoleの約1年間のインプレッション水増しバグ発覚、Google CEOの「AIがすべてのソフトウェアを破壊する」発言など、検索とデジタルマーケティングの歴史的転換点を全18トピック徹底解説します。サードパーティCookie廃止後の計測基盤、LLM Nudgesによるカスタマージャーニーの変容、そしてマーケターが今すぐ取るべきアクションまで、これを聴けば2026年のSEO・広告戦略の全体像が掴めます。</description>
