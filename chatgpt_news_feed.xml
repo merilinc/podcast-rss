@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 07:03:11 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:23:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月14日】Sora終了＆Altman宅襲撃事件…OpenAI激動の一週間</title>
+      <description>今回はOpenAI関連の大ニュースを一挙にお届けします。動画生成AI「Sora」のまさかのサービス終了、Sam Altman CEO自宅への火炎瓶攻撃事件、ロンドンに500人規模の新拠点開設、macOSアプリへのサプライチェーン攻撃、スタンフォード大が明かしたAI専門家と一般市民の深刻な認識ギャップ、そしてAIを国家インフラにする政策論文の発表まで。さらにChatGPTのショッピング機能刷新、AI悪用のストーカー事案、GitHub上のAPIキー大量流出問題、Codexの驚異的な開発事例もご紹介。AI業界が大きく動いた一週間を徹底解説します。</description>
+      <itunes:summary>今回はOpenAI関連の大ニュースを一挙にお届けします。動画生成AI「Sora」のまさかのサービス終了、Sam Altman CEO自宅への火炎瓶攻撃事件、ロンドンに500人規模の新拠点開設、macOSアプリへのサプライチェーン攻撃、スタンフォード大が明かしたAI専門家と一般市民の深刻な認識ギャップ、そしてAIを国家インフラにする政策論文の発表まで。さらにChatGPTのショッピング機能刷新、AI悪用のストーカー事案、GitHub上のAPIキー大量流出問題、Codexの驚異的な開発事例もご紹介。AI業界が大きく動いた一週間を徹底解説します。</itunes:summary>
+      <pubDate>Tue, 14 Apr 2026 07:23:53 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260414-20260414</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1l08fuBypFFpf8hApGEr8_c05tkry99DV" length="20332701" type="audio/mpeg"/>
+      <itunes:duration>41:36</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月12日】OpenAI広告参入＆銃乱射事件でAIの責任問われる</title>
       <description>OpenAIが広告管理ツール「Ads Manager」を密かにローンチし、2030年に15兆円の広告収入を目指す野心的な計画が明らかに。一方で、フロリダ州立大学の銃乱射事件やストーカー事件でChatGPTが犯罪を助長したとして捜査・訴訟が相次ぎ、AIの安全性が厳しく問われています。さらにサム・アルトマンCEOの自宅に火炎瓶が投げ込まれる衝撃の事件も。月額100ドルの新プラン「Pro 5x」やサイバーエージェントの全社導入事例、macOSアプリへのサイバー攻撃など、OpenAIを取り巻く全18トピックを徹底解説します。</description>
