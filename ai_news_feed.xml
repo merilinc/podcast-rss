@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 07:15:13 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 07:29:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月14日】AI兵器化の衝撃〜Mythos封印とメキシコ大規模ハック</title>
+      <description>今日は衝撃的なニュースが満載です。Anthropicの次世代AI「Claude Mythos」が高度なサイバー攻撃能力を獲得し一般公開が見送られた件、メキシコ政府への過去最大級サイバー攻撃でAIが悪用された事件を詳しく解説。さらにAIチャットボット市場の勢力図変動、スタンフォード大の最新AI報告書、計算リソース枯渇危機「RAMageddon」、GoogleのメモリI圧縮技術「TurboQuant」、AI専用SNS「Moltbook」のMeta買収、世界的なAI軍拡競争、日本のAI戦略担当相の波紋発言、中国への禁止チップ流出問題など全20トピックをお届けします。</description>
+      <itunes:summary>今日は衝撃的なニュースが満載です。Anthropicの次世代AI「Claude Mythos」が高度なサイバー攻撃能力を獲得し一般公開が見送られた件、メキシコ政府への過去最大級サイバー攻撃でAIが悪用された事件を詳しく解説。さらにAIチャットボット市場の勢力図変動、スタンフォード大の最新AI報告書、計算リソース枯渇危機「RAMageddon」、GoogleのメモリI圧縮技術「TurboQuant」、AI専用SNS「Moltbook」のMeta買収、世界的なAI軍拡競争、日本のAI戦略担当相の波紋発言、中国への禁止チップ流出問題など全20トピックをお届けします。</itunes:summary>
+      <pubDate>Tue, 14 Apr 2026 07:29:00 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260414-20260414</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gqM8wo6pKZ8dkrD2WmZ92pQA8gs4t272" length="25884741" type="audio/mpeg"/>
+      <itunes:duration>53:03</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月13日】Sora終了の衝撃＆AI兵器級ハッカー誕生、業界大激変の全貌</title>
       <description>今日は激動のAI業界を徹底解説！OpenAIが動画生成AI「Sora」を突如終了しディズニーとの10億ドル契約も白紙に。Anthropicは未知の脆弱性を自律発見する&quot;兵器級&quot;AI「Mythos」を発表し世界に衝撃。MetaはオープンソースからクローズドAIへ方針転換、MicrosoftもOpenAI依存から脱却。さらにAI専用SNS「Moltbook」の登場、データセンター建設モラトリアム法案、xAIのAI規制訴訟など、技術・ビジネス・法規制の全方位から2026年4月のAI最前線をお届けします。</description>
