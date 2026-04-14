@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 07:29:03 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:30:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月15日】Anthropic収益がOpenAI逆転＆AI軍拡競争の幕開け</title>
+      <description>今日はAI業界の歴史的転換点をお届けします。Anthropicの年間収益がOpenAIを初めて逆転し300億ドル突破、その背景にある企業向け戦略の違いを徹底解説。さらに「危険すぎて公開できない」AIモデル「Claude Mythos」の衝撃、OpenAIのサイバーセキュリティ特化モデル、Metaのオープンソース路線撤退、アリババの完全自動化EC、マスク氏vsアルトマン氏の世紀の裁判、Stanford報告書が示すAIへの大衆不安、米中AI覇権争い、TSMCの記録的利益、そしてAIコンパニオン規制の波まで、21本のニュースを余すところなくお届けします。</description>
+      <itunes:summary>今日はAI業界の歴史的転換点をお届けします。Anthropicの年間収益がOpenAIを初めて逆転し300億ドル突破、その背景にある企業向け戦略の違いを徹底解説。さらに「危険すぎて公開できない」AIモデル「Claude Mythos」の衝撃、OpenAIのサイバーセキュリティ特化モデル、Metaのオープンソース路線撤退、アリババの完全自動化EC、マスク氏vsアルトマン氏の世紀の裁判、Stanford報告書が示すAIへの大衆不安、米中AI覇権争い、TSMCの記録的利益、そしてAIコンパニオン規制の波まで、21本のニュースを余すところなくお届けします。</itunes:summary>
+      <pubDate>Wed, 15 Apr 2026 07:30:41 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260415-20260415</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lIfa0SULnN7BHGS_pvRH5e657MkVHggV" length="27818493" type="audio/mpeg"/>
+      <itunes:duration>57:26</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月14日】AI兵器化の衝撃〜Mythos封印とメキシコ大規模ハック</title>
       <description>今日は衝撃的なニュースが満載です。Anthropicの次世代AI「Claude Mythos」が高度なサイバー攻撃能力を獲得し一般公開が見送られた件、メキシコ政府への過去最大級サイバー攻撃でAIが悪用された事件を詳しく解説。さらにAIチャットボット市場の勢力図変動、スタンフォード大の最新AI報告書、計算リソース枯渇危機「RAMageddon」、GoogleのメモリI圧縮技術「TurboQuant」、AI専用SNS「Moltbook」のMeta買収、世界的なAI軍拡競争、日本のAI戦略担当相の波紋発言、中国への禁止チップ流出問題など全20トピックをお届けします。</description>
