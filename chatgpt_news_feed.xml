@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 07:23:56 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:22:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月15日】OpenAI怒涛の新展開！製薬提携・買収・次世代モデル・襲撃事件まで全解説</title>
+      <description>今日はOpenAIを中心にAI業界の激動の1週間を徹底解説します。肥満治療薬で有名なNovo NordiskとのAI全社統合提携、金融AI企業Hiroの買収、サイバーセキュリティ特化モデル「GPT-5.4-Cyber」の発表など、ビジネス展開が加速。一方でAnthropicとのAI免責法案をめぐる対立や、社内メモ流出による競争の内幕も明らかに。さらにサム・アルトマン宅への火炎瓶攻撃という衝撃事件、次世代モデル「Spud」への戦略シフト、macOS版の深刻な脆弱性、広告収入1000億ドル構想、動画配信TubiのChatGPTネイティブアプリなど、全13トピックをお届けします。</description>
+      <itunes:summary>今日はOpenAIを中心にAI業界の激動の1週間を徹底解説します。肥満治療薬で有名なNovo NordiskとのAI全社統合提携、金融AI企業Hiroの買収、サイバーセキュリティ特化モデル「GPT-5.4-Cyber」の発表など、ビジネス展開が加速。一方でAnthropicとのAI免責法案をめぐる対立や、社内メモ流出による競争の内幕も明らかに。さらにサム・アルトマン宅への火炎瓶攻撃という衝撃事件、次世代モデル「Spud」への戦略シフト、macOS版の深刻な脆弱性、広告収入1000億ドル構想、動画配信TubiのChatGPTネイティブアプリなど、全13トピックをお届けします。</itunes:summary>
+      <pubDate>Wed, 15 Apr 2026 07:22:14 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260415-20260415</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13JPW_tooWW3rzXaALWk0PGMjZdPRYm3k" length="21253461" type="audio/mpeg"/>
+      <itunes:duration>44:13</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月14日】Sora終了＆Altman宅襲撃事件…OpenAI激動の一週間</title>
       <description>今回はOpenAI関連の大ニュースを一挙にお届けします。動画生成AI「Sora」のまさかのサービス終了、Sam Altman CEO自宅への火炎瓶攻撃事件、ロンドンに500人規模の新拠点開設、macOSアプリへのサプライチェーン攻撃、スタンフォード大が明かしたAI専門家と一般市民の深刻な認識ギャップ、そしてAIを国家インフラにする政策論文の発表まで。さらにChatGPTのショッピング機能刷新、AI悪用のストーカー事案、GitHub上のAPIキー大量流出問題、Codexの驚異的な開発事例もご紹介。AI業界が大きく動いた一週間を徹底解説します。</description>
