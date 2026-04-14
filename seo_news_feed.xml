@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 07:04:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 07:24:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月15日】AI検索でクリック率58%激減＆Meta広告収益がGoogle逆転へ</title>
+      <description>今日はSEO・デジタル広告の大変革をお届けします。AI Overviewの普及で検索1位のクリック率が58%も低下した衝撃データ、MetaがGoogleを抜いて世界デジタル広告収益トップに躍り出るという歴史的予測、Googleが「バックボタン乗っ取り」をスパム認定した新ポリシー、AI時代のSEOに必要な「9セルモデル」、Google検索がレストラン予約まで自動完了する時代の到来、さらにMCCアカウントのハッキング被害多発まで、全12トピックを徹底解説します。</description>
+      <itunes:summary>今日はSEO・デジタル広告の大変革をお届けします。AI Overviewの普及で検索1位のクリック率が58%も低下した衝撃データ、MetaがGoogleを抜いて世界デジタル広告収益トップに躍り出るという歴史的予測、Googleが「バックボタン乗っ取り」をスパム認定した新ポリシー、AI時代のSEOに必要な「9セルモデル」、Google検索がレストラン予約まで自動完了する時代の到来、さらにMCCアカウントのハッキング被害多発まで、全12トピックを徹底解説します。</itunes:summary>
+      <pubDate>Wed, 15 Apr 2026 07:24:55 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260415-20260415</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFmss0aHPpp0UPfHmVk1ViDIsGHtgbCu" length="20191677" type="audio/mpeg"/>
+      <itunes:duration>41:38</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月13日】AI検索でクリック率61%激減！SEOの常識が崩壊する</title>
       <description>Google検索にAI Overviewsが標準搭載され、オーガニックCTRが最大61%も低下するという衝撃データが判明。一方で「引用プレミアム」という新たな勝ち筋も。今回は、AIに選ばれるための新戦略「GEO」「AEO」の全貌、DellのAIエージェント経由トラフィックの意外な課題、Google Search Consoleで11ヶ月も放置されたインプレッション水増しバグの真相、Google広告の拡張コンバージョン簡素化、3月コアアップデートの影響、そしてエンタープライズ向けエージェンティックAIの最新動向まで、SEO・デジタルマーケティングの地殻変動を徹底解説します。</description>
