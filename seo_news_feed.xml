@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 07:24:59 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:14:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月16日】AI検索が変えるSEOの未来＆Google新スパム規制</title>
+      <description>今日はSEO・デジタルマーケティング業界に激震が走った1週間のニュースをまとめてお届けします。Googleがスパムレポートを手動対策に使うと公式表明した衝撃や、「戻るボタン乗っ取り」が正式にスパム認定された話題から始まり、AI大量生成コンテンツが軒並み順位を落とした最新アップデートの実態に迫ります。さらに、Google Cloud AIディレクターが提唱した新概念「AEO」とは何か、AI Overviewの引用元が検索上位から大きく乖離している驚きのデータ、レストラン予約まで完結するゼロクリック検索の衝撃、そしてAI検索内の広告が394%も急増している背景まで、7つのトピックを徹底解説します。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティング業界に激震が走った1週間のニュースをまとめてお届けします。Googleがスパムレポートを手動対策に使うと公式表明した衝撃や、「戻るボタン乗っ取り」が正式にスパム認定された話題から始まり、AI大量生成コンテンツが軒並み順位を落とした最新アップデートの実態に迫ります。さらに、Google Cloud AIディレクターが提唱した新概念「AEO」とは何か、AI Overviewの引用元が検索上位から大きく乖離している驚きのデータ、レストラン予約まで完結するゼロクリック検索の衝撃、そしてAI検索内の広告が394%も急増している背景まで、7つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 16 Apr 2026 07:14:18 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260416-20260416</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZDM-1KRmd4i2W98ViRULJZjUl_sUusVR" length="16448445" type="audio/mpeg"/>
+      <itunes:duration>33:54</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月15日】AI検索でクリック率58%激減＆Meta広告収益がGoogle逆転へ</title>
       <description>今日はSEO・デジタル広告の大変革をお届けします。AI Overviewの普及で検索1位のクリック率が58%も低下した衝撃データ、MetaがGoogleを抜いて世界デジタル広告収益トップに躍り出るという歴史的予測、Googleが「バックボタン乗っ取り」をスパム認定した新ポリシー、AI時代のSEOに必要な「9セルモデル」、Google検索がレストラン予約まで自動完了する時代の到来、さらにMCCアカウントのハッキング被害多発まで、全12トピックを徹底解説します。</description>
