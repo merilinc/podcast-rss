@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 07:30:46 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 07:30:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月16日】AI兵器化の衝撃〜OpenAI vs Anthropic サイバー戦争と規制の分断</title>
+      <description>今日は盛りだくさんの23本のAIニュースをお届けします。OpenAIとAnthropicがサイバーセキュリティ特化型AIで真っ向から対立、スタンフォード大が米中AI格差の消滅を報告、NVIDIAが量子コンピューター向けAIを発表、MetaがAI専用SNSを買収、Microsoftががん診断AIを公開、さらにはサム・アルトマン氏宅への火炎瓶襲撃事件やトランプ大統領のAIキルスイッチ発言まで。AI業界が社会インフラや法規制を根本から覆す新局面に突入した激動の3日間を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの23本のAIニュースをお届けします。OpenAIとAnthropicがサイバーセキュリティ特化型AIで真っ向から対立、スタンフォード大が米中AI格差の消滅を報告、NVIDIAが量子コンピューター向けAIを発表、MetaがAI専用SNSを買収、Microsoftががん診断AIを公開、さらにはサム・アルトマン氏宅への火炎瓶襲撃事件やトランプ大統領のAIキルスイッチ発言まで。AI業界が社会インフラや法規制を根本から覆す新局面に突入した激動の3日間を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 16 Apr 2026 07:30:39 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260416-20260416</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1h45dc4HPpdLXF2EmyjG2hrqTUGtXQQWG" length="28251981" type="audio/mpeg"/>
+      <itunes:duration>57:44</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月15日】Anthropic収益がOpenAI逆転＆AI軍拡競争の幕開け</title>
       <description>今日はAI業界の歴史的転換点をお届けします。Anthropicの年間収益がOpenAIを初めて逆転し300億ドル突破、その背景にある企業向け戦略の違いを徹底解説。さらに「危険すぎて公開できない」AIモデル「Claude Mythos」の衝撃、OpenAIのサイバーセキュリティ特化モデル、Metaのオープンソース路線撤退、アリババの完全自動化EC、マスク氏vsアルトマン氏の世紀の裁判、Stanford報告書が示すAIへの大衆不安、米中AI覇権争い、TSMCの記録的利益、そしてAIコンパニオン規制の波まで、21本のニュースを余すところなくお届けします。</description>
