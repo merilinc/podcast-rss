@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 07:30:42 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:16:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月17日】OpenAI 1220億ドル調達＆靴屋がAI企業に転身！？</title>
+      <description>今日はOpenAIの歴史的な1,220億ドル資金調達から始まり、ビッグテック各社の7,800億ドル規模AI投資競争、Anthropicの「賢すぎて危険」なAIモデル公開見送り、靴ブランドAllbirdsのAI企業への衝撃的転身など、AI業界の激動を詳しく解説します。さらに、AIチャットの法的特権が否定された画期的判決、xAIデータセンターの環境汚染訴訟、AI採用ツールの差別問題、自分のAI分身が勝手に交流するSNSなど、技術・法律・社会が交錯する全24トピックをお届けします。</description>
+      <itunes:summary>今日はOpenAIの歴史的な1,220億ドル資金調達から始まり、ビッグテック各社の7,800億ドル規模AI投資競争、Anthropicの「賢すぎて危険」なAIモデル公開見送り、靴ブランドAllbirdsのAI企業への衝撃的転身など、AI業界の激動を詳しく解説します。さらに、AIチャットの法的特権が否定された画期的判決、xAIデータセンターの環境汚染訴訟、AI採用ツールの差別問題、自分のAI分身が勝手に交流するSNSなど、技術・法律・社会が交錯する全24トピックをお届けします。</itunes:summary>
+      <pubDate>Fri, 17 Apr 2026 07:16:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260417-20260417</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TXwTIimKPYe2awUWMXGsNEFDaqmWzhFj" length="28187997" type="audio/mpeg"/>
+      <itunes:duration>57:29</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月16日】AI兵器化の衝撃〜OpenAI vs Anthropic サイバー戦争と規制の分断</title>
       <description>今日は盛りだくさんの23本のAIニュースをお届けします。OpenAIとAnthropicがサイバーセキュリティ特化型AIで真っ向から対立、スタンフォード大が米中AI格差の消滅を報告、NVIDIAが量子コンピューター向けAIを発表、MetaがAI専用SNSを買収、Microsoftががん診断AIを公開、さらにはサム・アルトマン氏宅への火炎瓶襲撃事件やトランプ大統領のAIキルスイッチ発言まで。AI業界が社会インフラや法規制を根本から覆す新局面に突入した激動の3日間を徹底解説します。</description>
