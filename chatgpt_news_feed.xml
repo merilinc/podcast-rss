@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 07:19:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 07:11:01 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月17日】Sora終了＆Codex進化！OpenAI大転換の裏側</title>
+      <description>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」がまさかの完全終了、Disneyとの10億ドル契約も白紙に。一方でAIがパソコンを自動操作する「Codex」が大進化、サイバー防衛特化モデルやスターバックスとのコラボなど新展開が続々。さらにGPT-6の最新情報、経営幹部6名離脱の内紛劇、GDPR違反疑惑、そしてGoogle DeepMindや中国勢の猛追まで。OpenAIのIPO戦略とAI業界の行方を、15本のニュースで余すことなくお届けします。</description>
+      <itunes:summary>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」がまさかの完全終了、Disneyとの10億ドル契約も白紙に。一方でAIがパソコンを自動操作する「Codex」が大進化、サイバー防衛特化モデルやスターバックスとのコラボなど新展開が続々。さらにGPT-6の最新情報、経営幹部6名離脱の内紛劇、GDPR違反疑惑、そしてGoogle DeepMindや中国勢の猛追まで。OpenAIのIPO戦略とAI業界の行方を、15本のニュースで余すことなくお届けします。</itunes:summary>
+      <pubDate>Fri, 17 Apr 2026 07:10:58 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260417-20260417</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ldIkICrCLyzoP47n2hPW2q0mFV6hkNDe" length="21055389" type="audio/mpeg"/>
+      <itunes:duration>43:28</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月16日】スタバがChatGPTで注文可能に＆OpenAI激動の戦略転換</title>
       <description>今日はStarbucksがChatGPTで気分や天気からドリンクを提案・注文できる新機能をリリースしたニュースからスタート。OpenAIによる金融スタートアップ買収やサイバー防衛特化モデルの発表、さらにSoraの廃止決定やAnthropicの急成長で揺らぐ8520億ドルの評価額問題まで、OpenAIの戦略転換を多角的に解説します。楽天のCodex活用事例やAI医療アドバイスの危うさ、アルトマンCEO宅への火炎瓶事件など、AI時代の光と影を余すところなくお届けします。</description>
