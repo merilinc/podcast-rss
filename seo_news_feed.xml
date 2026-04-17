@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 07:22:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:08:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月18日】Google検索データ11ヶ月水増し発覚＆コアアプデでE-E-A-T激震</title>
+      <description>今日はSEO業界を揺るがす3つのビッグニュースをお届けします。まず、Google Search Consoleで約11ヶ月にわたりインプレッション数が水増しされていた衝撃の不具合が発覚。SEO担当者が報告していたKPIが根本から覆る事態に。次に、2026年3月Googleコアアップデートの影響分析として、E-E-A-T（経験・専門性・権威性・信頼性）の重要性がかつてないレベルに高まった背景を深掘りします。さらに、Googleが特許を更新した「検索しても答えが見つからなかったら後日AIが自動通知してくれる」という未来的な新技術についても詳しく解説。SEOの常識が大きく変わりつつある今、最新動向をわかりやすくお伝えします。</description>
+      <itunes:summary>今日はSEO業界を揺るがす3つのビッグニュースをお届けします。まず、Google Search Consoleで約11ヶ月にわたりインプレッション数が水増しされていた衝撃の不具合が発覚。SEO担当者が報告していたKPIが根本から覆る事態に。次に、2026年3月Googleコアアップデートの影響分析として、E-E-A-T（経験・専門性・権威性・信頼性）の重要性がかつてないレベルに高まった背景を深掘りします。さらに、Googleが特許を更新した「検索しても答えが見つからなかったら後日AIが自動通知してくれる」という未来的な新技術についても詳しく解説。SEOの常識が大きく変わりつつある今、最新動向をわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Sat, 18 Apr 2026 07:08:19 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260418-20260418</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UhEOITgMc-wfXVnsJkis0_hAn5oo7_0B" length="11788461" type="audio/mpeg"/>
+      <itunes:duration>24:22</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月17日】AI検索でトラフィック激減！SEO新時代の生存戦略</title>
       <description>今回はSEO・デジタルマーケティングの大変革をお届けします。GoogleのAI Overviewにより情報系検索トラフィックが30〜40%も急減している衝撃の実態と、その対策として急浮上する「GEO（生成AI最適化）」「AEO（回答エンジン最適化）」を徹底解説。EUがGoogleにデータ開示を迫るDMA問題、Search Consoleのバグ騒動、トップページ品質の復権、E-E-A-Tの重要性強化、Google広告のAI Max移行、HubSpotの新AEOツール、ChromeのGemini新機能「Skills」、Metaの広告計測アップデートなど全13トピックを網羅します。</description>
