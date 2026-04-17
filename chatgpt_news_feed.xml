@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 07:11:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:13:50 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月18日】OpenAI怒涛の新発表！創薬AI・200億ドル投資・広告導入の全貌</title>
+      <description>OpenAIが怒涛の発表ラッシュです。創薬特化AI「GPT-Rosalind」、Cerebrasへの約3兆円規模の巨額投資、CodexのPC自動操作機能、防衛用サイバーモデル、さらに無料版ChatGPTへの広告導入まで。動画生成AI「Sora」の消費者向け事業縮小や、政府機関向け「ChatGPT Gov」、月額100ドルのProプラン新設など、OpenAIの戦略転換を11のニュースで徹底解説します。汎用AIから専門特化・エンタープライズ重視へと舵を切るOpenAIの全貌に迫ります。</description>
+      <itunes:summary>OpenAIが怒涛の発表ラッシュです。創薬特化AI「GPT-Rosalind」、Cerebrasへの約3兆円規模の巨額投資、CodexのPC自動操作機能、防衛用サイバーモデル、さらに無料版ChatGPTへの広告導入まで。動画生成AI「Sora」の消費者向け事業縮小や、政府機関向け「ChatGPT Gov」、月額100ドルのProプラン新設など、OpenAIの戦略転換を11のニュースで徹底解説します。汎用AIから専門特化・エンタープライズ重視へと舵を切るOpenAIの全貌に迫ります。</itunes:summary>
+      <pubDate>Sat, 18 Apr 2026 07:13:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260418-20260418</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xpREAnrzlJ5O3yDF4eud-_WkLCDMO5p0" length="21713805" type="audio/mpeg"/>
+      <itunes:duration>45:14</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月17日】Sora終了＆Codex進化！OpenAI大転換の裏側</title>
       <description>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」がまさかの完全終了、Disneyとの10億ドル契約も白紙に。一方でAIがパソコンを自動操作する「Codex」が大進化、サイバー防衛特化モデルやスターバックスとのコラボなど新展開が続々。さらにGPT-6の最新情報、経営幹部6名離脱の内紛劇、GDPR違反疑惑、そしてGoogle DeepMindや中国勢の猛追まで。OpenAIのIPO戦略とAI業界の行方を、15本のニュースで余すことなくお届けします。</description>
