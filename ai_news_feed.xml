@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 07:16:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:21:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月18日】脱アプリスマホ登場＆AI解雇の波・英中銀がAIストレステスト開始</title>
+      <description>ソフトバンクが「アプリを使わない」AIスマホを国内独占発売！Sequoiaの1兆円AIファンド、Snapの1000人AIレイオフ、イングランド銀行がAIサイバー脅威のストレステストを開始するなど衝撃ニュースが続出。さらにOpenAIの創薬AI「GPT-Rosalind」、Codexのデスクトップ自律操作、AnthropicのClaude Opus 4.7リリース、Canva AI 2.0のエージェント化、Boston DynamicsのSpotにGemini統合など、AIエージェント時代の到来を告げる26本のニュースを徹底解説します。</description>
+      <itunes:summary>ソフトバンクが「アプリを使わない」AIスマホを国内独占発売！Sequoiaの1兆円AIファンド、Snapの1000人AIレイオフ、イングランド銀行がAIサイバー脅威のストレステストを開始するなど衝撃ニュースが続出。さらにOpenAIの創薬AI「GPT-Rosalind」、Codexのデスクトップ自律操作、AnthropicのClaude Opus 4.7リリース、Canva AI 2.0のエージェント化、Boston DynamicsのSpotにGemini統合など、AIエージェント時代の到来を告げる26本のニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sat, 18 Apr 2026 07:20:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260418-20260418</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IUAYY2YPobnIHmh5mKtwgEBCzht-hj0b" length="30617517" type="audio/mpeg"/>
+      <itunes:duration>01:02:13</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月17日】OpenAI 1220億ドル調達＆靴屋がAI企業に転身！？</title>
       <description>今日はOpenAIの歴史的な1,220億ドル資金調達から始まり、ビッグテック各社の7,800億ドル規模AI投資競争、Anthropicの「賢すぎて危険」なAIモデル公開見送り、靴ブランドAllbirdsのAI企業への衝撃的転身など、AI業界の激動を詳しく解説します。さらに、AIチャットの法的特権が否定された画期的判決、xAIデータセンターの環境汚染訴訟、AI採用ツールの差別問題、自分のAI分身が勝手に交流するSNSなど、技術・法律・社会が交錯する全24トピックをお届けします。</description>
