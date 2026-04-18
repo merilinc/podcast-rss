@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 07:08:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 06:56:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月19日】AI検索が買い物を変える！CVR42%超え＆ChatGPT広告始動</title>
+      <description>今回はAI検索とデジタルマーケティングの大転換についてたっぷり解説します。Adobe調査でAI経由のコンバージョン率が従来検索を42%上回った衝撃、GoogleのChrome AI Modeに分割表示が登場した意味、ChatGPT広告テスト開始の裏側、そしてバックボタン乗っ取り禁止やレビューガイドライン厳格化などGoogleの品質管理強化にも迫ります。さらにTikTokがZ世代の検索エンジンになっている実態や、Meta広告のAI完全移行、スタンフォード大学が示すAI普及速度の驚異など全21トピックを網羅。SEO・広告担当者はもちろん、ビジネスに関わるすべての方必聴の内容です。</description>
+      <itunes:summary>今回はAI検索とデジタルマーケティングの大転換についてたっぷり解説します。Adobe調査でAI経由のコンバージョン率が従来検索を42%上回った衝撃、GoogleのChrome AI Modeに分割表示が登場した意味、ChatGPT広告テスト開始の裏側、そしてバックボタン乗っ取り禁止やレビューガイドライン厳格化などGoogleの品質管理強化にも迫ります。さらにTikTokがZ世代の検索エンジンになっている実態や、Meta広告のAI完全移行、スタンフォード大学が示すAI普及速度の驚異など全21トピックを網羅。SEO・広告担当者はもちろん、ビジネスに関わるすべての方必聴の内容です。</itunes:summary>
+      <pubDate>Sun, 19 Apr 2026 06:56:28 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260419-20260419</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kMucs2NIXeNDFHYva-kha62vc40wyXq-" length="22057029" type="audio/mpeg"/>
+      <itunes:duration>45:42</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月18日】Google検索データ11ヶ月水増し発覚＆コアアプデでE-E-A-T激震</title>
       <description>今日はSEO業界を揺るがす3つのビッグニュースをお届けします。まず、Google Search Consoleで約11ヶ月にわたりインプレッション数が水増しされていた衝撃の不具合が発覚。SEO担当者が報告していたKPIが根本から覆る事態に。次に、2026年3月Googleコアアップデートの影響分析として、E-E-A-T（経験・専門性・権威性・信頼性）の重要性がかつてないレベルに高まった背景を深掘りします。さらに、Googleが特許を更新した「検索しても答えが見つからなかったら後日AIが自動通知してくれる」という未来的な新技術についても詳しく解説。SEOの常識が大きく変わりつつある今、最新動向をわかりやすくお伝えします。</description>
