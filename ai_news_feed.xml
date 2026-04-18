@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 07:21:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 07:01:34 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月19日】OpenAI巨額投資＆Sora中止、AI業界が激変する1週間</title>
+      <description>今日はAI業界を揺るがす20本のニュースを一挙にお届けします。AIコーディングツール「Cursor」が評価額7.5兆円超えの資金調達交渉中、OpenAIがチップ企業Cerebrasに3兆円超の巨額投資でNvidia依存脱却へ、動画AI「Sora」の中止と幹部退社、Anthropicの著作権訴訟2300億円和解、AIエージェント専用SNSにMetaが参入、さらにAI依存で脳が衰える「認知的サルコペニア」問題まで。エンタープライズAI、創薬AI、サイバーセキュリティAIなど多角的にAIの最前線を解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす20本のニュースを一挙にお届けします。AIコーディングツール「Cursor」が評価額7.5兆円超えの資金調達交渉中、OpenAIがチップ企業Cerebrasに3兆円超の巨額投資でNvidia依存脱却へ、動画AI「Sora」の中止と幹部退社、Anthropicの著作権訴訟2300億円和解、AIエージェント専用SNSにMetaが参入、さらにAI依存で脳が衰える「認知的サルコペニア」問題まで。エンタープライズAI、創薬AI、サイバーセキュリティAIなど多角的にAIの最前線を解説します。</itunes:summary>
+      <pubDate>Sun, 19 Apr 2026 07:01:30 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260419-20260419</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Qr8_SzYaAPdmwicoR-eEYgI1dZMO8v4i" length="23835453" type="audio/mpeg"/>
+      <itunes:duration>49:20</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月18日】脱アプリスマホ登場＆AI解雇の波・英中銀がAIストレステスト開始</title>
       <description>ソフトバンクが「アプリを使わない」AIスマホを国内独占発売！Sequoiaの1兆円AIファンド、Snapの1000人AIレイオフ、イングランド銀行がAIサイバー脅威のストレステストを開始するなど衝撃ニュースが続出。さらにOpenAIの創薬AI「GPT-Rosalind」、Codexのデスクトップ自律操作、AnthropicのClaude Opus 4.7リリース、Canva AI 2.0のエージェント化、Boston DynamicsのSpotにGemini統合など、AIエージェント時代の到来を告げる26本のニュースを徹底解説します。</description>
