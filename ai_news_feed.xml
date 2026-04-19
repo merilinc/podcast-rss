@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 07:01:34 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:02:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月20日】AIチップ上場戦争・軍事AI対立・原発シフトの衝撃</title>
+      <description>今日は盛りだくさんの13本のAIニュースをお届けします。まず、巨大チップのCerebrasがNASDAQ上場へ挑む話題から、Anthropicとトランプ政権の軍事AI利用をめぐる緊迫の対立と歩み寄り、さらにサイバー攻撃を自律実行できるAI「Mythos」の衝撃。AIの電力需要爆発でテック企業が小型原子炉に全面投資する動き、Googleの自律操作エージェント、MetaのNvidia脱却チップ戦略、OpenAIの創薬AI、xAIの音声AI価格破壊、Anthropicのデザインツール、AIで誰でもアプリ開発できるVibe Coding現象、AIレイオフからの逆転劇、OpenAIの企業向けAI管理基盤、そしてスタンフォード大学の最新AI動向レポートまで、一気に解説します。</description>
+      <itunes:summary>今日は盛りだくさんの13本のAIニュースをお届けします。まず、巨大チップのCerebrasがNASDAQ上場へ挑む話題から、Anthropicとトランプ政権の軍事AI利用をめぐる緊迫の対立と歩み寄り、さらにサイバー攻撃を自律実行できるAI「Mythos」の衝撃。AIの電力需要爆発でテック企業が小型原子炉に全面投資する動き、Googleの自律操作エージェント、MetaのNvidia脱却チップ戦略、OpenAIの創薬AI、xAIの音声AI価格破壊、Anthropicのデザインツール、AIで誰でもアプリ開発できるVibe Coding現象、AIレイオフからの逆転劇、OpenAIの企業向けAI管理基盤、そしてスタンフォード大学の最新AI動向レポートまで、一気に解説します。</itunes:summary>
+      <pubDate>Mon, 20 Apr 2026 07:01:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260420-20260420</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sskbwccn7XPbDjKzU2RH2c7jfC7IekNB" length="21706365" type="audio/mpeg"/>
+      <itunes:duration>44:32</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月19日】OpenAI巨額投資＆Sora中止、AI業界が激変する1週間</title>
       <description>今日はAI業界を揺るがす20本のニュースを一挙にお届けします。AIコーディングツール「Cursor」が評価額7.5兆円超えの資金調達交渉中、OpenAIがチップ企業Cerebrasに3兆円超の巨額投資でNvidia依存脱却へ、動画AI「Sora」の中止と幹部退社、Anthropicの著作権訴訟2300億円和解、AIエージェント専用SNSにMetaが参入、さらにAI依存で脳が衰える「認知的サルコペニア」問題まで。エンタープライズAI、創薬AI、サイバーセキュリティAIなど多角的にAIの最前線を解説します。</description>
