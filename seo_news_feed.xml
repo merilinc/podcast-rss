@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 06:56:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:04:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月20日】Google「戻るボタン妨害」禁止＆AI検索がコンバージョン率42%UP</title>
+      <description>今日はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleがブラウザの「戻るボタン」を乗っ取る手法を正式に禁止、6月からペナルティ適用へ。Adobe調査ではAI検索経由のコンバージョン率が従来比42%も高いことが判明し、SEO戦略の大転換が迫られています。さらにChatGPTでの広告配信開始、ChromeへのGemini統合、Google Analyticsの同意管理一元化など、AIとプライバシーを軸にデジタルマーケティングの地殻変動が起きています。スタンフォード大の生成AI普及レポートや、LLMに自社を推薦させる新手法まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleがブラウザの「戻るボタン」を乗っ取る手法を正式に禁止、6月からペナルティ適用へ。Adobe調査ではAI検索経由のコンバージョン率が従来比42%も高いことが判明し、SEO戦略の大転換が迫られています。さらにChatGPTでの広告配信開始、ChromeへのGemini統合、Google Analyticsの同意管理一元化など、AIとプライバシーを軸にデジタルマーケティングの地殻変動が起きています。スタンフォード大の生成AI普及レポートや、LLMに自社を推薦させる新手法まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Mon, 20 Apr 2026 07:04:07 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260420-20260420</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c8kxyE1pVpiN0NkLTIYKqsoGhLUF_t8h" length="18959829" type="audio/mpeg"/>
+      <itunes:duration>39:22</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月19日】AI検索が買い物を変える！CVR42%超え＆ChatGPT広告始動</title>
       <description>今回はAI検索とデジタルマーケティングの大転換についてたっぷり解説します。Adobe調査でAI経由のコンバージョン率が従来検索を42%上回った衝撃、GoogleのChrome AI Modeに分割表示が登場した意味、ChatGPT広告テスト開始の裏側、そしてバックボタン乗っ取り禁止やレビューガイドライン厳格化などGoogleの品質管理強化にも迫ります。さらにTikTokがZ世代の検索エンジンになっている実態や、Meta広告のAI完全移行、スタンフォード大学が示すAI普及速度の驚異など全21トピックを網羅。SEO・広告担当者はもちろん、ビジネスに関わるすべての方必聴の内容です。</description>
