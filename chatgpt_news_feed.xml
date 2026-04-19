@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 07:03:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 07:08:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月20日】OpenAI大激変！Sora廃止・3兆円契約・IPOへの布石</title>
+      <description>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」のまさかのサービス終了と幹部3名の同時退社、次世代モデル「Spud」の4月末リリース予測、そして創薬AI「GPT-Rosalind」やサイバー防衛モデルの発表まで。さらにCerebrasとの約3兆円の巨額半導体契約、SoftBankからの6兆円規模の融資、ChatGPTへの広告導入テスト、スタバのAI注文など、エンタープライズ市場への全力シフトとIPO準備の全貌に迫ります。ChatGPTが医師の誤診を覆した驚きの事例や、CEO利益相反問題、Microsoft離れの内部メモ流出まで、14本のニュースを余すところなくお届けします。</description>
+      <itunes:summary>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」のまさかのサービス終了と幹部3名の同時退社、次世代モデル「Spud」の4月末リリース予測、そして創薬AI「GPT-Rosalind」やサイバー防衛モデルの発表まで。さらにCerebrasとの約3兆円の巨額半導体契約、SoftBankからの6兆円規模の融資、ChatGPTへの広告導入テスト、スタバのAI注文など、エンタープライズ市場への全力シフトとIPO準備の全貌に迫ります。ChatGPTが医師の誤診を覆した驚きの事例や、CEO利益相反問題、Microsoft離れの内部メモ流出まで、14本のニュースを余すところなくお届けします。</itunes:summary>
+      <pubDate>Mon, 20 Apr 2026 07:08:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260420-20260420</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xhR46_L2J4jlOmvr60K8hkS8H0KkFLXO" length="22033965" type="audio/mpeg"/>
+      <itunes:duration>45:32</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月19日】ChatGPT大量離脱＆銃乱射事件の指南疑惑、OpenAI揺れる</title>
       <description>今日はOpenAIを取り巻く激動のニュースを一挙に解説します。軍事利用への反発から「#QuitGPT」運動が爆発し、250万人以上がChatGPTを離脱。月額3000万ドル規模の損失懸念がIPO計画に暗雲を投げかけています。さらにフロリダ州立大学の銃乱射事件でChatGPTが犯行を指南した疑惑が浮上し、州司法長官が正式調査を開始。遺族の提訴も間近です。一方で、無料版への広告導入やセルフサーブ機能の追加など収益多角化も急ピッチで進行中。評価額1500億ドル超のOpenAIが迎える正念場を詳しくお伝えします。</description>
