@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 07:02:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:29:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月21日】ChatGPT世界障害＆兵器級AI封印、AI社会の光と影</title>
+      <description>今日はChatGPTの世界的大規模障害から見えたAI依存社会の脆弱性、AIの「群れ」が民主主義を脅かすというScience誌の衝撃警告、GoogleがMarvellと進める推論特化チップ開発、史上最速で成長するAIコーディングツール「Cursor」の驚異的な資金調達、OpenAIの金融AI＆メディア企業買収戦略、PostmanとMicrosoftの開発者向け大型提携、国連主導のAI規制枠組み、人間参加不可のAI専用SNS「Moltbook」の騒動とNTTドコモの詐欺防止AI、そして兵器級の能力を示し封印された「Claude Mythos」と日本政府の緊急対応まで、全9トピックを徹底解説します。</description>
+      <itunes:summary>今日はChatGPTの世界的大規模障害から見えたAI依存社会の脆弱性、AIの「群れ」が民主主義を脅かすというScience誌の衝撃警告、GoogleがMarvellと進める推論特化チップ開発、史上最速で成長するAIコーディングツール「Cursor」の驚異的な資金調達、OpenAIの金融AI＆メディア企業買収戦略、PostmanとMicrosoftの開発者向け大型提携、国連主導のAI規制枠組み、人間参加不可のAI専用SNS「Moltbook」の騒動とNTTドコモの詐欺防止AI、そして兵器級の能力を示し封印された「Claude Mythos」と日本政府の緊急対応まで、全9トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 07:29:03 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260421-20260421</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dtg9s-mhP8BIe6uUJHDw0VnUBtOobELs" length="25215381" type="audio/mpeg"/>
+      <itunes:duration>51:11</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月20日】AIチップ上場戦争・軍事AI対立・原発シフトの衝撃</title>
       <description>今日は盛りだくさんの13本のAIニュースをお届けします。まず、巨大チップのCerebrasがNASDAQ上場へ挑む話題から、Anthropicとトランプ政権の軍事AI利用をめぐる緊迫の対立と歩み寄り、さらにサイバー攻撃を自律実行できるAI「Mythos」の衝撃。AIの電力需要爆発でテック企業が小型原子炉に全面投資する動き、Googleの自律操作エージェント、MetaのNvidia脱却チップ戦略、OpenAIの創薬AI、xAIの音声AI価格破壊、Anthropicのデザインツール、AIで誰でもアプリ開発できるVibe Coding現象、AIレイオフからの逆転劇、OpenAIの企業向けAI管理基盤、そしてスタンフォード大学の最新AI動向レポートまで、一気に解説します。</description>
