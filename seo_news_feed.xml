@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 07:04:10 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 07:18:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月21日】Google1年バグ発覚＆ChatGPT広告開始で検索激変</title>
+      <description>今週はSEO・AI検索の世界が大きく揺れました。Google Search Consoleで約1年間もインプレッション数が水増しされていたバグが発覚。さらにOpenAIがChatGPTでの広告配信を開始し、Googleの検索広告ビジネスに真っ向勝負を挑みます。6800万回のAIクローラー訪問データから見えたLLMO時代の勝ち筋、Googleマップの動画広告テスト、3月コアアップデートで最重要シグナルとなった「情報利得」の衝撃、そしてスパムサイトがGoogleとChatGPTの両方から同時追放された驚きの事例まで、全9トピックを徹底解説します。</description>
+      <itunes:summary>今週はSEO・AI検索の世界が大きく揺れました。Google Search Consoleで約1年間もインプレッション数が水増しされていたバグが発覚。さらにOpenAIがChatGPTでの広告配信を開始し、Googleの検索広告ビジネスに真っ向勝負を挑みます。6800万回のAIクローラー訪問データから見えたLLMO時代の勝ち筋、Googleマップの動画広告テスト、3月コアアップデートで最重要シグナルとなった「情報利得」の衝撃、そしてスパムサイトがGoogleとChatGPTの両方から同時追放された驚きの事例まで、全9トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 21 Apr 2026 07:18:26 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260421-20260421</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cZ44K3enOR5QTuNJZY6CK267pMoNtsaU" length="18540957" type="audio/mpeg"/>
+      <itunes:duration>38:16</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月20日】Google「戻るボタン妨害」禁止＆AI検索がコンバージョン率42%UP</title>
       <description>今日はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleがブラウザの「戻るボタン」を乗っ取る手法を正式に禁止、6月からペナルティ適用へ。Adobe調査ではAI検索経由のコンバージョン率が従来比42%も高いことが判明し、SEO戦略の大転換が迫られています。さらにChatGPTでの広告配信開始、ChromeへのGemini統合、Google Analyticsの同意管理一元化など、AIとプライバシーを軸にデジタルマーケティングの地殻変動が起きています。スタンフォード大の生成AI普及レポートや、LLMに自社を推薦させる新手法まで、盛りだくさんでお届けします。</description>
