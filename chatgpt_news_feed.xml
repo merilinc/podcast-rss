@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 20 Apr 2026 07:08:58 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 07:10:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月22日】ChatGPT画像生成が大進化＆広告参入でGoogle超え狙う？Sora終了の裏側も</title>
+      <description>今日はOpenAIの怒涛の新発表を徹底解説！画像生成AI「Images 2.0」が推論機能とWeb検索を統合し、デザインツールとして大進化。無料版ChatGPTにクリック課金広告が本格導入され、GoogleやMetaの牙城に挑みます。AIコーディングツール「Codex」は週400万ユーザー突破、世界7大コンサル企業との提携も。一方で動画AI「Sora」は4月26日に完全終了、その裏にある「推論コストの壁」とは？さらにフロリダ州がOpenAIへの刑事捜査を開始した衝撃ニュースまで、全20トピックをお届けします。</description>
+      <itunes:summary>今日はOpenAIの怒涛の新発表を徹底解説！画像生成AI「Images 2.0」が推論機能とWeb検索を統合し、デザインツールとして大進化。無料版ChatGPTにクリック課金広告が本格導入され、GoogleやMetaの牙城に挑みます。AIコーディングツール「Codex」は週400万ユーザー突破、世界7大コンサル企業との提携も。一方で動画AI「Sora」は4月26日に完全終了、その裏にある「推論コストの壁」とは？さらにフロリダ州がOpenAIへの刑事捜査を開始した衝撃ニュースまで、全20トピックをお届けします。</itunes:summary>
+      <pubDate>Wed, 22 Apr 2026 07:09:57 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260422-20260422</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12ievEi_um_H692NYC0tIgpSmKSAGWDT2" length="26833605" type="audio/mpeg"/>
+      <itunes:duration>55:08</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月20日】OpenAI大激変！Sora廃止・3兆円契約・IPOへの布石</title>
       <description>今日はOpenAIの激動の1週間を徹底解説します。動画生成AI「Sora」のまさかのサービス終了と幹部3名の同時退社、次世代モデル「Spud」の4月末リリース予測、そして創薬AI「GPT-Rosalind」やサイバー防衛モデルの発表まで。さらにCerebrasとの約3兆円の巨額半導体契約、SoftBankからの6兆円規模の融資、ChatGPTへの広告導入テスト、スタバのAI注文など、エンタープライズ市場への全力シフトとIPO準備の全貌に迫ります。ChatGPTが医師の誤診を覆した驚きの事例や、CEO利益相反問題、Microsoft離れの内部メモ流出まで、14本のニュースを余すところなくお届けします。</description>
