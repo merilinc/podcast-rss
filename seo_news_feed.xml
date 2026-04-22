@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 07:22:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:19:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月23日】SEO終焉？AI検索時代の生存戦略とMeta逆転劇</title>
+      <description>今日はSEO・デジタルマーケティング業界を揺るがす3つの大ニュースを徹底解説します。まず、SemrushがSEOとGEO（AI検索最適化）を統合する新フレームワークを提唱し、「検索順位」から「AI時代の視認性」へとKPIが激変する話。次に、Google検索1位でもAI Overviewに引用されない衝撃の調査結果と、ゼロクリック検索時代の生き残り戦略。そして、AIエージェントが買い物まで代行する2026年のデジタルマーケティング統合戦略まで、SEOの常識が根底から覆る最前線をお届けします。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティング業界を揺るがす3つの大ニュースを徹底解説します。まず、SemrushがSEOとGEO（AI検索最適化）を統合する新フレームワークを提唱し、「検索順位」から「AI時代の視認性」へとKPIが激変する話。次に、Google検索1位でもAI Overviewに引用されない衝撃の調査結果と、ゼロクリック検索時代の生き残り戦略。そして、AIエージェントが買い物まで代行する2026年のデジタルマーケティング統合戦略まで、SEOの常識が根底から覆る最前線をお届けします。</itunes:summary>
+      <pubDate>Thu, 23 Apr 2026 07:19:15 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260423-20260423</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WXOgI_7kan6fH9sbJAKm533lU8L1-QYF" length="11972877" type="audio/mpeg"/>
+      <itunes:duration>24:40</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月22日】AI検索ゼロクリック93%時代！SEOの常識が根底から変わる</title>
       <description>今回はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Google Search Consoleで求人データが消えるバグ発生、検索結果が強制的に別タブで開くテスト、そしてAIに推薦される確率「LLMR」という新指標の台頭など、検索の世界が激変中。さらにChatGPTのWeb検索利用率が34.5%に低下した衝撃データや、6800万件のAIクローラー分析結果、Cloudflareの画期的な新機能も解説。Google広告ではローカル検索に動画広告が登場し、AI動画生成ツールVeo 3が広告制作を一変させます。マーケター必聴の12トピックを徹底解説！</description>
