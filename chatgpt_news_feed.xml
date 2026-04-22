@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 22 Apr 2026 07:10:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:16:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月23日】ChatGPT画像生成が革命的進化＆フロリダ州が異例の刑事捜査</title>
+      <description>今日は盛りだくさんの15本のニュースをお届けします。まず、OpenAIが発表した「ChatGPT Images 2.0」は、AIが考えてから描く&quot;思考モード&quot;を搭載し、画像生成の常識を覆しました。さらに、AIがチームの一員として働く「Workspace Agents」の登場、ホテル大手ハイアットの全社導入事例も注目です。一方で、フロリダ州がOpenAIに対し殺人幇助の疑いで刑事捜査を開始するという衝撃のニュースや、Googleの共同創業者が「Claudeに負けている」と社内で警鐘を鳴らしたリーク文書の内容、さらには次世代モデル「GPT-5.5」の情報まで、AI業界の光と影を徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの15本のニュースをお届けします。まず、OpenAIが発表した「ChatGPT Images 2.0」は、AIが考えてから描く&quot;思考モード&quot;を搭載し、画像生成の常識を覆しました。さらに、AIがチームの一員として働く「Workspace Agents」の登場、ホテル大手ハイアットの全社導入事例も注目です。一方で、フロリダ州がOpenAIに対し殺人幇助の疑いで刑事捜査を開始するという衝撃のニュースや、Googleの共同創業者が「Claudeに負けている」と社内で警鐘を鳴らしたリーク文書の内容、さらには次世代モデル「GPT-5.5」の情報まで、AI業界の光と影を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 23 Apr 2026 07:16:53 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260423-20260423</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xNvwfBcuVmjv9mOrgzH8nbrRS1MsBqnP" length="25462773" type="audio/mpeg"/>
+      <itunes:duration>52:18</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月22日】ChatGPT画像生成が大進化＆広告参入でGoogle超え狙う？Sora終了の裏側も</title>
       <description>今日はOpenAIの怒涛の新発表を徹底解説！画像生成AI「Images 2.0」が推論機能とWeb検索を統合し、デザインツールとして大進化。無料版ChatGPTにクリック課金広告が本格導入され、GoogleやMetaの牙城に挑みます。AIコーディングツール「Codex」は週400万ユーザー突破、世界7大コンサル企業との提携も。一方で動画AI「Sora」は4月26日に完全終了、その裏にある「推論コストの壁」とは？さらにフロリダ州がOpenAIへの刑事捜査を開始した衝撃ニュースまで、全20トピックをお届けします。</description>
