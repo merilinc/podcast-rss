@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 23 Apr 2026 07:16:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:16:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月24日】GPT-5.5登場＆AI初の刑事捜査！激動のOpenAI最新動向</title>
+      <description>今日はOpenAIの怒涛のアップデートを一挙解説！完全新規モデル「GPT-5.5」の驚異的な性能、企業向け自律型AI「Workspace Agents」、医療従事者向け無料ツール、個人情報保護フィルターのオープンソース化、Infosysとの提携、即答機能「Fast answers」、思考する画像生成「Images 2.0」、そしてフロリダ州がOpenAIに対し世界初の刑事捜査を開始した衝撃のニュースまで。AIの進化と社会的課題の両面を深掘りします。</description>
+      <itunes:summary>今日はOpenAIの怒涛のアップデートを一挙解説！完全新規モデル「GPT-5.5」の驚異的な性能、企業向け自律型AI「Workspace Agents」、医療従事者向け無料ツール、個人情報保護フィルターのオープンソース化、Infosysとの提携、即答機能「Fast answers」、思考する画像生成「Images 2.0」、そしてフロリダ州がOpenAIに対し世界初の刑事捜査を開始した衝撃のニュースまで。AIの進化と社会的課題の両面を深掘りします。</itunes:summary>
+      <pubDate>Fri, 24 Apr 2026 07:16:39 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260424-20260424</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1r8uqLAgThAEjQ3sSqcA5WnubRzVA1sr9" length="16593069" type="audio/mpeg"/>
+      <itunes:duration>34:23</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月23日】ChatGPT画像生成が革命的進化＆フロリダ州が異例の刑事捜査</title>
       <description>今日は盛りだくさんの15本のニュースをお届けします。まず、OpenAIが発表した「ChatGPT Images 2.0」は、AIが考えてから描く&quot;思考モード&quot;を搭載し、画像生成の常識を覆しました。さらに、AIがチームの一員として働く「Workspace Agents」の登場、ホテル大手ハイアットの全社導入事例も注目です。一方で、フロリダ州がOpenAIに対し殺人幇助の疑いで刑事捜査を開始するという衝撃のニュースや、Googleの共同創業者が「Claudeに負けている」と社内で警鐘を鳴らしたリーク文書の内容、さらには次世代モデル「GPT-5.5」の情報まで、AI業界の光と影を徹底解説します。</description>
