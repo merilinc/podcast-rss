@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 07:29:07 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 07:27:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月24日】GPT-5.5登場＆Google×Apple歴史的提携、AI激動の1週間</title>
+      <description>今日は盛りだくさんの21本のAIニュースをお届けします。OpenAIの次世代モデル「GPT-5.5」リリース、GoogleとAppleのSiri統合という歴史的提携、SpaceXによるAIコーディング企業Cursorの600億ドル買収オプション付き提携など、業界地図を塗り替える動きが続々。一方で、Anthropicの防衛AI「Mythos」の漏洩事件、米国土安全保障省による制限解除AIのテロリスク実演、フロリダ州のAI規制法案など、安全保障やプライバシーの課題も深刻化。さらにLINEヤフーの新AIブランド「Agent i」や、AI専用SNSをMetaが買収など、私たちの日常を変えるニュースも満載です。</description>
+      <itunes:summary>今日は盛りだくさんの21本のAIニュースをお届けします。OpenAIの次世代モデル「GPT-5.5」リリース、GoogleとAppleのSiri統合という歴史的提携、SpaceXによるAIコーディング企業Cursorの600億ドル買収オプション付き提携など、業界地図を塗り替える動きが続々。一方で、Anthropicの防衛AI「Mythos」の漏洩事件、米国土安全保障省による制限解除AIのテロリスク実演、フロリダ州のAI規制法案など、安全保障やプライバシーの課題も深刻化。さらにLINEヤフーの新AIブランド「Agent i」や、AI専用SNSをMetaが買収など、私たちの日常を変えるニュースも満載です。</itunes:summary>
+      <pubDate>Fri, 24 Apr 2026 07:27:03 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260424-20260424</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y7otWjibVPlHBJRpUYBU53aQXgJ6s9Nh" length="24032685" type="audio/mpeg"/>
+      <itunes:duration>49:57</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月21日】ChatGPT世界障害＆兵器級AI封印、AI社会の光と影</title>
       <description>今日はChatGPTの世界的大規模障害から見えたAI依存社会の脆弱性、AIの「群れ」が民主主義を脅かすというScience誌の衝撃警告、GoogleがMarvellと進める推論特化チップ開発、史上最速で成長するAIコーディングツール「Cursor」の驚異的な資金調達、OpenAIの金融AI＆メディア企業買収戦略、PostmanとMicrosoftの開発者向け大型提携、国連主導のAI規制枠組み、人間参加不可のAI専用SNS「Moltbook」の騒動とNTTドコモの詐欺防止AI、そして兵器級の能力を示し封印された「Claude Mythos」と日本政府の緊急対応まで、全9トピックを徹底解説します。</description>
