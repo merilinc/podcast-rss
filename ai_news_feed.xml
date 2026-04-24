@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 07:27:08 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 07:24:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月25日】GPT-5.5登場＆SpaceX史上最大IPO！AI覇権争い激化</title>
+      <description>今日はOpenAIの最新モデル「GPT-5.5」の驚異的な自律実行能力、SpaceXの2兆ドル規模IPOと宇宙AIインフラ構想、マスク対Altmanの歴史的裁判など、AI業界が大きく動いた2026年4月下旬のニュースを一挙にお届けします。さらにGoogleの革命的な新チップTPU v8、MetaとMicrosoftの大規模リストラの裏側、Anthropicの危険すぎるサイバーAI「Mythos」の未承認アクセス問題、日本政府のAI罰則規制案、NTTドコモのAI専用SNSなど全15本のトピックを徹底解説。AI時代の激動を丸ごとキャッチアップできる保存版エピソードです。</description>
+      <itunes:summary>今日はOpenAIの最新モデル「GPT-5.5」の驚異的な自律実行能力、SpaceXの2兆ドル規模IPOと宇宙AIインフラ構想、マスク対Altmanの歴史的裁判など、AI業界が大きく動いた2026年4月下旬のニュースを一挙にお届けします。さらにGoogleの革命的な新チップTPU v8、MetaとMicrosoftの大規模リストラの裏側、Anthropicの危険すぎるサイバーAI「Mythos」の未承認アクセス問題、日本政府のAI罰則規制案、NTTドコモのAI専用SNSなど全15本のトピックを徹底解説。AI時代の激動を丸ごとキャッチアップできる保存版エピソードです。</itunes:summary>
+      <pubDate>Sat, 25 Apr 2026 07:24:29 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260425-20260425</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Nfr36Phmh98Kc_quSYrn9ZaAGDBSRClq" length="18710301" type="audio/mpeg"/>
+      <itunes:duration>38:49</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月24日】GPT-5.5登場＆Google×Apple歴史的提携、AI激動の1週間</title>
       <description>今日は盛りだくさんの21本のAIニュースをお届けします。OpenAIの次世代モデル「GPT-5.5」リリース、GoogleとAppleのSiri統合という歴史的提携、SpaceXによるAIコーディング企業Cursorの600億ドル買収オプション付き提携など、業界地図を塗り替える動きが続々。一方で、Anthropicの防衛AI「Mythos」の漏洩事件、米国土安全保障省による制限解除AIのテロリスク実演、フロリダ州のAI規制法案など、安全保障やプライバシーの課題も深刻化。さらにLINEヤフーの新AIブランド「Agent i」や、AI専用SNSをMetaが買収など、私たちの日常を変えるニュースも満載です。</description>
