@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 07:21:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:04:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月26日】Google検索が音声化＆スパム報告の新ルールでSEO激変</title>
+      <description>今回はSEO界隈を揺るがす15本のニュースを一挙解説！Googleがスパム報告に個人情報が含まれると即破棄する新ポリシーを発表。さらにAI Overviewsが音声で回答する「Audio Overviews」のテスト開始、AI Modeの引用リンクが消える「ゴーストサイテーション」バグ、そしてGEO（生成AI最適化）時代に求められるブランド評判管理の重要性まで。Google Discoverの攻略法、TikTokとRedditのAI広告ツール対決、中小企業のAI格差問題など、マーケター必聴の内容をたっぷりお届けします。</description>
+      <itunes:summary>今回はSEO界隈を揺るがす15本のニュースを一挙解説！Googleがスパム報告に個人情報が含まれると即破棄する新ポリシーを発表。さらにAI Overviewsが音声で回答する「Audio Overviews」のテスト開始、AI Modeの引用リンクが消える「ゴーストサイテーション」バグ、そしてGEO（生成AI最適化）時代に求められるブランド評判管理の重要性まで。Google Discoverの攻略法、TikTokとRedditのAI広告ツール対決、中小企業のAI格差問題など、マーケター必聴の内容をたっぷりお届けします。</itunes:summary>
+      <pubDate>Sun, 26 Apr 2026 07:04:24 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260426-20260426</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HECqFMGAKJ7InZH-FOowt9KhOcxx5Y2B" length="17702445" type="audio/mpeg"/>
+      <itunes:duration>36:28</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月24日】Google戻るボタン詐欺を撲滅＆GEO時代が本格到来</title>
       <description>今日はSEO・AI検索・デジタルマーケティングの最新動向を一挙にお届けします。Googleが「戻るボタンのハイジャック」をスパム認定した衝撃のポリシー更新、AI量産コンテンツを徹底排除した3月コアアップデートの分析、そしてGEO（生成エンジン最適化）がついに公式ビジネス領域に昇格した話題まで。さらにChromeの新AI Mode、GmailへのAI Overviews統合、AI紹介トラフィック527%増の驚異的データ、GA4と広告の同意コントロール分離など全18トピックを徹底解説。マーケター必聴の回です。</description>
