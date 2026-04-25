@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 07:24:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:15:40 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月26日】Google400億ドル投資＆AI蒸留スパイ戦争の全貌</title>
+      <description>今日はAI業界が揺れた一週間を総まとめ。GoogleがAnthropicに最大400億ドルの巨額投資を決定、OpenAIの新モデルGPT-5.5の実力、そしてホワイトハウスが中国のAI技術「蒸留」を公式非難するなど、米中テクノロジー冷戦が激化。さらにMetaとMicrosoftが合わせて約1万7千人規模のリストラを断行しAIインフラに全振りする衝撃の動きや、AnthropicのAIが自律的にハッキングできる能力を持つ「Mythos」の恐るべき実力、日本政府の緊急タスクフォース設置、NTTの世界初の技術、シーメンスの産業用AIエージェントまで、全19トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界が揺れた一週間を総まとめ。GoogleがAnthropicに最大400億ドルの巨額投資を決定、OpenAIの新モデルGPT-5.5の実力、そしてホワイトハウスが中国のAI技術「蒸留」を公式非難するなど、米中テクノロジー冷戦が激化。さらにMetaとMicrosoftが合わせて約1万7千人規模のリストラを断行しAIインフラに全振りする衝撃の動きや、AnthropicのAIが自律的にハッキングできる能力を持つ「Mythos」の恐るべき実力、日本政府の緊急タスクフォース設置、NTTの世界初の技術、シーメンスの産業用AIエージェントまで、全19トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 26 Apr 2026 07:15:37 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260426-20260426</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g0JAqXtK_v7jXsA-qUk5BsZkuqiGZ26v" length="26497509" type="audio/mpeg"/>
+      <itunes:duration>54:47</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月25日】GPT-5.5登場＆SpaceX史上最大IPO！AI覇権争い激化</title>
       <description>今日はOpenAIの最新モデル「GPT-5.5」の驚異的な自律実行能力、SpaceXの2兆ドル規模IPOと宇宙AIインフラ構想、マスク対Altmanの歴史的裁判など、AI業界が大きく動いた2026年4月下旬のニュースを一挙にお届けします。さらにGoogleの革命的な新チップTPU v8、MetaとMicrosoftの大規模リストラの裏側、Anthropicの危険すぎるサイバーAI「Mythos」の未承認アクセス問題、日本政府のAI罰則規制案、NTTドコモのAI専用SNSなど全15本のトピックを徹底解説。AI時代の激動を丸ごとキャッチアップできる保存版エピソードです。</description>
