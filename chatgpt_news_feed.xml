@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 24 Apr 2026 07:16:43 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 07:09:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月26日】GPT-5.5登場＆Anthropicに650億ドル投資の衝撃</title>
+      <description>今日はOpenAIが発表した自律型AIモデル「GPT-5.5」の全貌と、競合Anthropicへの合計650億ドル（約10兆円）という歴史的巨額投資について詳しく解説します。さらに、企業向け自律エージェント「Workspace Agents」の仕組み、カナダ銃乱射事件を巡るアルトマンCEOの公式謝罪、ChatGPTの広告ビジネス参入、医療従事者向け無料AI「ChatGPT for Clinicians」、そして画像生成の常識を覆す「Images 2.0」まで、AI業界が大きく動いた一週間を余すところなくお届けします。</description>
+      <itunes:summary>今日はOpenAIが発表した自律型AIモデル「GPT-5.5」の全貌と、競合Anthropicへの合計650億ドル（約10兆円）という歴史的巨額投資について詳しく解説します。さらに、企業向け自律エージェント「Workspace Agents」の仕組み、カナダ銃乱射事件を巡るアルトマンCEOの公式謝罪、ChatGPTの広告ビジネス参入、医療従事者向け無料AI「ChatGPT for Clinicians」、そして画像生成の常識を覆す「Images 2.0」まで、AI業界が大きく動いた一週間を余すところなくお届けします。</itunes:summary>
+      <pubDate>Sun, 26 Apr 2026 07:08:57 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260426-20260426</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BJJ67xL8tyHZuZGVe4DyDN4dtJ0UHj4X" length="20182485" type="audio/mpeg"/>
+      <itunes:duration>41:28</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月24日】GPT-5.5登場＆AI初の刑事捜査！激動のOpenAI最新動向</title>
       <description>今日はOpenAIの怒涛のアップデートを一挙解説！完全新規モデル「GPT-5.5」の驚異的な性能、企業向け自律型AI「Workspace Agents」、医療従事者向け無料ツール、個人情報保護フィルターのオープンソース化、Infosysとの提携、即答機能「Fast answers」、思考する画像生成「Images 2.0」、そしてフロリダ州がOpenAIに対し世界初の刑事捜査を開始した衝撃のニュースまで。AIの進化と社会的課題の両面を深掘りします。</description>
