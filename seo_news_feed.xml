@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 07:04:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:04:40 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月27日】ゼロクリック検索64%超え！AI時代のSEO生存戦略</title>
+      <description>Google検索の64.8%がクリックなしで完結する「ゼロクリック検索」時代が到来。AI Overviewsの登場でオーガニックCTRが61%下落する一方、AIに引用されたブランドはCTRが35%上昇という二極化が鮮明に。今回はGEO（生成AIエンジン最適化）の実践方法、PerplexityとGoogleの引用アルゴリズムの違い、B2B企業の77%がAIから&quot;透明人間&quot;になっている衝撃データまで、2026年のSEO最前線を徹底解説します。従来のSEOはもう通用しない？AI時代に生き残るための具体的な戦略をお届けします。</description>
+      <itunes:summary>Google検索の64.8%がクリックなしで完結する「ゼロクリック検索」時代が到来。AI Overviewsの登場でオーガニックCTRが61%下落する一方、AIに引用されたブランドはCTRが35%上昇という二極化が鮮明に。今回はGEO（生成AIエンジン最適化）の実践方法、PerplexityとGoogleの引用アルゴリズムの違い、B2B企業の77%がAIから&quot;透明人間&quot;になっている衝撃データまで、2026年のSEO最前線を徹底解説します。従来のSEOはもう通用しない？AI時代に生き残るための具体的な戦略をお届けします。</itunes:summary>
+      <pubDate>Mon, 27 Apr 2026 07:04:36 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260427-20260427</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dFz-nGOwgl1Oa3loapDzKQb9zrer6TTT" length="21696909" type="audio/mpeg"/>
+      <itunes:duration>44:45</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月26日】Google検索が音声化＆スパム報告の新ルールでSEO激変</title>
       <description>今回はSEO界隈を揺るがす15本のニュースを一挙解説！Googleがスパム報告に個人情報が含まれると即破棄する新ポリシーを発表。さらにAI Overviewsが音声で回答する「Audio Overviews」のテスト開始、AI Modeの引用リンクが消える「ゴーストサイテーション」バグ、そしてGEO（生成AI最適化）時代に求められるブランド評判管理の重要性まで。Google Discoverの攻略法、TikTokとRedditのAI広告ツール対決、中小企業のAI格差問題など、マーケター必聴の内容をたっぷりお届けします。</description>
