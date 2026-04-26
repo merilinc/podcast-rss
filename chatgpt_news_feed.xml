@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 26 Apr 2026 07:09:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:06:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月27日】GPT-5.5登場＆AI仮想社員時代の幕開け</title>
+      <description>今日はOpenAIの最新モデル「GPT-5.5」のAPI提供開始と、NVIDIAでの全社導入によるコスト革命について詳しく解説します。さらに、24時間自動で働く「Workspace Agents」の登場、ChatGPTの高速回答機能のグローバル展開、イーロン・マスク氏のOpenAI訴訟戦略の転換、新アプリ「XChat」のリリース、そしてAIガバナンスを巡るトレンドまで、AI業界の最前線を7つのトピックでたっぷりお届けします。企業間の競争と対立が激化する中、AIの未来はどこへ向かうのか？一緒に考えていきましょう。</description>
+      <itunes:summary>今日はOpenAIの最新モデル「GPT-5.5」のAPI提供開始と、NVIDIAでの全社導入によるコスト革命について詳しく解説します。さらに、24時間自動で働く「Workspace Agents」の登場、ChatGPTの高速回答機能のグローバル展開、イーロン・マスク氏のOpenAI訴訟戦略の転換、新アプリ「XChat」のリリース、そしてAIガバナンスを巡るトレンドまで、AI業界の最前線を7つのトピックでたっぷりお届けします。企業間の競争と対立が激化する中、AIの未来はどこへ向かうのか？一緒に考えていきましょう。</itunes:summary>
+      <pubDate>Mon, 27 Apr 2026 07:06:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260427-20260427</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19HNNAjlF3RVWxvwBj0HMSZA85dpwRuzC" length="14237613" type="audio/mpeg"/>
+      <itunes:duration>29:24</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月26日】GPT-5.5登場＆Anthropicに650億ドル投資の衝撃</title>
       <description>今日はOpenAIが発表した自律型AIモデル「GPT-5.5」の全貌と、競合Anthropicへの合計650億ドル（約10兆円）という歴史的巨額投資について詳しく解説します。さらに、企業向け自律エージェント「Workspace Agents」の仕組み、カナダ銃乱射事件を巡るアルトマンCEOの公式謝罪、ChatGPTの広告ビジネス参入、医療従事者向け無料AI「ChatGPT for Clinicians」、そして画像生成の常識を覆す「Images 2.0」まで、AI業界が大きく動いた一週間を余すところなくお届けします。</description>
