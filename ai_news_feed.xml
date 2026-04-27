@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 07:02:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:20:22 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月28日】OpenAI独占契約終了＆中国がMeta買収を阻止、AI地政学が激変</title>
+      <description>今日は激動のAI業界ニュースを16本一挙にお届けします。MicrosoftとOpenAIの歴史的な独占契約終了、中国政府がMetaのAIスタートアップ買収を強制阻止した衝撃、DeepSeekの75%値下げ価格破壊、イーロン・マスクのOpenAI訴訟開始、ロボットAI企業Sereactの1億ドル調達、OpenAI Codexエージェントのオープンソース化、Cerebrasの230億ドルIPO申請、AIデータセンターの電力誇張問題「bragawatts」、博報堂のAI感情制御技術、AI専用SNS「Moltbook」、Metaの8000人レイオフ、GoogleのGemma 4発表、Stanford HAIの警告レポート、GoogleのAnthropic400億ドル投資、OpenAIのGPT-5.5リリース、そしてCohereによるソブリンAI買収まで、すべて詳しく解説します。</description>
+      <itunes:summary>今日は激動のAI業界ニュースを16本一挙にお届けします。MicrosoftとOpenAIの歴史的な独占契約終了、中国政府がMetaのAIスタートアップ買収を強制阻止した衝撃、DeepSeekの75%値下げ価格破壊、イーロン・マスクのOpenAI訴訟開始、ロボットAI企業Sereactの1億ドル調達、OpenAI Codexエージェントのオープンソース化、Cerebrasの230億ドルIPO申請、AIデータセンターの電力誇張問題「bragawatts」、博報堂のAI感情制御技術、AI専用SNS「Moltbook」、Metaの8000人レイオフ、GoogleのGemma 4発表、Stanford HAIの警告レポート、GoogleのAnthropic400億ドル投資、OpenAIのGPT-5.5リリース、そしてCohereによるソブリンAI買収まで、すべて詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 28 Apr 2026 07:20:17 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260428-20260428</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zPSTjGiHTgpwvj9wgqmlkNXdBqYuqQMR" length="24862341" type="audio/mpeg"/>
+      <itunes:duration>50:52</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月27日】Google×Anthropic6兆円提携＆&quot;危険すぎるAI&quot;公開見送りの衝撃</title>
       <description>今日はAI業界を揺るがす9つのビッグニュースをお届けします。GoogleがAnthropicに最大400億ドル（約6兆円）を出資する巨額ディールの裏側、未知の脆弱性を自力で発見してしまう&quot;危険すぎるAI&quot;Claude Mythosの衝撃、中国DeepSeekの価格破壊モデルV4、画像生成ツールComfyUIの急成長、ソニーの卓球AIロボットが人間プロに勝利した歴史的快挙、テスラの3.8兆円設備投資、AIが完全自律運用するヘッジファンド誕生、米国AI規制の混迷、そしてGartnerが予測する6.3兆ドルのIT支出まで。AIが画面の中から現実世界へ飛び出す転換点を、分かりやすく解説します。</description>
