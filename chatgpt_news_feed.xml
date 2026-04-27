@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 27 Apr 2026 07:06:49 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:24:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月28日】OpenAI独立宣言！Microsoft離れ＆Sora終了の衝撃</title>
+      <description>OpenAIが激動の1週間を迎えました。Microsoftとの独占契約を解除しマルチクラウドへ移行、最強モデルGPT-5.5がNVIDIAエンジニアに「手足を失った気分」と言わしめるほどの衝撃、動画生成AI「Sora」の突然のサービス終了とDisneyとの10億ドル提携白紙化、そしてイーロン・マスクとの20兆円訴訟の行方まで。IPOに向けて「選択と集中」を加速するOpenAIの全貌を、11のトピックで徹底解説します。</description>
+      <itunes:summary>OpenAIが激動の1週間を迎えました。Microsoftとの独占契約を解除しマルチクラウドへ移行、最強モデルGPT-5.5がNVIDIAエンジニアに「手足を失った気分」と言わしめるほどの衝撃、動画生成AI「Sora」の突然のサービス終了とDisneyとの10億ドル提携白紙化、そしてイーロン・マスクとの20兆円訴訟の行方まで。IPOに向けて「選択と集中」を加速するOpenAIの全貌を、11のトピックで徹底解説します。</itunes:summary>
+      <pubDate>Tue, 28 Apr 2026 07:24:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260428-20260428</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10HpSHKq0XHlLx9xEBtN9L8rKIAbg9Bdd" length="19454061" type="audio/mpeg"/>
+      <itunes:duration>40:36</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月27日】GPT-5.5登場＆AI仮想社員時代の幕開け</title>
       <description>今日はOpenAIの最新モデル「GPT-5.5」のAPI提供開始と、NVIDIAでの全社導入によるコスト革命について詳しく解説します。さらに、24時間自動で働く「Workspace Agents」の登場、ChatGPTの高速回答機能のグローバル展開、イーロン・マスク氏のOpenAI訴訟戦略の転換、新アプリ「XChat」のリリース、そしてAIガバナンスを巡るトレンドまで、AI業界の最前線を7つのトピックでたっぷりお届けします。企業間の競争と対立が激化する中、AIの未来はどこへ向かうのか？一緒に考えていきましょう。</description>
