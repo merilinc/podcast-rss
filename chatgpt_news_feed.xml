@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 07:24:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:31:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月29日】OpenAIスマホ開発＆Musk裁判＆AWS提携で激動の1週間</title>
+      <description>OpenAIが独自スマートフォンの開発を計画中！アプリを使わずAIエージェントが全てを代行する未来とは？さらにMicrosoftとの独占契約終了とAWS展開開始、NVIDIAでのCodex全社導入など、ビジネス面でも大きな動きが。一方で収益目標の未達やElon Muskとの歴史的裁判の開廷、Sam Altman氏の私的訴訟問題など課題も山積。ChatGPTの技術アップデートや企業市場でのClaude との熾烈な競争まで、OpenAIを取り巻く20のニュースを徹底解説します。</description>
+      <itunes:summary>OpenAIが独自スマートフォンの開発を計画中！アプリを使わずAIエージェントが全てを代行する未来とは？さらにMicrosoftとの独占契約終了とAWS展開開始、NVIDIAでのCodex全社導入など、ビジネス面でも大きな動きが。一方で収益目標の未達やElon Muskとの歴史的裁判の開廷、Sam Altman氏の私的訴訟問題など課題も山積。ChatGPTの技術アップデートや企業市場でのClaude との熾烈な競争まで、OpenAIを取り巻く20のニュースを徹底解説します。</itunes:summary>
+      <pubDate>Wed, 29 Apr 2026 07:31:51 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260429-20260429</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NrSEiHpmUVZKAqeuY2J_Te5WwQXOu9WC" length="24741765" type="audio/mpeg"/>
+      <itunes:duration>51:20</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月28日】OpenAI独立宣言！Microsoft離れ＆Sora終了の衝撃</title>
       <description>OpenAIが激動の1週間を迎えました。Microsoftとの独占契約を解除しマルチクラウドへ移行、最強モデルGPT-5.5がNVIDIAエンジニアに「手足を失った気分」と言わしめるほどの衝撃、動画生成AI「Sora」の突然のサービス終了とDisneyとの10億ドル提携白紙化、そしてイーロン・マスクとの20兆円訴訟の行方まで。IPOに向けて「選択と集中」を加速するOpenAIの全貌を、11のトピックで徹底解説します。</description>
