@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 28 Apr 2026 07:30:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 07:25:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月29日】AI検索でクリック38%減！SEOの常識が崩壊する今、生き残る方法</title>
+      <description>Google検索のランキングが大荒れ！コアアップデート後の激しい変動の裏側を解説します。さらに、AI Overviewsがオーガニッククリックを38%も減らしているという衝撃の研究結果や、一方でCTRが85%回復している兆しも。BingがGoogleを出し抜く透明性の高いAI分析ツールを発表し、SEO業界が騒然。eコマースではAI経由のショッピングが前年比4700%増という驚異的な伸びを記録し、クリエイター広告市場は440億ドル規模に急成長中。検索・広告・EC、すべてが変わる2026年のデジタルマーケティング最前線を徹底解説します。</description>
+      <itunes:summary>Google検索のランキングが大荒れ！コアアップデート後の激しい変動の裏側を解説します。さらに、AI Overviewsがオーガニッククリックを38%も減らしているという衝撃の研究結果や、一方でCTRが85%回復している兆しも。BingがGoogleを出し抜く透明性の高いAI分析ツールを発表し、SEO業界が騒然。eコマースではAI経由のショッピングが前年比4700%増という驚異的な伸びを記録し、クリエイター広告市場は440億ドル規模に急成長中。検索・広告・EC、すべてが変わる2026年のデジタルマーケティング最前線を徹底解説します。</itunes:summary>
+      <pubDate>Wed, 29 Apr 2026 07:25:11 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260429-20260429</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ojukNWTlrUDn4Vq54Y00ZYP67-Hk6OOG" length="25908765" type="audio/mpeg"/>
+      <itunes:duration>53:47</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月28日】AI検索でクリック38%減の衝撃＆Google広告が完全AI化へ</title>
       <description>今日はAI検索時代の大転換を特集します。カーネギーメロン大学の実験でGoogleのAI Overviewsがオーガニッククリックを38%も減らすことが科学的に証明されました。さらにGoogleが長年使われてきた動的検索広告（DSA）を廃止しAI Maxへ完全移行する衝撃の発表、BingがAI検索トラフィック分析機能を追加してGoogleに対抗する動き、GPT-5リリース後にOpenAIのウェブクロールが3.5倍に急増した背景、短編動画が2026年最高ROIのコンテンツに君臨する理由など、全13トピックを徹底解説します。マーケターの役割が「操縦士」から「監督者」へと変わる激動の今、知っておくべきニュースが満載です。</description>
