@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 29 Apr 2026 07:31:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:25:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月30日】GPT-5.4が数学の未解決問題を解明＆医療AI無料公開</title>
+      <description>今日はOpenAIの最新モデルGPT-5.4 Proが数学の未解決問題をわずか80分で解いたという衝撃のニュースから始まり、成人向けトピックに対応するNSFWコントロールの刷新、医療従事者向け専用AI「ChatGPT for Clinicians」の米国無料公開、そして自律型クラウドAI「ChatGPT Workspace Agents」による業務自動化の最前線まで、4つのビッグニュースを詳しく解説します。AIが研究・医療・業務のインフラへと進化する今、知っておくべき最新動向をお届けします。</description>
+      <itunes:summary>今日はOpenAIの最新モデルGPT-5.4 Proが数学の未解決問題をわずか80分で解いたという衝撃のニュースから始まり、成人向けトピックに対応するNSFWコントロールの刷新、医療従事者向け専用AI「ChatGPT for Clinicians」の米国無料公開、そして自律型クラウドAI「ChatGPT Workspace Agents」による業務自動化の最前線まで、4つのビッグニュースを詳しく解説します。AIが研究・医療・業務のインフラへと進化する今、知っておくべき最新動向をお届けします。</itunes:summary>
+      <pubDate>Thu, 30 Apr 2026 07:25:21 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260430-20260430</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b9Gy0N9wf4PtmOWRkzPgZza4i7uvNe7r" length="12259173" type="audio/mpeg"/>
+      <itunes:duration>25:36</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月29日】OpenAIスマホ開発＆Musk裁判＆AWS提携で激動の1週間</title>
       <description>OpenAIが独自スマートフォンの開発を計画中！アプリを使わずAIエージェントが全てを代行する未来とは？さらにMicrosoftとの独占契約終了とAWS展開開始、NVIDIAでのCodex全社導入など、ビジネス面でも大きな動きが。一方で収益目標の未達やElon Muskとの歴史的裁判の開廷、Sam Altman氏の私的訴訟問題など課題も山積。ChatGPTの技術アップデートや企業市場でのClaude との熾烈な競争まで、OpenAIを取り巻く20のニュースを徹底解説します。</description>
