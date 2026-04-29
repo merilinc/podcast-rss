@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 29 Apr 2026 07:25:16 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:29:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【4月30日】戻るボタン乗っ取りにGoogle警告＆AI引用シェア新指標登場</title>
+      <description>今回はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleが「戻るボタンのハイジャック」にスパムペナルティ警告を発令、Googleビジネスプロフィールで削除レビュー数の表示テスト開始、Google幹部が提唱する「エージェンティックSEO」とは何か、Yoast SEOのAI API統合、BingのCitation Share新指標、GEO（生成エンジン最適化）が変える2026年のSEO、AI OverviewのCTR改善傾向、Google Adsのネガティブキーワード事前予測など、AI時代のSEOとマーケティングの最前線を徹底解説します。</description>
+      <itunes:summary>今回はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleが「戻るボタンのハイジャック」にスパムペナルティ警告を発令、Googleビジネスプロフィールで削除レビュー数の表示テスト開始、Google幹部が提唱する「エージェンティックSEO」とは何か、Yoast SEOのAI API統合、BingのCitation Share新指標、GEO（生成エンジン最適化）が変える2026年のSEO、AI OverviewのCTR改善傾向、Google Adsのネガティブキーワード事前予測など、AI時代のSEOとマーケティングの最前線を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 30 Apr 2026 07:29:29 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260430-20260430</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZwQoaQ5zaMTt-Zo1G-rk5MWSEuevX4SH" length="18624573" type="audio/mpeg"/>
+      <itunes:duration>38:34</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月29日】AI検索でクリック38%減！SEOの常識が崩壊する今、生き残る方法</title>
       <description>Google検索のランキングが大荒れ！コアアップデート後の激しい変動の裏側を解説します。さらに、AI Overviewsがオーガニッククリックを38%も減らしているという衝撃の研究結果や、一方でCTRが85%回復している兆しも。BingがGoogleを出し抜く透明性の高いAI分析ツールを発表し、SEO業界が騒然。eコマースではAI経由のショッピングが前年比4700%増という驚異的な伸びを記録し、クリエイター広告市場は440億ドル規模に急成長中。検索・広告・EC、すべてが変わる2026年のデジタルマーケティング最前線を徹底解説します。</description>
