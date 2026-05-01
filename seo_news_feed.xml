@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 07:29:32 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:29:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月2日】戻るボタン詐欺に罰則＆AI検索時代の生存戦略</title>
+      <description>今日はSEO・AI検索の最新動向を一挙にお届けします。Googleが「戻るボタンのハイジャック」をスパム認定した衝撃ニュースから、AI検索時代にサイトが生き残るための新常識まで。AI Overviewでクリックが減っても「質」は上がる？リンクよりブランド言及が重要に？AIが作ったゴミコンテンツがネットを壊す「スロップループ」問題、Google Analyticsに搭載されたAIアシスタント、Google広告の新機能まで、全11トピックを徹底解説します。ウェブに関わる全ての人必聴の回です。</description>
+      <itunes:summary>今日はSEO・AI検索の最新動向を一挙にお届けします。Googleが「戻るボタンのハイジャック」をスパム認定した衝撃ニュースから、AI検索時代にサイトが生き残るための新常識まで。AI Overviewでクリックが減っても「質」は上がる？リンクよりブランド言及が重要に？AIが作ったゴミコンテンツがネットを壊す「スロップループ」問題、Google Analyticsに搭載されたAIアシスタント、Google広告の新機能まで、全11トピックを徹底解説します。ウェブに関わる全ての人必聴の回です。</itunes:summary>
+      <pubDate>Sat, 02 May 2026 07:29:37 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260502-20260502</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YBqFTRwEms7InVcR2zeOl3dI5NnKdgtR" length="17844453" type="audio/mpeg"/>
+      <itunes:duration>37:04</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月30日】戻るボタン乗っ取りにGoogle警告＆AI引用シェア新指標登場</title>
       <description>今回はSEO・デジタルマーケティングの最新ニュースを14本まとめてお届けします。Googleが「戻るボタンのハイジャック」にスパムペナルティ警告を発令、Googleビジネスプロフィールで削除レビュー数の表示テスト開始、Google幹部が提唱する「エージェンティックSEO」とは何か、Yoast SEOのAI API統合、BingのCitation Share新指標、GEO（生成エンジン最適化）が変える2026年のSEO、AI OverviewのCTR改善傾向、Google Adsのネガティブキーワード事前予測など、AI時代のSEOとマーケティングの最前線を徹底解説します。</description>
