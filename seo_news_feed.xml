@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 02 May 2026 07:29:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:11:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月3日】AI検索がSEOを激変させる！クリック38%減の衝撃</title>
+      <description>今回はSEO・検索エコシステムの大変革をお届けします。AI検索のクリックがグローバルブランドではなくローカル企業に集中しているという驚きの調査結果、Google AI Overviewsがオーガニッククリックを38%も削減したことを証明するフィールド実験、ChromeへのAI Mode統合がもたらす「弱いSEO淘汰」の波、Googleのコアアップデートと戻るボタンハイジャックのペナルティ化、B2B向けPMax最適化の最新戦略、そしてGoogleとMicrosoftの決算から見える検索エコシステムの構造変化まで、6つのトピックを徹底解説します。</description>
+      <itunes:summary>今回はSEO・検索エコシステムの大変革をお届けします。AI検索のクリックがグローバルブランドではなくローカル企業に集中しているという驚きの調査結果、Google AI Overviewsがオーガニッククリックを38%も削減したことを証明するフィールド実験、ChromeへのAI Mode統合がもたらす「弱いSEO淘汰」の波、Googleのコアアップデートと戻るボタンハイジャックのペナルティ化、B2B向けPMax最適化の最新戦略、そしてGoogleとMicrosoftの決算から見える検索エコシステムの構造変化まで、6つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 03 May 2026 07:11:22 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260503-20260503</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WBiXphj54rwVuc0_TKjZDgDy0saWuKFA" length="17164101" type="audio/mpeg"/>
+      <itunes:duration>35:37</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月2日】戻るボタン詐欺に罰則＆AI検索時代の生存戦略</title>
       <description>今日はSEO・AI検索の最新動向を一挙にお届けします。Googleが「戻るボタンのハイジャック」をスパム認定した衝撃ニュースから、AI検索時代にサイトが生き残るための新常識まで。AI Overviewでクリックが減っても「質」は上がる？リンクよりブランド言及が重要に？AIが作ったゴミコンテンツがネットを壊す「スロップループ」問題、Google Analyticsに搭載されたAIアシスタント、Google広告の新機能まで、全11トピックを徹底解説します。ウェブに関わる全ての人必聴の回です。</description>
