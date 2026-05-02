@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 02 May 2026 07:25:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 07:18:14 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月3日】OpenAI広告参入＆国防総省AI契約の衝撃</title>
+      <description>今日はOpenAIの激動の1週間を徹底解説します。無料ユーザーへの広告トラッキング開始でプライバシー方針が大転換。さらに米国防総省との機密AI契約にOpenAIやGoogleが参加する一方、Anthropicは倫理的理由で除外される波紋も。イーロン・マスク氏がxAIによるOpenAIモデルの「蒸留」を法廷で認めた衝撃の証言、GPT-5.5のAPI収益が1週間で倍増した快進撃、ChatGPTの「ゴブリン連発バグ」の意外な原因、YubiKeyとの提携によるセキュリティ強化、AWS進出によるマルチクラウド戦略など、全20トピックをお届けします。</description>
+      <itunes:summary>今日はOpenAIの激動の1週間を徹底解説します。無料ユーザーへの広告トラッキング開始でプライバシー方針が大転換。さらに米国防総省との機密AI契約にOpenAIやGoogleが参加する一方、Anthropicは倫理的理由で除外される波紋も。イーロン・マスク氏がxAIによるOpenAIモデルの「蒸留」を法廷で認めた衝撃の証言、GPT-5.5のAPI収益が1週間で倍増した快進撃、ChatGPTの「ゴブリン連発バグ」の意外な原因、YubiKeyとの提携によるセキュリティ強化、AWS進出によるマルチクラウド戦略など、全20トピックをお届けします。</itunes:summary>
+      <pubDate>Sun, 03 May 2026 07:18:10 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260503-20260503</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e60xS1xLutUrTKNbbRqfMqxySo2yq-2S" length="26117301" type="audio/mpeg"/>
+      <itunes:duration>54:02</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月2日】OpenAIセキュリティ革命＆マスク裁判激化＆AI銃事件訴訟</title>
       <description>今日はOpenAIの大型アップデートを一挙にお届けします。まず、YubiKeyとの提携によるハードウェア認証の導入やFIDO2ベースの高度セキュリティ機能について詳しく解説。さらに、イーロン・マスク氏とOpenAIの裁判が第4日目を迎え「非営利使命の裏切り」「騙し討ち」といった激しい応酬が展開された模様をお伝えします。カナダの銃乱射事件でChatGPTの関与が問われる訴訟やフロリダ州の刑事捜査、ChatGPTの新UIモード「Instant・Thinking・Pro」、ジブリ風画像加工の大流行、そして「助言者から実行者へ」と変わるAIエージェントの未来まで、全17トピックを徹底解説します。</description>
