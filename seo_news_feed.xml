@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 03 May 2026 07:11:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:12:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月4日】AI検索でクリック38%減！SEOの常識が崩壊する時代へ</title>
+      <description>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの検索インデックスから大量のページが消える異常事態、AIを使った新しいSEO手法「セマンティックpSEO」の衝撃、そしてAI Overviewによるクリック率38%激減の科学的証明まで。5億件のAI検索データから判明した「AIに引用される法則」や、Google・Microsoftの決算が示す検索ビジネスの二極化、さらにSEOツール大手Ahrefsの日本市場攻略まで、全7トピックを徹底解説します。従来のSEOが通用しなくなる今、何をすべきか？必聴です！</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの検索インデックスから大量のページが消える異常事態、AIを使った新しいSEO手法「セマンティックpSEO」の衝撃、そしてAI Overviewによるクリック率38%激減の科学的証明まで。5億件のAI検索データから判明した「AIに引用される法則」や、Google・Microsoftの決算が示す検索ビジネスの二極化、さらにSEOツール大手Ahrefsの日本市場攻略まで、全7トピックを徹底解説します。従来のSEOが通用しなくなる今、何をすべきか？必聴です！</itunes:summary>
+      <pubDate>Mon, 04 May 2026 07:12:13 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260504-20260504</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Izgdq_Kyaqkr77oo8omWiOZ6r9Dc2qLv" length="16990941" type="audio/mpeg"/>
+      <itunes:duration>35:27</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月3日】AI検索がSEOを激変させる！クリック38%減の衝撃</title>
       <description>今回はSEO・検索エコシステムの大変革をお届けします。AI検索のクリックがグローバルブランドではなくローカル企業に集中しているという驚きの調査結果、Google AI Overviewsがオーガニッククリックを38%も削減したことを証明するフィールド実験、ChromeへのAI Mode統合がもたらす「弱いSEO淘汰」の波、Googleのコアアップデートと戻るボタンハイジャックのペナルティ化、B2B向けPMax最適化の最新戦略、そしてGoogleとMicrosoftの決算から見える検索エコシステムの構造変化まで、6つのトピックを徹底解説します。</description>
