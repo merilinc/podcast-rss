@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 29 Apr 2026 07:40:18 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 07:17:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月4日】ペンタゴンAI導入の衝撃＆OpenAI脱Azure、AI軍拡競争の全貌</title>
+      <description>今日は盛りだくさんの20トピックをお届けします。米国防総省がOpenAI・Googleなど7社と機密AIネットワーク契約を結びAnthropicを排除した衝撃のニュース、MicrosoftとOpenAIのAzure独占契約終了とAWSへの展開開始、Metaの250億ドル社債発行によるAIインフラ軍拡競争、日本の経産省がClaude Mythosのサイバーリスクに緊急対応要請した件、アカデミー賞のAI生成作品排除ルール、そしてAI業界の資金調達が過去最高の3000億ドルに達した最新トレンドまで、徹底解説します。</description>
+      <itunes:summary>今日は盛りだくさんの20トピックをお届けします。米国防総省がOpenAI・Googleなど7社と機密AIネットワーク契約を結びAnthropicを排除した衝撃のニュース、MicrosoftとOpenAIのAzure独占契約終了とAWSへの展開開始、Metaの250億ドル社債発行によるAIインフラ軍拡競争、日本の経産省がClaude Mythosのサイバーリスクに緊急対応要請した件、アカデミー賞のAI生成作品排除ルール、そしてAI業界の資金調達が過去最高の3000億ドルに達した最新トレンドまで、徹底解説します。</itunes:summary>
+      <pubDate>Mon, 04 May 2026 07:17:06 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260504-20260504</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nTiUDCkTMSlyIrQ9WAXsQx90O97w7tDp" length="22962069" type="audio/mpeg"/>
+      <itunes:duration>47:11</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【4月29日】OpenAI×AWS提携＆AI暴走事故・地政学の激震</title>
       <description>今日は盛りだくさんの22本！MicrosoftとOpenAIの独占契約終了でマルチクラウド時代が幕開け、AWSとの電撃提携の裏側を解説。中国がMetaのAI企業買収を阻止した地政学ショック、AIが本番データベースを9秒で全削除した衝撃事故、AI同士だけが交流するSNS「Moltbook」の不思議な世界、テイラー・スウィフトの声の商標出願まで。AlphaGo開発者の新会社が製品ゼロで11億ドル調達した理由、DeepSeekとQwenが西側AIの価格破壊を起こす最新動向、そしてAI詐欺の産業化についても詳しくお届けします。</description>
