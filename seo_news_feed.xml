@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 04 May 2026 07:12:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:38:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月5日】Google検索が激変！AI時代のSEO新常識とまとめサイトの没落</title>
+      <description>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの3月コアアップデートでまとめサイトが大打撃を受けた一方、一次情報を持つブランドが急上昇。老舗検索エンジンAsk.comが約30年の歴史に幕を閉じた背景とは？さらに、AI検索で「引用される」ための新戦略、Wise.comがPayPalを抑えてAI検索トップに立った秘訣、Google AI Modeが月間10億クエリ突破の衝撃、クリエイターエコノミー440億ドル時代の到来まで、全13トピックを徹底解説します。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの3月コアアップデートでまとめサイトが大打撃を受けた一方、一次情報を持つブランドが急上昇。老舗検索エンジンAsk.comが約30年の歴史に幕を閉じた背景とは？さらに、AI検索で「引用される」ための新戦略、Wise.comがPayPalを抑えてAI検索トップに立った秘訣、Google AI Modeが月間10億クエリ突破の衝撃、クリエイターエコノミー440億ドル時代の到来まで、全13トピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 05 May 2026 07:38:38 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260505-20260505</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11wzizVauUWekn_TDp7_iD2b1scNT_gUR" length="23951109" type="audio/mpeg"/>
+      <itunes:duration>49:55</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月4日】AI検索でクリック38%減！SEOの常識が崩壊する時代へ</title>
       <description>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの検索インデックスから大量のページが消える異常事態、AIを使った新しいSEO手法「セマンティックpSEO」の衝撃、そしてAI Overviewによるクリック率38%激減の科学的証明まで。5億件のAI検索データから判明した「AIに引用される法則」や、Google・Microsoftの決算が示す検索ビジネスの二極化、さらにSEOツール大手Ahrefsの日本市場攻略まで、全7トピックを徹底解説します。従来のSEOが通用しなくなる今、何をすべきか？必聴です！</description>
