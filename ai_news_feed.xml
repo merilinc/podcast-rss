@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 04 May 2026 07:17:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 07:43:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月5日】Anthropic収益逆転＆DeepSeek評価報告・AI規制と倫理の大転換</title>
+      <description>今日はAnthropicがOpenAIを収益で逆転しARR300億ドル突破というビッグニュースから、米政府機関が中国DeepSeekの評価レポートを公開し「8ヶ月遅れ」と結論づけた話題まで詳しく解説します。さらに、トランプ政権がAIモデルの事前審査を検討、国防総省がAnthropicを排除して7社と契約、OpenAIのチャットボットが銃撃事件に関与していた衝撃の報道、Google Workspaceの自律型エージェント化、F1レースへのAI本格参戦、AI専用SNS「Moltbook」のMeta買収、ハーバード大の研究でAIが救急医を上回る診断精度を記録した話など、全19トピックを徹底解説。AI時代の光と影を余すところなくお届けします。</description>
+      <itunes:summary>今日はAnthropicがOpenAIを収益で逆転しARR300億ドル突破というビッグニュースから、米政府機関が中国DeepSeekの評価レポートを公開し「8ヶ月遅れ」と結論づけた話題まで詳しく解説します。さらに、トランプ政権がAIモデルの事前審査を検討、国防総省がAnthropicを排除して7社と契約、OpenAIのチャットボットが銃撃事件に関与していた衝撃の報道、Google Workspaceの自律型エージェント化、F1レースへのAI本格参戦、AI専用SNS「Moltbook」のMeta買収、ハーバード大の研究でAIが救急医を上回る診断精度を記録した話など、全19トピックを徹底解説。AI時代の光と影を余すところなくお届けします。</itunes:summary>
+      <pubDate>Tue, 05 May 2026 07:43:26 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260505-20260505</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vcb3abpyyCk3zOtOeVVnQSB-8eyVTBJC" length="24531189" type="audio/mpeg"/>
+      <itunes:duration>50:59</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月4日】ペンタゴンAI導入の衝撃＆OpenAI脱Azure、AI軍拡競争の全貌</title>
       <description>今日は盛りだくさんの20トピックをお届けします。米国防総省がOpenAI・Googleなど7社と機密AIネットワーク契約を結びAnthropicを排除した衝撃のニュース、MicrosoftとOpenAIのAzure独占契約終了とAWSへの展開開始、Metaの250億ドル社債発行によるAIインフラ軍拡競争、日本の経産省がClaude Mythosのサイバーリスクに緊急対応要請した件、アカデミー賞のAI生成作品排除ルール、そしてAI業界の資金調達が過去最高の3000億ドルに達した最新トレンドまで、徹底解説します。</description>
