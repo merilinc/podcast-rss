@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 03 May 2026 07:18:14 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:40:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月6日】GPT-5.5登場＆ChatGPTが広告・買い物・医療の中心に</title>
+      <description>OpenAIがChatGPTのデフォルトモデルをGPT-5.5 Instantに更新、AIの嘘が半減する驚異の進化を遂げました。さらにChatGPT内での広告ビジネス本格始動、Etsy商品をチャット内で購入できるネイティブショッピング機能、医療従事者向け無料AI「ChatGPT for Clinicians」のリリースなど、ChatGPTが私たちの生活インフラへと変貌する16のニュースを徹底解説。OpenAI独自スマホの開発前倒し、40億ドル規模の新合弁会社設立、Musk氏との泥沼裁判の新展開、GPT-5.5のハッキング能力問題まで、AI業界激動の一日をお届けします。</description>
+      <itunes:summary>OpenAIがChatGPTのデフォルトモデルをGPT-5.5 Instantに更新、AIの嘘が半減する驚異の進化を遂げました。さらにChatGPT内での広告ビジネス本格始動、Etsy商品をチャット内で購入できるネイティブショッピング機能、医療従事者向け無料AI「ChatGPT for Clinicians」のリリースなど、ChatGPTが私たちの生活インフラへと変貌する16のニュースを徹底解説。OpenAI独自スマホの開発前倒し、40億ドル規模の新合弁会社設立、Musk氏との泥沼裁判の新展開、GPT-5.5のハッキング能力問題まで、AI業界激動の一日をお届けします。</itunes:summary>
+      <pubDate>Wed, 06 May 2026 07:40:30 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260506-20260506</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=131xNaZATeY4Er8xXrVubf8L-hHLLGpVG" length="24108741" type="audio/mpeg"/>
+      <itunes:duration>50:14</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月3日】OpenAI広告参入＆国防総省AI契約の衝撃</title>
       <description>今日はOpenAIの激動の1週間を徹底解説します。無料ユーザーへの広告トラッキング開始でプライバシー方針が大転換。さらに米国防総省との機密AI契約にOpenAIやGoogleが参加する一方、Anthropicは倫理的理由で除外される波紋も。イーロン・マスク氏がxAIによるOpenAIモデルの「蒸留」を法廷で認めた衝撃の証言、GPT-5.5のAPI収益が1週間で倍増した快進撃、ChatGPTの「ゴブリン連発バグ」の意外な原因、YubiKeyとの提携によるセキュリティ強化、AWS進出によるマルチクラウド戦略など、全20トピックをお届けします。</description>
