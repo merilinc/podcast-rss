@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 05 May 2026 07:38:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 07:35:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月6日】AI検索の大転換期〜ボット認証革命からAsk.com終焉まで</title>
+      <description>今回はSEO・検索業界を揺るがす9つのビッグニュースを徹底解説します。Googleが導入した次世代ボット認証「Web Bot Auth」の仕組みから、AI時代のコンテンツ生存戦略、AI OverviewsとAI Modeの内部構造の違い、被リンクからサイテーションへの歴史的シフト、GA4 APIの待望のアップデート、PMaxハイブリッド戦略の新常識、そして約30年の歴史に幕を閉じたAsk.comの切ないラストまで。SEO担当者もマーケターも、これを聴けば2026年の検索トレンドがまるわかりです。</description>
+      <itunes:summary>今回はSEO・検索業界を揺るがす9つのビッグニュースを徹底解説します。Googleが導入した次世代ボット認証「Web Bot Auth」の仕組みから、AI時代のコンテンツ生存戦略、AI OverviewsとAI Modeの内部構造の違い、被リンクからサイテーションへの歴史的シフト、GA4 APIの待望のアップデート、PMaxハイブリッド戦略の新常識、そして約30年の歴史に幕を閉じたAsk.comの切ないラストまで。SEO担当者もマーケターも、これを聴けば2026年の検索トレンドがまるわかりです。</itunes:summary>
+      <pubDate>Wed, 06 May 2026 07:35:31 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260506-20260506</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kELRxfWfhVK2ifxYstumch6FDobL_rxk" length="18192069" type="audio/mpeg"/>
+      <itunes:duration>37:50</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月5日】Google検索が激変！AI時代のSEO新常識とまとめサイトの没落</title>
       <description>今日はSEO・デジタルマーケティングの最前線をたっぷりお届けします。Googleの3月コアアップデートでまとめサイトが大打撃を受けた一方、一次情報を持つブランドが急上昇。老舗検索エンジンAsk.comが約30年の歴史に幕を閉じた背景とは？さらに、AI検索で「引用される」ための新戦略、Wise.comがPayPalを抑えてAI検索トップに立った秘訣、Google AI Modeが月間10億クエリ突破の衝撃、クリエイターエコノミー440億ドル時代の到来まで、全13トピックを徹底解説します。</description>
