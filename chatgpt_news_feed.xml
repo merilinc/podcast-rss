@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 06 May 2026 07:40:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 07:44:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月7日】GPT-5.5登場＆Musk対OpenAI裁判が泥沼化＆AI業界の大激変</title>
+      <description>今日はOpenAI関連の大ニュースが盛りだくさん！ハルシネーションを半減させた新モデル「GPT-5.5 Instant」のリリース、カナダでのプライバシー法違反認定、Musk対OpenAI裁判での衝撃的な内部証言、AnthropicとSpaceXの驚きの提携、MicrosoftとOpenAIの独占契約終了によるAWS展開開始、Excel向け公式アドイン、OpenAIのスマホ開発計画、さらにはAI教育効果を謳った論文の撤回まで、全13トピックを徹底解説します。AI業界の勢力図が大きく塗り替わる歴史的な転換点を、わかりやすくお届けします！</description>
+      <itunes:summary>今日はOpenAI関連の大ニュースが盛りだくさん！ハルシネーションを半減させた新モデル「GPT-5.5 Instant」のリリース、カナダでのプライバシー法違反認定、Musk対OpenAI裁判での衝撃的な内部証言、AnthropicとSpaceXの驚きの提携、MicrosoftとOpenAIの独占契約終了によるAWS展開開始、Excel向け公式アドイン、OpenAIのスマホ開発計画、さらにはAI教育効果を謳った論文の撤回まで、全13トピックを徹底解説します。AI業界の勢力図が大きく塗り替わる歴史的な転換点を、わかりやすくお届けします！</itunes:summary>
+      <pubDate>Thu, 07 May 2026 07:44:06 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260507-20260507</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q_tx1VJ5KXMmhgG0LjrLrUXls2q5kuyG" length="21275565" type="audio/mpeg"/>
+      <itunes:duration>44:01</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月6日】GPT-5.5登場＆ChatGPTが広告・買い物・医療の中心に</title>
       <description>OpenAIがChatGPTのデフォルトモデルをGPT-5.5 Instantに更新、AIの嘘が半減する驚異の進化を遂げました。さらにChatGPT内での広告ビジネス本格始動、Etsy商品をチャット内で購入できるネイティブショッピング機能、医療従事者向け無料AI「ChatGPT for Clinicians」のリリースなど、ChatGPTが私たちの生活インフラへと変貌する16のニュースを徹底解説。OpenAI独自スマホの開発前倒し、40億ドル規模の新合弁会社設立、Musk氏との泥沼裁判の新展開、GPT-5.5のハッキング能力問題まで、AI業界激動の一日をお届けします。</description>
