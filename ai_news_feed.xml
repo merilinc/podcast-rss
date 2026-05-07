@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 07 May 2026 07:52:53 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:29:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月8日】AI安全評価の新ルール＆GPT-5.5登場、企業AI競争が加速</title>
+      <description>今日はAI業界を揺るがす6つのビッグニュースをお届けします。まず、Google・Microsoft・xAIが米政府によるAIモデルの公開前評価に合意した背景と狙いを解説。次にOpenAIの新モデル「GPT-5.5 Instant」がハルシネーションを52.5%削減した技術の裏側に迫ります。さらにAnthropicがゴールドマン・サックスらと共同で中堅企業向けAIサービス会社を設立した戦略、EUのAI規則簡素化の暫定合意、MicrosoftのAIデータセンターとクリーンエネルギー目標の衝突、そしてScale AIの米国防総省との5億ドル契約まで、多角的に深掘りします。</description>
+      <itunes:summary>今日はAI業界を揺るがす6つのビッグニュースをお届けします。まず、Google・Microsoft・xAIが米政府によるAIモデルの公開前評価に合意した背景と狙いを解説。次にOpenAIの新モデル「GPT-5.5 Instant」がハルシネーションを52.5%削減した技術の裏側に迫ります。さらにAnthropicがゴールドマン・サックスらと共同で中堅企業向けAIサービス会社を設立した戦略、EUのAI規則簡素化の暫定合意、MicrosoftのAIデータセンターとクリーンエネルギー目標の衝突、そしてScale AIの米国防総省との5億ドル契約まで、多角的に深掘りします。</itunes:summary>
+      <pubDate>Fri, 08 May 2026 07:28:56 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260508-20260508</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QvpTLO8D1c2wr9gb7_e_F0sTslPK69Ih" length="13006173" type="audio/mpeg"/>
+      <itunes:duration>26:58</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月7日】Anthropic30兆円契約＆Chrome無断AI問題＆Five Eyes警告</title>
       <description>今日は盛りだくさんの21本のニュースをお届けします。AnthropicがGoogleと約30兆円の巨額クラウド契約を締結しSpaceXとも提携、Google Chromeが4GBのAIモデルを無断ダウンロードして物議、OpenAIの新モデル「GPT-5.5 Instant」の実力、NTTドコモのAI詐欺防止システム、Five Eyesが自律型AIの危険性を共同警告、EtsyのChatGPTアプリ参入、Perplexityの金融特化ツール、ヒューマノイドロボットの最新動向まで、AI業界の激動の1週間を徹底解説します。</description>
