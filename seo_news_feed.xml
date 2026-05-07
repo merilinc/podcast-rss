@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 07 May 2026 07:39:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:24:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月8日】AI量産コンテンツに逆風＆Google検索の大型アップデート</title>
+      <description>今日は3つのSEO関連ニュースをお届けします。まず、GoogleがAIで大量生産されたコンテンツを品質基準で静かに抑え込んでいる話題。次に、Google検索の「AI Mode / AI Overviews」に外部リンク機能など5つの新機能が追加された件。そして、Google Analytics Data APIにクロスチャネルのコンバージョンレポート機能がα版で登場したニュース。量より質の時代到来、ゼロクリック検索への対策、マーケティング計測の自動化など、Web運営者必聴の内容です。</description>
+      <itunes:summary>今日は3つのSEO関連ニュースをお届けします。まず、GoogleがAIで大量生産されたコンテンツを品質基準で静かに抑え込んでいる話題。次に、Google検索の「AI Mode / AI Overviews」に外部リンク機能など5つの新機能が追加された件。そして、Google Analytics Data APIにクロスチャネルのコンバージョンレポート機能がα版で登場したニュース。量より質の時代到来、ゼロクリック検索への対策、マーケティング計測の自動化など、Web運営者必聴の内容です。</itunes:summary>
+      <pubDate>Fri, 08 May 2026 07:24:27 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260508-20260508</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WFZ5aWDkp6cFsgIXNeFYUwJO0Qzv9re1" length="10573653" type="audio/mpeg"/>
+      <itunes:duration>21:54</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月7日】AI検索が倍増＆名誉毀損訴訟！SEO激変の全貌</title>
       <description>Google AI Overviewの表示率が13%に倍増し、検索の景色が一変しています。AIが生成した虚偽情報で150万ドルの名誉毀損訴訟が発生、企業のリスク管理が問われる事態に。HubSpotがGEOツール企業を買収し、生成エンジン最適化が本格化。さらにGoogle広告の「AI Max」がショッピング・旅行領域に拡大、Ask.comの30年の歴史に幕など、SEO・デジタルマーケティングの最前線を17本のニュースで徹底解説します。検索の未来を知りたい方は必聴です！</description>
