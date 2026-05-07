@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 07 May 2026 07:44:10 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:29:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月8日】GPT-5.5登場＆音声AI革命、カナダがOpenAIに法令違反認定</title>
+      <description>今日はOpenAIがChatGPTの標準モデルをGPT-5.5 Instantに切り替えたニュースを詳しく解説。ハルシネーションが52%減少した驚きの進化とは？さらに、リアルタイム音声翻訳や文字起こしを実現する新APIモデル群の発表、カナダのプライバシー当局によるOpenAIへの法令違反認定、そして米国で進むAIモデルの事前政府評価制度についても深掘りします。AI技術の進化と規制の両面から、今知っておくべき最新動向をお届けします。</description>
+      <itunes:summary>今日はOpenAIがChatGPTの標準モデルをGPT-5.5 Instantに切り替えたニュースを詳しく解説。ハルシネーションが52%減少した驚きの進化とは？さらに、リアルタイム音声翻訳や文字起こしを実現する新APIモデル群の発表、カナダのプライバシー当局によるOpenAIへの法令違反認定、そして米国で進むAIモデルの事前政府評価制度についても深掘りします。AI技術の進化と規制の両面から、今知っておくべき最新動向をお届けします。</itunes:summary>
+      <pubDate>Fri, 08 May 2026 07:29:55 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260508-20260508</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jNNI0mpDoP34JNAngW2-GJUunN9qSQ9d" length="13021749" type="audio/mpeg"/>
+      <itunes:duration>26:55</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月7日】GPT-5.5登場＆Musk対OpenAI裁判が泥沼化＆AI業界の大激変</title>
       <description>今日はOpenAI関連の大ニュースが盛りだくさん！ハルシネーションを半減させた新モデル「GPT-5.5 Instant」のリリース、カナダでのプライバシー法違反認定、Musk対OpenAI裁判での衝撃的な内部証言、AnthropicとSpaceXの驚きの提携、MicrosoftとOpenAIの独占契約終了によるAWS展開開始、Excel向け公式アドイン、OpenAIのスマホ開発計画、さらにはAI教育効果を謳った論文の撤回まで、全13トピックを徹底解説します。AI業界の勢力図が大きく塗り替わる歴史的な転換点を、わかりやすくお届けします！</description>
