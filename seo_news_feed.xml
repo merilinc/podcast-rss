@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 08 May 2026 07:24:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:26:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月9日】Google AI検索が大進化＆FAQ廃止で変わるSEO戦略</title>
+      <description>今日はSEOに関する重要ニュースを4本お届けします。GoogleがAI OverviewsとAI Modeのリンク表示を5つの新機能で強化した話題から、Google Adsに追加されたAI入札・需要主導型予算制御、FAQリッチ結果のサポート終了、そして最新コアアップデートの勝者・敗者分析まで。AI検索時代にサイト運営者やマーケターが今すぐ対応すべきポイントを、具体例を交えてわかりやすく解説します。ブランドの信頼性やコンテンツ品質がこれまで以上に問われる時代、何をすべきか一緒に考えましょう。</description>
+      <itunes:summary>今日はSEOに関する重要ニュースを4本お届けします。GoogleがAI OverviewsとAI Modeのリンク表示を5つの新機能で強化した話題から、Google Adsに追加されたAI入札・需要主導型予算制御、FAQリッチ結果のサポート終了、そして最新コアアップデートの勝者・敗者分析まで。AI検索時代にサイト運営者やマーケターが今すぐ対応すべきポイントを、具体例を交えてわかりやすく解説します。ブランドの信頼性やコンテンツ品質がこれまで以上に問われる時代、何をすべきか一緒に考えましょう。</itunes:summary>
+      <pubDate>Sat, 09 May 2026 07:26:34 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260509-20260509</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11uXYBOh-pcGVeqicqKnz27NAd0g2mGrs" length="10451757" type="audio/mpeg"/>
+      <itunes:duration>21:52</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月8日】AI量産コンテンツに逆風＆Google検索の大型アップデート</title>
       <description>今日は3つのSEO関連ニュースをお届けします。まず、GoogleがAIで大量生産されたコンテンツを品質基準で静かに抑え込んでいる話題。次に、Google検索の「AI Mode / AI Overviews」に外部リンク機能など5つの新機能が追加された件。そして、Google Analytics Data APIにクロスチャネルのコンバージョンレポート機能がα版で登場したニュース。量より質の時代到来、ゼロクリック検索への対策、マーケティング計測の自動化など、Web運営者必聴の内容です。</description>
