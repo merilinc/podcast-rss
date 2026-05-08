@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 08 May 2026 07:29:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:32:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月9日】Anthropic×SpaceX巨大提携＆EU規制緩和とAI安全の最前線</title>
+      <description>今日はAI業界を揺るがす5つのビッグニュースをお届けします。AnthropicがSpaceXの巨大データセンター「Colossus 1」の全計算能力を独占確保した衝撃の提携、EUがAI規制を2027年末まで延期する暫定合意、OpenAIが自傷リスク対応の新機能「Trusted Contact」を導入、NTTデータ経営研究所が金融機関向けAI導入コンサルティング全18種を開始、そして米イリノイ州のAI児童保護法案まで。計算インフラ競争、規制動向、安全対策、業務活用と多角的に解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす5つのビッグニュースをお届けします。AnthropicがSpaceXの巨大データセンター「Colossus 1」の全計算能力を独占確保した衝撃の提携、EUがAI規制を2027年末まで延期する暫定合意、OpenAIが自傷リスク対応の新機能「Trusted Contact」を導入、NTTデータ経営研究所が金融機関向けAI導入コンサルティング全18種を開始、そして米イリノイ州のAI児童保護法案まで。計算インフラ競争、規制動向、安全対策、業務活用と多角的に解説します。</itunes:summary>
+      <pubDate>Sat, 09 May 2026 07:32:33 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260509-20260509</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hqUpbdx3zlBVBps7D-V-N5El_7_LzU8U" length="15108477" type="audio/mpeg"/>
+      <itunes:duration>31:11</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月8日】AI安全評価の新ルール＆GPT-5.5登場、企業AI競争が加速</title>
       <description>今日はAI業界を揺るがす6つのビッグニュースをお届けします。まず、Google・Microsoft・xAIが米政府によるAIモデルの公開前評価に合意した背景と狙いを解説。次にOpenAIの新モデル「GPT-5.5 Instant」がハルシネーションを52.5%削減した技術の裏側に迫ります。さらにAnthropicがゴールドマン・サックスらと共同で中堅企業向けAIサービス会社を設立した戦略、EUのAI規則簡素化の暫定合意、MicrosoftのAIデータセンターとクリーンエネルギー目標の衝突、そしてScale AIの米国防総省との5億ドル契約まで、多角的に深掘りします。</description>
