@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 09 May 2026 07:29:26 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 07:08:04 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月10日】GPT-5.5 Instant登場＆ChatGPTに広告？AI最新5大ニュース</title>
+      <description>今回はOpenAI／ChatGPTに関する注目の5大ニュースをお届けします。まずはデフォルトモデルがGPT-5.5 Instantに切り替わり、誤情報（幻覚）が52.5％も削減された話題から。さらに、ChatGPTの無料プランに広告が表示されるテストが日本を含む5カ国に拡大。メンタルヘルス対策の新機能「Trusted Contact」、リアルタイム音声APIの新モデル3種、そしてサイバーセキュリティ特化モデル「GPT-5.5-Cyber」まで、技術的な詳細から私たちの生活への影響まで、たっぷり解説します。</description>
+      <itunes:summary>今回はOpenAI／ChatGPTに関する注目の5大ニュースをお届けします。まずはデフォルトモデルがGPT-5.5 Instantに切り替わり、誤情報（幻覚）が52.5％も削減された話題から。さらに、ChatGPTの無料プランに広告が表示されるテストが日本を含む5カ国に拡大。メンタルヘルス対策の新機能「Trusted Contact」、リアルタイム音声APIの新モデル3種、そしてサイバーセキュリティ特化モデル「GPT-5.5-Cyber」まで、技術的な詳細から私たちの生活への影響まで、たっぷり解説します。</itunes:summary>
+      <pubDate>Sun, 10 May 2026 07:08:01 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260510-20260510</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jZWk78qjtmMYrM6qf7_TzqerqZ0Hp28Q" length="14329821" type="audio/mpeg"/>
+      <itunes:duration>29:42</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月9日】GPT-5.5登場！サイバー防衛AI＆プライバシー問題の行方</title>
       <description>今回はOpenAIが怒涛の発表ラッシュで繰り出した最新アップデートを徹底解説します。新デフォルトモデル「GPT-5.5 Instant」はハルシネーションを半減させる驚異の性能向上、サイバーセキュリティ専用モデル「GPT-5.5-Cyber」の登場、自殺・自傷リスクを検知して信頼できる人に通知する新機能「Trusted Contact」、カナダ当局によるプライバシー違反調査の結論、そしてMicrosoft 365 Copilotとの統合まで、5つのビッグニュースをたっぷりお届けします。AIの進化と安全性のバランスはどうなるのか、一緒に考えていきましょう。</description>
