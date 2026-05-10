@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 10 May 2026 07:08:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:14:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月11日】FAQ廃止＆AI検索時代のSEO新戦略を徹底解説</title>
+      <description>今回はSEOに関する重要ニュースを5本まとめてお届けします。GoogleがFAQリッチリザルトを完全廃止した背景とは？AI OverviewsやAI Modeに追加された新機能でウェブサイトへの流入はどう変わるのか？さらにGoogle Ads内にTag Manager機能が統合された狙い、SEOの目的が「ランキング」から「認知獲得」へ移行しているトレンド、そしてAI検索時代の新手法「プロンプトレベルSEO」の実験まで。検索の世界がどう変わりつつあるのか、分かりやすく解説します。</description>
+      <itunes:summary>今回はSEOに関する重要ニュースを5本まとめてお届けします。GoogleがFAQリッチリザルトを完全廃止した背景とは？AI OverviewsやAI Modeに追加された新機能でウェブサイトへの流入はどう変わるのか？さらにGoogle Ads内にTag Manager機能が統合された狙い、SEOの目的が「ランキング」から「認知獲得」へ移行しているトレンド、そしてAI検索時代の新手法「プロンプトレベルSEO」の実験まで。検索の世界がどう変わりつつあるのか、分かりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 11 May 2026 07:14:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260511-20260511</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f6wIjuh-NYHHWbFbVYg6dkDBnAsZmK9j" length="13990773" type="audio/mpeg"/>
+      <itunes:duration>29:00</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月10日】FAQ廃止＆AI入札革新！Google検索の大転換期到来</title>
       <description>今回はGoogleの最新動向を4本まとめてお届けします。まず、Google広告に登場した「Journey-aware Bidding」など新しいAI入札機能を詳しく解説。次に、FAQリッチリザルトの完全廃止がSEOにもたらす衝撃と対策を掘り下げます。さらに、ユーザーが信頼する情報源を優先表示する「Preferred Sources」機能が全言語に拡大した意味、そしてAI大量生成コンテンツをGoogleが静かに淘汰し始めている品質閾値の強化について、背景から実務対策まで徹底的に語り合います。SEO・広告運用に関わる方は必聴です！</description>
