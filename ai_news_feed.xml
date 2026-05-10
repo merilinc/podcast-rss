@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 09 May 2026 07:32:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 07:18:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月11日】Anthropic算力争奪戦＆Chrome無断AIダウンロード問題</title>
+      <description>今回はAI業界を揺るがす大きなニュースを4本お届けします。まず、AnthropicがSpaceXの巨大データセンター「Colossus 1」を丸ごと借り上げた衝撃の契約について詳しく解説。さらにAnthropicはAkamaiとも7年18億ドルの大型契約を締結し、AI推論インフラの強化に本腰を入れています。一方、Google Chromeがユーザーの同意なしに4GBのAIモデルを自動ダウンロードしていた問題が大炎上。プライバシーや法令遵守の観点から深掘りします。最後にOpenAIの新デフォルトモデル「GPT-5.5 Instant」の性能向上についてもお届けします。</description>
+      <itunes:summary>今回はAI業界を揺るがす大きなニュースを4本お届けします。まず、AnthropicがSpaceXの巨大データセンター「Colossus 1」を丸ごと借り上げた衝撃の契約について詳しく解説。さらにAnthropicはAkamaiとも7年18億ドルの大型契約を締結し、AI推論インフラの強化に本腰を入れています。一方、Google Chromeがユーザーの同意なしに4GBのAIモデルを自動ダウンロードしていた問題が大炎上。プライバシーや法令遵守の観点から深掘りします。最後にOpenAIの新デフォルトモデル「GPT-5.5 Instant」の性能向上についてもお届けします。</itunes:summary>
+      <pubDate>Mon, 11 May 2026 07:18:39 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260511-20260511</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NMTUduFXYWg4Yg-LE1nsOggrcNnBMgWu" length="14973861" type="audio/mpeg"/>
+      <itunes:duration>30:49</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月9日】Anthropic×SpaceX巨大提携＆EU規制緩和とAI安全の最前線</title>
       <description>今日はAI業界を揺るがす5つのビッグニュースをお届けします。AnthropicがSpaceXの巨大データセンター「Colossus 1」の全計算能力を独占確保した衝撃の提携、EUがAI規制を2027年末まで延期する暫定合意、OpenAIが自傷リスク対応の新機能「Trusted Contact」を導入、NTTデータ経営研究所が金融機関向けAI導入コンサルティング全18種を開始、そして米イリノイ州のAI児童保護法案まで。計算インフラ競争、規制動向、安全対策、業務活用と多角的に解説します。</description>
