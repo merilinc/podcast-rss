@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 11 May 2026 07:10:54 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:38:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月12日】OpenAI新会社設立＆銃乱射訴訟でAIの責任が問われる</title>
+      <description>今日はOpenAIに関する3つの重要ニュースをお届けします。まず、企業のAI導入を丸ごと支援する新会社「OpenAI Deployment Company」の設立。初期投資40億ドル超、エンジニア150名体制で挑む新戦略とは？次に、世界中の大学生とつながる「OpenAI Campus Network」の狙い。そして、フロリダの銃乱射事件でChatGPTの役割が法廷で問われる衝撃の訴訟。AI技術の可能性と社会的責任、その最前線を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIに関する3つの重要ニュースをお届けします。まず、企業のAI導入を丸ごと支援する新会社「OpenAI Deployment Company」の設立。初期投資40億ドル超、エンジニア150名体制で挑む新戦略とは？次に、世界中の大学生とつながる「OpenAI Campus Network」の狙い。そして、フロリダの銃乱射事件でChatGPTの役割が法廷で問われる衝撃の訴訟。AI技術の可能性と社会的責任、その最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 12 May 2026 07:38:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260512-20260512</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RF-IMjA9TNMasmHKBqoZY7UtWwo96-K7" length="10949349" type="audio/mpeg"/>
+      <itunes:duration>22:37</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月11日】GPT-5.5登場＆ChatGPTに広告と安全機能の大変革</title>
       <description>今回はChatGPT関連の大きなニュースを3つお届けします。まず、デフォルトモデルが「GPT-5.5 Instant」に切り替わり、ハルシネーションが52.5%も減少した話題。次に、自殺念慮などの危機を検知して信頼できる連絡先に通知する新安全機能「Trusted Contact」の導入。そして、ChatGPTの広告プラットフォーム拡大と新しいCPC入札方式の登場、さらに日本を含む5カ国への広告配信拡大について詳しく解説します。AI時代の安全性・収益モデル・ユーザー体験がどう変わるのか、じっくり語ります。</description>
