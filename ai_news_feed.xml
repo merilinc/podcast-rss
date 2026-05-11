@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 11 May 2026 07:18:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:38:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月12日】OpenAI新会社設立＆Samsung冷蔵庫がAIで進化</title>
+      <description>今日は2つの注目ニュースをお届けします。まずOpenAIが企業のAI導入を支援する新会社「OpenAI Deployment Company」を40億ドル超の出資で設立。AIコンサル企業Tomoroの買収やエンジニア派遣型の支援モデルなど、その全貌を詳しく解説します。さらにSamsungがBespoke AI冷蔵庫にGoogle Geminiを統合し、2000種以上の食品を認識する大型アップデートを発表。スマート家電の最前線をお伝えします。AI研究から実用化へと大きく舵を切るテック業界の今を、わかりやすくお届けします。</description>
+      <itunes:summary>今日は2つの注目ニュースをお届けします。まずOpenAIが企業のAI導入を支援する新会社「OpenAI Deployment Company」を40億ドル超の出資で設立。AIコンサル企業Tomoroの買収やエンジニア派遣型の支援モデルなど、その全貌を詳しく解説します。さらにSamsungがBespoke AI冷蔵庫にGoogle Geminiを統合し、2000種以上の食品を認識する大型アップデートを発表。スマート家電の最前線をお伝えします。AI研究から実用化へと大きく舵を切るテック業界の今を、わかりやすくお届けします。</itunes:summary>
+      <pubDate>Tue, 12 May 2026 07:38:35 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260512-20260512</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ELMLaQAuGOre0mEofV1XJ6ko7SxUp4eZ" length="8555517" type="audio/mpeg"/>
+      <itunes:duration>17:48</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月11日】Anthropic算力争奪戦＆Chrome無断AIダウンロード問題</title>
       <description>今回はAI業界を揺るがす大きなニュースを4本お届けします。まず、AnthropicがSpaceXの巨大データセンター「Colossus 1」を丸ごと借り上げた衝撃の契約について詳しく解説。さらにAnthropicはAkamaiとも7年18億ドルの大型契約を締結し、AI推論インフラの強化に本腰を入れています。一方、Google Chromeがユーザーの同意なしに4GBのAIモデルを自動ダウンロードしていた問題が大炎上。プライバシーや法令遵守の観点から深掘りします。最後にOpenAIの新デフォルトモデル「GPT-5.5 Instant」の性能向上についてもお届けします。</description>
