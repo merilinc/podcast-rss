@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 11 May 2026 07:14:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 07:34:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月12日】GoogleがFAQリッチリザルトを完全廃止！SEO戦略の転換点</title>
+      <description>今回はGoogleが2026年5月7日付でFAQ構造化データによるリッチリザルトを完全廃止したニュースを詳しく解説します。これまでSEO対策の定番だったFAQスキーマが検索結果に表示されなくなる影響とは？Search ConsoleやAPIの変更スケジュール、過去のHowToリッチリザルト廃止との比較、そしてAI検索時代における新しいSEO戦略まで、幅広くお届けします。ウェブサイト運営者やマーケター必聴の内容です！</description>
+      <itunes:summary>今回はGoogleが2026年5月7日付でFAQ構造化データによるリッチリザルトを完全廃止したニュースを詳しく解説します。これまでSEO対策の定番だったFAQスキーマが検索結果に表示されなくなる影響とは？Search ConsoleやAPIの変更スケジュール、過去のHowToリッチリザルト廃止との比較、そしてAI検索時代における新しいSEO戦略まで、幅広くお届けします。ウェブサイト運営者やマーケター必聴の内容です！</itunes:summary>
+      <pubDate>Tue, 12 May 2026 07:34:40 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260512-20260512</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1korOW_kmpXg-ofCPHdoAY_ybswaNGHpk" length="6887517" type="audio/mpeg"/>
+      <itunes:duration>14:17</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月11日】FAQ廃止＆AI検索時代のSEO新戦略を徹底解説</title>
       <description>今回はSEOに関する重要ニュースを5本まとめてお届けします。GoogleがFAQリッチリザルトを完全廃止した背景とは？AI OverviewsやAI Modeに追加された新機能でウェブサイトへの流入はどう変わるのか？さらにGoogle Ads内にTag Manager機能が統合された狙い、SEOの目的が「ランキング」から「認知獲得」へ移行しているトレンド、そしてAI検索時代の新手法「プロンプトレベルSEO」の実験まで。検索の世界がどう変わりつつあるのか、分かりやすく解説します。</description>
