@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 12 May 2026 07:34:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:40:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月14日】FAQリッチリザルト完全廃止＆Google Adsデータ保管に期限</title>
+      <description>今日はSEO・デジタルマーケティングに関わる重要な3つのニュースをお届けします。まず、GoogleがFAQリッチリザルトを2026年5月7日に全サイトで廃止した件について、その背景と対策を詳しく解説。次に、Google Discoverで出版社向けの新しいプロフィール制御機能が拡大中というニュース。そして、Google Adsの詳細データ保持期間が37ヶ月に短縮される衝撃の発表について、影響と今すぐやるべきことを掘り下げます。SEO担当者・広告運用者は必聴です！</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングに関わる重要な3つのニュースをお届けします。まず、GoogleがFAQリッチリザルトを2026年5月7日に全サイトで廃止した件について、その背景と対策を詳しく解説。次に、Google Discoverで出版社向けの新しいプロフィール制御機能が拡大中というニュース。そして、Google Adsの詳細データ保持期間が37ヶ月に短縮される衝撃の発表について、影響と今すぐやるべきことを掘り下げます。SEO担当者・広告運用者は必聴です！</itunes:summary>
+      <pubDate>Thu, 14 May 2026 07:40:39 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260514-20260514</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I4O7o6p4UPdjSoDRyJICHITVOcCj1PiS" length="9487077" type="audio/mpeg"/>
+      <itunes:duration>19:37</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月12日】GoogleがFAQリッチリザルトを完全廃止！SEO戦略の転換点</title>
       <description>今回はGoogleが2026年5月7日付でFAQ構造化データによるリッチリザルトを完全廃止したニュースを詳しく解説します。これまでSEO対策の定番だったFAQスキーマが検索結果に表示されなくなる影響とは？Search ConsoleやAPIの変更スケジュール、過去のHowToリッチリザルト廃止との比較、そしてAI検索時代における新しいSEO戦略まで、幅広くお届けします。ウェブサイト運営者やマーケター必聴の内容です！</description>
