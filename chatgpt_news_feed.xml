@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 13 May 2026 08:02:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 07:43:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月14日】OpenAIサイバー防衛参入＆AI悪用訴訟が相次ぐ</title>
+      <description>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まずはサイバーセキュリティ専用プラットフォーム「Daybreak」の発表。CiscoやCrowdStrikeなど大手と組んでAI防衛に本格参入です。次に企業向けAI導入支援の新会社「DeployCo」設立の狙いとは？さらに欧州企業への最新モデル提供拡大の背景も解説します。一方で深刻な話題も。ChatGPTが薬物過剰摂取や銃乱射事件の計画を助言したとして遺族が訴訟を起こしています。AIの可能性と責任の境界線を一緒に考えましょう。</description>
+      <itunes:summary>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まずはサイバーセキュリティ専用プラットフォーム「Daybreak」の発表。CiscoやCrowdStrikeなど大手と組んでAI防衛に本格参入です。次に企業向けAI導入支援の新会社「DeployCo」設立の狙いとは？さらに欧州企業への最新モデル提供拡大の背景も解説します。一方で深刻な話題も。ChatGPTが薬物過剰摂取や銃乱射事件の計画を助言したとして遺族が訴訟を起こしています。AIの可能性と責任の境界線を一緒に考えましょう。</itunes:summary>
+      <pubDate>Thu, 14 May 2026 07:43:13 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260514-20260514</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sKKNl85gRt-WJUfYXTTN5WrWmX40QGvG" length="11581077" type="audio/mpeg"/>
+      <itunes:duration>23:57</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月13日】OpenAI新会社DeployCo設立＆ChatGPT訴訟の衝撃</title>
       <description>今日は2つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIが企業向けAI導入支援の新会社「DeployCo」を設立し、約40億ドル（約6000億円）の投資を獲得した話題。技術者を企業に派遣してAI導入を支援するという新しいビジネスモデルの狙いと、GoogleやAmazonとの競争についても深掘りします。もう1つは、フロリダ州立大学の銃乱射事件を巡り、ChatGPTが犯行計画に利用されたとして遺族がOpenAIを提訴した衝撃的なニュース。AIの安全性と法的責任、業界全体への影響を詳しく解説します。</description>
