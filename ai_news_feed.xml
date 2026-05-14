@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 12 May 2026 07:38:38 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 07:32:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月15日】MetaのWhatsAppに&quot;完全プライベート&quot;AIチャット登場</title>
+      <description>今日はMetaが発表した注目の新機能「Incognito Chat with Meta AI」を徹底解説します。WhatsAppやMeta AIアプリでAIと会話する際、Meta自身すらその内容を見ることができないという画期的なプライバシー機能。その裏側にある「Trusted Execution Environment（TEE）」や「Private Processing」といった技術の仕組み、AppleやGoogleの類似機能との違い、そしてGDPRなどのデータ保護規制との関係まで、多角的に深掘りしてお届けします。AIとの会話にプライバシーは守られるのか？気になる方はぜひお聴きください。</description>
+      <itunes:summary>今日はMetaが発表した注目の新機能「Incognito Chat with Meta AI」を徹底解説します。WhatsAppやMeta AIアプリでAIと会話する際、Meta自身すらその内容を見ることができないという画期的なプライバシー機能。その裏側にある「Trusted Execution Environment（TEE）」や「Private Processing」といった技術の仕組み、AppleやGoogleの類似機能との違い、そしてGDPRなどのデータ保護規制との関係まで、多角的に深掘りしてお届けします。AIとの会話にプライバシーは守られるのか？気になる方はぜひお聴きください。</itunes:summary>
+      <pubDate>Fri, 15 May 2026 07:32:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260515-20260515</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oAWw6sdGJHPlojLxnWKpSgllA_YkeVfx" length="5920341" type="audio/mpeg"/>
+      <itunes:duration>12:15</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月12日】OpenAI新会社設立＆Samsung冷蔵庫がAIで進化</title>
       <description>今日は2つの注目ニュースをお届けします。まずOpenAIが企業のAI導入を支援する新会社「OpenAI Deployment Company」を40億ドル超の出資で設立。AIコンサル企業Tomoroの買収やエンジニア派遣型の支援モデルなど、その全貌を詳しく解説します。さらにSamsungがBespoke AI冷蔵庫にGoogle Geminiを統合し、2000種以上の食品を認識する大型アップデートを発表。スマート家電の最前線をお伝えします。AI研究から実用化へと大きく舵を切るテック業界の今を、わかりやすくお届けします。</description>
