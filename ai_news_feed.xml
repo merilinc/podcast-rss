@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 15 May 2026 07:32:57 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:17:04 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月16日】Anthropic×ゲイツ財団2億ドル提携＆OpenAIサプライチェーン攻撃被害</title>
+      <description>今日は2つの大きなAIニュースをお届けします。まず、Claudeを開発するAnthropicとビル＆メリンダ・ゲイツ財団が、健康・教育・農業分野で4年間2億ドル規模の大型提携を発表。AI格差の解消を目指す画期的な取り組みの中身を詳しく解説します。もう1つは、OpenAIが巻き込まれた「Mini Shai-Hulud」と呼ばれるサプライチェーン攻撃事件。開発ツールのライブラリに悪意あるコードが仕込まれ、従業員端末が侵害されたものの、ユーザーデータへの被害はなしとの報告。攻撃の手口や業界への影響、そしてmacOSユーザーが取るべき対応まで丁寧にお伝えします。</description>
+      <itunes:summary>今日は2つの大きなAIニュースをお届けします。まず、Claudeを開発するAnthropicとビル＆メリンダ・ゲイツ財団が、健康・教育・農業分野で4年間2億ドル規模の大型提携を発表。AI格差の解消を目指す画期的な取り組みの中身を詳しく解説します。もう1つは、OpenAIが巻き込まれた「Mini Shai-Hulud」と呼ばれるサプライチェーン攻撃事件。開発ツールのライブラリに悪意あるコードが仕込まれ、従業員端末が侵害されたものの、ユーザーデータへの被害はなしとの報告。攻撃の手口や業界への影響、そしてmacOSユーザーが取るべき対応まで丁寧にお伝えします。</itunes:summary>
+      <pubDate>Sat, 16 May 2026 07:17:01 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260516-20260516</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1A2Qdjbzjaq755Dq-OQfEAio8YqzjvTzi" length="9326061" type="audio/mpeg"/>
+      <itunes:duration>19:04</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月15日】MetaのWhatsAppに&quot;完全プライベート&quot;AIチャット登場</title>
       <description>今日はMetaが発表した注目の新機能「Incognito Chat with Meta AI」を徹底解説します。WhatsAppやMeta AIアプリでAIと会話する際、Meta自身すらその内容を見ることができないという画期的なプライバシー機能。その裏側にある「Trusted Execution Environment（TEE）」や「Private Processing」といった技術の仕組み、AppleやGoogleの類似機能との違い、そしてGDPRなどのデータ保護規制との関係まで、多角的に深掘りしてお届けします。AIとの会話にプライバシーは守られるのか？気になる方はぜひお聴きください。</description>
