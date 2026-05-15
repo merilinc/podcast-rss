@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 15 May 2026 07:43:26 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:22:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月16日】ChatGPTが家計簿に！？金融機能＆セキュリティ事件を徹底解説</title>
+      <description>今日はOpenAI関連の注目ニュース3本をお届けします。まず、ChatGPTに銀行口座を接続して家計管理ができる「パーソナルファイナンス」機能が登場。次に、開発者向けAIエージェント「Codex」がスマホから遠隔操作可能に。そして、人気ライブラリTanStackを悪用したサプライチェーン攻撃でOpenAIの従業員デバイスが侵害された事件と、macOSアプリの緊急アップデート要請について詳しく解説します。AI×金融の未来からセキュリティの最前線まで、盛りだくさんの内容です。</description>
+      <itunes:summary>今日はOpenAI関連の注目ニュース3本をお届けします。まず、ChatGPTに銀行口座を接続して家計管理ができる「パーソナルファイナンス」機能が登場。次に、開発者向けAIエージェント「Codex」がスマホから遠隔操作可能に。そして、人気ライブラリTanStackを悪用したサプライチェーン攻撃でOpenAIの従業員デバイスが侵害された事件と、macOSアプリの緊急アップデート要請について詳しく解説します。AI×金融の未来からセキュリティの最前線まで、盛りだくさんの内容です。</itunes:summary>
+      <pubDate>Sat, 16 May 2026 07:22:33 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260516-20260516</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1e-ReXLnN57M5n1TkhFc_zbGFUnnAkCcq" length="11120373" type="audio/mpeg"/>
+      <itunes:duration>22:53</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月15日】ChatGPT安全強化＆Apple法的対立＆企業AI勢力図が激変</title>
       <description>今日はChatGPT関連の重要ニュースを5本お届けします。まず、精神的危機を会話の文脈から検知する安全機能の大幅強化と「信頼できる連絡先」機能について。次に、人気ライブラリへのサプライチェーン攻撃でOpenAI社員の端末が侵害された事件。さらに、AppleとのSiri統合契約を巡りOpenAIが法的措置を検討中という衝撃の報道。ChatGPTの薬物アドバイスが原因とされる19歳の死亡訴訟。そして企業向けAI市場でAnthropicがOpenAIを初めて逆転したという最新データまで、詳しく解説します。</description>
