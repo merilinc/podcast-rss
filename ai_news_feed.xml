@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 16 May 2026 07:17:04 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 07:13:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月17日】OpenAI対Apple法的バトル勃発？＆AI×金融の大型提携ラッシュ</title>
+      <description>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まず、OpenAIがAppleに対して契約違反の法的措置を検討しているという衝撃のニュース。ChatGPTとSiriの統合がうまくいっていない裏事情を詳しく解説します。次に、AIスタートアップAnthropicと世界的コンサルティング企業PwCが提携を拡大し、3万人規模のAI教育プログラムを開始。さらに、金融テクノロジー大手FiservとOpenAIが銀行業務のAI化で手を組んだ戦略的提携についても深掘りします。テック巨人同士の駆け引きから、企業のAI導入最前線まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まず、OpenAIがAppleに対して契約違反の法的措置を検討しているという衝撃のニュース。ChatGPTとSiriの統合がうまくいっていない裏事情を詳しく解説します。次に、AIスタートアップAnthropicと世界的コンサルティング企業PwCが提携を拡大し、3万人規模のAI教育プログラムを開始。さらに、金融テクノロジー大手FiservとOpenAIが銀行業務のAI化で手を組んだ戦略的提携についても深掘りします。テック巨人同士の駆け引きから、企業のAI導入最前線まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Sun, 17 May 2026 07:13:03 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260517-20260517</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JMT2TmVJ3dIfTcRa_TdO4BEQZwzqx90h" length="12493293" type="audio/mpeg"/>
+      <itunes:duration>25:36</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月16日】Anthropic×ゲイツ財団2億ドル提携＆OpenAIサプライチェーン攻撃被害</title>
       <description>今日は2つの大きなAIニュースをお届けします。まず、Claudeを開発するAnthropicとビル＆メリンダ・ゲイツ財団が、健康・教育・農業分野で4年間2億ドル規模の大型提携を発表。AI格差の解消を目指す画期的な取り組みの中身を詳しく解説します。もう1つは、OpenAIが巻き込まれた「Mini Shai-Hulud」と呼ばれるサプライチェーン攻撃事件。開発ツールのライブラリに悪意あるコードが仕込まれ、従業員端末が侵害されたものの、ユーザーデータへの被害はなしとの報告。攻撃の手口や業界への影響、そしてmacOSユーザーが取るべき対応まで丁寧にお伝えします。</description>
