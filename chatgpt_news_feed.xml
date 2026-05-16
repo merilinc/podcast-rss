@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 16 May 2026 07:22:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 07:08:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月17日】マルタ国民全員にChatGPT無料＆AI家計簿が登場</title>
+      <description>今日は3つのChatGPT関連ニュースをお届けします。まず、マルタ共和国が国民全員にChatGPT Plusを1年間無料で提供するという驚きの政策「AI for All」。次に、ChatGPTに銀行口座を接続して家計管理ができる新機能「パーソナルファイナンス」が米国でスタート。さらに、オープンソースライブラリを悪用したサプライチェーン攻撃でOpenAIのMacアプリに影響が出た件について、技術的な背景から私たちへの影響まで詳しく解説します。AI時代の新しい動きが目白押しの回です！</description>
+      <itunes:summary>今日は3つのChatGPT関連ニュースをお届けします。まず、マルタ共和国が国民全員にChatGPT Plusを1年間無料で提供するという驚きの政策「AI for All」。次に、ChatGPTに銀行口座を接続して家計管理ができる新機能「パーソナルファイナンス」が米国でスタート。さらに、オープンソースライブラリを悪用したサプライチェーン攻撃でOpenAIのMacアプリに影響が出た件について、技術的な背景から私たちへの影響まで詳しく解説します。AI時代の新しい動きが目白押しの回です！</itunes:summary>
+      <pubDate>Sun, 17 May 2026 07:08:27 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260517-20260517</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Efn5K2hd_9gcPOIzsl-9LGxvWwCTUTCG" length="10079253" type="audio/mpeg"/>
+      <itunes:duration>20:54</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月16日】ChatGPTが家計簿に！？金融機能＆セキュリティ事件を徹底解説</title>
       <description>今日はOpenAI関連の注目ニュース3本をお届けします。まず、ChatGPTに銀行口座を接続して家計管理ができる「パーソナルファイナンス」機能が登場。次に、開発者向けAIエージェント「Codex」がスマホから遠隔操作可能に。そして、人気ライブラリTanStackを悪用したサプライチェーン攻撃でOpenAIの従業員デバイスが侵害された事件と、macOSアプリの緊急アップデート要請について詳しく解説します。AI×金融の未来からセキュリティの最前線まで、盛りだくさんの内容です。</description>
