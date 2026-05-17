@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 17 May 2026 07:08:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:18:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月18日】ChatGPTがあなたの家計簿に？AI個人資産管理＆安全性強化</title>
+      <description>今日はChatGPTの注目アップデート3本立てでお届けします。まず、銀行口座と連携して収支管理や投資アドバイスまでしてくれる新機能「パーソナルファイナンス」が米国でプレビュー開始。AIがお金の相談相手になる時代が来ました。次に、自殺や自傷など敏感な話題への対応力が大幅に向上した安全性アップデートの詳細を解説。そして、ファイル保存機能「Library」のプラン別ストレージ容量が明確化された件も紹介します。無料プランは500MB、Proプランは100GBと大きな差が。それぞれの背景や技術的な仕組み、競合との比較まで深掘りしていきます。</description>
+      <itunes:summary>今日はChatGPTの注目アップデート3本立てでお届けします。まず、銀行口座と連携して収支管理や投資アドバイスまでしてくれる新機能「パーソナルファイナンス」が米国でプレビュー開始。AIがお金の相談相手になる時代が来ました。次に、自殺や自傷など敏感な話題への対応力が大幅に向上した安全性アップデートの詳細を解説。そして、ファイル保存機能「Library」のプラン別ストレージ容量が明確化された件も紹介します。無料プランは500MB、Proプランは100GBと大きな差が。それぞれの背景や技術的な仕組み、競合との比較まで深掘りしていきます。</itunes:summary>
+      <pubDate>Mon, 18 May 2026 07:18:28 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260518-20260518</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1urQdw9KjjOaQxrMbo-GizfshcZAMVup-" length="12302829" type="audio/mpeg"/>
+      <itunes:duration>25:31</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月17日】マルタ国民全員にChatGPT無料＆AI家計簿が登場</title>
       <description>今日は3つのChatGPT関連ニュースをお届けします。まず、マルタ共和国が国民全員にChatGPT Plusを1年間無料で提供するという驚きの政策「AI for All」。次に、ChatGPTに銀行口座を接続して家計管理ができる新機能「パーソナルファイナンス」が米国でスタート。さらに、オープンソースライブラリを悪用したサプライチェーン攻撃でOpenAIのMacアプリに影響が出た件について、技術的な背景から私たちへの影響まで詳しく解説します。AI時代の新しい動きが目白押しの回です！</description>
