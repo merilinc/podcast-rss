@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 17 May 2026 07:13:08 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 07:26:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月18日】Anthropic逆転劇＆MS AIセキュリティ＆OpenAI攻撃被害</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、企業向けAI市場でAnthropicがついにOpenAIを利用率で初めて逆転！その背景にある戦略とリスクを詳しく解説します。次に、MicrosoftがAIセキュリティプラットフォーム「MDASH」を発表し、100以上のAIエージェントを使ってWindowsの未発見脆弱性を16件も発見した驚きの成果について。そして、OpenAIがオープンソースライブラリ経由のサプライチェーン攻撃を受けた事件の全容と、ソフトウェア開発における新たなセキュリティリスクについても深掘りします。AI業界の競争と安全性の最前線をお届けします！</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、企業向けAI市場でAnthropicがついにOpenAIを利用率で初めて逆転！その背景にある戦略とリスクを詳しく解説します。次に、MicrosoftがAIセキュリティプラットフォーム「MDASH」を発表し、100以上のAIエージェントを使ってWindowsの未発見脆弱性を16件も発見した驚きの成果について。そして、OpenAIがオープンソースライブラリ経由のサプライチェーン攻撃を受けた事件の全容と、ソフトウェア開発における新たなセキュリティリスクについても深掘りします。AI業界の競争と安全性の最前線をお届けします！</itunes:summary>
+      <pubDate>Mon, 18 May 2026 07:26:27 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260518-20260518</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YUq8DAeMgIp9vVf_JssylQBwqOK_2N8z" length="11414541" type="audio/mpeg"/>
+      <itunes:duration>23:28</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月17日】OpenAI対Apple法的バトル勃発？＆AI×金融の大型提携ラッシュ</title>
       <description>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まず、OpenAIがAppleに対して契約違反の法的措置を検討しているという衝撃のニュース。ChatGPTとSiriの統合がうまくいっていない裏事情を詳しく解説します。次に、AIスタートアップAnthropicと世界的コンサルティング企業PwCが提携を拡大し、3万人規模のAI教育プログラムを開始。さらに、金融テクノロジー大手FiservとOpenAIが銀行業務のAI化で手を組んだ戦略的提携についても深掘りします。テック巨人同士の駆け引きから、企業のAI導入最前線まで、盛りだくさんでお届けします。</description>
