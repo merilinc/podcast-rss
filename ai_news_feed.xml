@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 18 May 2026 07:26:29 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:31:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月19日】マスクvsOpenAI決着＆Anthropicサイバー防衛プロジェクト始動</title>
+      <description>今日はAI業界の大きな動きを5本まとめてお届けします。まず、イーロン・マスクがOpenAIを訴えた裁判が時効で却下された衝撃の結末。次に、Anthropicが巨大テック企業と連携してサイバーセキュリティ強化プロジェクト「Glasswing」を発表。さらに、OpenAIがChatGPT・Codex・APIを統合して&quot;エージェント型プラットフォーム&quot;に再編する戦略転換、企業向けAI導入支援の新会社「DeployCo」設立、そしてフランスMistral AI CEOによる欧州AI主権への警鐘まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今日はAI業界の大きな動きを5本まとめてお届けします。まず、イーロン・マスクがOpenAIを訴えた裁判が時効で却下された衝撃の結末。次に、Anthropicが巨大テック企業と連携してサイバーセキュリティ強化プロジェクト「Glasswing」を発表。さらに、OpenAIがChatGPT・Codex・APIを統合して&quot;エージェント型プラットフォーム&quot;に再編する戦略転換、企業向けAI導入支援の新会社「DeployCo」設立、そしてフランスMistral AI CEOによる欧州AI主権への警鐘まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Tue, 19 May 2026 07:31:21 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260519-20260519</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-Gr40KsnzBf33Z0_IXXTH8ekv5IiO_R3" length="13607349" type="audio/mpeg"/>
+      <itunes:duration>27:51</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月18日】Anthropic逆転劇＆MS AIセキュリティ＆OpenAI攻撃被害</title>
       <description>今日は3つの大きなAIニュースをお届けします。まず、企業向けAI市場でAnthropicがついにOpenAIを利用率で初めて逆転！その背景にある戦略とリスクを詳しく解説します。次に、MicrosoftがAIセキュリティプラットフォーム「MDASH」を発表し、100以上のAIエージェントを使ってWindowsの未発見脆弱性を16件も発見した驚きの成果について。そして、OpenAIがオープンソースライブラリ経由のサプライチェーン攻撃を受けた事件の全容と、ソフトウェア開発における新たなセキュリティリスクについても深掘りします。AI業界の競争と安全性の最前線をお届けします！</description>
