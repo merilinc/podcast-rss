@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 18 May 2026 07:18:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 07:28:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月19日】マルタ国民全員にChatGPT Plus無償提供＆OpenAI×Dell企業AI革命</title>
+      <description>今日はOpenAI関連の注目ニュース4本をお届けします。マルタ共和国が世界初となる全国民へのChatGPT Plus無償提供を発表。OpenAIとDellが企業向けにCodexをオンプレミス展開する提携も話題です。さらに、ChatGPTに銀行口座を接続できるパーソナルファイナンス機能がProユーザー向けに登場。そしてイーロン・マスク氏がOpenAIを訴えていた巨額訴訟が時効で棄却されたニュースも詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</description>
+      <itunes:summary>今日はOpenAI関連の注目ニュース4本をお届けします。マルタ共和国が世界初となる全国民へのChatGPT Plus無償提供を発表。OpenAIとDellが企業向けにCodexをオンプレミス展開する提携も話題です。さらに、ChatGPTに銀行口座を接続できるパーソナルファイナンス機能がProユーザー向けに登場。そしてイーロン・マスク氏がOpenAIを訴えていた巨額訴訟が時効で棄却されたニュースも詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</itunes:summary>
+      <pubDate>Tue, 19 May 2026 07:28:31 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260519-20260519</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lKHxx8BVIqkb_4ooqRdkluHAZywowKIq" length="11863293" type="audio/mpeg"/>
+      <itunes:duration>24:20</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月18日】ChatGPTがあなたの家計簿に？AI個人資産管理＆安全性強化</title>
       <description>今日はChatGPTの注目アップデート3本立てでお届けします。まず、銀行口座と連携して収支管理や投資アドバイスまでしてくれる新機能「パーソナルファイナンス」が米国でプレビュー開始。AIがお金の相談相手になる時代が来ました。次に、自殺や自傷など敏感な話題への対応力が大幅に向上した安全性アップデートの詳細を解説。そして、ファイル保存機能「Library」のプラン別ストレージ容量が明確化された件も紹介します。無料プランは500MB、Proプランは100GBと大きな差が。それぞれの背景や技術的な仕組み、競合との比較まで深掘りしていきます。</description>
