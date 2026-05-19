@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 19 May 2026 07:28:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 07:41:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月20日】OpenAI画像透かし技術＆マルタ全国民にChatGPT無償提供</title>
+      <description>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずはAI生成画像にSynthIDやC2PAという技術で&quot;透かし&quot;を入れる新機能と検証ツールの発表。次にマルタ政府が世界初の試みとして全国民にChatGPT Plusを無償提供するニュース。さらにDellとの提携でコード生成AI「Codex」を企業のオンプレミス環境に展開する話題、そしてイーロン・マスク氏のOpenAI訴訟が時効で棄却された裁判の結末まで、背景や業界への影響も含めて詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずはAI生成画像にSynthIDやC2PAという技術で&quot;透かし&quot;を入れる新機能と検証ツールの発表。次にマルタ政府が世界初の試みとして全国民にChatGPT Plusを無償提供するニュース。さらにDellとの提携でコード生成AI「Codex」を企業のオンプレミス環境に展開する話題、そしてイーロン・マスク氏のOpenAI訴訟が時効で棄却された裁判の結末まで、背景や業界への影響も含めて詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 20 May 2026 07:41:51 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260520-20260520</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jAOHzmhonX9cGtutx7AXI1YFYjG4MIV0" length="13775469" type="audio/mpeg"/>
+      <itunes:duration>28:24</itunes:duration>
+      <itunes:episode>80</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月19日】マルタ国民全員にChatGPT Plus無償提供＆OpenAI×Dell企業AI革命</title>
       <description>今日はOpenAI関連の注目ニュース4本をお届けします。マルタ共和国が世界初となる全国民へのChatGPT Plus無償提供を発表。OpenAIとDellが企業向けにCodexをオンプレミス展開する提携も話題です。さらに、ChatGPTに銀行口座を接続できるパーソナルファイナンス機能がProユーザー向けに登場。そしてイーロン・マスク氏がOpenAIを訴えていた巨額訴訟が時効で棄却されたニュースも詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</description>
