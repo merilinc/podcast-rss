@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 20 May 2026 07:41:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:49:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月21日】OpenAI上場準備＆AI画像の真偽を見抜く新技術＆シンガポール進出</title>
+      <description>今日はOpenAIの大きな動き3つをたっぷり解説します。まず、非公開方式でのIPO（新規株式公開）申請準備が進んでいるというニュース。ゴールドマン・サックスなど大手投資銀行も関与し、AI業界の資本市場に大きな影響を与えそうです。次に、AI生成画像の真偽を判別するための新技術「C2PA」と「SynthID」の導入について。ディープフェイク対策として注目の技術を詳しく紹介します。最後に、OpenAIが米国外で初めてシンガポールに応用AIラボを設立するニュース。約340億円規模の投資で、アジアのAI覇権争いにどう影響するのかも深掘りします。</description>
+      <itunes:summary>今日はOpenAIの大きな動き3つをたっぷり解説します。まず、非公開方式でのIPO（新規株式公開）申請準備が進んでいるというニュース。ゴールドマン・サックスなど大手投資銀行も関与し、AI業界の資本市場に大きな影響を与えそうです。次に、AI生成画像の真偽を判別するための新技術「C2PA」と「SynthID」の導入について。ディープフェイク対策として注目の技術を詳しく紹介します。最後に、OpenAIが米国外で初めてシンガポールに応用AIラボを設立するニュース。約340億円規模の投資で、アジアのAI覇権争いにどう影響するのかも深掘りします。</itunes:summary>
+      <pubDate>Thu, 21 May 2026 07:49:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260521-20260521</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KWAtrkHNqXS9OCUuqGa26UYKgN4C3k9O" length="10478157" type="audio/mpeg"/>
+      <itunes:duration>21:39</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月20日】OpenAI画像透かし技術＆マルタ全国民にChatGPT無償提供</title>
       <description>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずはAI生成画像にSynthIDやC2PAという技術で&quot;透かし&quot;を入れる新機能と検証ツールの発表。次にマルタ政府が世界初の試みとして全国民にChatGPT Plusを無償提供するニュース。さらにDellとの提携でコード生成AI「Codex」を企業のオンプレミス環境に展開する話題、そしてイーロン・マスク氏のOpenAI訴訟が時効で棄却された裁判の結末まで、背景や業界への影響も含めて詳しく解説します。</description>
