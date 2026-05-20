@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 20 May 2026 07:38:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:53:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月21日】Google公式AI検索ガイド公開＆90%のブランドがAI検索で存在感ゼロ</title>
+      <description>今回はSEOに関する重要ニュースを4本お届けします。まずGoogleが生成AI検索機能向けの公式最適化ガイドをついに公開。AEOやGEOは結局SEOだった？という衝撃の内容を詳しく解説します。次にGA4がChatGPTやGeminiからのトラフィックを自動分類する新機能を導入。さらに177ブランドを調査したところ約90%がAI検索で全く言及されていないという驚きの結果も。最後にPerplexityのPro会員が使用制限に直面している問題もお伝えします。SEO担当者必聴の回です。</description>
+      <itunes:summary>今回はSEOに関する重要ニュースを4本お届けします。まずGoogleが生成AI検索機能向けの公式最適化ガイドをついに公開。AEOやGEOは結局SEOだった？という衝撃の内容を詳しく解説します。次にGA4がChatGPTやGeminiからのトラフィックを自動分類する新機能を導入。さらに177ブランドを調査したところ約90%がAI検索で全く言及されていないという驚きの結果も。最後にPerplexityのPro会員が使用制限に直面している問題もお伝えします。SEO担当者必聴の回です。</itunes:summary>
+      <pubDate>Thu, 21 May 2026 07:53:51 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260521-20260521</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xkvgY5N0rOITW4E448KGgzK8d-at6jTp" length="11505333" type="audio/mpeg"/>
+      <itunes:duration>24:19</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月20日】Google I/O 2026で検索が激変！AIエージェント時代の到来</title>
       <description>Google I/O 2026で発表された検索体験の大転換を徹底解説！新モデル「Gemini 3.5 Flash」や24時間稼働のAIエージェント「Spark」が登場し、従来の&quot;青いリンク&quot;中心のSEOが根底から揺らいでいます。さらに、AI Overviewsの品質や正確性を分析した最新研究の知見、MarkdownファイルとGoogle検索の関係など、SEO担当者必見のニュースを4本お届けします。検索の未来がどう変わるのか、一緒に考えていきましょう。</description>
