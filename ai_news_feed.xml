@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 19 May 2026 07:31:25 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 07:56:14 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月21日】Google新モデル発表＆AI規制の大転換、Musk敗訴の衝撃</title>
+      <description>今日はGoogle I/O 2026で発表されたGemini 3.5 FlashとOmniの詳細から、米ホワイトハウスが検討するAIモデルの公開前審査制度、Anthropicの最強モデルMythosが金融システムに突きつけるリスク、Elon MuskのOpenAI訴訟での全面敗訴、Metaの8000人リストラとAI投資強化、さらにEUと日本のAI規制の最新動向まで、7つのトピックを徹底解説します。AI技術競争と規制のせめぎ合いが加速する今、知っておくべきニュースが盛りだくさんです。</description>
+      <itunes:summary>今日はGoogle I/O 2026で発表されたGemini 3.5 FlashとOmniの詳細から、米ホワイトハウスが検討するAIモデルの公開前審査制度、Anthropicの最強モデルMythosが金融システムに突きつけるリスク、Elon MuskのOpenAI訴訟での全面敗訴、Metaの8000人リストラとAI投資強化、さらにEUと日本のAI規制の最新動向まで、7つのトピックを徹底解説します。AI技術競争と規制のせめぎ合いが加速する今、知っておくべきニュースが盛りだくさんです。</itunes:summary>
+      <pubDate>Thu, 21 May 2026 07:56:11 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260521-20260521</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15G6IUREusXpBXtBZLKG5CxcDqoiS6e7-" length="15979077" type="audio/mpeg"/>
+      <itunes:duration>33:07</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月19日】マスクvsOpenAI決着＆Anthropicサイバー防衛プロジェクト始動</title>
       <description>今日はAI業界の大きな動きを5本まとめてお届けします。まず、イーロン・マスクがOpenAIを訴えた裁判が時効で却下された衝撃の結末。次に、Anthropicが巨大テック企業と連携してサイバーセキュリティ強化プロジェクト「Glasswing」を発表。さらに、OpenAIがChatGPT・Codex・APIを統合して&quot;エージェント型プラットフォーム&quot;に再編する戦略転換、企業向けAI導入支援の新会社「DeployCo」設立、そしてフランスMistral AI CEOによる欧州AI主権への警鐘まで、盛りだくさんでお届けします。</description>
