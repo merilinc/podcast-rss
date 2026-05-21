@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 21 May 2026 07:53:54 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:42:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月22日】Google検索が激変！Gemini 3.5 Flash導入＆コアアップデート開始</title>
+      <description>今日はGoogle検索に関する重要ニュースを3本まとめてお届けします。まず、2026年5月のコアアップデートがロールアウト開始。E-E-A-Tがさらに重視され、薄いアフィリエイトサイトには厳しい時代に。次に、Google I/O 2026で発表されたGemini 3.5 Flashの導入により、検索ボックスがマルチモーダル化し、画像や動画も入力可能に。エージェント機能の強化でSEOの考え方も大きく変わりそうです。そして、GoogleがAI検索向け最適化ガイドを公式に公開。AEOやGEOは結局SEOの延長であり、特殊な裏技は不要と明言されました。SEOに関わるすべての方必聴の回です。</description>
+      <itunes:summary>今日はGoogle検索に関する重要ニュースを3本まとめてお届けします。まず、2026年5月のコアアップデートがロールアウト開始。E-E-A-Tがさらに重視され、薄いアフィリエイトサイトには厳しい時代に。次に、Google I/O 2026で発表されたGemini 3.5 Flashの導入により、検索ボックスがマルチモーダル化し、画像や動画も入力可能に。エージェント機能の強化でSEOの考え方も大きく変わりそうです。そして、GoogleがAI検索向け最適化ガイドを公式に公開。AEOやGEOは結局SEOの延長であり、特殊な裏技は不要と明言されました。SEOに関わるすべての方必聴の回です。</itunes:summary>
+      <pubDate>Fri, 22 May 2026 07:42:46 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260522-20260522</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RE5roOkGeDBoOcd9uetCH7L4LAuu4Nfi" length="10031253" type="audio/mpeg"/>
+      <itunes:duration>20:49</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月21日】Google公式AI検索ガイド公開＆90%のブランドがAI検索で存在感ゼロ</title>
       <description>今回はSEOに関する重要ニュースを4本お届けします。まずGoogleが生成AI検索機能向けの公式最適化ガイドをついに公開。AEOやGEOは結局SEOだった？という衝撃の内容を詳しく解説します。次にGA4がChatGPTやGeminiからのトラフィックを自動分類する新機能を導入。さらに177ブランドを調査したところ約90%がAI検索で全く言及されていないという驚きの結果も。最後にPerplexityのPro会員が使用制限に直面している問題もお伝えします。SEO担当者必聴の回です。</description>
