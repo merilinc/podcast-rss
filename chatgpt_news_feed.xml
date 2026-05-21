@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 21 May 2026 07:49:45 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 07:40:52 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月22日】OpenAI上場準備＆AI画像の身分証明＆数学80年の謎を解く</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、OpenAIがAI生成画像に「身分証明書」をつける新機能を発表。GoogleのSynthIDも採用し、フェイク画像対策が大きく前進します。次に、OpenAIのAIモデルが80年近く未解決だった数学の難問を覆す発見をしたという驚きの話題。そして、OpenAIがいよいよIPO（株式公開）に向けて動き出し、2026年9月の上場を目指しているという衝撃のニュース。評価額は約8520億ドル！AI業界の地殻変動をわかりやすく解説します。</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、OpenAIがAI生成画像に「身分証明書」をつける新機能を発表。GoogleのSynthIDも採用し、フェイク画像対策が大きく前進します。次に、OpenAIのAIモデルが80年近く未解決だった数学の難問を覆す発見をしたという驚きの話題。そして、OpenAIがいよいよIPO（株式公開）に向けて動き出し、2026年9月の上場を目指しているという衝撃のニュース。評価額は約8520億ドル！AI業界の地殻変動をわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 22 May 2026 07:40:49 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260522-20260522</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IRyCGkr2YTj3wUvO_fubJmIgSXBczO_5" length="10457805" type="audio/mpeg"/>
+      <itunes:duration>21:29</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月21日】OpenAI上場準備＆AI画像の真偽を見抜く新技術＆シンガポール進出</title>
       <description>今日はOpenAIの大きな動き3つをたっぷり解説します。まず、非公開方式でのIPO（新規株式公開）申請準備が進んでいるというニュース。ゴールドマン・サックスなど大手投資銀行も関与し、AI業界の資本市場に大きな影響を与えそうです。次に、AI生成画像の真偽を判別するための新技術「C2PA」と「SynthID」の導入について。ディープフェイク対策として注目の技術を詳しく紹介します。最後に、OpenAIが米国外で初めてシンガポールに応用AIラボを設立するニュース。約340億円規模の投資で、アジアのAI覇権争いにどう影響するのかも深掘りします。</description>
