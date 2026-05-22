@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 22 May 2026 07:40:52 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 07:31:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月23日】AIが80年来の数学難問を突破＆ChatGPTでお買い物時代到来</title>
+      <description>今日はOpenAI関連の注目ニュースを4本まとめてお届けします。まずはAIが80年以上未解決だった数学の難問に突破口を開いたという衝撃のニュース。次に、Yahoo!ショッピングがChatGPT上でお買い物できる「Apps in ChatGPT」に日本初対応した話題。さらに、イーロン・マスクのOpenAI訴訟が時効で全面棄却された裁判の結末。そして、ChatGPTがユーザーの質問内容をMetaやGoogleに無断共有していたとされるプライバシー訴訟の行方まで、技術・ビジネス・法律の多角的な視点で詳しく解説します。</description>
+      <itunes:summary>今日はOpenAI関連の注目ニュースを4本まとめてお届けします。まずはAIが80年以上未解決だった数学の難問に突破口を開いたという衝撃のニュース。次に、Yahoo!ショッピングがChatGPT上でお買い物できる「Apps in ChatGPT」に日本初対応した話題。さらに、イーロン・マスクのOpenAI訴訟が時効で全面棄却された裁判の結末。そして、ChatGPTがユーザーの質問内容をMetaやGoogleに無断共有していたとされるプライバシー訴訟の行方まで、技術・ビジネス・法律の多角的な視点で詳しく解説します。</itunes:summary>
+      <pubDate>Sat, 23 May 2026 07:31:14 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260523-20260523</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lZdJfHDbmanaqVt8PVIYJcgcfrV0yOtV" length="11208741" type="audio/mpeg"/>
+      <itunes:duration>22:59</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月22日】OpenAI上場準備＆AI画像の身分証明＆数学80年の謎を解く</title>
       <description>今日は3つのビッグニュースをお届けします。まず、OpenAIがAI生成画像に「身分証明書」をつける新機能を発表。GoogleのSynthIDも採用し、フェイク画像対策が大きく前進します。次に、OpenAIのAIモデルが80年近く未解決だった数学の難問を覆す発見をしたという驚きの話題。そして、OpenAIがいよいよIPO（株式公開）に向けて動き出し、2026年9月の上場を目指しているという衝撃のニュース。評価額は約8520億ドル！AI業界の地殻変動をわかりやすく解説します。</description>
