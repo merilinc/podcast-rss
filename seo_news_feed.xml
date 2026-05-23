@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 23 May 2026 07:27:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 07:20:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月24日】Google検索25年ぶりの大改修＆AI広告エージェント登場</title>
+      <description>今回はGoogleが一気に打ち出した3つの大きな動きを徹底解説します。まず「May 2026 Core Update」が展開開始、AIコンテンツや薄い記事はさらに厳しく評価される時代に。次に検索ボックスが25年ぶりに全面改修され、画像や動画も入力できるマルチモーダル仕様へ進化。さらに広告・分析・ECを一つにまとめるAIエージェント「Ask Advisor」も登場。SEOもマーケティングも、これまでのやり方が通用しなくなるかもしれない、その背景と対策をたっぷりお届けします。</description>
+      <itunes:summary>今回はGoogleが一気に打ち出した3つの大きな動きを徹底解説します。まず「May 2026 Core Update」が展開開始、AIコンテンツや薄い記事はさらに厳しく評価される時代に。次に検索ボックスが25年ぶりに全面改修され、画像や動画も入力できるマルチモーダル仕様へ進化。さらに広告・分析・ECを一つにまとめるAIエージェント「Ask Advisor」も登場。SEOもマーケティングも、これまでのやり方が通用しなくなるかもしれない、その背景と対策をたっぷりお届けします。</itunes:summary>
+      <pubDate>Sun, 24 May 2026 07:20:16 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260524-20260524</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nm5-SmI9mFzhpLqrEW0P0CgFZqmcCY9p" length="11887845" type="audio/mpeg"/>
+      <itunes:duration>24:59</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月23日】Google大変革！コアアプデ・FAQ廃止・AI検索の未来</title>
       <description>今日はGoogleのSEO関連ニュースを一挙にお届けします。5月21日に展開が始まった「May 2026 Core Update」の狙いと対策、長年親しまれたFAQリッチリザルトの完全廃止の背景、GA4に新登場した「AI Assistant」チャネルでAI経由の流入が見える化された話、そしてGoogle I/O 2026で発表されたGemini 3.5 Flashによる検索体験の大幅刷新まで。SEO担当者はもちろん、ウェブサイト運営に関わるすべての方に聴いていただきたい内容です。AIファーストに変わりゆくGoogle検索の最前線を、わかりやすく解説します。</description>
