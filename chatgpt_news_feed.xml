@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 23 May 2026 07:31:18 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 07:17:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月24日】GPT-5.5全ユーザー開放＆Codex大進化＆心を守る新機能</title>
+      <description>今日はOpenAIの最新ニュースを3本立てでお届けします。まずはGPT-5.5がついに全ChatGPTユーザーに開放された話題。無料ユーザーと有料ユーザーで何が違うのか、ThinkingモードやInstantモードとは何かを徹底解説します。次に、ChatGPT BusinessのCodex機能が大幅強化。画面キャプチャをAIに渡せる「Appshots」や、AIが自律的にゴールを目指す「Goal Mode」など注目の新機能を紹介。最後に、ユーザーのメンタルヘルスを守る「Trusted Contact」機能の登場について、その仕組みとプライバシー配慮を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを3本立てでお届けします。まずはGPT-5.5がついに全ChatGPTユーザーに開放された話題。無料ユーザーと有料ユーザーで何が違うのか、ThinkingモードやInstantモードとは何かを徹底解説します。次に、ChatGPT BusinessのCodex機能が大幅強化。画面キャプチャをAIに渡せる「Appshots」や、AIが自律的にゴールを目指す「Goal Mode」など注目の新機能を紹介。最後に、ユーザーのメンタルヘルスを守る「Trusted Contact」機能の登場について、その仕組みとプライバシー配慮を詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 24 May 2026 07:17:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260524-20260524</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WBmuZeHuxZ52bGxavgKjytny_2mJm23n" length="10451445" type="audio/mpeg"/>
+      <itunes:duration>21:34</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月23日】AIが80年来の数学難問を突破＆ChatGPTでお買い物時代到来</title>
       <description>今日はOpenAI関連の注目ニュースを4本まとめてお届けします。まずはAIが80年以上未解決だった数学の難問に突破口を開いたという衝撃のニュース。次に、Yahoo!ショッピングがChatGPT上でお買い物できる「Apps in ChatGPT」に日本初対応した話題。さらに、イーロン・マスクのOpenAI訴訟が時効で全面棄却された裁判の結末。そして、ChatGPTがユーザーの質問内容をMetaやGoogleに無断共有していたとされるプライバシー訴訟の行方まで、技術・ビジネス・法律の多角的な視点で詳しく解説します。</description>
