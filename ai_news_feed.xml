@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 21 May 2026 07:56:14 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 07:15:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月24日】Anthropic初の黒字化へ＆OpenAI史上最大級IPOの衝撃</title>
+      <description>AI業界が大きな転換期を迎えています。今日はAnthropicが2026年Q2で初の営業利益を達成する見込みというニュース、OpenAIが9月のIPOに向けて準備を加速し評価額1兆ドルに迫る話題、GoogleがI/O 2026で発表したマルチモーダル動画生成モデル「Gemini Omni Flash」の詳細、イーロン・マスク氏のOpenAI訴訟が時効で棄却された経緯、そしてOpenAI共同創業者カーパシー氏がAnthropicに移籍した人材競争の舞台裏まで、5つのビッグニュースを徹底解説します。</description>
+      <itunes:summary>AI業界が大きな転換期を迎えています。今日はAnthropicが2026年Q2で初の営業利益を達成する見込みというニュース、OpenAIが9月のIPOに向けて準備を加速し評価額1兆ドルに迫る話題、GoogleがI/O 2026で発表したマルチモーダル動画生成モデル「Gemini Omni Flash」の詳細、イーロン・マスク氏のOpenAI訴訟が時効で棄却された経緯、そしてOpenAI共同創業者カーパシー氏がAnthropicに移籍した人材競争の舞台裏まで、5つのビッグニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 24 May 2026 07:15:34 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260524-20260524</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12x0RSHjL7rdoSNbKzXXaWgr9lsUTtxYc" length="11748981" type="audio/mpeg"/>
+      <itunes:duration>23:58</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月21日】Google新モデル発表＆AI規制の大転換、Musk敗訴の衝撃</title>
       <description>今日はGoogle I/O 2026で発表されたGemini 3.5 FlashとOmniの詳細から、米ホワイトハウスが検討するAIモデルの公開前審査制度、Anthropicの最強モデルMythosが金融システムに突きつけるリスク、Elon MuskのOpenAI訴訟での全面敗訴、Metaの8000人リストラとAI投資強化、さらにEUと日本のAI規制の最新動向まで、7つのトピックを徹底解説します。AI技術競争と規制のせめぎ合いが加速する今、知っておくべきニュースが盛りだくさんです。</description>
