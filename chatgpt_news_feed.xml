@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 24 May 2026 07:17:46 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:17:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月25日】OpenAI Codexがガートナーでリーダー選出！AIコーディングの未来</title>
+      <description>今日はOpenAIの「Codex」が、世界的な調査会社ガートナーの企業向けAIコーディングエージェント部門でリーダーに選ばれたニュースを詳しく解説します。そもそもガートナーの「マジック・クアドラント」って何？Codexって何がすごいの？GitHub CopilotやCursorなどの競合との違いは？「補助型AI」から「エージェント型AI」への大転換とは？企業のソフトウェア開発がどう変わるのか、技術的な詳細からビジネスへの影響まで、分かりやすくお届けします。</description>
+      <itunes:summary>今日はOpenAIの「Codex」が、世界的な調査会社ガートナーの企業向けAIコーディングエージェント部門でリーダーに選ばれたニュースを詳しく解説します。そもそもガートナーの「マジック・クアドラント」って何？Codexって何がすごいの？GitHub CopilotやCursorなどの競合との違いは？「補助型AI」から「エージェント型AI」への大転換とは？企業のソフトウェア開発がどう変わるのか、技術的な詳細からビジネスへの影響まで、分かりやすくお届けします。</itunes:summary>
+      <pubDate>Mon, 25 May 2026 07:17:04 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260525-20260525</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19X1AkmO_DMJV4okFjX9NyhrBvl4eAnF3" length="8377293" type="audio/mpeg"/>
+      <itunes:duration>17:27</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月24日】GPT-5.5全ユーザー開放＆Codex大進化＆心を守る新機能</title>
       <description>今日はOpenAIの最新ニュースを3本立てでお届けします。まずはGPT-5.5がついに全ChatGPTユーザーに開放された話題。無料ユーザーと有料ユーザーで何が違うのか、ThinkingモードやInstantモードとは何かを徹底解説します。次に、ChatGPT BusinessのCodex機能が大幅強化。画面キャプチャをAIに渡せる「Appshots」や、AIが自律的にゴールを目指す「Goal Mode」など注目の新機能を紹介。最後に、ユーザーのメンタルヘルスを守る「Trusted Contact」機能の登場について、その仕組みとプライバシー配慮を詳しく解説します。</description>
