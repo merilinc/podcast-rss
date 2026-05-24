@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 24 May 2026 07:15:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 07:23:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月25日】トランプAI規制延期＆Google検索25年ぶり大刷新＆Apple生成AI本格始動</title>
+      <description>今日はAI業界の大きな転換点となる5つのニュースをお届けします。トランプ大統領がAI安全審査の大統領令署名を直前で延期した背景と業界への影響、フランスのMistral AIによる物理AI企業買収で欧州産業AIが加速する話、Anthropic支援の新法人による企業向けAI導入の新潮流、Googleが25年ぶりに検索体験を全面刷新しAIエージェント主導へ舵を切った詳細、そしてAppleがWWDC 2026を前に生成AI専用ドメインを登録しSiri大幅強化を示唆するニュースまで、たっぷり解説します。</description>
+      <itunes:summary>今日はAI業界の大きな転換点となる5つのニュースをお届けします。トランプ大統領がAI安全審査の大統領令署名を直前で延期した背景と業界への影響、フランスのMistral AIによる物理AI企業買収で欧州産業AIが加速する話、Anthropic支援の新法人による企業向けAI導入の新潮流、Googleが25年ぶりに検索体験を全面刷新しAIエージェント主導へ舵を切った詳細、そしてAppleがWWDC 2026を前に生成AI専用ドメインを登録しSiri大幅強化を示唆するニュースまで、たっぷり解説します。</itunes:summary>
+      <pubDate>Mon, 25 May 2026 07:23:04 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260525-20260525</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19n7C5VvnPLEhAfLc3ful7pSyb6ezf69v" length="13352013" type="audio/mpeg"/>
+      <itunes:duration>27:38</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月24日】Anthropic初の黒字化へ＆OpenAI史上最大級IPOの衝撃</title>
       <description>AI業界が大きな転換期を迎えています。今日はAnthropicが2026年Q2で初の営業利益を達成する見込みというニュース、OpenAIが9月のIPOに向けて準備を加速し評価額1兆ドルに迫る話題、GoogleがI/O 2026で発表したマルチモーダル動画生成モデル「Gemini Omni Flash」の詳細、イーロン・マスク氏のOpenAI訴訟が時効で棄却された経緯、そしてOpenAI共同創業者カーパシー氏がAnthropicに移籍した人材競争の舞台裏まで、5つのビッグニュースを徹底解説します。</description>
