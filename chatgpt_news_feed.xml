@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 25 May 2026 07:17:08 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:31:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月26日】Codex大進化＆macOSアプリに緊急セキュリティ対応</title>
+      <description>今日はOpenAIの2大ニュースをお届けします。まずはコーディング支援AI「Codex」の大型アップデート。画面キャプチャを一瞬で共有する「Appshots」や、AIに複数ステップの目標を丸ごと任せられる「Goal Mode」が正式リリースされました。競合のClaude CodeやGeminiとの比較も詳しく解説します。そしてもう1つは、サプライチェーン攻撃によるmacOSアプリの署名証明書漏えい問題。6月12日までにアップデートしないとアプリが使えなくなる可能性も。その背景や対処法を分かりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIの2大ニュースをお届けします。まずはコーディング支援AI「Codex」の大型アップデート。画面キャプチャを一瞬で共有する「Appshots」や、AIに複数ステップの目標を丸ごと任せられる「Goal Mode」が正式リリースされました。競合のClaude CodeやGeminiとの比較も詳しく解説します。そしてもう1つは、サプライチェーン攻撃によるmacOSアプリの署名証明書漏えい問題。6月12日までにアップデートしないとアプリが使えなくなる可能性も。その背景や対処法を分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Tue, 26 May 2026 07:31:54 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260526-20260526</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZNtuiqSXLB8JfBoMcYr88Pjn3nY8wkKY" length="10486149" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月25日】OpenAI Codexがガートナーでリーダー選出！AIコーディングの未来</title>
       <description>今日はOpenAIの「Codex」が、世界的な調査会社ガートナーの企業向けAIコーディングエージェント部門でリーダーに選ばれたニュースを詳しく解説します。そもそもガートナーの「マジック・クアドラント」って何？Codexって何がすごいの？GitHub CopilotやCursorなどの競合との違いは？「補助型AI」から「エージェント型AI」への大転換とは？企業のソフトウェア開発がどう変わるのか、技術的な詳細からビジネスへの影響まで、分かりやすくお届けします。</description>
