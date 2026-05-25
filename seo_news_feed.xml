@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 25 May 2026 07:19:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 07:29:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月26日】Google大型アップデート＆AI検索が変えるSEOの未来</title>
+      <description>今日はSEOに関わる3つの重大ニュースをお届けします。まずGoogleが2026年5月に開始した大規模コアアップデートの影響と対策を詳しく解説。次にGA4に新しく追加された「AI Assistant」チャネルで、ChatGPTやGeminiからの流入が見える化された話題。そしてGoogleが公式に発表したAI検索の最適化ガイドと「AEOもGEOもSEOの一部」という見解の意味を掘り下げます。AI時代のSEO戦略が気になる方は必聴です！</description>
+      <itunes:summary>今日はSEOに関わる3つの重大ニュースをお届けします。まずGoogleが2026年5月に開始した大規模コアアップデートの影響と対策を詳しく解説。次にGA4に新しく追加された「AI Assistant」チャネルで、ChatGPTやGeminiからの流入が見える化された話題。そしてGoogleが公式に発表したAI検索の最適化ガイドと「AEOもGEOもSEOの一部」という見解の意味を掘り下げます。AI時代のSEO戦略が気になる方は必聴です！</itunes:summary>
+      <pubDate>Tue, 26 May 2026 07:29:54 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260526-20260526</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AQ8lLq332xWy91P2IWHyvb6rzNJo4YPL" length="10097829" type="audio/mpeg"/>
+      <itunes:duration>21:01</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月25日】Google検索が激変！コアアップデート＆AI革命の全貌</title>
       <description>今回はGoogle検索に関する大きなニュースを5本まとめてお届けします。まず、わずか6週間ぶりに展開が始まった「May 2026 コアアップデート」の中身と対策を解説。さらにAI Overviewに発生した奇妙なバグの正体、AI Modeが1年で10億ユーザーを突破した驚きのデータ、Google I/O 2026で発表された「Universal Cart」によるエージェント型コマースの衝撃、そして25年ぶりに刷新された検索ボックスとGemini 3.5 Flashのデフォルト化まで、検索の未来を徹底的に語ります。SEOに関わる方は必聴の回です！</description>
