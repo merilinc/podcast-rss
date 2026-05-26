@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 25 May 2026 07:23:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:53:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月27日】教皇がAI回勅発表＆OpenAI1兆ドルIPOへ</title>
+      <description>今日は3つの大きなニュースをお届けします。まず、ローマ教皇レオ14世がAIに関する史上初の回勅「Magnifica Humanitas」を発表。AIに命の判断を委ねることは許されないと明言しました。次に、OpenAIがSECに非公開でIPO登録を提出、9月の上場を目指し評価額は約1兆ドル（約150兆円）に達する見込みです。さらにAnthropicも300億ドル超の資金調達で評価額9000億ドルに迫る勢い。AI業界の倫理と巨額マネーが交差する激動の1週間を詳しく解説します。</description>
+      <itunes:summary>今日は3つの大きなニュースをお届けします。まず、ローマ教皇レオ14世がAIに関する史上初の回勅「Magnifica Humanitas」を発表。AIに命の判断を委ねることは許されないと明言しました。次に、OpenAIがSECに非公開でIPO登録を提出、9月の上場を目指し評価額は約1兆ドル（約150兆円）に達する見込みです。さらにAnthropicも300億ドル超の資金調達で評価額9000億ドルに迫る勢い。AI業界の倫理と巨額マネーが交差する激動の1週間を詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 27 May 2026 07:53:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260527-20260527</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14AhYm6dQ33DOXVPcf2yDP6seQZmZ_k-g" length="10294101" type="audio/mpeg"/>
+      <itunes:duration>21:20</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月25日】トランプAI規制延期＆Google検索25年ぶり大刷新＆Apple生成AI本格始動</title>
       <description>今日はAI業界の大きな転換点となる5つのニュースをお届けします。トランプ大統領がAI安全審査の大統領令署名を直前で延期した背景と業界への影響、フランスのMistral AIによる物理AI企業買収で欧州産業AIが加速する話、Anthropic支援の新法人による企業向けAI導入の新潮流、Googleが25年ぶりに検索体験を全面刷新しAIエージェント主導へ舵を切った詳細、そしてAppleがWWDC 2026を前に生成AI専用ドメインを登録しSiri大幅強化を示唆するニュースまで、たっぷり解説します。</description>
