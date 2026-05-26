@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 26 May 2026 07:31:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 07:50:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月27日】OpenAIがついにIPO準備開始＆Codex大幅アップデート</title>
+      <description>今日はOpenAIに関する2つの大きなニュースをお届けします。まず、OpenAIが米国証券取引委員会にIPO用の書類を非公開で提出したという衝撃のニュース。年間経常収益250億ドル規模の巨大AI企業が株式公開に向けて動き出しました。Goldman SachsやMorgan Stanleyが主幹事を務め、2026年9月頃の上場が見込まれています。さらに、開発者向けツール「Codex」の大幅アップデートも紹介。Goal Modeの標準化やmacOS向けAppshots機能など、エンタープライズ・教育ユーザーに嬉しい機能強化の詳細を解説します。</description>
+      <itunes:summary>今日はOpenAIに関する2つの大きなニュースをお届けします。まず、OpenAIが米国証券取引委員会にIPO用の書類を非公開で提出したという衝撃のニュース。年間経常収益250億ドル規模の巨大AI企業が株式公開に向けて動き出しました。Goldman SachsやMorgan Stanleyが主幹事を務め、2026年9月頃の上場が見込まれています。さらに、開発者向けツール「Codex」の大幅アップデートも紹介。Goal Modeの標準化やmacOS向けAppshots機能など、エンタープライズ・教育ユーザーに嬉しい機能強化の詳細を解説します。</itunes:summary>
+      <pubDate>Wed, 27 May 2026 07:50:34 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260527-20260527</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1swbYZklWB2j7b3W2Vty_RKaeIXUC0hkH" length="8741325" type="audio/mpeg"/>
+      <itunes:duration>17:58</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月26日】Codex大進化＆macOSアプリに緊急セキュリティ対応</title>
       <description>今日はOpenAIの2大ニュースをお届けします。まずはコーディング支援AI「Codex」の大型アップデート。画面キャプチャを一瞬で共有する「Appshots」や、AIに複数ステップの目標を丸ごと任せられる「Goal Mode」が正式リリースされました。競合のClaude CodeやGeminiとの比較も詳しく解説します。そしてもう1つは、サプライチェーン攻撃によるmacOSアプリの署名証明書漏えい問題。6月12日までにアップデートしないとアプリが使えなくなる可能性も。その背景や対処法を分かりやすくお伝えします。</description>
