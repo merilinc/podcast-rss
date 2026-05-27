@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 27 May 2026 07:50:37 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:00:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月28日】ChatGPTがパワポを操る時代＆Yahoo!ショッピングとAIが合体</title>
+      <description>今回はChatGPTの最新アップデート2本立てでお届けします。まずはPowerPointのアドイン「ChatGPT for PowerPoint」β版が登場。自然言語でスライド作成・編集ができる驚きの新機能を徹底解説します。さらに、Yahoo!ショッピングがChatGPTの「Apps in ChatGPT」に対応し、チャットしながらお買い物できる時代に。ECモールとAIの融合は日本初の試みで、私たちの買い物体験がどう変わるのか、背景や競合との比較も交えて詳しくお伝えします。</description>
+      <itunes:summary>今回はChatGPTの最新アップデート2本立てでお届けします。まずはPowerPointのアドイン「ChatGPT for PowerPoint」β版が登場。自然言語でスライド作成・編集ができる驚きの新機能を徹底解説します。さらに、Yahoo!ショッピングがChatGPTの「Apps in ChatGPT」に対応し、チャットしながらお買い物できる時代に。ECモールとAIの融合は日本初の試みで、私たちの買い物体験がどう変わるのか、背景や競合との比較も交えて詳しくお伝えします。</itunes:summary>
+      <pubDate>Thu, 28 May 2026 08:00:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260528-20260528</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rYZkERann7JodVPYL3hX1xecSjxtHPh_" length="9096285" type="audio/mpeg"/>
+      <itunes:duration>18:58</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月27日】OpenAIがついにIPO準備開始＆Codex大幅アップデート</title>
       <description>今日はOpenAIに関する2つの大きなニュースをお届けします。まず、OpenAIが米国証券取引委員会にIPO用の書類を非公開で提出したという衝撃のニュース。年間経常収益250億ドル規模の巨大AI企業が株式公開に向けて動き出しました。Goldman SachsやMorgan Stanleyが主幹事を務め、2026年9月頃の上場が見込まれています。さらに、開発者向けツール「Codex」の大幅アップデートも紹介。Goal Modeの標準化やmacOS向けAppshots機能など、エンタープライズ・教育ユーザーに嬉しい機能強化の詳細を解説します。</description>
