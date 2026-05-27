@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 27 May 2026 07:53:17 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 08:04:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月28日】教皇がAIに警鐘＆EU規制延期＆Anthropic90兆円へ</title>
+      <description>今回は3つの大きなAIニュースをお届けします。まず、新教皇レオ14世がAI時代における人間の尊厳を訴える歴史的な回勅を発表。次に、EUの「AI Act」で高リスクAIシステムの適用期限が2027年末〜2028年に延期される暫定合意が成立しました。そしてAnthropicが評価額約9000億ドル（約90兆円超）という驚異的な規模での資金調達交渉中であることが判明。OpenAIとの熾烈な競争の行方にも注目です。AI倫理・規制・ビジネスの最前線を分かりやすく解説します。</description>
+      <itunes:summary>今回は3つの大きなAIニュースをお届けします。まず、新教皇レオ14世がAI時代における人間の尊厳を訴える歴史的な回勅を発表。次に、EUの「AI Act」で高リスクAIシステムの適用期限が2027年末〜2028年に延期される暫定合意が成立しました。そしてAnthropicが評価額約9000億ドル（約90兆円超）という驚異的な規模での資金調達交渉中であることが判明。OpenAIとの熾烈な競争の行方にも注目です。AI倫理・規制・ビジネスの最前線を分かりやすく解説します。</itunes:summary>
+      <pubDate>Thu, 28 May 2026 08:04:22 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260528-20260528</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CiMFvIme_YX2zXODtf4t4i2xsB3WNG93" length="11633253" type="audio/mpeg"/>
+      <itunes:duration>24:07</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月27日】教皇がAI回勅発表＆OpenAI1兆ドルIPOへ</title>
       <description>今日は3つの大きなニュースをお届けします。まず、ローマ教皇レオ14世がAIに関する史上初の回勅「Magnifica Humanitas」を発表。AIに命の判断を委ねることは許されないと明言しました。次に、OpenAIがSECに非公開でIPO登録を提出、9月の上場を目指し評価額は約1兆ドル（約150兆円）に達する見込みです。さらにAnthropicも300億ドル超の資金調達で評価額9000億ドルに迫る勢い。AI業界の倫理と巨額マネーが交差する激動の1週間を詳しく解説します。</description>
