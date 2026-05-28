@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 28 May 2026 08:04:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 07:55:50 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月29日】Anthropic評価額1兆ドル目前＆MetaがAI有料プラン全世界展開</title>
+      <description>今日は2つの大きなニュースをお届けします。まず、AI企業AnthropicがシリーズHで650億ドル（約9兆7500億円）を調達し、評価額9650億ドルでOpenAIを抜いてAIスタートアップ最大の企業に。IPO間近とも言われるその背景と、Claude Opus 4.8の新機能を詳しく解説します。そしてMetaがInstagram・Facebook・WhatsAppで有料サブスクリプション「Plus」を全世界展開。さらにAI機能を統合した「Meta One」ブランドの戦略とは？広告依存からの脱却を図るMetaの狙いと、私たちユーザーへの影響を掘り下げます。</description>
+      <itunes:summary>今日は2つの大きなニュースをお届けします。まず、AI企業AnthropicがシリーズHで650億ドル（約9兆7500億円）を調達し、評価額9650億ドルでOpenAIを抜いてAIスタートアップ最大の企業に。IPO間近とも言われるその背景と、Claude Opus 4.8の新機能を詳しく解説します。そしてMetaがInstagram・Facebook・WhatsAppで有料サブスクリプション「Plus」を全世界展開。さらにAI機能を統合した「Meta One」ブランドの戦略とは？広告依存からの脱却を図るMetaの狙いと、私たちユーザーへの影響を掘り下げます。</itunes:summary>
+      <pubDate>Fri, 29 May 2026 07:55:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260529-20260529</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13cyEtlJCduko5fRevz6a5tVP-yW04LnV" length="10036653" type="audio/mpeg"/>
+      <itunes:duration>20:52</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月28日】教皇がAIに警鐘＆EU規制延期＆Anthropic90兆円へ</title>
       <description>今回は3つの大きなAIニュースをお届けします。まず、新教皇レオ14世がAI時代における人間の尊厳を訴える歴史的な回勅を発表。次に、EUの「AI Act」で高リスクAIシステムの適用期限が2027年末〜2028年に延期される暫定合意が成立しました。そしてAnthropicが評価額約9000億ドル（約90兆円超）という驚異的な規模での資金調達交渉中であることが判明。OpenAIとの熾烈な競争の行方にも注目です。AI倫理・規制・ビジネスの最前線を分かりやすく解説します。</description>
