@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 28 May 2026 08:00:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 07:49:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【5月30日】OpenAI2.5億ドル社会支援＆MUFG×ChatGPT金融連携</title>
+      <description>今日はOpenAI Foundationが発表したAIによる雇用・経済変化への2.5億ドル支援プログラムの全貌、企業のプライベートネットワークとChatGPTを安全につなぐ「Secure MCP Tunnel」、三菱UFJとMoneytreeによるChatGPT上での金融データ連携、そして動画生成AI「Runway」がChatGPTやClaudeと統合可能になった最新動向まで、4つのビッグニュースを徹底解説します。AI時代の社会保障からクリエイティブ革命まで、盛りだくさんでお届けします！</description>
+      <itunes:summary>今日はOpenAI Foundationが発表したAIによる雇用・経済変化への2.5億ドル支援プログラムの全貌、企業のプライベートネットワークとChatGPTを安全につなぐ「Secure MCP Tunnel」、三菱UFJとMoneytreeによるChatGPT上での金融データ連携、そして動画生成AI「Runway」がChatGPTやClaudeと統合可能になった最新動向まで、4つのビッグニュースを徹底解説します。AI時代の社会保障からクリエイティブ革命まで、盛りだくさんでお届けします！</itunes:summary>
+      <pubDate>Sat, 30 May 2026 07:49:04 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260530-20260530</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LvzO-cqHGgr8YEK4Sql-AW63QnWHCfxq" length="12973413" type="audio/mpeg"/>
+      <itunes:duration>26:57</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月28日】ChatGPTがパワポを操る時代＆Yahoo!ショッピングとAIが合体</title>
       <description>今回はChatGPTの最新アップデート2本立てでお届けします。まずはPowerPointのアドイン「ChatGPT for PowerPoint」β版が登場。自然言語でスライド作成・編集ができる驚きの新機能を徹底解説します。さらに、Yahoo!ショッピングがChatGPTの「Apps in ChatGPT」に対応し、チャットしながらお買い物できる時代に。ECモールとAIの融合は日本初の試みで、私たちの買い物体験がどう変わるのか、背景や競合との比較も交えて詳しくお伝えします。</description>
