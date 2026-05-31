@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 31 May 2026 07:21:48 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 07:17:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月1日】Claude Opus 4.8登場＆AI規制の波が米国を席巻</title>
+      <description>今回はAnthropicの最新モデル「Claude Opus 4.8」が誠実性を4倍改善した話題から、OpenAIが生命科学特化モデルをバイオディフェンス用途に限定展開するという衝撃のニュース、さらにOpenAIが発表した新しいガバナンス枠組み「Frontier Governance Framework」、そしてイリノイ州で成立間近のAI安全法まで、AI業界の最前線を4つのトピックでたっぷりお届けします。AIの性能競争と規制のせめぎ合い、その最新動向をわかりやすく解説します。</description>
+      <itunes:summary>今回はAnthropicの最新モデル「Claude Opus 4.8」が誠実性を4倍改善した話題から、OpenAIが生命科学特化モデルをバイオディフェンス用途に限定展開するという衝撃のニュース、さらにOpenAIが発表した新しいガバナンス枠組み「Frontier Governance Framework」、そしてイリノイ州で成立間近のAI安全法まで、AI業界の最前線を4つのトピックでたっぷりお届けします。AIの性能競争と規制のせめぎ合い、その最新動向をわかりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 01 Jun 2026 07:17:53 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260601-20260601</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iVBGttItZxWvSURY8-KMdvdu4vkYBoeR" length="12467037" type="audio/mpeg"/>
+      <itunes:duration>25:43</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月31日】OpenAI規制対応フレームワーク＆Anthropic新モデル登場</title>
       <description>今回はOpenAIが発表した「Frontier Governance Framework」についてEU・カリフォルニア州の法規制との関係を詳しく解説。さらにChatGPTからGPT-4.5やo3モデルが段階的に廃止される背景や、CodexのWindows対応・リモート制御機能の追加についてもお届けします。後半ではAnthropicの最新モデル「Claude Opus 4.8」のリリースと、数週間以内に一般提供予定の「Mythosクラス」モデルについて深掘りします。AI業界の安全性競争と次世代モデルの行方をたっぷり語ります！</description>
