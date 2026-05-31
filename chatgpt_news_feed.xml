@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 31 May 2026 07:17:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 07:12:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月1日】GPT-4シリーズ完全消滅へ！Codex Windows対応＆Canvas廃止の衝撃</title>
+      <description>今回はOpenAIが発表した3つの大きなアップデートをお届けします。まず、GPT-4.5とo3モデルがChatGPTから段階的に廃止され、GPT-4シリーズが完全に姿を消すことに。次に、CodexがついにWindowsに対応し、AIがパソコン画面を見ながら操作してくれる新機能が登場。さらに、GPT-5.5 Instantの応答スタイルが大幅改善される一方、人気のあったCanvas機能が廃止へ。AIチャットの使い方が大きく変わるかもしれない重要ニュースを、わかりやすく解説します。</description>
+      <itunes:summary>今回はOpenAIが発表した3つの大きなアップデートをお届けします。まず、GPT-4.5とo3モデルがChatGPTから段階的に廃止され、GPT-4シリーズが完全に姿を消すことに。次に、CodexがついにWindowsに対応し、AIがパソコン画面を見ながら操作してくれる新機能が登場。さらに、GPT-5.5 Instantの応答スタイルが大幅改善される一方、人気のあったCanvas機能が廃止へ。AIチャットの使い方が大きく変わるかもしれない重要ニュースを、わかりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 01 Jun 2026 07:12:42 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260601-20260601</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eO6Sm8ee7uWxtnThX9fELGcK8Y_0Ec4h" length="9669189" type="audio/mpeg"/>
+      <itunes:duration>20:22</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月31日】Codex大進化＆GPT-4.5ついに引退、AI時代の世代交代</title>
       <description>今日はOpenAIから発表された2つの大きなニュースをお届けします。まず、コード支援ツール「Codex」がWindows対応やリモート制御など大幅アップデート。企業向け機能が一気に充実しました。さらに、長く親しまれてきたo3やGPT-4.5が段階的に廃止されることが判明。GPT-4シリーズ最後のモデルが姿を消す意味とは？モデルの世代交代がユーザーに与える影響や、競合他社の動向も含めて詳しく解説します。AIツールを使っている方もこれから使う方も必聴の回です。</description>
