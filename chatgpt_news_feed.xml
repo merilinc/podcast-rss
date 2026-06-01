@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 07:12:45 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:28:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月2日】GPT-4.5引退の衝撃＆Claude Opus 4.8がGPT-5.5超え!?</title>
+      <description>今日はOpenAI関連の大きなニュースを2つお届けします。まず、OpenAIがGPT-4.5とo3モデルをChatGPTから段階的に引退させると発表。有料ユーザーから強い反発が起きています。その背景にある戦略とは？そしてもう1つは、競合AnthropicがリリースしたClaude Opus 4.8の驚異的な性能について。複数のベンチマークでGPT-5.5を上回る結果を叩き出し、AI業界の勢力図が変わりつつあります。技術的な詳細から業界への影響まで、じっくり解説します。</description>
+      <itunes:summary>今日はOpenAI関連の大きなニュースを2つお届けします。まず、OpenAIがGPT-4.5とo3モデルをChatGPTから段階的に引退させると発表。有料ユーザーから強い反発が起きています。その背景にある戦略とは？そしてもう1つは、競合AnthropicがリリースしたClaude Opus 4.8の驚異的な性能について。複数のベンチマークでGPT-5.5を上回る結果を叩き出し、AI業界の勢力図が変わりつつあります。技術的な詳細から業界への影響まで、じっくり解説します。</itunes:summary>
+      <pubDate>Tue, 02 Jun 2026 08:28:38 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260602-20260602</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZPeHWDR1ihbAAFF5v9gzgG_KoFWwS0lv" length="10437933" type="audio/mpeg"/>
+      <itunes:duration>21:44</itunes:duration>
+      <itunes:episode>92</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月1日】GPT-4シリーズ完全消滅へ！Codex Windows対応＆Canvas廃止の衝撃</title>
       <description>今回はOpenAIが発表した3つの大きなアップデートをお届けします。まず、GPT-4.5とo3モデルがChatGPTから段階的に廃止され、GPT-4シリーズが完全に姿を消すことに。次に、CodexがついにWindowsに対応し、AIがパソコン画面を見ながら操作してくれる新機能が登場。さらに、GPT-5.5 Instantの応答スタイルが大幅改善される一方、人気のあったCanvas機能が廃止へ。AIチャットの使い方が大きく変わるかもしれない重要ニュースを、わかりやすく解説します。</description>
