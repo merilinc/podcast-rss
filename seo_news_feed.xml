@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 31 May 2026 07:19:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:23:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月2日】Google検索が激変！AI時代の&quot;選ばれるサイト&quot;になる方法</title>
+      <description>今回はGoogleが発表した「Preferred Sources（優先ソース）」機能のAI検索への拡張と、「Highly Cited」ラベルの強化について詳しく解説します。AI OverviewsやAI Modeが検索の主流になる中、ユーザーに&quot;お気に入り&quot;として選ばれたサイトのクリック率が約2倍になるという驚きのデータも。従来のSEOとは何が変わるのか、中小サイトでもチャンスはあるのか、そして日本のマーケターが今すぐやるべきことまで、たっぷりお届けします。</description>
+      <itunes:summary>今回はGoogleが発表した「Preferred Sources（優先ソース）」機能のAI検索への拡張と、「Highly Cited」ラベルの強化について詳しく解説します。AI OverviewsやAI Modeが検索の主流になる中、ユーザーに&quot;お気に入り&quot;として選ばれたサイトのクリック率が約2倍になるという驚きのデータも。従来のSEOとは何が変わるのか、中小サイトでもチャンスはあるのか、そして日本のマーケターが今すぐやるべきことまで、たっぷりお届けします。</itunes:summary>
+      <pubDate>Tue, 02 Jun 2026 08:23:40 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260602-20260602</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eX_wwzQmdiSeC2sJcM7t5bnPaE1T9g2t" length="7791909" type="audio/mpeg"/>
+      <itunes:duration>16:12</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【5月31日】Google AI検索が激変！お気に入りサイト優遇＆Gmail連携の衝撃</title>
       <description>今日はGoogleのAI検索をめぐる大きな動きを3本立てでお届けします。まず、ユーザーが信頼するサイトを優先表示できる「Preferred Sources」がAI検索にまで拡大したニュース。次に、Gmailのメールデータが検索結果に影響するという驚きの実験結果。そして、Google CEO自らが「AIの回答が意見的すぎる」と認めた異例の発言について深掘りします。SEOやウェブマーケティングに関わる方はもちろん、普段Google検索を使うすべての方に関係する話題です。</description>
