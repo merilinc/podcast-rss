@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 07:17:55 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 08:26:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月2日】Anthropic評価額1兆ドル迫る！AI業界の資金・規制・エージェント最前線</title>
+      <description>今回はAI業界を揺るがす3大ニュースをお届けします。まずAnthropicが65億ドルを調達し評価額9650億ドルでOpenAIを超えた衝撃のニュース。次にOpenAIが公開した「Frontier Governance Framework」でEU・カリフォルニアのAI規制にどう対応するのかを解説。そしてGoogleが発表した24時間稼働の個人AIエージェント「Gemini Spark」の全貌に迫ります。AI企業の資金調達競争、世界的な規制の波、そして私たちの生活を変えるエージェントAIの未来まで、たっぷりお話しします。</description>
+      <itunes:summary>今回はAI業界を揺るがす3大ニュースをお届けします。まずAnthropicが65億ドルを調達し評価額9650億ドルでOpenAIを超えた衝撃のニュース。次にOpenAIが公開した「Frontier Governance Framework」でEU・カリフォルニアのAI規制にどう対応するのかを解説。そしてGoogleが発表した24時間稼働の個人AIエージェント「Gemini Spark」の全貌に迫ります。AI企業の資金調達競争、世界的な規制の波、そして私たちの生活を変えるエージェントAIの未来まで、たっぷりお話しします。</itunes:summary>
+      <pubDate>Tue, 02 Jun 2026 08:26:16 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260602-20260602</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aeADcOViyEK3PFAq8kHYi-P4euFs48N9" length="13248117" type="audio/mpeg"/>
+      <itunes:duration>27:23</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月1日】Claude Opus 4.8登場＆AI規制の波が米国を席巻</title>
       <description>今回はAnthropicの最新モデル「Claude Opus 4.8」が誠実性を4倍改善した話題から、OpenAIが生命科学特化モデルをバイオディフェンス用途に限定展開するという衝撃のニュース、さらにOpenAIが発表した新しいガバナンス枠組み「Frontier Governance Framework」、そしてイリノイ州で成立間近のAI安全法まで、AI業界の最前線を4つのトピックでたっぷりお届けします。AIの性能競争と規制のせめぎ合い、その最新動向をわかりやすく解説します。</description>
