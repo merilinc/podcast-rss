@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 08:26:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:23:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月3日】AI規制の新時代、Microsoft独自モデル7種、NVIDIAロボタクシー革命</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、トランプ大統領が最先端AIモデルの公開前レビューを可能にする大統領令に署名。AI規制の新たな一歩です。次に、MicrosoftがOpenAI依存からの脱却を目指し、自社開発の7つのAIモデル「MAIファミリー」を一挙発表。理由付けモデルからコーディング支援、画像生成、音声合成まで幅広いラインナップです。そしてNVIDIAが、ロボタクシー向けに320億パラメータの視覚・言語・行動統合モデル「Alpamayo 2 Super」を公開。自律運転の未来を変える可能性を秘めた技術を詳しく解説します。</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、トランプ大統領が最先端AIモデルの公開前レビューを可能にする大統領令に署名。AI規制の新たな一歩です。次に、MicrosoftがOpenAI依存からの脱却を目指し、自社開発の7つのAIモデル「MAIファミリー」を一挙発表。理由付けモデルからコーディング支援、画像生成、音声合成まで幅広いラインナップです。そしてNVIDIAが、ロボタクシー向けに320億パラメータの視覚・言語・行動統合モデル「Alpamayo 2 Super」を公開。自律運転の未来を変える可能性を秘めた技術を詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 03 Jun 2026 08:23:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260603-20260603</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AZ8TQOWZn7eGsmJ_iq_NOydE-4-BxrhF" length="13265541" type="audio/mpeg"/>
+      <itunes:duration>27:23</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月2日】Anthropic評価額1兆ドル迫る！AI業界の資金・規制・エージェント最前線</title>
       <description>今回はAI業界を揺るがす3大ニュースをお届けします。まずAnthropicが65億ドルを調達し評価額9650億ドルでOpenAIを超えた衝撃のニュース。次にOpenAIが公開した「Frontier Governance Framework」でEU・カリフォルニアのAI規制にどう対応するのかを解説。そしてGoogleが発表した24時間稼働の個人AIエージェント「Gemini Spark」の全貌に迫ります。AI企業の資金調達競争、世界的な規制の波、そして私たちの生活を変えるエージェントAIの未来まで、たっぷりお話しします。</description>
