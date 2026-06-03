@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 08:28:41 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 08:29:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月4日】ChatGPT月間10億人突破＆AWS進出、求人機能も登場</title>
+      <description>今日はChatGPT関連の注目ニュースを4本まとめてお届けします。まず、ChatGPTアプリが月間アクティブユーザー10億人を史上最速で達成した驚きのニュース。次に、OpenAIのモデルがAmazon Web Services上で一般提供開始という企業向けの大きな動き。さらに、セキュリティ強化の新機能「アクティブセッション管理」の導入、そしてChatGPTが求人検索や履歴書作成までできるキャリアプラットフォームに進化した話題もお届けします。AI業界の競争と進化の最前線をわかりやすく解説します！</description>
+      <itunes:summary>今日はChatGPT関連の注目ニュースを4本まとめてお届けします。まず、ChatGPTアプリが月間アクティブユーザー10億人を史上最速で達成した驚きのニュース。次に、OpenAIのモデルがAmazon Web Services上で一般提供開始という企業向けの大きな動き。さらに、セキュリティ強化の新機能「アクティブセッション管理」の導入、そしてChatGPTが求人検索や履歴書作成までできるキャリアプラットフォームに進化した話題もお届けします。AI業界の競争と進化の最前線をわかりやすく解説します！</itunes:summary>
+      <pubDate>Thu, 04 Jun 2026 08:29:34 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260604-20260604</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dvPGhyOrSGX_O7ejosoS0YaoBjAySJnx" length="11383101" type="audio/mpeg"/>
+      <itunes:duration>23:20</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月2日】GPT-4.5引退の衝撃＆Claude Opus 4.8がGPT-5.5超え!?</title>
       <description>今日はOpenAI関連の大きなニュースを2つお届けします。まず、OpenAIがGPT-4.5とo3モデルをChatGPTから段階的に引退させると発表。有料ユーザーから強い反発が起きています。その背景にある戦略とは？そしてもう1つは、競合AnthropicがリリースしたClaude Opus 4.8の驚異的な性能について。複数のベンチマークでGPT-5.5を上回る結果を叩き出し、AI業界の勢力図が変わりつつあります。技術的な詳細から業界への影響まで、じっくり解説します。</description>
