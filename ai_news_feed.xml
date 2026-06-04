@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 08:35:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 07:46:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月5日】トランプAI規制の舞台裏＆Anthropic IPO＆ByteDance7兆円投資</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、トランプ大統領が署名したAI行政命令の全貌。当初90日だったレビュー期間がなぜ30日に短縮されたのか、テック企業との駆け引きの裏側に迫ります。次に、Claudeで知られるAnthropicがIPOに向けて動き出したニュース。OpenAIとの上場レースの行方は？そして、TikTok親会社ByteDanceが最大700億ドル（約10兆円）をAIインフラに投じる計画。米中AI競争の新たな局面を詳しく解説します。</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、トランプ大統領が署名したAI行政命令の全貌。当初90日だったレビュー期間がなぜ30日に短縮されたのか、テック企業との駆け引きの裏側に迫ります。次に、Claudeで知られるAnthropicがIPOに向けて動き出したニュース。OpenAIとの上場レースの行方は？そして、TikTok親会社ByteDanceが最大700億ドル（約10兆円）をAIインフラに投じる計画。米中AI競争の新たな局面を詳しく解説します。</itunes:summary>
+      <pubDate>Fri, 05 Jun 2026 07:46:10 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260605-20260605</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k6ijuZ-7sjq-F_neW08v5zGN2JFpp71v" length="8727573" type="audio/mpeg"/>
+      <itunes:duration>18:03</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月4日】トランプAI大統領令＆Anthropic驚異の1兆ドルIPO準備</title>
       <description>今日はAI業界を揺るがす4つのビッグニュースをお届けします。まず、トランプ大統領がAI安全に関する新たな大統領令に署名。最先端AIモデルの公開前に政府が評価する仕組みが導入されました。次に、Anthropicが評価額約9650億ドル（約145兆円）で秘密裏にIPO準備を進めていることが判明。さらに、NVIDIAがエージェント型AI向けの新CPU「Vera」を発表し、データセンターの常識を変えようとしています。最後に、Microsoft Build 2026で発表されたAIエージェント向けプラットフォームの全貌を詳しく解説します。AI安全規制から巨額IPO、次世代ハードウェア、そして開発者向けツールまで、盛りだくさんの内容です。</description>
