@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 08:29:38 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 07:49:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月5日】ChatGPTが夢を見る？記憶革命＆Codex業務利用が爆発的拡大</title>
+      <description>今日はOpenAIが立て続けに発表した4つの重要アップデートを徹底解説します。ChatGPTがユーザーとの会話を「夢を見るように」自動で記憶する新アーキテクチャ「Dreaming」、生命科学に特化したGPT-Rosalindの大幅強化、開発者以外にも広がるCodexの業務利用拡大、そしてアカウントを守るActive Sessions機能まで。競合のClaudeやGoogleとの違い、企業利用への影響、私たちの日常にどう関わるのかまで、たっぷりお届けします。</description>
+      <itunes:summary>今日はOpenAIが立て続けに発表した4つの重要アップデートを徹底解説します。ChatGPTがユーザーとの会話を「夢を見るように」自動で記憶する新アーキテクチャ「Dreaming」、生命科学に特化したGPT-Rosalindの大幅強化、開発者以外にも広がるCodexの業務利用拡大、そしてアカウントを守るActive Sessions機能まで。競合のClaudeやGoogleとの違い、企業利用への影響、私たちの日常にどう関わるのかまで、たっぷりお届けします。</itunes:summary>
+      <pubDate>Fri, 05 Jun 2026 07:48:57 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260605-20260605</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JvH_0QcUECkxpXa4aMHHpohl5UG-6DHy" length="12001533" type="audio/mpeg"/>
+      <itunes:duration>24:28</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月4日】ChatGPT月間10億人突破＆AWS進出、求人機能も登場</title>
       <description>今日はChatGPT関連の注目ニュースを4本まとめてお届けします。まず、ChatGPTアプリが月間アクティブユーザー10億人を史上最速で達成した驚きのニュース。次に、OpenAIのモデルがAmazon Web Services上で一般提供開始という企業向けの大きな動き。さらに、セキュリティ強化の新機能「アクティブセッション管理」の導入、そしてChatGPTが求人検索や履歴書作成までできるキャリアプラットフォームに進化した話題もお届けします。AI業界の競争と進化の最前線をわかりやすく解説します！</description>
