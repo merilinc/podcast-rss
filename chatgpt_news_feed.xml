@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 05 Jun 2026 07:49:02 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:37:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月6日】ChatGPTの記憶が夢を見る？＆OpenAI×AWS連携＆フロリダ州が提訴</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、ChatGPTの記憶機能が「Dreaming V3」として大幅進化！会話の内容を自動で覚えて、時間が経つと古い情報を更新してくれる驚きの仕組みを詳しく解説します。次に、OpenAIの最先端モデルGPT-5.5やCodexがAmazonのクラウド「Bedrock」で使えるようになった企業向けの大ニュース。Microsoft以外との連携が広がる意味とは？そして最後に、フロリダ州がOpenAIとサム・アルトマンCEOを提訴した衝撃のニュース。未成年への安全性が焦点となるこの訴訟は、AI業界全体の転換点になるかもしれません。</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、ChatGPTの記憶機能が「Dreaming V3」として大幅進化！会話の内容を自動で覚えて、時間が経つと古い情報を更新してくれる驚きの仕組みを詳しく解説します。次に、OpenAIの最先端モデルGPT-5.5やCodexがAmazonのクラウド「Bedrock」で使えるようになった企業向けの大ニュース。Microsoft以外との連携が広がる意味とは？そして最後に、フロリダ州がOpenAIとサム・アルトマンCEOを提訴した衝撃のニュース。未成年への安全性が焦点となるこの訴訟は、AI業界全体の転換点になるかもしれません。</itunes:summary>
+      <pubDate>Sat, 06 Jun 2026 07:37:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260606-20260606</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W6EVQXV8KH7Lf1JTfOJi3JZQlIC8mcug" length="10672125" type="audio/mpeg"/>
+      <itunes:duration>22:05</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月5日】ChatGPTが夢を見る？記憶革命＆Codex業務利用が爆発的拡大</title>
       <description>今日はOpenAIが立て続けに発表した4つの重要アップデートを徹底解説します。ChatGPTがユーザーとの会話を「夢を見るように」自動で記憶する新アーキテクチャ「Dreaming」、生命科学に特化したGPT-Rosalindの大幅強化、開発者以外にも広がるCodexの業務利用拡大、そしてアカウントを守るActive Sessions機能まで。競合のClaudeやGoogleとの違い、企業利用への影響、私たちの日常にどう関わるのかまで、たっぷりお届けします。</description>
