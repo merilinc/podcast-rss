@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 04 Jun 2026 08:32:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 07:38:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月6日】Google AI検索にオプトアウト権＆コアアプデ完了</title>
+      <description>今日はSEO・AI検索をめぐる大きなニュースを3本お届けします。まず、英国の規制当局がGoogleに対して、出版社のコンテンツをAI検索の要約に使わせない「オプトアウト権」を義務化した話題。次に、Google Search Consoleに生成AI検索での表示回数を確認できる新レポートと除外トグルが追加された件。そして、2026年5月のGoogleコアアップデートが完了し、過去のアップデートより大きな順位変動が観測された話題を詳しく解説します。SEOやウェブサイト運営に関わる方は必聴の内容です。</description>
+      <itunes:summary>今日はSEO・AI検索をめぐる大きなニュースを3本お届けします。まず、英国の規制当局がGoogleに対して、出版社のコンテンツをAI検索の要約に使わせない「オプトアウト権」を義務化した話題。次に、Google Search Consoleに生成AI検索での表示回数を確認できる新レポートと除外トグルが追加された件。そして、2026年5月のGoogleコアアップデートが完了し、過去のアップデートより大きな順位変動が観測された話題を詳しく解説します。SEOやウェブサイト運営に関わる方は必聴の内容です。</itunes:summary>
+      <pubDate>Sat, 06 Jun 2026 07:38:50 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260606-20260606</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wSwSlype0pTZz3NrOdHx6GOqe5hA06xo" length="10735773" type="audio/mpeg"/>
+      <itunes:duration>22:18</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月4日】Google大変動コアアプデ完了＆AI検索オプトアウト規制が始動</title>
       <description>今日はSEO界隈を揺るがす3つのビッグニュースをお届けします。まず、Googleの「May 2026 Core Update」が6月2日に完了。特に健康・金融系サイトやAI生成コンテンツに大きな影響が出ています。次に、Google Lighthouseに「Agentic Browsing」という新しい監査カテゴリーが登場。AIエージェント時代のサイト評価基準が変わりつつあります。さらに、英国ではAI検索からコンテンツを除外できる「オプトアウト」規制が発表。出版社とGoogleの関係に大きな変化が起きそうです。SEO担当者必聴の内容です！</description>
