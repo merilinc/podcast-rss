@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 07:42:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:27:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月7日】ChatGPTが&quot;夢を見る&quot;？AI記憶革命とDNA安全規制の最前線</title>
+      <description>今日は3つの注目AIニュースをお届けします。まずOpenAIがChatGPTに導入した自動記憶合成システム「Dreaming V3」。AIが勝手にユーザーの情報を覚えて整理する仕組みですが、プライバシーの懸念も。次に、OpenAI・Anthropic・Google・Microsoftの4社が米議会に合成DNAの規制強化を共同要請した異例の動き。AIとバイオテクノロジーの交差点で何が起きているのか詳しく解説します。最後に、Anthropicが企業向けセキュリティ統合を一気に28プラットフォームへ拡大したニュース。AI導入における安全性・ガバナンスの最新トレンドをわかりやすくお伝えします。</description>
+      <itunes:summary>今日は3つの注目AIニュースをお届けします。まずOpenAIがChatGPTに導入した自動記憶合成システム「Dreaming V3」。AIが勝手にユーザーの情報を覚えて整理する仕組みですが、プライバシーの懸念も。次に、OpenAI・Anthropic・Google・Microsoftの4社が米議会に合成DNAの規制強化を共同要請した異例の動き。AIとバイオテクノロジーの交差点で何が起きているのか詳しく解説します。最後に、Anthropicが企業向けセキュリティ統合を一気に28プラットフォームへ拡大したニュース。AI導入における安全性・ガバナンスの最新トレンドをわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Sun, 07 Jun 2026 07:27:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260607-20260607</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14GcTbqEWwxq_Te8857AA1jXVfH-tm1D5" length="11683173" type="audio/mpeg"/>
+      <itunes:duration>24:04</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月6日】Meta新モデル遅延＆NY州AI広告規制＆日本GENIAC第4期</title>
       <description>今日は3つのAIニュースをお届けします。まず、Metaが開発中の新AIモデル「Muse Spark」のAPI公開が再び延期された背景と、オープンソース路線から閉源モデルへの戦略転換について詳しく解説。次に、ニューヨーク州で6月9日に施行される、AI生成の合成人物を広告に使う際の明示義務化について、EUや他州との比較も交えてお伝えします。最後に、日本の国家プロジェクト「GENIAC」第4期で採択された16件のAI基盤モデル開発テーマを紹介。製造業やロボティクス分野への展開など、日本ならではの取り組みに迫ります。</description>
