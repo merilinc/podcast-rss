@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 07:24:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:31:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月8日】ChatGPTが夢を見る？記憶革命とIPO準備の最新動向</title>
+      <description>今日はChatGPTに関する4つの重要ニュースをお届けします。まず、会話の記憶を大幅に進化させた新メモリシステム「Dreaming V3」について詳しく解説。さらに、セキュリティを強化する「Lockdown Mode」の全ユーザー展開、無料プランへの広告表示の開始、そしてOpenAIのIPO準備と評価額850億ドルの報道まで。ChatGPTのプライバシー・パーソナライズ・収益化・企業戦略の全体像が見えてくる回です。AI業界の最前線を一緒に追いかけましょう！</description>
+      <itunes:summary>今日はChatGPTに関する4つの重要ニュースをお届けします。まず、会話の記憶を大幅に進化させた新メモリシステム「Dreaming V3」について詳しく解説。さらに、セキュリティを強化する「Lockdown Mode」の全ユーザー展開、無料プランへの広告表示の開始、そしてOpenAIのIPO準備と評価額850億ドルの報道まで。ChatGPTのプライバシー・パーソナライズ・収益化・企業戦略の全体像が見えてくる回です。AI業界の最前線を一緒に追いかけましょう！</itunes:summary>
+      <pubDate>Mon, 08 Jun 2026 07:31:50 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260608-20260608</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-DIuWiQVnIc6UWcT0yz3qfO0J_U2qhKB" length="10847781" type="audio/mpeg"/>
+      <itunes:duration>22:35</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月7日】ChatGPTが夢を見る？新記憶機能Dreaming＆企業向けロックダウンモード登場</title>
       <description>今回はOpenAIが立て続けに発表した注目アップデートを徹底解説します。ChatGPTがバックグラウンドで記憶を整理・更新する新機能「Dreaming」の仕組みと、企業向けの高セキュリティ設定「Lockdown Mode」の詳細をお届け。さらに、医療・法務・税務の専門分野でAIを活用するWolters Kluwerとの提携強化や、GPT-4.5やo3モデルの廃止スケジュールについても深掘りします。AIが「記憶」を持つ時代、その便利さと怖さの両面を一緒に考えてみましょう。</description>
