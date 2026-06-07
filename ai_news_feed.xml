@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 07 Jun 2026 07:27:58 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 07:30:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月8日】OpenAI新セキュリティ機能＆米国AI規制法案の全貌</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、OpenAIがChatGPTに企業向けセキュリティ機能「Lockdown Mode」を導入。プロンプトインジェクション攻撃から機密データを守る仕組みとは？次に、米国議会で超党派の「Great American AI Act」が提案され、州ごとにバラバラだったAI規制を連邦レベルで統一する動きが本格化。そして、OpenAI Codexが開発者向けツールからビジネス全般へ大幅拡張。営業や投資銀行業務にもAIエージェントが進出する時代の到来です。それぞれの背景や技術的な詳細、業界への影響まで詳しく解説します。</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、OpenAIがChatGPTに企業向けセキュリティ機能「Lockdown Mode」を導入。プロンプトインジェクション攻撃から機密データを守る仕組みとは？次に、米国議会で超党派の「Great American AI Act」が提案され、州ごとにバラバラだったAI規制を連邦レベルで統一する動きが本格化。そして、OpenAI Codexが開発者向けツールからビジネス全般へ大幅拡張。営業や投資銀行業務にもAIエージェントが進出する時代の到来です。それぞれの背景や技術的な詳細、業界への影響まで詳しく解説します。</itunes:summary>
+      <pubDate>Mon, 08 Jun 2026 07:29:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260608-20260608</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aecHGXcFtyjJk4reBc6aqbjLhNAjoJrA" length="9711933" type="audio/mpeg"/>
+      <itunes:duration>20:03</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月7日】ChatGPTが&quot;夢を見る&quot;？AI記憶革命とDNA安全規制の最前線</title>
       <description>今日は3つの注目AIニュースをお届けします。まずOpenAIがChatGPTに導入した自動記憶合成システム「Dreaming V3」。AIが勝手にユーザーの情報を覚えて整理する仕組みですが、プライバシーの懸念も。次に、OpenAI・Anthropic・Google・Microsoftの4社が米議会に合成DNAの規制強化を共同要請した異例の動き。AIとバイオテクノロジーの交差点で何が起きているのか詳しく解説します。最後に、Anthropicが企業向けセキュリティ統合を一気に28プラットフォームへ拡大したニュース。AI導入における安全性・ガバナンスの最新トレンドをわかりやすくお伝えします。</description>
