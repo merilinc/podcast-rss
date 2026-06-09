@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 07:47:13 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:51:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月10日】EU対Meta激突＆Claude新モデル＆OpenAI上場へ</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、EUがMetaに対してWhatsAppを競合AIチャットボットに開放するよう命令した話。次に、Anthropicが最先端モデル「Claude Fable 5」を一般公開し、安全性と性能を両立させた新しいアプローチについて解説します。最後に、OpenAIがIPO（新規株式公開）に向けてSECに機密書類を提出したニュース。AI企業同士の競争が資本市場にまで広がる今、業界の地図がどう変わるのか、たっぷり深掘りしていきます。</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、EUがMetaに対してWhatsAppを競合AIチャットボットに開放するよう命令した話。次に、Anthropicが最先端モデル「Claude Fable 5」を一般公開し、安全性と性能を両立させた新しいアプローチについて解説します。最後に、OpenAIがIPO（新規株式公開）に向けてSECに機密書類を提出したニュース。AI企業同士の競争が資本市場にまで広がる今、業界の地図がどう変わるのか、たっぷり深掘りしていきます。</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 07:51:06 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260610-20260610</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1axkJpIWglkC354AYU-tjMaOeag5rkv9Q" length="11412189" type="audio/mpeg"/>
+      <itunes:duration>23:20</itunes:duration>
+      <itunes:episode>102</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月9日】Apple「Siri AI」爆誕＆OpenAI・Anthropic上場レース突入</title>
       <description>今日はAppleがWWDC 2026で発表した「Siri AI」を徹底解説。GoogleのGeminiモデルとの提携でSiriはどう生まれ変わるのか？プライバシーとAIの両立はどうなる？さらにiOS 27で大幅強化された子どもの安全管理機能についても詳しくお伝えします。そして、OpenAIがIPO申請書類を秘密裏に提出したニュースも。先週のAnthropicに続き、AI企業の上場競争がいよいよ本格化。評価額は兆円規模に膨れ上がるAI企業たちの今後を読み解きます。</description>
