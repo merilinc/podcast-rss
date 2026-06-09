@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 06 Jun 2026 07:38:54 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:46:52 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月10日】Google公式がSEO業界に警鐘！AEO・GEOは結局SEOなのか？</title>
+      <description>今回はGoogleが新たに公開した「第三者SEOツール・サービスに関する公式ガイダンス」を徹底解説します。最近よく聞く「AEO」「GEO」といったAI時代の新しいSEO手法は本当に必要なのか？Googleは公式ドキュメントで何と言っているのか？SEOツールの「公式承認」「ランキング保証」といった謳い文句の真実、Search Consoleを第一に使うべき理由、そしてサイト運営者が今すぐ見直すべきポイントまで、分かりやすくお届けします。SEOに関わるすべての方、必聴の回です。</description>
+      <itunes:summary>今回はGoogleが新たに公開した「第三者SEOツール・サービスに関する公式ガイダンス」を徹底解説します。最近よく聞く「AEO」「GEO」といったAI時代の新しいSEO手法は本当に必要なのか？Googleは公式ドキュメントで何と言っているのか？SEOツールの「公式承認」「ランキング保証」といった謳い文句の真実、Search Consoleを第一に使うべき理由、そしてサイト運営者が今すぐ見直すべきポイントまで、分かりやすくお届けします。SEOに関わるすべての方、必聴の回です。</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 07:46:48 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260610-20260610</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LCIUJxifIMCC4GmLa0QS_T1WBEaNKNAV" length="6995805" type="audio/mpeg"/>
+      <itunes:duration>14:31</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月6日】Google AI検索にオプトアウト権＆コアアプデ完了</title>
       <description>今日はSEO・AI検索をめぐる大きなニュースを3本お届けします。まず、英国の規制当局がGoogleに対して、出版社のコンテンツをAI検索の要約に使わせない「オプトアウト権」を義務化した話題。次に、Google Search Consoleに生成AI検索での表示回数を確認できる新レポートと除外トグルが追加された件。そして、2026年5月のGoogleコアアップデートが完了し、過去のアップデートより大きな順位変動が観測された話題を詳しく解説します。SEOやウェブサイト運営に関わる方は必聴の内容です。</description>
