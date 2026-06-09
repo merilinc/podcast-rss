@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 09 Jun 2026 07:52:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 07:48:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月10日】OpenAI上場へ！スーパーアプリ構想の全貌</title>
+      <description>OpenAIがついにIPO準備を公式発表！米国証券取引委員会にS-1申請書を機密提出し、株式公開に向けた動きが本格化しています。ライバルのAnthropicに続く形での上場準備の背景とは？さらに、ChatGPTを「スーパーアプリ」へ大改造する計画も明らかに。コーディングアシスタントのCodexやAIブラウザのAtlasを統合し、チャットだけでなくタスクの自動実行まで一つのアプリで完結させる壮大な構想を、技術面・ビジネス面から徹底解説します。</description>
+      <itunes:summary>OpenAIがついにIPO準備を公式発表！米国証券取引委員会にS-1申請書を機密提出し、株式公開に向けた動きが本格化しています。ライバルのAnthropicに続く形での上場準備の背景とは？さらに、ChatGPTを「スーパーアプリ」へ大改造する計画も明らかに。コーディングアシスタントのCodexやAIブラウザのAtlasを統合し、チャットだけでなくタスクの自動実行まで一つのアプリで完結させる壮大な構想を、技術面・ビジネス面から徹底解説します。</itunes:summary>
+      <pubDate>Wed, 10 Jun 2026 07:48:40 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260610-20260610</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JmmrSkPCSqPyGSmVZ3pyS2IdAacfL-3D" length="7448061" type="audio/mpeg"/>
+      <itunes:duration>15:14</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月9日】ChatGPT要塞化＆夢を見るAI＆スーパーアプリ構想</title>
       <description>今日はOpenAIのChatGPTに関する3つの大きなニュースをお届けします。まずはプロンプト注入攻撃からデータを守る新セキュリティ機能「Lockdown Mode」の正式発表。次に、AIが&quot;夢を見る&quot;ように過去の会話を整理・更新する新メモリー機能「Dreaming」の詳細を解説します。そして最後に、ChatGPTをコーディングからタスク管理まで何でもこなす&quot;スーパーアプリ&quot;に変えようという大胆な構想についても深掘りします。セキュリティ、パーソナライズ、そしてビジネス戦略——AIの未来が一気に動き出しています。</description>
