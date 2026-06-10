@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 07:51:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:22:05 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月11日】OpenAI上場へ！Apple Siri大進化＆Meta顔認証問題</title>
+      <description>今日はAI業界を揺るがす4大ニュースをお届けします。まずOpenAIがついにIPO（新規株式公開）の準備を開始、ライバルAnthropicとの資本獲得競争が激化しています。次にAppleがWWDC 2026で発表した「Siri AI」の驚きの進化と新デザイン言語「Liquid Glass」について詳しく解説。さらに英国が約2100億円規模のAIハードウェア強化計画を発表した背景と、Metaのスマートグラスアプリから未公開の顔認証コードが見つかった問題まで。プライバシー、国家戦略、資本動向と多角的にAI最前線をお届けします。</description>
+      <itunes:summary>今日はAI業界を揺るがす4大ニュースをお届けします。まずOpenAIがついにIPO（新規株式公開）の準備を開始、ライバルAnthropicとの資本獲得競争が激化しています。次にAppleがWWDC 2026で発表した「Siri AI」の驚きの進化と新デザイン言語「Liquid Glass」について詳しく解説。さらに英国が約2100億円規模のAIハードウェア強化計画を発表した背景と、Metaのスマートグラスアプリから未公開の顔認証コードが見つかった問題まで。プライバシー、国家戦略、資本動向と多角的にAI最前線をお届けします。</itunes:summary>
+      <pubDate>Thu, 11 Jun 2026 08:22:00 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260611-20260611</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uJ-o09W6RaxilzxCMJD37A2bqd13K3J2" length="14524053" type="audio/mpeg"/>
+      <itunes:duration>30:07</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月10日】EU対Meta激突＆Claude新モデル＆OpenAI上場へ</title>
       <description>今日は3つの大きなAIニュースをお届けします。まず、EUがMetaに対してWhatsAppを競合AIチャットボットに開放するよう命令した話。次に、Anthropicが最先端モデル「Claude Fable 5」を一般公開し、安全性と性能を両立させた新しいアプローチについて解説します。最後に、OpenAIがIPO（新規株式公開）に向けてSECに機密書類を提出したニュース。AI企業同士の競争が資本市場にまで広がる今、業界の地図がどう変わるのか、たっぷり深掘りしていきます。</description>
