@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 10 Jun 2026 07:48:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 08:18:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月11日】ChatGPTがスーパーアプリに！Visa決済統合＆OpenAI上場へ</title>
+      <description>今日はOpenAI・ChatGPT関連の大きなニュースを3本まとめてお届けします。まずVisaがChatGPTに決済ネットワークを統合し、AIエージェントが買い物を代行できるようになるという驚きの発表。次にOpenAIがついにIPO（新規株式公開）に向けた機密書類を提出、評価額は8500億ドル超とも。そしてChatGPTを「スーパーアプリ」に進化させるプロダクト再設計の動き。コーディングツールやサードパーティアプリの統合で、チャットボットの枠を大きく超えようとしています。AI時代の買い物・仕事・生活がどう変わるのか、じっくり解説します！</description>
+      <itunes:summary>今日はOpenAI・ChatGPT関連の大きなニュースを3本まとめてお届けします。まずVisaがChatGPTに決済ネットワークを統合し、AIエージェントが買い物を代行できるようになるという驚きの発表。次にOpenAIがついにIPO（新規株式公開）に向けた機密書類を提出、評価額は8500億ドル超とも。そしてChatGPTを「スーパーアプリ」に進化させるプロダクト再設計の動き。コーディングツールやサードパーティアプリの統合で、チャットボットの枠を大きく超えようとしています。AI時代の買い物・仕事・生活がどう変わるのか、じっくり解説します！</itunes:summary>
+      <pubDate>Thu, 11 Jun 2026 08:18:50 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260611-20260611</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-z3hZZPvp56qJ9jQIxxhxK6PXWvfm2lT" length="11450229" type="audio/mpeg"/>
+      <itunes:duration>23:45</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月10日】OpenAI上場へ！スーパーアプリ構想の全貌</title>
       <description>OpenAIがついにIPO準備を公式発表！米国証券取引委員会にS-1申請書を機密提出し、株式公開に向けた動きが本格化しています。ライバルのAnthropicに続く形での上場準備の背景とは？さらに、ChatGPTを「スーパーアプリ」へ大改造する計画も明らかに。コーディングアシスタントのCodexやAIブラウザのAtlasを統合し、チャットだけでなくタスクの自動実行まで一つのアプリで完結させる壮大な構想を、技術面・ビジネス面から徹底解説します。</description>
