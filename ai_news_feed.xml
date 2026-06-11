@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 08:22:05 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 08:19:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月12日】AI規制の大波到来！金融×AIリスクとAnthropic CEOの衝撃提言</title>
+      <description>今日は3つのAIニュースをお届けします。まず、国際金融監督機関FSBが「エージェンティックAI」の金融リスクに警鐘を鳴らし厳格な統制を求めた話題。次に、Anthropic CEOダリオ・アモデイが「危険なAIモデルは政府がブロックすべき」と主張した衝撃のエッセイについて。そして、Anthropicが1億5000万ドルを投じて非営利団体にAI人材を派遣する「Claude Corps」プログラムの発表まで、AIの規制・安全性・社会貢献をめぐる最新動向を詳しく解説します。AIが急速に社会に浸透する今、私たちの生活にも関わる重要なニュースばかりです。</description>
+      <itunes:summary>今日は3つのAIニュースをお届けします。まず、国際金融監督機関FSBが「エージェンティックAI」の金融リスクに警鐘を鳴らし厳格な統制を求めた話題。次に、Anthropic CEOダリオ・アモデイが「危険なAIモデルは政府がブロックすべき」と主張した衝撃のエッセイについて。そして、Anthropicが1億5000万ドルを投じて非営利団体にAI人材を派遣する「Claude Corps」プログラムの発表まで、AIの規制・安全性・社会貢献をめぐる最新動向を詳しく解説します。AIが急速に社会に浸透する今、私たちの生活にも関わる重要なニュースばかりです。</itunes:summary>
+      <pubDate>Fri, 12 Jun 2026 08:19:36 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260612-20260612</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15siZ0V2pjGHUIxjVDZbTHocyqEK-UulX" length="10779285" type="audio/mpeg"/>
+      <itunes:duration>22:09</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月11日】OpenAI上場へ！Apple Siri大進化＆Meta顔認証問題</title>
       <description>今日はAI業界を揺るがす4大ニュースをお届けします。まずOpenAIがついにIPO（新規株式公開）の準備を開始、ライバルAnthropicとの資本獲得競争が激化しています。次にAppleがWWDC 2026で発表した「Siri AI」の驚きの進化と新デザイン言語「Liquid Glass」について詳しく解説。さらに英国が約2100億円規模のAIハードウェア強化計画を発表した背景と、Metaのスマートグラスアプリから未公開の顔認証コードが見つかった問題まで。プライバシー、国家戦略、資本動向と多角的にAI最前線をお届けします。</description>
