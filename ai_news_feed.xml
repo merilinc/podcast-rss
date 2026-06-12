@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 08:19:41 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 07:49:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月13日】Anthropic CEOが政府にAI規制を要求＆SpaceX史上最大IPO</title>
+      <description>今回はAnthropicのCEOダリオ・アモデイが「危険なAIモデルは政府が止めるべき」と踏み込んだ提案を発表したニュースを詳しく解説。さらにGoogleが発表した新しいテキスト生成モデル「DiffusionGemma」は従来の4倍速で文章を生成できるという驚きの技術。フランス発スタートアップMendoの企業向けAI普及支援の資金調達、そしてSpaceXが750億ドルという世界最大のIPOを達成した話題まで、AI・テック業界の最新動向を幅広くお届けします。</description>
+      <itunes:summary>今回はAnthropicのCEOダリオ・アモデイが「危険なAIモデルは政府が止めるべき」と踏み込んだ提案を発表したニュースを詳しく解説。さらにGoogleが発表した新しいテキスト生成モデル「DiffusionGemma」は従来の4倍速で文章を生成できるという驚きの技術。フランス発スタートアップMendoの企業向けAI普及支援の資金調達、そしてSpaceXが750億ドルという世界最大のIPOを達成した話題まで、AI・テック業界の最新動向を幅広くお届けします。</itunes:summary>
+      <pubDate>Sat, 13 Jun 2026 07:49:10 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260613-20260613</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yG9-WZGJWKJuw2I7UYgBOaMbsXSBHQRa" length="13230597" type="audio/mpeg"/>
+      <itunes:duration>27:11</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月12日】AI規制の大波到来！金融×AIリスクとAnthropic CEOの衝撃提言</title>
       <description>今日は3つのAIニュースをお届けします。まず、国際金融監督機関FSBが「エージェンティックAI」の金融リスクに警鐘を鳴らし厳格な統制を求めた話題。次に、Anthropic CEOダリオ・アモデイが「危険なAIモデルは政府がブロックすべき」と主張した衝撃のエッセイについて。そして、Anthropicが1億5000万ドルを投じて非営利団体にAI人材を派遣する「Claude Corps」プログラムの発表まで、AIの規制・安全性・社会貢献をめぐる最新動向を詳しく解説します。AIが急速に社会に浸透する今、私たちの生活にも関わる重要なニュースばかりです。</description>
