@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 11 Jun 2026 08:18:55 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 07:47:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月13日】中国発AI世論操作の実態＆OpenAIがIPOへ動き出す</title>
+      <description>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、中国関連のアカウントがChatGPTを使って米国の政策議論を操作しようとしていた衝撃の実態。次に、AIエージェントが24時間働き続けられる環境を作るスタートアップ「Ona」の買収。そして、企業評価額約8,520億ドル（約130兆円）のOpenAIがついにIPO（株式公開）に向けて動き出した話題。AI時代のセキュリティ、企業戦略、そして巨額マネーの行方を分かりやすく解説します。</description>
+      <itunes:summary>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、中国関連のアカウントがChatGPTを使って米国の政策議論を操作しようとしていた衝撃の実態。次に、AIエージェントが24時間働き続けられる環境を作るスタートアップ「Ona」の買収。そして、企業評価額約8,520億ドル（約130兆円）のOpenAIがついにIPO（株式公開）に向けて動き出した話題。AI時代のセキュリティ、企業戦略、そして巨額マネーの行方を分かりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 13 Jun 2026 07:47:46 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260613-20260613</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fVmtpk1jfsbRL2MS6Hi1jWi7R9K4HK5V" length="11497269" type="audio/mpeg"/>
+      <itunes:duration>23:55</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月11日】ChatGPTがスーパーアプリに！Visa決済統合＆OpenAI上場へ</title>
       <description>今日はOpenAI・ChatGPT関連の大きなニュースを3本まとめてお届けします。まずVisaがChatGPTに決済ネットワークを統合し、AIエージェントが買い物を代行できるようになるという驚きの発表。次にOpenAIがついにIPO（新規株式公開）に向けた機密書類を提出、評価額は8500億ドル超とも。そしてChatGPTを「スーパーアプリ」に進化させるプロダクト再設計の動き。コーディングツールやサードパーティアプリの統合で、チャットボットの枠を大きく超えようとしています。AI時代の買い物・仕事・生活がどう変わるのか、じっくり解説します！</description>
