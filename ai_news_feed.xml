@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 13 Jun 2026 07:49:13 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:28:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月14日】米政府がAnthropicのAIモデルを禁止＆Bezos新会社に120億ドル</title>
+      <description>今日は衝撃的なニュースから始まります。米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」を国外・外国人向けに全面停止させる輸出規制を発動。その背景にあるAmazonからの報告や安全性の問題とは？さらに、Jeff Bezosが率いる新会社Prometheusが120億ドルの巨額調達で「人工一般エンジニア」の実現を目指します。ドイツのNeura Roboticsの14億ドル調達、MetaのEditsアプリへのAI搭載、AWSのAgent-EvalKit公開まで、AI業界を揺るがす5つのニュースを徹底解説します。</description>
+      <itunes:summary>今日は衝撃的なニュースから始まります。米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」を国外・外国人向けに全面停止させる輸出規制を発動。その背景にあるAmazonからの報告や安全性の問題とは？さらに、Jeff Bezosが率いる新会社Prometheusが120億ドルの巨額調達で「人工一般エンジニア」の実現を目指します。ドイツのNeura Roboticsの14億ドル調達、MetaのEditsアプリへのAI搭載、AWSのAgent-EvalKit公開まで、AI業界を揺るがす5つのニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 14 Jun 2026 07:28:09 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260614-20260614</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mmVwA0NsttIiMAMcuB_J_0YEiAfH6-rk" length="14875941" type="audio/mpeg"/>
+      <itunes:duration>30:54</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月13日】Anthropic CEOが政府にAI規制を要求＆SpaceX史上最大IPO</title>
       <description>今回はAnthropicのCEOダリオ・アモデイが「危険なAIモデルは政府が止めるべき」と踏み込んだ提案を発表したニュースを詳しく解説。さらにGoogleが発表した新しいテキスト生成モデル「DiffusionGemma」は従来の4倍速で文章を生成できるという驚きの技術。フランス発スタートアップMendoの企業向けAI普及支援の資金調達、そしてSpaceXが750億ドルという世界最大のIPOを達成した話題まで、AI・テック業界の最新動向を幅広くお届けします。</description>
