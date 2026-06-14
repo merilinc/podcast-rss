@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 07:25:04 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:35:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月15日】OpenAIに42州が調査開始＆ChatGPTスーパーアプリ化の全貌</title>
+      <description>今日はOpenAI・ChatGPTに関する3つの重大ニュースをお届けします。まず、アメリカ42州の司法長官がOpenAIに対して合同調査を開始。未成年保護やAIの「迎合性」問題が焦点です。次に、GPT-5.2が廃止されGPT-5.5への移行が完了。開発者やユーザーへの影響を詳しく解説します。そして最大の話題、ChatGPTを「スーパーアプリ」に進化させる戦略。Codex統合やAIエージェント機能の強化、IPO準備との関係まで、OpenAIの転換期を多角的に掘り下げます。</description>
+      <itunes:summary>今日はOpenAI・ChatGPTに関する3つの重大ニュースをお届けします。まず、アメリカ42州の司法長官がOpenAIに対して合同調査を開始。未成年保護やAIの「迎合性」問題が焦点です。次に、GPT-5.2が廃止されGPT-5.5への移行が完了。開発者やユーザーへの影響を詳しく解説します。そして最大の話題、ChatGPTを「スーパーアプリ」に進化させる戦略。Codex統合やAIエージェント機能の強化、IPO準備との関係まで、OpenAIの転換期を多角的に掘り下げます。</itunes:summary>
+      <pubDate>Mon, 15 Jun 2026 07:35:04 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260615-20260615</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XpPsW3aPS-n9OgBpjislUy-LnyvRq9-I" length="12624309" type="audio/mpeg"/>
+      <itunes:duration>25:50</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月14日】OpenAIに複数州が捜査＆中国の影響工作＆自殺訴訟の衝撃</title>
       <description>今日はOpenAIとChatGPTを巡る3つの重大ニュースをお届けします。まず、複数の州の検事総長がOpenAIに対し利用者安全性について捜査を開始。IPO直前の同社にとって大きな試練です。次に、中国系の影響工作がChatGPTを使って米国のAI政策論争を操作しようとしていた実態が明らかに。そして、カナダの母親がChatGPTが娘の自殺を助長したとして訴訟を提起。AIと人間の心の問題の境界線が問われています。安全性・信頼性・倫理の観点からAI業界全体の未来を左右するニュースを詳しく解説します。</description>
