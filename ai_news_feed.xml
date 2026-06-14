@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 14 Jun 2026 07:28:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 07:33:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月15日】Anthropicモデル利用停止命令＆OpenAI買収＆AI規制の攻防</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」の外国人利用を国家安全保障を理由に即時停止させた衝撃のニュース。次に、OpenAIがクラウド環境企業Onaを買収し、AIエージェント「Codex」の持続的作業能力を強化する戦略について詳しく解説します。最後に、米国で州レベルのAI規制が乱立する中、連邦政府が統一ルールで押さえ込もうとする「先取り」の動きについて、EUとの比較も交えてお話しします。AI技術と規制の最前線をまるごとお届けする回です。</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」の外国人利用を国家安全保障を理由に即時停止させた衝撃のニュース。次に、OpenAIがクラウド環境企業Onaを買収し、AIエージェント「Codex」の持続的作業能力を強化する戦略について詳しく解説します。最後に、米国で州レベルのAI規制が乱立する中、連邦政府が統一ルールで押さえ込もうとする「先取り」の動きについて、EUとの比較も交えてお話しします。AI技術と規制の最前線をまるごとお届けする回です。</itunes:summary>
+      <pubDate>Mon, 15 Jun 2026 07:33:52 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260615-20260615</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rXJG5jt8KKDvKL6vVMVsd4NqX86RGsvZ" length="12198165" type="audio/mpeg"/>
+      <itunes:duration>25:16</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月14日】米政府がAnthropicのAIモデルを禁止＆Bezos新会社に120億ドル</title>
       <description>今日は衝撃的なニュースから始まります。米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」を国外・外国人向けに全面停止させる輸出規制を発動。その背景にあるAmazonからの報告や安全性の問題とは？さらに、Jeff Bezosが率いる新会社Prometheusが120億ドルの巨額調達で「人工一般エンジニア」の実現を目指します。ドイツのNeura Roboticsの14億ドル調達、MetaのEditsアプリへのAI搭載、AWSのAgent-EvalKit公開まで、AI業界を揺るがす5つのニュースを徹底解説します。</description>
