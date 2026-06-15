@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 07:35:09 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:23:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月16日】OpenAIに42州が調査＆Codex進化＆AI学習コース登場</title>
+      <description>今日はOpenAI関連の重要ニュースを3本お届けします。まず、米国42州の司法長官がOpenAIに対して大規模な調査を開始。IPO直前というタイミングで広告・データ・未成年者保護・AIの「おべっか問題」まで幅広く調べるという衝撃のニュースです。次に、OpenAIがOnaという会社を買収し、コーディングAI「Codex」を大幅強化。PCを閉じてもAIが作業を続けてくれる未来がすぐそこに。最後に、OpenAI Academyから実践的な3つの新コースが登場。AI初心者からエージェント活用まで段階的に学べる内容を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAI関連の重要ニュースを3本お届けします。まず、米国42州の司法長官がOpenAIに対して大規模な調査を開始。IPO直前というタイミングで広告・データ・未成年者保護・AIの「おべっか問題」まで幅広く調べるという衝撃のニュースです。次に、OpenAIがOnaという会社を買収し、コーディングAI「Codex」を大幅強化。PCを閉じてもAIが作業を続けてくれる未来がすぐそこに。最後に、OpenAI Academyから実践的な3つの新コースが登場。AI初心者からエージェント活用まで段階的に学べる内容を詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 16 Jun 2026 08:23:48 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260616-20260616</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yC0R9SHTqC0VPNqEnZR0s8S1Y6ifEo8G" length="10770813" type="audio/mpeg"/>
+      <itunes:duration>22:07</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月15日】OpenAIに42州が調査開始＆ChatGPTスーパーアプリ化の全貌</title>
       <description>今日はOpenAI・ChatGPTに関する3つの重大ニュースをお届けします。まず、アメリカ42州の司法長官がOpenAIに対して合同調査を開始。未成年保護やAIの「迎合性」問題が焦点です。次に、GPT-5.2が廃止されGPT-5.5への移行が完了。開発者やユーザーへの影響を詳しく解説します。そして最大の話題、ChatGPTを「スーパーアプリ」に進化させる戦略。Codex統合やAIエージェント機能の強化、IPO準備との関係まで、OpenAIの転換期を多角的に掘り下げます。</description>
