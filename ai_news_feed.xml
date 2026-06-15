@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 15 Jun 2026 07:33:57 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:26:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月16日】Anthropic全世界停止の衝撃＆中国発オープンソースAIの逆襲</title>
+      <description>米政府の輸出規制によりAnthropicの最新AIモデル「Claude Fable 5」「Claude Mythos 5」が全世界で突然アクセス停止に。サイバーセキュリティ業界からは「防御側が弱くなる」と猛反発の声が上がっています。一方、中国のZhipu AIは100万トークン対応の最新モデル「GLM-5.2」をオープンソースで公開し、価格は競合の10分の1。AI覇権争いが地政学的な次元に突入した今週の動きを、背景から技術的な詳細まで徹底解説します。</description>
+      <itunes:summary>米政府の輸出規制によりAnthropicの最新AIモデル「Claude Fable 5」「Claude Mythos 5」が全世界で突然アクセス停止に。サイバーセキュリティ業界からは「防御側が弱くなる」と猛反発の声が上がっています。一方、中国のZhipu AIは100万トークン対応の最新モデル「GLM-5.2」をオープンソースで公開し、価格は競合の10分の1。AI覇権争いが地政学的な次元に突入した今週の動きを、背景から技術的な詳細まで徹底解説します。</itunes:summary>
+      <pubDate>Tue, 16 Jun 2026 08:26:31 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260616-20260616</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ik0jNNMXQXZJzkyEZRi1Bcb08mwiQn79" length="12307965" type="audio/mpeg"/>
+      <itunes:duration>25:10</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月15日】Anthropicモデル利用停止命令＆OpenAI買収＆AI規制の攻防</title>
       <description>今日は3つのビッグニュースをお届けします。まず、米政府がAnthropicの最新AIモデル「Fable 5」「Mythos 5」の外国人利用を国家安全保障を理由に即時停止させた衝撃のニュース。次に、OpenAIがクラウド環境企業Onaを買収し、AIエージェント「Codex」の持続的作業能力を強化する戦略について詳しく解説します。最後に、米国で州レベルのAI規制が乱立する中、連邦政府が統一ルールで押さえ込もうとする「先取り」の動きについて、EUとの比較も交えてお話しします。AI技術と規制の最前線をまるごとお届けする回です。</description>
