@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 08:23:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:17:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月17日】OpenAI新パートナー戦略＆42州が一斉捜査の衝撃</title>
+      <description>今日は2つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIが1億5000万ドルを投じて立ち上げた「OpenAI Partner Network」について。モデルの性能勝負から&quot;導入支援&quot;で勝負する時代へ、その戦略転換の真意を深掘りします。さらに、42州の司法長官がOpenAIに対して一斉捜査を開始したニュースも。IPO直前のタイミングで広告慣行・未成年者保護・AIの迎合性まで調査対象に。AI業界全体の規制の行方にも関わる重要トピックです。</description>
+      <itunes:summary>今日は2つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIが1億5000万ドルを投じて立ち上げた「OpenAI Partner Network」について。モデルの性能勝負から&quot;導入支援&quot;で勝負する時代へ、その戦略転換の真意を深掘りします。さらに、42州の司法長官がOpenAIに対して一斉捜査を開始したニュースも。IPO直前のタイミングで広告慣行・未成年者保護・AIの迎合性まで調査対象に。AI業界全体の規制の行方にも関わる重要トピックです。</itunes:summary>
+      <pubDate>Wed, 17 Jun 2026 08:17:44 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260617-20260617</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10svMrFWYlndoEYLZ_YjBKJTken4czwqh" length="9537165" type="audio/mpeg"/>
+      <itunes:duration>19:42</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月16日】OpenAIに42州が調査＆Codex進化＆AI学習コース登場</title>
       <description>今日はOpenAI関連の重要ニュースを3本お届けします。まず、米国42州の司法長官がOpenAIに対して大規模な調査を開始。IPO直前というタイミングで広告・データ・未成年者保護・AIの「おべっか問題」まで幅広く調べるという衝撃のニュースです。次に、OpenAIがOnaという会社を買収し、コーディングAI「Codex」を大幅強化。PCを閉じてもAIが作業を続けてくれる未来がすぐそこに。最後に、OpenAI Academyから実践的な3つの新コースが登場。AI初心者からエージェント活用まで段階的に学べる内容を詳しく解説します。</description>
