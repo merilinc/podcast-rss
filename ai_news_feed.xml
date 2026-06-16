@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 08:26:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:19:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月17日】SpaceXがCursorを6兆円買収＆米政府がAIモデルを全面停止</title>
+      <description>今日は衝撃的なニュースが3本立て！まずSpaceXがAIコーディングツールCursorの運営会社Anysphereを約600億ドル（約9兆円）で株式買収するという超大型ディール。次に米政府がAnthropicの最新AIモデルを国家安全保障を理由に全ユーザーからアクセス停止させた前代未聞の事態。そしてOpenAIがドイツのスタートアップOna（旧Gitpod）を買収してCodexの強化に乗り出した話題まで。AI業界の競争激化と規制強化が同時に進む転換点を、分かりやすく解説します。</description>
+      <itunes:summary>今日は衝撃的なニュースが3本立て！まずSpaceXがAIコーディングツールCursorの運営会社Anysphereを約600億ドル（約9兆円）で株式買収するという超大型ディール。次に米政府がAnthropicの最新AIモデルを国家安全保障を理由に全ユーザーからアクセス停止させた前代未聞の事態。そしてOpenAIがドイツのスタートアップOna（旧Gitpod）を買収してCodexの強化に乗り出した話題まで。AI業界の競争激化と規制強化が同時に進む転換点を、分かりやすく解説します。</itunes:summary>
+      <pubDate>Wed, 17 Jun 2026 08:19:46 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260617-20260617</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nQ2WFHQFE0Gdv5taHgoqO-apEbhqi9vM" length="10965861" type="audio/mpeg"/>
+      <itunes:duration>22:42</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月16日】Anthropic全世界停止の衝撃＆中国発オープンソースAIの逆襲</title>
       <description>米政府の輸出規制によりAnthropicの最新AIモデル「Claude Fable 5」「Claude Mythos 5」が全世界で突然アクセス停止に。サイバーセキュリティ業界からは「防御側が弱くなる」と猛反発の声が上がっています。一方、中国のZhipu AIは100万トークン対応の最新モデル「GLM-5.2」をオープンソースで公開し、価格は競合の10分の1。AI覇権争いが地政学的な次元に突入した今週の動きを、背景から技術的な詳細まで徹底解説します。</description>
