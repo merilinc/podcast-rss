@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 17 Jun 2026 08:17:48 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:03:01 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月18日】ChatGPTシェア50%割れ＆Visa決済統合＆OpenAI巨額赤字の行方</title>
+      <description>今日はOpenAI・ChatGPTに関する3つの大きなニュースをお届けします。まず、ChatGPTの市場シェアが初めて50%を下回り46.4%に低下。GoogleのGeminiやAnthropicのClaudeが猛追しています。次に、VisaとOpenAIが提携し、AIエージェントがユーザーの代わりに買い物・決済できる新しい仕組みが登場。さらに、OpenAIが2026年第1四半期に57億ドルの収益を上げながらも37億ドルを燃やしたという驚きの財務状況と、噂されるIPOの行方について詳しく解説します。AI業界の勢力図が大きく変わりつつある今、知っておきたい最新動向を分かりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAI・ChatGPTに関する3つの大きなニュースをお届けします。まず、ChatGPTの市場シェアが初めて50%を下回り46.4%に低下。GoogleのGeminiやAnthropicのClaudeが猛追しています。次に、VisaとOpenAIが提携し、AIエージェントがユーザーの代わりに買い物・決済できる新しい仕組みが登場。さらに、OpenAIが2026年第1四半期に57億ドルの収益を上げながらも37億ドルを燃やしたという驚きの財務状況と、噂されるIPOの行方について詳しく解説します。AI業界の勢力図が大きく変わりつつある今、知っておきたい最新動向を分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:02:58 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260618-20260618</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ANGP-fyPqwvvGdx4S9NYTHfKewNpKOpW" length="8937693" type="audio/mpeg"/>
+      <itunes:duration>18:30</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月17日】OpenAI新パートナー戦略＆42州が一斉捜査の衝撃</title>
       <description>今日は2つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIが1億5000万ドルを投じて立ち上げた「OpenAI Partner Network」について。モデルの性能勝負から&quot;導入支援&quot;で勝負する時代へ、その戦略転換の真意を深掘りします。さらに、42州の司法長官がOpenAIに対して一斉捜査を開始したニュースも。IPO直前のタイミングで広告慣行・未成年者保護・AIの迎合性まで調査対象に。AI業界全体の規制の行方にも関わる重要トピックです。</description>
