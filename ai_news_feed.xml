@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 18 Jun 2026 07:05:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 07:14:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月19日】SpaceXがCursorを600億ドル買収＆NVIDIA全制覇＆AIセキュリティ新潮流</title>
+      <description>今日はビッグニュースが3本立て！イーロン・マスク率いるSpaceXが、AIコーディングツール「Cursor」の開発元Anysphereをなんと600億ドル（約9兆円）で買収する衝撃ニュースを詳しく解説。さらにNVIDIAの最新GPU「Blackwell」がAIベンチマークで全カテゴリー制覇した技術的背景、そしてスペイン発のスタートアップNeuralTrustがAIエージェントのセキュリティ分野で過去最大級の資金調達を達成した意味を深掘りします。AI業界の地殻変動をまるごとお届けします！</description>
+      <itunes:summary>今日はビッグニュースが3本立て！イーロン・マスク率いるSpaceXが、AIコーディングツール「Cursor」の開発元Anysphereをなんと600億ドル（約9兆円）で買収する衝撃ニュースを詳しく解説。さらにNVIDIAの最新GPU「Blackwell」がAIベンチマークで全カテゴリー制覇した技術的背景、そしてスペイン発のスタートアップNeuralTrustがAIエージェントのセキュリティ分野で過去最大級の資金調達を達成した意味を深掘りします。AI業界の地殻変動をまるごとお届けします！</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 07:14:10 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260619-20260619</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iVLdxqoVFMnJBEu6H1TWZdeQcPjhglbq" length="12623709" type="audio/mpeg"/>
+      <itunes:duration>26:07</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月18日】NVIDIA全勝の衝撃＆中国発AIモデルGLM-5.2の実力</title>
       <description>今日はAI業界を揺るがす3つのビッグニュースをお届けします。まず、NVIDIAの最新GPUアーキテクチャ「Blackwell」がMLPerfベンチマークで全テスト制覇という圧倒的な結果を叩き出しました。次に、中国のZhipu AIが発表した「GLM-5.2」は100万トークンという驚異的な文脈ウィンドウを持ち、GPT-5の約10分の1のコストで利用可能。そして、フランスのマクロン大統領が米国のAIナショナリズムを批判し、先端AIモデルの国際共有を訴えた発言の真意に迫ります。技術・ビジネス・政治の3つの視点からAIの最前線を読み解きます。</description>
