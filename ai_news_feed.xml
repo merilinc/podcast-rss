@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 19 Jun 2026 07:14:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:57:30 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月20日】最強AIモデルが緊急停止！米政府vsAnthropicの衝撃</title>
+      <description>今日はAI業界を揺るがす大ニュースをたっぷりお届けします。Anthropicの最新・最強AIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制によりわずか数日で全世界一斉停止に。Amazonが政府に報告した経緯や、欧州が「AI戦争の始まり」と警戒する国際情勢まで深掘りします。さらに、Anthropicが1億5000万ドルを投じるAI人材育成プログラム「Claude Corps」の全容、停止モデルの復旧見通し、そしてGoogleがGemini CLIからAntigravity CLIへ移行した背景と開発者コミュニティの反応まで、4つのトピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす大ニュースをたっぷりお届けします。Anthropicの最新・最強AIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制によりわずか数日で全世界一斉停止に。Amazonが政府に報告した経緯や、欧州が「AI戦争の始まり」と警戒する国際情勢まで深掘りします。さらに、Anthropicが1億5000万ドルを投じるAI人材育成プログラム「Claude Corps」の全容、停止モデルの復旧見通し、そしてGoogleがGemini CLIからAntigravity CLIへ移行した背景と開発者コミュニティの反応まで、4つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 06:57:24 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260620-20260620</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BoFiEiJi5BpytF7_cUqtY7G6uhfmsD7u" length="12462261" type="audio/mpeg"/>
+      <itunes:duration>25:43</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月19日】SpaceXがCursorを600億ドル買収＆NVIDIA全制覇＆AIセキュリティ新潮流</title>
       <description>今日はビッグニュースが3本立て！イーロン・マスク率いるSpaceXが、AIコーディングツール「Cursor」の開発元Anysphereをなんと600億ドル（約9兆円）で買収する衝撃ニュースを詳しく解説。さらにNVIDIAの最新GPU「Blackwell」がAIベンチマークで全カテゴリー制覇した技術的背景、そしてスペイン発のスタートアップNeuralTrustがAIエージェントのセキュリティ分野で過去最大級の資金調達を達成した意味を深掘りします。AI業界の地殻変動をまるごとお届けします！</description>
