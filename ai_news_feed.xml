@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 20 Jun 2026 06:57:30 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 06:58:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月21日】AnthropicのAI輸出規制＆Copilot重大脆弱性＆OpenAIパートナー戦略</title>
+      <description>今日は3つの重要ニュースをお届けします。まず、AnthropicのAIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制により全世界で無効化された前例のない事態を詳しく解説。次に、Microsoft 365 Copilotで発見された重大な脆弱性「SearchLeak」の仕組みと影響を紹介します。最後に、OpenAIが1.5億ドルを投資して立ち上げたパートナーネットワーク構想と、30万人の認定コンサルタント育成計画について深掘りします。AI規制・セキュリティ・ビジネス展開の最前線をお届けします。</description>
+      <itunes:summary>今日は3つの重要ニュースをお届けします。まず、AnthropicのAIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制により全世界で無効化された前例のない事態を詳しく解説。次に、Microsoft 365 Copilotで発見された重大な脆弱性「SearchLeak」の仕組みと影響を紹介します。最後に、OpenAIが1.5億ドルを投資して立ち上げたパートナーネットワーク構想と、30万人の認定コンサルタント育成計画について深掘りします。AI規制・セキュリティ・ビジネス展開の最前線をお届けします。</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 06:58:39 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260621-20260621</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Il82p4dIrH2zL3zMAQCvbZ2DG3EADc4v" length="12802461" type="audio/mpeg"/>
+      <itunes:duration>26:24</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月20日】最強AIモデルが緊急停止！米政府vsAnthropicの衝撃</title>
       <description>今日はAI業界を揺るがす大ニュースをたっぷりお届けします。Anthropicの最新・最強AIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制によりわずか数日で全世界一斉停止に。Amazonが政府に報告した経緯や、欧州が「AI戦争の始まり」と警戒する国際情勢まで深掘りします。さらに、Anthropicが1億5000万ドルを投じるAI人材育成プログラム「Claude Corps」の全容、停止モデルの復旧見通し、そしてGoogleがGemini CLIからAntigravity CLIへ移行した背景と開発者コミュニティの反応まで、4つのトピックを徹底解説します。</description>
