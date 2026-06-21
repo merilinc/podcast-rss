@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 06:58:44 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:59:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月22日】米国がAnthropic最強AIを全面禁止＆OpenAIに超大物が電撃移籍</title>
+      <description>今日は衝撃的な2大ニュースをお届けします。まず、米国政府がAnthropicの最先端AIモデル「Fable 5」と「Mythos 5」への外国人アクセスを全面禁止。安全ガードの突破が理由とされますが、韓国SK Telecomの関与や暗号規制との類似性など、深い背景があります。さらに、Transformerアーキテクチャの生みの親の一人Noam ShazeerがGoogleからOpenAIへ電撃移籍。IPOを控えたOpenAIの戦略的な人材獲得の狙いとは？AI規制と人材競争の最前線を詳しく解説します。</description>
+      <itunes:summary>今日は衝撃的な2大ニュースをお届けします。まず、米国政府がAnthropicの最先端AIモデル「Fable 5」と「Mythos 5」への外国人アクセスを全面禁止。安全ガードの突破が理由とされますが、韓国SK Telecomの関与や暗号規制との類似性など、深い背景があります。さらに、Transformerアーキテクチャの生みの親の一人Noam ShazeerがGoogleからOpenAIへ電撃移籍。IPOを控えたOpenAIの戦略的な人材獲得の狙いとは？AI規制と人材競争の最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 06:59:53 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260622-20260622</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t9ud3Xi--BAVXZf1Fh5thRGWPwZQM2fM" length="10302309" type="audio/mpeg"/>
+      <itunes:duration>21:24</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月21日】AnthropicのAI輸出規制＆Copilot重大脆弱性＆OpenAIパートナー戦略</title>
       <description>今日は3つの重要ニュースをお届けします。まず、AnthropicのAIモデル「Fable 5」「Mythos 5」が米国政府の輸出規制により全世界で無効化された前例のない事態を詳しく解説。次に、Microsoft 365 Copilotで発見された重大な脆弱性「SearchLeak」の仕組みと影響を紹介します。最後に、OpenAIが1.5億ドルを投資して立ち上げたパートナーネットワーク構想と、30万人の認定コンサルタント育成計画について深掘りします。AI規制・セキュリティ・ビジネス展開の最前線をお届けします。</description>
