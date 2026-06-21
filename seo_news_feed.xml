@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 12 Jun 2026 08:17:38 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 06:59:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月22日】AI検索に法的責任！Google AI Overviewsの衝撃判決とllms.txtの真実</title>
+      <description>今日は2つの重要なSEOニュースをお届けします。まず、ドイツの裁判所がGoogleのAI Overviews機能で生成された虚偽情報について、Google自身に法的責任があると認める画期的な判決を下しました。AI生成の要約は「Googleの発言」とみなされるという衝撃の判断です。さらに、SEO業界で注目されていたllms.txtファイルについて、GoogleがAI検索での効果を公式に否定。過去のmeta keywordsタグの二の舞になるのか？生成AI時代のSEOと法律の最前線を、分かりやすく解説します。</description>
+      <itunes:summary>今日は2つの重要なSEOニュースをお届けします。まず、ドイツの裁判所がGoogleのAI Overviews機能で生成された虚偽情報について、Google自身に法的責任があると認める画期的な判決を下しました。AI生成の要約は「Googleの発言」とみなされるという衝撃の判断です。さらに、SEO業界で注目されていたllms.txtファイルについて、GoogleがAI検索での効果を公式に否定。過去のmeta keywordsタグの二の舞になるのか？生成AI時代のSEOと法律の最前線を、分かりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 06:59:30 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260622-20260622</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1R57eCtTM2UX8QeJn5H7XZbRoBfLZolNt" length="9815781" type="audio/mpeg"/>
+      <itunes:duration>20:09</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月12日】Google AI検索に法的責任！ドイツ裁判所の衝撃判決</title>
       <description>今日はSEO界隈を揺るがす大きなニュースをお届けします。ドイツ・ミュンヘンの裁判所が、GoogleのAI Overviews（検索結果のAI要約機能）について「Googleの自分自身の言葉」だとして法的責任を認める判決を出しました。これまで検索エンジンは情報の仲介役に過ぎないとされてきましたが、その常識が覆るかもしれない歴史的な判断です。さらに、Google Search Consoleの新しいAI検索レポート機能や、B2BブランドのコンテンツがどうすればAIに引用されやすくなるかという最新分析についても詳しく解説します。ウェブサイト運営者やマーケター必聴の回です。</description>
