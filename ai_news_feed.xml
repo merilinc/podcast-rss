@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 06:59:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:15:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月23日】ChatGPTシェア初の50%割れ＆AI人材争奪戦が激化</title>
+      <description>今日はAI業界の大きな転換点をお届けします。ChatGPTの市場シェアが初めて50%を下回り、Google GeminiやAnthhropic Claudeが猛追。さらにAnthropicの最先端モデルが米国の輸出規制で停止に。Google DeepMindからはTransformerの共同著者やノーベル賞受賞者が相次いでOpenAI・Anthropicへ移籍し、AI人材争奪戦が鮮明に。AIデータセンターの電力問題では米国政府が異例の規制命令を発出。そしてOpenAIのIPO準備と人材獲得戦略まで、今週の重要ニュースを徹底解説します。</description>
+      <itunes:summary>今日はAI業界の大きな転換点をお届けします。ChatGPTの市場シェアが初めて50%を下回り、Google GeminiやAnthhropic Claudeが猛追。さらにAnthropicの最先端モデルが米国の輸出規制で停止に。Google DeepMindからはTransformerの共同著者やノーベル賞受賞者が相次いでOpenAI・Anthropicへ移籍し、AI人材争奪戦が鮮明に。AIデータセンターの電力問題では米国政府が異例の規制命令を発出。そしてOpenAIのIPO準備と人材獲得戦略まで、今週の重要ニュースを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 07:15:33 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260623-20260623</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NqYpiDeNr6_gAw9kagdS4LOf-fDymEja" length="10967781" type="audio/mpeg"/>
+      <itunes:duration>22:43</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月22日】米国がAnthropic最強AIを全面禁止＆OpenAIに超大物が電撃移籍</title>
       <description>今日は衝撃的な2大ニュースをお届けします。まず、米国政府がAnthropicの最先端AIモデル「Fable 5」と「Mythos 5」への外国人アクセスを全面禁止。安全ガードの突破が理由とされますが、韓国SK Telecomの関与や暗号規制との類似性など、深い背景があります。さらに、Transformerアーキテクチャの生みの親の一人Noam ShazeerがGoogleからOpenAIへ電撃移籍。IPOを控えたOpenAIの戦略的な人材獲得の狙いとは？AI規制と人材競争の最前線を詳しく解説します。</description>
