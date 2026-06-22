@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 21 Jun 2026 06:55:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 07:10:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月23日】ChatGPTシェア初の50%割れ＆GPT-5.6登場間近</title>
+      <description>今日はChatGPT関連の重要ニュースを4本お届けします。まず、ChatGPTの市場シェアがサービス開始以来初めて50%を下回ったという衝撃のデータを詳しく解説。次に、OpenAIの次期モデル「GPT-5.6」のリリースが間近に迫っており、コンテキストウィンドウの大幅拡大など注目の改善点をご紹介します。さらに、写真素材大手Getty ImagesがOpenAIと提携し、ChatGPTに正規ライセンス画像が表示されるようになった話題、そしてSamsungがかつて禁止していたChatGPTを全社導入するという大転換についてもお伝えします。</description>
+      <itunes:summary>今日はChatGPT関連の重要ニュースを4本お届けします。まず、ChatGPTの市場シェアがサービス開始以来初めて50%を下回ったという衝撃のデータを詳しく解説。次に、OpenAIの次期モデル「GPT-5.6」のリリースが間近に迫っており、コンテキストウィンドウの大幅拡大など注目の改善点をご紹介します。さらに、写真素材大手Getty ImagesがOpenAIと提携し、ChatGPTに正規ライセンス画像が表示されるようになった話題、そしてSamsungがかつて禁止していたChatGPTを全社導入するという大転換についてもお伝えします。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 07:10:44 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260623-20260623</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LvMdXNVn6FFCgsAbEVxKm2BquhIdYUpM" length="10666149" type="audio/mpeg"/>
+      <itunes:duration>22:07</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月21日】GPT-5.5が無料で医師超え＆ChatGPTに広告が来る！</title>
       <description>今回はOpenAIの最新ニュースを3本まとめてお届けします。まず、無料ユーザーでも使える「GPT-5.5 Instant」が医療分野で専門医を上回る評価を獲得したという驚きの発表。次に、企業向けChatGPT Enterpriseに利用量の可視化とコスト管理機能が登場。そして日本ではついにChatGPT内に広告が登場し、電通デジタルがローンチパートナーに。無料プランの未来、企業のAIコスト問題、AI時代の広告のあり方まで、たっぷり深掘りしていきます。</description>
