@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 07:15:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:05:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月24日】MicronとAnthropic提携＆OpenAIサイバーセキュリティAI強化</title>
+      <description>今日はAIインフラを巡る大型ニュースを2本お届けします。まず、メモリ大手MicronとAI企業Anthropicが発表した包括的な戦略提携。メモリ・ストレージの共同設計から資本参加まで、4つの柱からなるこの協業はAI業界の勢力図をどう変えるのか？そしてOpenAIがサイバーセキュリティ専門モデル「GPT-5.5-Cyber」を強化し、各国政府へのアクセスも拡大中。AnthropicのMythosモデルとの対比や、AI×セキュリティの最前線を詳しく解説します。</description>
+      <itunes:summary>今日はAIインフラを巡る大型ニュースを2本お届けします。まず、メモリ大手MicronとAI企業Anthropicが発表した包括的な戦略提携。メモリ・ストレージの共同設計から資本参加まで、4つの柱からなるこの協業はAI業界の勢力図をどう変えるのか？そしてOpenAIがサイバーセキュリティ専門モデル「GPT-5.5-Cyber」を強化し、各国政府へのアクセスも拡大中。AnthropicのMythosモデルとの対比や、AI×セキュリティの最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 07:05:50 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260624-20260624</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qSjvpTUNNiZA0xvzXy3AHZDtCkQ-O237" length="9824469" type="audio/mpeg"/>
+      <itunes:duration>20:10</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月23日】ChatGPTシェア初の50%割れ＆AI人材争奪戦が激化</title>
       <description>今日はAI業界の大きな転換点をお届けします。ChatGPTの市場シェアが初めて50%を下回り、Google GeminiやAnthhropic Claudeが猛追。さらにAnthropicの最先端モデルが米国の輸出規制で停止に。Google DeepMindからはTransformerの共同著者やノーベル賞受賞者が相次いでOpenAI・Anthropicへ移籍し、AI人材争奪戦が鮮明に。AIデータセンターの電力問題では米国政府が異例の規制命令を発出。そしてOpenAIのIPO準備と人材獲得戦略まで、今週の重要ニュースを徹底解説します。</description>
