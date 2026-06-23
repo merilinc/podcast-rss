@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 06:59:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 07:08:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月24日】Google検索にAIレポート登場＆llms.txtの真実</title>
+      <description>今回はSEO関連の重要ニュースを2本お届けします。まず、GoogleがSearch Consoleに「生成型AIパフォーマンスレポート」を導入し、AI検索での露出状況が初めて可視化されるようになりました。英国では規制を背景にAI機能へのオプトアウト機能も登場。さらに、SEO界隈で話題だった「llms.txt」ファイルについて、Googleが公式に「ランキングに影響しない」と明言。その背景と、今後のSEO戦略への影響を詳しく解説します。AIが検索を変える時代、サイト運営者は何をすべきか？一緒に考えていきましょう。</description>
+      <itunes:summary>今回はSEO関連の重要ニュースを2本お届けします。まず、GoogleがSearch Consoleに「生成型AIパフォーマンスレポート」を導入し、AI検索での露出状況が初めて可視化されるようになりました。英国では規制を背景にAI機能へのオプトアウト機能も登場。さらに、SEO界隈で話題だった「llms.txt」ファイルについて、Googleが公式に「ランキングに影響しない」と明言。その背景と、今後のSEO戦略への影響を詳しく解説します。AIが検索を変える時代、サイト運営者は何をすべきか？一緒に考えていきましょう。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 07:08:08 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260624-20260624</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ADuNxPLDVeOJHs0fqPFlxzwct31mqW8T" length="11684085" type="audio/mpeg"/>
+      <itunes:duration>24:00</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月22日】AI検索に法的責任！Google AI Overviewsの衝撃判決とllms.txtの真実</title>
       <description>今日は2つの重要なSEOニュースをお届けします。まず、ドイツの裁判所がGoogleのAI Overviews機能で生成された虚偽情報について、Google自身に法的責任があると認める画期的な判決を下しました。AI生成の要約は「Googleの発言」とみなされるという衝撃の判断です。さらに、SEO業界で注目されていたllms.txtファイルについて、GoogleがAI検索での効果を公式に否定。過去のmeta keywordsタグの二の舞になるのか？生成AI時代のSEOと法律の最前線を、分かりやすく解説します。</description>
