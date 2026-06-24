@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 07:11:03 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:58:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月25日】OpenAIサイバー防衛強化＆メルカリがChatGPTに登場</title>
+      <description>今日はOpenAIが発表したサイバーセキュリティプログラム「Daybreak」の大幅強化について詳しく解説します。GPT-5.5-Cyberという専用モデルの登場や、世界中のオープンソースソフトウェアの脆弱性を修正する「Patch the Planet」プロジェクトの全貌に迫ります。さらに、日本のメルカリがChatGPT内で使える公式アプリを提供開始。対話で商品を探したり、出品の下書きをAIに任せたりできる新機能の詳細もお届けします。セキュリティとECの最前線をお楽しみください。</description>
+      <itunes:summary>今日はOpenAIが発表したサイバーセキュリティプログラム「Daybreak」の大幅強化について詳しく解説します。GPT-5.5-Cyberという専用モデルの登場や、世界中のオープンソースソフトウェアの脆弱性を修正する「Patch the Planet」プロジェクトの全貌に迫ります。さらに、日本のメルカリがChatGPT内で使える公式アプリを提供開始。対話で商品を探したり、出品の下書きをAIに任せたりできる新機能の詳細もお届けします。セキュリティとECの最前線をお楽しみください。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 06:58:11 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260625-20260625</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_bl_Aldfx7xlQpIFb3jVk94rPYDAT_fK" length="9644973" type="audio/mpeg"/>
+      <itunes:duration>19:52</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月24日】GPT-5.6の噂と42州がOpenAIを調査！AI最前線</title>
       <description>今日はChatGPT関連の最新ニュースを5本まとめてお届けします。まだ未発表ながら話題沸騰中の「GPT-5.6」の噂と、もし実現したら何が変わるのかを徹底解説。さらに、ChatGPTが過去の会話から自動でユーザーを学習する新メモリ機能「Dreaming」の仕組みと注意点、モデル選択画面がシンプルになったUI刷新、GPT-4.5やo3の引退スケジュール、そして米国42州の司法長官がOpenAIに召喚状を出した大規模調査の背景まで、盛りだくさんでお届けします。AI業界の今がわかる30分です！</description>
