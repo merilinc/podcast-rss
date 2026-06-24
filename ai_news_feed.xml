@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 24 Jun 2026 07:05:55 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 07:07:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月25日】OpenAI自社チップ発表＆AI防衛・Slack常駐AI最前線</title>
+      <description>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まず、OpenAIがBroadcomと共同で開発した初の自社設計AIチップ「Jalapeño」の全貌に迫ります。Nvidia一強時代は終わるのか？次に、OpenAIのサイバー防衛プログラム「Daybreak」が大幅拡充。脆弱性を見つけるだけでなく、修正まで自動でやってくれるAIの登場です。最後に、AnthropicがSlackに常駐する「AI同僚」Claude Tagを発表。チームの会話を理解して仕事を手伝ってくれる新機能の詳細を解説します。技術の裏側からビジネスへの影響まで、じっくりお話しします。</description>
+      <itunes:summary>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まず、OpenAIがBroadcomと共同で開発した初の自社設計AIチップ「Jalapeño」の全貌に迫ります。Nvidia一強時代は終わるのか？次に、OpenAIのサイバー防衛プログラム「Daybreak」が大幅拡充。脆弱性を見つけるだけでなく、修正まで自動でやってくれるAIの登場です。最後に、AnthropicがSlackに常駐する「AI同僚」Claude Tagを発表。チームの会話を理解して仕事を手伝ってくれる新機能の詳細を解説します。技術の裏側からビジネスへの影響まで、じっくりお話しします。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 07:07:01 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260625-20260625</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GwPLGDaIuWkLIQaQq5ecFYHA5Cemq6Ii" length="13257789" type="audio/mpeg"/>
+      <itunes:duration>27:18</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月24日】MicronとAnthropic提携＆OpenAIサイバーセキュリティAI強化</title>
       <description>今日はAIインフラを巡る大型ニュースを2本お届けします。まず、メモリ大手MicronとAI企業Anthropicが発表した包括的な戦略提携。メモリ・ストレージの共同設計から資本参加まで、4つの柱からなるこの協業はAI業界の勢力図をどう変えるのか？そしてOpenAIがサイバーセキュリティ専門モデル「GPT-5.5-Cyber」を強化し、各国政府へのアクセスも拡大中。AnthropicのMythosモデルとの対比や、AI×セキュリティの最前線を詳しく解説します。</description>
