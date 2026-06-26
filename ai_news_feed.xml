@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 07:01:59 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:58:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月27日】OpenAI自社チップ「Jalapeño」発表＆AI規制が世界で加速</title>
+      <description>今日はOpenAIがBroadcomと共同開発した推論用カスタムチップ「Jalapeño」の衝撃についてたっぷり解説します。NVIDIA依存からの脱却を狙う大胆な戦略とは？さらにGoogleのGemini 3.5 Pro延期の裏事情、EUのAI法第50条で始まる透明性義務の具体的な中身、そして米政府がOpenAIの新モデルGPT-5.6の公開を制限した前代未聞の動きまで。AIの技術革新と規制強化が同時に進む激動の3日間を、分かりやすくお届けします。</description>
+      <itunes:summary>今日はOpenAIがBroadcomと共同開発した推論用カスタムチップ「Jalapeño」の衝撃についてたっぷり解説します。NVIDIA依存からの脱却を狙う大胆な戦略とは？さらにGoogleのGemini 3.5 Pro延期の裏事情、EUのAI法第50条で始まる透明性義務の具体的な中身、そして米政府がOpenAIの新モデルGPT-5.6の公開を制限した前代未聞の動きまで。AIの技術革新と規制強化が同時に進む激動の3日間を、分かりやすくお届けします。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 06:58:28 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260627-20260627</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k6n1F0EYCk0lA0HqdAO6M_Mo2eeRjCv2" length="11565069" type="audio/mpeg"/>
+      <itunes:duration>23:59</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月26日】OpenAI初の自社チップ誕生＆Anthropic vs Alibaba知財バトル</title>
       <description>今日は3つのビッグニュースをお届けします。まずOpenAIがBroadcomと共同開発した初の推論専用チップ「Jalapeño」の全貌に迫ります。わずか9か月で完成したこのチップは、AI業界の勢力図を塗り替えるのか？続いて、AnthropicがAlibabaに対してClaudeモデルの違法抽出を告発した衝撃の事件。2万5千の偽アカウントと2880万回のやり取りで何が行われたのか詳しく解説します。さらに、かつて生成AIを社内で禁止していたSamsungが一転してChatGPTを全社導入した背景にも迫ります。</description>
