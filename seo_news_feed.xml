@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 26 Jun 2026 06:59:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:55:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月27日】Googleスパムアップデート開始＆AI検索の新レポート登場</title>
+      <description>今日は2つの重要なSEOニュースをお届けします。まず、6月24日にGoogleが全世界・全言語で展開を開始した「2026年6月スパムアップデート」について詳しく解説。AI生成コンテンツや薄いページがどう影響を受けるのか、具体的な対策もお話しします。さらに、Search Consoleに新たに導入された「Generative AIパフォーマンスレポート」と、AI機能からサイトを除外できるブロッキング・トグルについても深掘り。AI検索時代にサイト運営者がとるべき戦略を分かりやすくお伝えします。</description>
+      <itunes:summary>今日は2つの重要なSEOニュースをお届けします。まず、6月24日にGoogleが全世界・全言語で展開を開始した「2026年6月スパムアップデート」について詳しく解説。AI生成コンテンツや薄いページがどう影響を受けるのか、具体的な対策もお話しします。さらに、Search Consoleに新たに導入された「Generative AIパフォーマンスレポート」と、AI機能からサイトを除外できるブロッキング・トグルについても深掘り。AI検索時代にサイト運営者がとるべき戦略を分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 06:55:48 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260627-20260627</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dy4rgxq3wbo9NyH5U7eu56h3bzuCOEtC" length="10002549" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月26日】Googleスパム更新＆AI表示が丸見えに！SEO激変の最前線</title>
       <description>今日はSEOに関わる2つの大きなGoogleの動きをお届けします。まず、6月24日に全言語・全地域で始まった「June 2026 Spam Update」。AI生成コンテンツの大量生産サイトが狙い撃ちにされる可能性があり、その対策を詳しく解説します。さらに、Search Consoleに追加された「AIパフォーマンスレポート」とオプトアウト機能について。自分のサイトがAI Overviewsでどれだけ表示されているかが初めて公式に見えるようになりました。SEO担当者必聴の内容です！</description>
