@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 25 Jun 2026 06:58:16 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:54:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月27日】GPT-5.6政府限定公開＆OpenAI IPO延期の衝撃</title>
+      <description>今日はOpenAI関連の大きなニュースを3本お届けします。まず、新モデルGPT-5.6（Sol・Terra・Luna）が発表されましたが、米国政府の要請により一般公開が制限されるという異例の事態に。次に、OpenAIのIPOが2027年に延期される可能性が浮上。サム・アルトマンCEOが1兆ドル評価を狙う戦略の裏側に迫ります。さらに、AIが自律的に仕事をこなす「エージェントAI」の利用が爆発的に拡大しているという最新研究も解説。AIの未来がどう変わるのか、分かりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAI関連の大きなニュースを3本お届けします。まず、新モデルGPT-5.6（Sol・Terra・Luna）が発表されましたが、米国政府の要請により一般公開が制限されるという異例の事態に。次に、OpenAIのIPOが2027年に延期される可能性が浮上。サム・アルトマンCEOが1兆ドル評価を狙う戦略の裏側に迫ります。さらに、AIが自律的に仕事をこなす「エージェントAI」の利用が爆発的に拡大しているという最新研究も解説。AIの未来がどう変わるのか、分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 06:54:10 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260627-20260627</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14EpYWkU7ItoCuBAU6PBmKniLmY_APKcx" length="9831189" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月25日】OpenAIサイバー防衛強化＆メルカリがChatGPTに登場</title>
       <description>今日はOpenAIが発表したサイバーセキュリティプログラム「Daybreak」の大幅強化について詳しく解説します。GPT-5.5-Cyberという専用モデルの登場や、世界中のオープンソースソフトウェアの脆弱性を修正する「Patch the Planet」プロジェクトの全貌に迫ります。さらに、日本のメルカリがChatGPT内で使える公式アプリを提供開始。対話で商品を探したり、出品の下書きをAIに任せたりできる新機能の詳細もお届けします。セキュリティとECの最前線をお楽しみください。</description>
