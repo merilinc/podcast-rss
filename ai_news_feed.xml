@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 27 Jun 2026 06:58:32 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:56:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月28日】OpenAI自社チップ＆GPT-5.6政府規制、Qualcomm大型買収</title>
+      <description>今日はAI業界を揺るがす4つのビッグニュースをお届けします。OpenAIとBroadcomが共同開発した推論特化チップ「Jalapeño」の全貌、米政府がOpenAIの最新モデルGPT-5.6の公開を制限した驚きの背景、クラウド経由のAIチップ利用に規制をかける新法案「Cloud Security Act」、そしてQualcommが約40億ドルでAIソフトウェア企業Modularを買収しNVIDIA対抗へ本格参戦する戦略まで、AI半導体・規制・ソフトウェアの全方位から最新動向を詳しく解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす4つのビッグニュースをお届けします。OpenAIとBroadcomが共同開発した推論特化チップ「Jalapeño」の全貌、米政府がOpenAIの最新モデルGPT-5.6の公開を制限した驚きの背景、クラウド経由のAIチップ利用に規制をかける新法案「Cloud Security Act」、そしてQualcommが約40億ドルでAIソフトウェア企業Modularを買収しNVIDIA対抗へ本格参戦する戦略まで、AI半導体・規制・ソフトウェアの全方位から最新動向を詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 06:56:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260628-20260628</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OJyQBRcN0Cl74wAinKm12ei9LJ10QzIM" length="15979437" type="audio/mpeg"/>
+      <itunes:duration>32:54</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月27日】OpenAI自社チップ「Jalapeño」発表＆AI規制が世界で加速</title>
       <description>今日はOpenAIがBroadcomと共同開発した推論用カスタムチップ「Jalapeño」の衝撃についてたっぷり解説します。NVIDIA依存からの脱却を狙う大胆な戦略とは？さらにGoogleのGemini 3.5 Pro延期の裏事情、EUのAI法第50条で始まる透明性義務の具体的な中身、そして米政府がOpenAIの新モデルGPT-5.6の公開を制限した前代未聞の動きまで。AIの技術革新と規制強化が同時に進む激動の3日間を、分かりやすくお届けします。</description>
