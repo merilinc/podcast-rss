@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 06:51:41 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:59:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月30日】GPT-5.6三兄弟登場＆HP×OpenAI本格提携</title>
+      <description>今日はOpenAIが発表した新モデルシリーズ「GPT-5.6」について詳しく解説します。Sol・Terra・Lunaという3つのモデルはそれぞれどんな特徴があるのか、なぜまだ一般公開されていないのか、価格体系や新しい推論モードまで徹底解説。さらに、パソコンメーカー大手HP Inc.がOpenAIのFrontierプラットフォームとの戦略的パートナーシップを正式に拡大したニュースもお届けします。AIエージェントが企業の業務にどう組み込まれていくのか、その最前線をわかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIが発表した新モデルシリーズ「GPT-5.6」について詳しく解説します。Sol・Terra・Lunaという3つのモデルはそれぞれどんな特徴があるのか、なぜまだ一般公開されていないのか、価格体系や新しい推論モードまで徹底解説。さらに、パソコンメーカー大手HP Inc.がOpenAIのFrontierプラットフォームとの戦略的パートナーシップを正式に拡大したニュースもお届けします。AIエージェントが企業の業務にどう組み込まれていくのか、その最前線をわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Tue, 30 Jun 2026 06:59:21 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260630-20260630</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1k0BTSsl1oEAAJ0ENzS_oh7A7XDg8XfYp" length="10165125" type="audio/mpeg"/>
+      <itunes:duration>21:12</itunes:duration>
+      <itunes:episode>115</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月28日】GPT-5.6三兄弟登場！政府も絡む異例のAIリリース</title>
       <description>OpenAIが次世代モデル「GPT-5.6」シリーズとしてSol・Terra・Lunaの3モデルを発表！しかし今回は米政府の要請で限定プレビューという異例の形式に。フラッグシップSolの「ultra」モードや、競合Anthropicとの規制対応の違いを詳しく解説します。さらに、ChatGPTのメモリ機能が大幅改善されモバイルからのCodexリモート操作も可能に。定期タスク機能の対象プラン拡大など、ユーザー体験を底上げする最新アップデートもお届けします。</description>
