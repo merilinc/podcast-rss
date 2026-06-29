@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 06:53:33 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 07:02:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【6月30日】OpenAI独自チップ「Jalapeño」＆エージェントAI大爆発＆Figma革新</title>
+      <description>今日はOpenAIがBroadcomと共同で発表した推論専用チップ「Jalapeño」の全貌を徹底解説。NVIDIAのGPU依存から脱却する動きの背景や、GoogleやAmazonとの競争についても掘り下げます。さらに、OpenAIのCodexが法律・採用・財務など非エンジニア部門で137倍もの急成長を遂げている驚きのデータや、デザインツールFigmaが発表した「Motion」機能の革新性についてもお届けします。AIのハードウェア・ソフトウェア・デザインの3つの領域で起きている大変革を、わかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIがBroadcomと共同で発表した推論専用チップ「Jalapeño」の全貌を徹底解説。NVIDIAのGPU依存から脱却する動きの背景や、GoogleやAmazonとの競争についても掘り下げます。さらに、OpenAIのCodexが法律・採用・財務など非エンジニア部門で137倍もの急成長を遂げている驚きのデータや、デザインツールFigmaが発表した「Motion」機能の革新性についてもお届けします。AIのハードウェア・ソフトウェア・デザインの3つの領域で起きている大変革を、わかりやすくお伝えします。</itunes:summary>
+      <pubDate>Tue, 30 Jun 2026 07:01:50 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260630-20260630</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XbF-B3l19Vg9g2TBgzhbKbGdQOmfCL8A" length="11627061" type="audio/mpeg"/>
+      <itunes:duration>24:00</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月29日】GPT-5.6は政府限定！？AI規制が世界で急加速</title>
       <description>OpenAIが最新モデルGPT-5.6を発表しましたが、一般公開ではなく米政府承認組織への限定提供という異例の形に。AnthropicのMythosモデルも輸出規制で一度停止された後、限定復活するなど、米国でAIモデルの公開ルールが激変しています。さらにEUでは「AI Act」の重要な施行期日が迫り、透明性義務が8月から適用開始。AIの安全性・規制をめぐるグローバルな動きを、背景から技術的な詳細まで徹底解説します。</description>
