@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 07:02:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:02:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月1日】GPT-5.6が政府審査で限定公開！AI開発の新ルールとは</title>
+      <description>今日はOpenAIの次世代モデルGPT-5.6（Sol・Terra・Luna）が米政府の要請で限定プレビューとなった衝撃のニュースを詳しく解説します。なぜ政府がAIモデルの公開に介入するのか、その背景にある大統領令や競合Anthropicとの関係も深掘り。さらに、開発者向けツールCodex Remoteの一般提供開始とDigitalOcean連携の技術的ポイント、そしてOpenAIがインド市場に本格参入するために元Uber India幹部を招いた戦略的人事についてもお届けします。AI業界の最前線を丸ごとキャッチアップしましょう！</description>
+      <itunes:summary>今日はOpenAIの次世代モデルGPT-5.6（Sol・Terra・Luna）が米政府の要請で限定プレビューとなった衝撃のニュースを詳しく解説します。なぜ政府がAIモデルの公開に介入するのか、その背景にある大統領令や競合Anthropicとの関係も深掘り。さらに、開発者向けツールCodex Remoteの一般提供開始とDigitalOcean連携の技術的ポイント、そしてOpenAIがインド市場に本格参入するために元Uber India幹部を招いた戦略的人事についてもお届けします。AI業界の最前線を丸ごとキャッチアップしましょう！</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 07:02:35 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260701-20260701</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1srrU6yBGM9p1WY4yi3gYA9kMGqCQs0xD" length="10717965" type="audio/mpeg"/>
+      <itunes:duration>22:10</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月30日】OpenAI独自チップ「Jalapeño」＆エージェントAI大爆発＆Figma革新</title>
       <description>今日はOpenAIがBroadcomと共同で発表した推論専用チップ「Jalapeño」の全貌を徹底解説。NVIDIAのGPU依存から脱却する動きの背景や、GoogleやAmazonとの競争についても掘り下げます。さらに、OpenAIのCodexが法律・採用・財務など非エンジニア部門で137倍もの急成長を遂げている驚きのデータや、デザインツールFigmaが発表した「Motion」機能の革新性についてもお届けします。AIのハードウェア・ソフトウェア・デザインの3つの領域で起きている大変革を、わかりやすくお伝えします。</description>
