@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 07:00:18 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:59:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月2日】GPT-5.6三兄弟登場＆政府審査時代のAI最前線</title>
+      <description>OpenAIが次世代モデル「GPT-5.6」シリーズとしてSol・Terra・Lunaの3モデルを限定プレビューで発表。米国政府の審査を経た初のリリースとなり、AI業界の新たな慣行が生まれつつあります。さらに、計算生物学の実力を測る新ベンチマーク「GeneBench-Pro」の公開、開発者向けCodex Remoteの一般提供開始とDigitalOcean連携、そしてインド市場攻略に向けた初の現地トップ人事など、技術・ビジネス・制度のすべてで動きが加速するOpenAIの最新ニュースを詳しく解説します。</description>
+      <itunes:summary>OpenAIが次世代モデル「GPT-5.6」シリーズとしてSol・Terra・Lunaの3モデルを限定プレビューで発表。米国政府の審査を経た初のリリースとなり、AI業界の新たな慣行が生まれつつあります。さらに、計算生物学の実力を測る新ベンチマーク「GeneBench-Pro」の公開、開発者向けCodex Remoteの一般提供開始とDigitalOcean連携、そしてインド市場攻略に向けた初の現地トップ人事など、技術・ビジネス・制度のすべてで動きが加速するOpenAIの最新ニュースを詳しく解説します。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 06:59:30 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260702-20260702</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1F9KK71UvKPacXEnHGjzuX55CFinr_s2s" length="12446757" type="audio/mpeg"/>
+      <itunes:duration>25:51</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月1日】GPT-5.6が政府審査へ！Codex Remoteも全面解放</title>
       <description>今日はOpenAIの最新ニュースを3本まとめてお届けします。まずは注目の新モデル「GPT-5.6」シリーズ。Sol・Terra・Lunaの3種類が登場しましたが、なんとアメリカ政府の安全性審査を経てからの公開という異例の展開に。その背景にある米国のAI規制の最新動向を詳しく解説します。次に、開発者向けツール「Codex Remote」がついに全プランで一般提供開始。スマホからPCの開発環境を遠隔操作できる画期的な機能です。最後に、ChatGPTの音声入力機能がアクセントや多言語混在に強くなったアップデートもご紹介します。</description>
