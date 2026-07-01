@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 07:02:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:04:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月2日】AI規制の大転換！米政府vsテック企業の攻防と注目スタートアップ</title>
+      <description>今日は2026年6月末から7月にかけてのAI業界の大きな動きを4本まとめてお届けします。まず、Anthropicの先端AIモデルに対する米国の輸出規制が解除された経緯と、その裏で起きた「jailbreak」事件について詳しく解説。次に、OpenAIの新モデルGPT-5.6シリーズ（Sol・Terra・Luna）が政府承認制で限定リリースされた背景に迫ります。さらに、ゲーム映像でAIを訓練するスタートアップ「General Intuition」の23億ドル評価額での大型資金調達、そしてコロラド州のAI規制法が大幅に縮小・延期された理由まで、規制と技術革新のせめぎ合いを徹底解説します。</description>
+      <itunes:summary>今日は2026年6月末から7月にかけてのAI業界の大きな動きを4本まとめてお届けします。まず、Anthropicの先端AIモデルに対する米国の輸出規制が解除された経緯と、その裏で起きた「jailbreak」事件について詳しく解説。次に、OpenAIの新モデルGPT-5.6シリーズ（Sol・Terra・Luna）が政府承認制で限定リリースされた背景に迫ります。さらに、ゲーム映像でAIを訓練するスタートアップ「General Intuition」の23億ドル評価額での大型資金調達、そしてコロラド州のAI規制法が大幅に縮小・延期された理由まで、規制と技術革新のせめぎ合いを徹底解説します。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 07:04:50 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260702-20260702</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SBg7x-QplOMEsJhtJPP2iMRVsc_eHtXO" length="13196829" type="audio/mpeg"/>
+      <itunes:duration>27:19</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月1日】GPT-5.6が政府審査で限定公開！AI開発の新ルールとは</title>
       <description>今日はOpenAIの次世代モデルGPT-5.6（Sol・Terra・Luna）が米政府の要請で限定プレビューとなった衝撃のニュースを詳しく解説します。なぜ政府がAIモデルの公開に介入するのか、その背景にある大統領令や競合Anthropicとの関係も深掘り。さらに、開発者向けツールCodex Remoteの一般提供開始とDigitalOcean連携の技術的ポイント、そしてOpenAIがインド市場に本格参入するために元Uber India幹部を招いた戦略的人事についてもお届けします。AI業界の最前線を丸ごとキャッチアップしましょう！</description>
