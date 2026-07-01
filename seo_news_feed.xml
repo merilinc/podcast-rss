@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 06:53:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:01:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月2日】AI検索が検索の半分を支配？英国が動いた規制の衝撃</title>
+      <description>Google検索結果の約半数にAI要約が表示される時代に突入。クリック率は60％以上減少し、ニュースサイトや教育系メディアが大打撃を受けています。一方、英国では世界に先駆けてGoogleに対し出版社へのオプトアウト権を義務付ける規制を導入。Search Consoleに新たな設定項目が登場し、AI検索からの除外が可能に。日本のサイト運営者にも影響必至のこの動き、背景から技術的な仕組み、業界への影響まで徹底解説します。</description>
+      <itunes:summary>Google検索結果の約半数にAI要約が表示される時代に突入。クリック率は60％以上減少し、ニュースサイトや教育系メディアが大打撃を受けています。一方、英国では世界に先駆けてGoogleに対し出版社へのオプトアウト権を義務付ける規制を導入。Search Consoleに新たな設定項目が登場し、AI検索からの除外が可能に。日本のサイト運営者にも影響必至のこの動き、背景から技術的な仕組み、業界への影響まで徹底解説します。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 07:01:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260702-20260702</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tX6ehBKM_iw7KaXF564TdDIGwgcI_6fr" length="9060597" type="audio/mpeg"/>
+      <itunes:duration>18:32</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【6月28日】Google6月スパムアップデート完了！AI操作もスパム認定へ</title>
       <description>今回はGoogleが2026年6月に実施した「June 2026 Spam Update」を徹底解説します。全言語・全地域で展開が完了したこのアップデートの狙いは何か？AI OverviewsやAI Modeの回答を操作する行為が明確にスパム扱いとなった背景や、SpamBrainの技術的な仕組み、過去のアップデートとの違い、そしてサイト運営者が今すぐやるべき対策まで、深掘りしてお届けします。SEOに携わる方は必聴です！</description>
