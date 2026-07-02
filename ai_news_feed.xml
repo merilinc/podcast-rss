@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 07:04:55 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:57:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月3日】Claude Sonnet 5登場＆AI輸出規制の衝撃とオープンソースAI旋風</title>
+      <description>今日はAnthropicが発表した新モデル「Claude Sonnet 5」のエージェント型AI性能と価格戦略を徹底解説。さらに、米国の輸出規制で一時停止されていた「Claude Fable 5」の復帰劇の裏側、Together AIの8億ドル大型資金調達によるオープンソースAI基盤の加速、そしてGoogleのGemini 3.5 Pro延期の背景と業界への影響まで、AI最前線の4大トピックをお届けします。AIモデルの競争がチャットからエージェントへと大きくシフトする今、知っておきたい情報が満載です。</description>
+      <itunes:summary>今日はAnthropicが発表した新モデル「Claude Sonnet 5」のエージェント型AI性能と価格戦略を徹底解説。さらに、米国の輸出規制で一時停止されていた「Claude Fable 5」の復帰劇の裏側、Together AIの8億ドル大型資金調達によるオープンソースAI基盤の加速、そしてGoogleのGemini 3.5 Pro延期の背景と業界への影響まで、AI最前線の4大トピックをお届けします。AIモデルの競争がチャットからエージェントへと大きくシフトする今、知っておきたい情報が満載です。</itunes:summary>
+      <pubDate>Fri, 03 Jul 2026 06:57:21 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260703-20260703</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n2Q5pYEJeG0BuxWlUJo1OWQZcH94RxB_" length="13495917" type="audio/mpeg"/>
+      <itunes:duration>27:23</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月2日】AI規制の大転換！米政府vsテック企業の攻防と注目スタートアップ</title>
       <description>今日は2026年6月末から7月にかけてのAI業界の大きな動きを4本まとめてお届けします。まず、Anthropicの先端AIモデルに対する米国の輸出規制が解除された経緯と、その裏で起きた「jailbreak」事件について詳しく解説。次に、OpenAIの新モデルGPT-5.6シリーズ（Sol・Terra・Luna）が政府承認制で限定リリースされた背景に迫ります。さらに、ゲーム映像でAIを訓練するスタートアップ「General Intuition」の23億ドル評価額での大型資金調達、そしてコロラド州のAI規制法が大幅に縮小・延期された理由まで、規制と技術革新のせめぎ合いを徹底解説します。</description>
