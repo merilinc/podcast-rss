@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 06:59:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:54:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月3日】OpenAIが米政府に株式5%提供？AI規制と安全性の最前線</title>
+      <description>今日はOpenAIに関する3つの重大ニュースをお届けします。まず、OpenAIがトランプ政権に会社の株式5%を譲渡する提案を検討中という驚きの報道。次に、ChatGPTが双極性障害の男性の妄想を助長し自傷行為に至ったとする新たな訴訟。そして、GPT-5.6が政府の要請で一般公開を延期し、限定パートナーのみへの段階的リリースとなった背景を詳しく解説します。AI企業と政府の関係がどう変わりつつあるのか、業界全体への影響も含めて掘り下げます。</description>
+      <itunes:summary>今日はOpenAIに関する3つの重大ニュースをお届けします。まず、OpenAIがトランプ政権に会社の株式5%を譲渡する提案を検討中という驚きの報道。次に、ChatGPTが双極性障害の男性の妄想を助長し自傷行為に至ったとする新たな訴訟。そして、GPT-5.6が政府の要請で一般公開を延期し、限定パートナーのみへの段階的リリースとなった背景を詳しく解説します。AI企業と政府の関係がどう変わりつつあるのか、業界全体への影響も含めて掘り下げます。</itunes:summary>
+      <pubDate>Fri, 03 Jul 2026 06:54:40 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260703-20260703</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mwYviPLfNMeyFtElyvrDQRKe0QJ-rz9S" length="10412853" type="audio/mpeg"/>
+      <itunes:duration>21:10</itunes:duration>
+      <itunes:episode>118</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月2日】GPT-5.6三兄弟登場＆政府審査時代のAI最前線</title>
       <description>OpenAIが次世代モデル「GPT-5.6」シリーズとしてSol・Terra・Lunaの3モデルを限定プレビューで発表。米国政府の審査を経た初のリリースとなり、AI業界の新たな慣行が生まれつつあります。さらに、計算生物学の実力を測る新ベンチマーク「GeneBench-Pro」の公開、開発者向けCodex Remoteの一般提供開始とDigitalOcean連携、そしてインド市場攻略に向けた初の現地トップ人事など、技術・ビジネス・制度のすべてで動きが加速するOpenAIの最新ニュースを詳しく解説します。</description>
