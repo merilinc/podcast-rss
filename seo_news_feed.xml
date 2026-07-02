@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 07:01:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:50:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月3日】Google検索にAIレポート登場＆広告にもAI要約の波</title>
+      <description>今日はSEO・検索マーケティングの最新ニュースを3本お届けします。まず、Google Search ConsoleにAI検索の表示データが見られる新レポートが登場。サイト運営者待望の機能です。次に、AI Modeのレシピ検索でクリエイター名や評価が目立つように表示される改善について。そして、検索広告の下にAIが要約を自動生成するテストが始まったという驚きのニュース。AI時代のSEOと広告はどう変わるのか、詳しく解説します。</description>
+      <itunes:summary>今日はSEO・検索マーケティングの最新ニュースを3本お届けします。まず、Google Search ConsoleにAI検索の表示データが見られる新レポートが登場。サイト運営者待望の機能です。次に、AI Modeのレシピ検索でクリエイター名や評価が目立つように表示される改善について。そして、検索広告の下にAIが要約を自動生成するテストが始まったという驚きのニュース。AI時代のSEOと広告はどう変わるのか、詳しく解説します。</itunes:summary>
+      <pubDate>Fri, 03 Jul 2026 06:50:41 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260703-20260703</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DK1-LSPQ6xjAfrJi75tOJmkX8rPSr57e" length="10954077" type="audio/mpeg"/>
+      <itunes:duration>22:40</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月2日】AI検索が検索の半分を支配？英国が動いた規制の衝撃</title>
       <description>Google検索結果の約半数にAI要約が表示される時代に突入。クリック率は60％以上減少し、ニュースサイトや教育系メディアが大打撃を受けています。一方、英国では世界に先駆けてGoogleに対し出版社へのオプトアウト権を義務付ける規制を導入。Search Consoleに新たな設定項目が登場し、AI検索からの除外が可能に。日本のサイト運営者にも影響必至のこの動き、背景から技術的な仕組み、業界への影響まで徹底解説します。</description>
