@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 07:19:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:12:05 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月5日】OpenAI初のハードウェア＆ChatGPT広告が日本上陸</title>
+      <description>今日はOpenAIの最新ニュースを2本お届けします。まず、OpenAI初の物理デバイス「Codex Micro」が7月15日に発売決定。AIコーディングツール専用のミニキーボードという異色のハードウェアに迫ります。さらに、ChatGPTの広告表示が日本の無料プラン・Goプランにも拡大。電通デジタルやサイバーエージェントなど国内大手広告代理店との提携も発表されました。AIチャットに広告を入れるという新しい試み、プライバシーや回答の中立性はどうなるのか、詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを2本お届けします。まず、OpenAI初の物理デバイス「Codex Micro」が7月15日に発売決定。AIコーディングツール専用のミニキーボードという異色のハードウェアに迫ります。さらに、ChatGPTの広告表示が日本の無料プラン・Goプランにも拡大。電通デジタルやサイバーエージェントなど国内大手広告代理店との提携も発表されました。AIチャットに広告を入れるという新しい試み、プライバシーや回答の中立性はどうなるのか、詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 05 Jul 2026 07:11:59 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260705-20260705</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AukuIgn3C0GnUX5830LQxwWZaF5whH4e" length="7875933" type="audio/mpeg"/>
+      <itunes:duration>16:23</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月4日】OpenAIが米政府に株式5%譲渡？GPT-5.6の全貌</title>
       <description>今日はOpenAI関連の大きなニュースを2本お届けします。まず、OpenAIが米国政府に会社の株式5%を譲渡する案を協議中という驚きの報道。約426億ドル（日本円で約6兆円超）規模の株式が政府に渡る可能性とは？その背景にある「公共富基金」構想や、Google・Meta・Anthropicなど他のAI企業への波及についても詳しく解説します。さらに、最新モデルGPT-5.6ファミリー「Sol・Terra・Luna」の限定プレビューが開始。なぜ一般公開ではなく政府承認組織限定なのか、3つのモデルの違いや価格設定まで徹底的に掘り下げます。</description>
