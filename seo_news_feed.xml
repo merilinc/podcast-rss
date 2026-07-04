@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 07:22:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 07:16:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月5日】Googleレビュー消失騒動＆GA4にAIチャネル登場</title>
+      <description>今日はSEOに関わる3つの重要ニュースをお届けします。まず、Googleのローカルリスティングでレビューが突然消えてしまう問題が発生中。飲食店やサービス業への影響は？次に、Google Search Consoleのインデックスレポート不具合がようやく修正完了。そして注目のGA4アップデート、ChatGPTやGeminiなどAIアシスタント経由の流入が新チャネルとして可視化されるようになりました。AIからの流入をどう分析し、どうコンテンツ戦略に活かすのか、詳しく解説します。</description>
+      <itunes:summary>今日はSEOに関わる3つの重要ニュースをお届けします。まず、Googleのローカルリスティングでレビューが突然消えてしまう問題が発生中。飲食店やサービス業への影響は？次に、Google Search Consoleのインデックスレポート不具合がようやく修正完了。そして注目のGA4アップデート、ChatGPTやGeminiなどAIアシスタント経由の流入が新チャネルとして可視化されるようになりました。AIからの流入をどう分析し、どうコンテンツ戦略に活かすのか、詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 05 Jul 2026 07:16:50 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260705-20260705</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bAKNrURaQyWowiZEOEaHjDFPCsNYoDrq" length="9296373" type="audio/mpeg"/>
+      <itunes:duration>19:14</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月4日】AMP大変革・Google広告入札変更・スパム更新完了</title>
       <description>今回はSEO・Web広告まわりの重要ニュースを4本まとめてお届けします。Google Search ConsoleのPage Indexingレポートがようやく修正された話、AMPページのキャッシュ配信が終了しパブリッシャーの自社ドメインに直接遷移するようになった大きな変更、そしてGoogle Adsの予算制約下での入札戦略変更（Target CPA / Target ROAS）が7月・8月に段階的に導入される話、最後にGoogleの6月スパムアップデート完了についても詳しく解説します。SEO担当者・広告運用者は必聴の内容です。</description>
