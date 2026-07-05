@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 06:57:27 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:20:47 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月6日】テスラAI支出に上限＆OpenAI株式を米政府へ？AI規制の新局面</title>
+      <description>今日はテスラが従業員のAIツール利用に週200ドルの上限を設けたニュースからスタート。AI活用のコスト問題が浮き彫りに。さらにOpenAIが米政府に5％の株式を提供する大胆な提案や、Anthropicの研究者向け新ツール「Claude Science」、そしてホワイトハウスが大手AI企業と進める「フロンティアAIモデル基準」の策定まで、AIの成熟化と規制のせめぎ合いを徹底解説します。業界の大きな転換点を見逃すな！</description>
+      <itunes:summary>今日はテスラが従業員のAIツール利用に週200ドルの上限を設けたニュースからスタート。AI活用のコスト問題が浮き彫りに。さらにOpenAIが米政府に5％の株式を提供する大胆な提案や、Anthropicの研究者向け新ツール「Claude Science」、そしてホワイトハウスが大手AI企業と進める「フロンティアAIモデル基準」の策定まで、AIの成熟化と規制のせめぎ合いを徹底解説します。業界の大きな転換点を見逃すな！</itunes:summary>
+      <pubDate>Mon, 06 Jul 2026 07:20:41 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260706-20260706</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nxK-khYBwWdADgJ3MyjBAFRNL2KJIvfW" length="10610685" type="audio/mpeg"/>
+      <itunes:duration>21:47</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月3日】Claude Sonnet 5登場＆AI輸出規制の衝撃とオープンソースAI旋風</title>
       <description>今日はAnthropicが発表した新モデル「Claude Sonnet 5」のエージェント型AI性能と価格戦略を徹底解説。さらに、米国の輸出規制で一時停止されていた「Claude Fable 5」の復帰劇の裏側、Together AIの8億ドル大型資金調達によるオープンソースAI基盤の加速、そしてGoogleのGemini 3.5 Pro延期の背景と業界への影響まで、AI最前線の4大トピックをお届けします。AIモデルの競争がチャットからエージェントへと大きくシフトする今、知っておきたい情報が満載です。</description>
