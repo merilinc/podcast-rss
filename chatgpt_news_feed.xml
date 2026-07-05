@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 07:12:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:17:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月6日】OpenAIが米国政府に株式譲渡？GPT-5.6の衝撃と規制の波</title>
+      <description>今日はOpenAIをめぐる2つの大きなニュースをお届けします。まず、OpenAIが米国政府に株式の5%を譲渡する案を検討中というニュース。時価評価額8520億ドルの5%、約426億ドル規模の話です。なぜこんな提案が？その背景にある政策提言や業界全体の動きを詳しく解説します。さらに、GPT-5.6ファミリー「Sol・Terra・Luna」が発表されたものの、米政府の要請で一般公開が制限されているという話題も。新しい大統領令やAnthropicの類似事例も交えながら、AI規制の最前線をわかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIをめぐる2つの大きなニュースをお届けします。まず、OpenAIが米国政府に株式の5%を譲渡する案を検討中というニュース。時価評価額8520億ドルの5%、約426億ドル規模の話です。なぜこんな提案が？その背景にある政策提言や業界全体の動きを詳しく解説します。さらに、GPT-5.6ファミリー「Sol・Terra・Luna」が発表されたものの、米政府の要請で一般公開が制限されているという話題も。新しい大統領令やAnthropicの類似事例も交えながら、AI規制の最前線をわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Mon, 06 Jul 2026 07:17:13 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260706-20260706</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZokmPeGfzRxk7hua4zx0FlcbfgL1vaEd" length="9041157" type="audio/mpeg"/>
+      <itunes:duration>18:44</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月5日】OpenAI初のハードウェア＆ChatGPT広告が日本上陸</title>
       <description>今日はOpenAIの最新ニュースを2本お届けします。まず、OpenAI初の物理デバイス「Codex Micro」が7月15日に発売決定。AIコーディングツール専用のミニキーボードという異色のハードウェアに迫ります。さらに、ChatGPTの広告表示が日本の無料プラン・Goプランにも拡大。電通デジタルやサイバーエージェントなど国内大手広告代理店との提携も発表されました。AIチャットに広告を入れるという新しい試み、プライバシーや回答の中立性はどうなるのか、詳しく解説します。</description>
