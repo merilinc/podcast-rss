@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 07:16:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:36:30 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月7日】AIボット3分類時代到来！Cloudflare＆Google新機能でSEO激変</title>
+      <description>今回はSEOの最前線をお届けします。Cloudflareが発表したAIトラフィック管理の大改革では、AIボットを「検索」「エージェント」「訓練」の3つに分類して個別制御できるようになりました。さらにGoogleがSearch ConsoleでAIパフォーマンスレポートを拡大し、AI Overviewsへの表示をサイト側でコントロールできる新機能も登場。そして「Profound Aim」という新ツールがAI検索時代のマーケティングをどう変えるのかも詳しく解説します。SEOの概念そのものが変わりつつある今、サイト運営者・マーケター必聴の内容です。</description>
+      <itunes:summary>今回はSEOの最前線をお届けします。Cloudflareが発表したAIトラフィック管理の大改革では、AIボットを「検索」「エージェント」「訓練」の3つに分類して個別制御できるようになりました。さらにGoogleがSearch ConsoleでAIパフォーマンスレポートを拡大し、AI Overviewsへの表示をサイト側でコントロールできる新機能も登場。そして「Profound Aim」という新ツールがAI検索時代のマーケティングをどう変えるのかも詳しく解説します。SEOの概念そのものが変わりつつある今、サイト運営者・マーケター必聴の内容です。</itunes:summary>
+      <pubDate>Tue, 07 Jul 2026 07:36:26 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260707-20260707</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eMZp90a4Iz1ClWxrtAN6peZFLNnpq26R" length="12224805" type="audio/mpeg"/>
+      <itunes:duration>25:00</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月5日】Googleレビュー消失騒動＆GA4にAIチャネル登場</title>
       <description>今日はSEOに関わる3つの重要ニュースをお届けします。まず、Googleのローカルリスティングでレビューが突然消えてしまう問題が発生中。飲食店やサービス業への影響は？次に、Google Search Consoleのインデックスレポート不具合がようやく修正完了。そして注目のGA4アップデート、ChatGPTやGeminiなどAIアシスタント経由の流入が新チャネルとして可視化されるようになりました。AIからの流入をどう分析し、どうコンテンツ戦略に活かすのか、詳しく解説します。</description>
