@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 07:17:26 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:31:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月7日】OpenAIが米政府に株式5%提案＆GPT-5.6の公開が政府に制限される異例事態</title>
+      <description>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIがアメリカ政府に会社の株式5%を提供するという驚きの提案。その価値は約426億ドル（約6兆円超）にのぼります。次に、最新モデルGPT-5.6シリーズ（Sol・Terra・Luna）が政府の安全保障上の要請で一般公開が制限されるという前例のない事態。そして、SoftBankがOpenAIへの300億ドル投資の第2弾として100億ドルを実行した資金調達の最新動向。AI企業と政府の関係が急速に変わりつつある今、その全貌を分かりやすく解説します。</description>
+      <itunes:summary>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、OpenAIがアメリカ政府に会社の株式5%を提供するという驚きの提案。その価値は約426億ドル（約6兆円超）にのぼります。次に、最新モデルGPT-5.6シリーズ（Sol・Terra・Luna）が政府の安全保障上の要請で一般公開が制限されるという前例のない事態。そして、SoftBankがOpenAIへの300億ドル投資の第2弾として100億ドルを実行した資金調達の最新動向。AI企業と政府の関係が急速に変わりつつある今、その全貌を分かりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 07 Jul 2026 07:31:40 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260707-20260707</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zoT3DVa2opbpmPvgnsgEJGQuqTUdJub3" length="10923909" type="audio/mpeg"/>
+      <itunes:duration>22:35</itunes:duration>
+      <itunes:episode>122</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月6日】OpenAIが米国政府に株式譲渡？GPT-5.6の衝撃と規制の波</title>
       <description>今日はOpenAIをめぐる2つの大きなニュースをお届けします。まず、OpenAIが米国政府に株式の5%を譲渡する案を検討中というニュース。時価評価額8520億ドルの5%、約426億ドル規模の話です。なぜこんな提案が？その背景にある政策提言や業界全体の動きを詳しく解説します。さらに、GPT-5.6ファミリー「Sol・Terra・Luna」が発表されたものの、米政府の要請で一般公開が制限されているという話題も。新しい大統領令やAnthropicの類似事例も交えながら、AI規制の最前線をわかりやすくお伝えします。</description>
