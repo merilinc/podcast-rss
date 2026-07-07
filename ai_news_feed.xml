@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 07:33:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:33:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月8日】Meta新画像AI「Muse Image」＆Microsoft大規模リストラの衝撃</title>
+      <description>今日はMetaが発表した新しい画像生成AI「Muse Image」について詳しく解説します。InstagramやWhatsAppで使える新機能の全貌とは？さらに、Microsoftが約4,800人の人員削減とXbox部門の歴史的大改革を発表。ゲームスタジオの分社化や売却の背景に迫ります。そして、VercelのCEOが語った「モデルとエージェントの分離」という業界の新潮流についても深掘り。AIの成長期に各社が迫られる組織・技術の見直しを多角的にお届けします。</description>
+      <itunes:summary>今日はMetaが発表した新しい画像生成AI「Muse Image」について詳しく解説します。InstagramやWhatsAppで使える新機能の全貌とは？さらに、Microsoftが約4,800人の人員削減とXbox部門の歴史的大改革を発表。ゲームスタジオの分社化や売却の背景に迫ります。そして、VercelのCEOが語った「モデルとエージェントの分離」という業界の新潮流についても深掘り。AIの成長期に各社が迫られる組織・技術の見直しを多角的にお届けします。</itunes:summary>
+      <pubDate>Wed, 08 Jul 2026 07:33:13 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260708-20260708</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19dO36c4Fdw4_vnEFiaz5pzzfAtzvVYPD" length="9756213" type="audio/mpeg"/>
+      <itunes:duration>19:56</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月7日】イリノイ州が全米最強AI規制法を成立＆Anthropic「Claude Science」で科学研究革命</title>
       <description>今日は2つの大きなAIニュースをお届けします。まず、イリノイ州が米国で最も厳しいAI規制法「SB 315」を成立させました。OpenAIやAnthropicなど大手AI企業に年次監査や安全枠組みの公開を義務付け、違反には最大300万ドルの罰金も。カリフォルニアやニューヨークの規制とどう違うのか、詳しく解説します。もう1つは、Anthropicが科学研究向けワークベンチ「Claude Science」をベータローンチ。60以上のデータベースやツールを統合し、さらに途上国の「ネグレクテッド疾患」の医薬品発見にも乗り出すという野心的な取り組みです。OpenAIやDeepMindとの競争もあわせてたっぷりお話しします。</description>
