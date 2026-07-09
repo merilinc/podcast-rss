@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 07:22:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:42:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月10日】GPT-5.6登場＆Claude Codeにバックドア疑惑？EU規制も本格化</title>
+      <description>今日はOpenAIの最新モデル「GPT-5.6」が3つのバージョンで正式リリースされた話題から、同時に発表された革新的な音声AI「GPT-Live」の全二重通信技術まで詳しく解説します。さらに、中国政府がAnthropicの開発ツール「Claude Code」にバックドアの疑いがあると警告し、Alibabaが社内使用を禁止した衝撃のニュース、そしてEUのAI規制法「AI Act」が8月から透明性義務を強化するガイドライン草案についてもお届けします。AI技術の進化と規制の最前線を一気にキャッチアップしましょう！</description>
+      <itunes:summary>今日はOpenAIの最新モデル「GPT-5.6」が3つのバージョンで正式リリースされた話題から、同時に発表された革新的な音声AI「GPT-Live」の全二重通信技術まで詳しく解説します。さらに、中国政府がAnthropicの開発ツール「Claude Code」にバックドアの疑いがあると警告し、Alibabaが社内使用を禁止した衝撃のニュース、そしてEUのAI規制法「AI Act」が8月から透明性義務を強化するガイドライン草案についてもお届けします。AI技術の進化と規制の最前線を一気にキャッチアップしましょう！</itunes:summary>
+      <pubDate>Fri, 10 Jul 2026 07:42:15 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260710-20260710</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IRsFljbgO-nNJonzljevC4Bqfqgc2VGR" length="11813301" type="audio/mpeg"/>
+      <itunes:duration>24:08</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月9日】Meta新画像AI登場＆Microsoft自社モデル移行＆Amazon2.5兆円起債</title>
       <description>今日はAI業界を揺るがす3つの大きなニュースをお届けします。まずMetaが発表した新しい画像生成AI「Muse Image」の驚きの機能とプライバシー問題について詳しく解説。次にMicrosoftがExcelやOutlookでOpenAIモデルから自社開発モデルに切り替え始めた背景とその意味を掘り下げます。そしてAmazonがAIインフラのために約2.5兆円規模の社債を発行したものの、投資家の反応が鈍くなっている気になる兆候についても分析します。AI技術の商用利用が新たなフェーズに突入した今、業界の構造変化を一緒に読み解きましょう。</description>
