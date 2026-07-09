@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 07:25:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:38:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月10日】GPT-5.6ついに公開！3モデル体制＆新音声AI革命</title>
+      <description>OpenAIがGPT-5.6シリーズ（Sol・Terra・Luna）を一般公開！最高性能のSolからコスパ重視のLunaまで、3つのモデルの違いと料金体系を徹底解説します。さらに、ChatGPTの新音声モデル「GPT-Live-1」が全ユーザーに展開開始。人間のように自然に会話できる「フルデュプレックス」技術とは？Trump政権によるGPT-5.6の制限解除の背景や、AI規制と開発競争の最前線もお届けします。</description>
+      <itunes:summary>OpenAIがGPT-5.6シリーズ（Sol・Terra・Luna）を一般公開！最高性能のSolからコスパ重視のLunaまで、3つのモデルの違いと料金体系を徹底解説します。さらに、ChatGPTの新音声モデル「GPT-Live-1」が全ユーザーに展開開始。人間のように自然に会話できる「フルデュプレックス」技術とは？Trump政権によるGPT-5.6の制限解除の背景や、AI規制と開発競争の最前線もお届けします。</itunes:summary>
+      <pubDate>Fri, 10 Jul 2026 07:37:57 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260710-20260710</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M7DTqXpAVJyDOsCAq1mG7S8-cCXe36Ro" length="9721437" type="audio/mpeg"/>
+      <itunes:duration>20:23</itunes:duration>
+      <itunes:episode>124</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月9日】ChatGPTが&quot;同時に聞いて話す&quot;時代へ＆新モデルGPT-5.6公開</title>
       <description>今日はOpenAIから飛び込んできた大きなニュースを3本お届けします。まず、ChatGPTの音声機能が「GPT-Live」として刷新され、人間同士の会話のように&quot;聞きながら話す&quot;ことが可能に。次に、リアルタイム音声APIやエンタープライズ向け価格モデルの大幅アップデート。そして注目の新モデルシリーズ「GPT-5.6」がSol・Terra・Lunaの3種類で本日グローバルリリース予定。米国政府の安全保障審査を経ての公開という背景や、AnthropicやGoogleとの競争についても詳しく解説します。</description>
