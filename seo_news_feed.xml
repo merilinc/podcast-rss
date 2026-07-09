@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 07:36:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 07:35:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月10日】Google商品マークアップ大改訂！EC担当者必見の最新仕様</title>
+      <description>今回はGoogleが発表したMerchant Listing構造化データの重要な仕様変更について詳しく解説します。商品カテゴリの指定方法が拡張され、テキストとカテゴリコードの両方が使えるようになったこと、さらにセール価格の有効期間を明確にマークアップできるようになったことなど、EC事業者やSEO担当者にとって見逃せないアップデートです。なぜGoogleがこの変更を行ったのか、その背景から具体的な対策まで、噛み砕いてお届けします。</description>
+      <itunes:summary>今回はGoogleが発表したMerchant Listing構造化データの重要な仕様変更について詳しく解説します。商品カテゴリの指定方法が拡張され、テキストとカテゴリコードの両方が使えるようになったこと、さらにセール価格の有効期間を明確にマークアップできるようになったことなど、EC事業者やSEO担当者にとって見逃せないアップデートです。なぜGoogleがこの変更を行ったのか、その背景から具体的な対策まで、噛み砕いてお届けします。</itunes:summary>
+      <pubDate>Fri, 10 Jul 2026 07:35:03 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260710-20260710</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BMypd_QZaLzzPmWUmrwnqU7jGI1FAe59" length="5775813" type="audio/mpeg"/>
+      <itunes:duration>11:51</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月7日】AIボット3分類時代到来！Cloudflare＆Google新機能でSEO激変</title>
       <description>今回はSEOの最前線をお届けします。Cloudflareが発表したAIトラフィック管理の大改革では、AIボットを「検索」「エージェント」「訓練」の3つに分類して個別制御できるようになりました。さらにGoogleがSearch ConsoleでAIパフォーマンスレポートを拡大し、AI Overviewsへの表示をサイト側でコントロールできる新機能も登場。そして「Profound Aim」という新ツールがAI検索時代のマーケティングをどう変えるのかも詳しく解説します。SEOの概念そのものが変わりつつある今、サイト運営者・マーケター必聴の内容です。</description>
