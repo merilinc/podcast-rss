@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 07:42:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 07:16:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月11日】GPT-5.6三兄弟登場＆Meta初の課金API＆AI規制の最前線</title>
+      <description>OpenAIがGPT-5.6シリーズ「Sol・Terra・Luna」を一般公開し、性能とコストの両面で業界に衝撃を与えました。MetaもMuse Spark 1.1で初の有料API提供に踏み切り、SpaceXAIのGrok 4.5はコスト効率で勝負を仕掛けます。さらに、米国政府によるAIモデルのリリース前審査という新たな規制の動きも。AI業界の価格競争・性能競争・規制対応がどう絡み合っているのか、4つのニュースを徹底解説します。</description>
+      <itunes:summary>OpenAIがGPT-5.6シリーズ「Sol・Terra・Luna」を一般公開し、性能とコストの両面で業界に衝撃を与えました。MetaもMuse Spark 1.1で初の有料API提供に踏み切り、SpaceXAIのGrok 4.5はコスト効率で勝負を仕掛けます。さらに、米国政府によるAIモデルのリリース前審査という新たな規制の動きも。AI業界の価格競争・性能競争・規制対応がどう絡み合っているのか、4つのニュースを徹底解説します。</itunes:summary>
+      <pubDate>Sat, 11 Jul 2026 07:16:25 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260711-20260711</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HpY1412ihcW01TSSylRm0sRepMGK2ABo" length="10814733" type="audio/mpeg"/>
+      <itunes:duration>22:12</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月10日】GPT-5.6登場＆Claude Codeにバックドア疑惑？EU規制も本格化</title>
       <description>今日はOpenAIの最新モデル「GPT-5.6」が3つのバージョンで正式リリースされた話題から、同時に発表された革新的な音声AI「GPT-Live」の全二重通信技術まで詳しく解説します。さらに、中国政府がAnthropicの開発ツール「Claude Code」にバックドアの疑いがあると警告し、Alibabaが社内使用を禁止した衝撃のニュース、そしてEUのAI規制法「AI Act」が8月から透明性義務を強化するガイドライン草案についてもお届けします。AI技術の進化と規制の最前線を一気にキャッチアップしましょう！</description>
