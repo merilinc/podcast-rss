@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 07:19:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:04:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月12日】OpenAI怒涛の新発表！GPT-5.6・Work・音声AI全解説</title>
+      <description>OpenAIが一気に発表した大型アップデートを徹底解説！新モデル「GPT-5.6」ファミリー（Sol・Terra・Luna）の性能差と価格戦略、仕事を丸ごと任せられるエージェント機能「ChatGPT Work」の衝撃、まるで人間と話しているような音声モデル「GPT-Live」の革新性、そしてAtlasブラウザの廃止と今後の統合戦略まで。競合のAnthropicやGoogleとの比較も交えながら、4つのニュースをたっぷりお届けします。無料プランと有料プランの違いも詳しく解説しますので、ChatGPTユーザー必聴の回です！</description>
+      <itunes:summary>OpenAIが一気に発表した大型アップデートを徹底解説！新モデル「GPT-5.6」ファミリー（Sol・Terra・Luna）の性能差と価格戦略、仕事を丸ごと任せられるエージェント機能「ChatGPT Work」の衝撃、まるで人間と話しているような音声モデル「GPT-Live」の革新性、そしてAtlasブラウザの廃止と今後の統合戦略まで。競合のAnthropicやGoogleとの比較も交えながら、4つのニュースをたっぷりお届けします。無料プランと有料プランの違いも詳しく解説しますので、ChatGPTユーザー必聴の回です！</itunes:summary>
+      <pubDate>Sun, 12 Jul 2026 07:04:01 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260712-20260712</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qTE2i14cYWr9YdDfCAwf4sgryCxF1d7k" length="10826949" type="audio/mpeg"/>
+      <itunes:duration>22:27</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月11日】GPT-5.6登場＆ChatGPTがついに&quot;仕事を完遂するAI&quot;へ進化</title>
       <description>OpenAIが怒涛の新発表ラッシュ！GPT-5.6ファミリー（Sol・Terra・Luna）の3階層モデルで性能もコストも選び放題に。さらに「ChatGPT Work」で質問応答から脱却し、企画から成果物完成まで自律的にこなすエージェントへと大進化。加えて「GPT-Live」では同時に聞いて話せる全二重音声対話が実現し、AIとの会話がまるで人間同士のように。競合のClaudeやGeminiとの比較、ビジネスや教育への影響まで、3つの大型アップデートを徹底解説します！</description>
