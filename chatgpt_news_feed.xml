@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 07:04:07 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:04:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月13日】GPT-5.6全面公開＆ChatGPT Work登場！OpenAI怒涛の新展開</title>
+      <description>今日はOpenAIの怒涛のアップデートラッシュを徹底解説！GPT-5.6モデルファミリー（Sol・Terra・Luna）の一般提供開始、長期プロジェクトを丸ごと任せられる新機能「ChatGPT Work」のローンチ、AIブラウザ「Atlas」の終了と機能統合、生物安全性バグバウンティの報奨金倍増、人間のように相槌を打てる音声モデル「GPT-Live」、そしてChat・Work・Codexを一体化したデスクトップアプリの大統合まで、6つのビッグニュースをわかりやすくお届けします。AIの進化が止まらない！</description>
+      <itunes:summary>今日はOpenAIの怒涛のアップデートラッシュを徹底解説！GPT-5.6モデルファミリー（Sol・Terra・Luna）の一般提供開始、長期プロジェクトを丸ごと任せられる新機能「ChatGPT Work」のローンチ、AIブラウザ「Atlas」の終了と機能統合、生物安全性バグバウンティの報奨金倍増、人間のように相槌を打てる音声モデル「GPT-Live」、そしてChat・Work・Codexを一体化したデスクトップアプリの大統合まで、6つのビッグニュースをわかりやすくお届けします。AIの進化が止まらない！</itunes:summary>
+      <pubDate>Mon, 13 Jul 2026 07:04:02 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260713-20260713</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KJM4y8xezk3TSZ6Y035SmzqJY5OCJca6" length="12760941" type="audio/mpeg"/>
+      <itunes:duration>26:33</itunes:duration>
+      <itunes:episode>127</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月12日】OpenAI怒涛の新発表！GPT-5.6・Work・音声AI全解説</title>
       <description>OpenAIが一気に発表した大型アップデートを徹底解説！新モデル「GPT-5.6」ファミリー（Sol・Terra・Luna）の性能差と価格戦略、仕事を丸ごと任せられるエージェント機能「ChatGPT Work」の衝撃、まるで人間と話しているような音声モデル「GPT-Live」の革新性、そしてAtlasブラウザの廃止と今後の統合戦略まで。競合のAnthropicやGoogleとの比較も交えながら、4つのニュースをたっぷりお届けします。無料プランと有料プランの違いも詳しく解説しますので、ChatGPTユーザー必聴の回です！</description>
