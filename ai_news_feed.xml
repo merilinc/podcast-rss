@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 07:06:11 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 07:10:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月14日】Apple対OpenAI訴訟勃発＆ChatGPT Workの衝撃</title>
+      <description>今日は激動のAI業界から3つの大ニュースをお届けします。まず、AppleがOpenAIを営業秘密侵害で提訴！元Apple社員400人以上が関わる異例の大型訴訟の全貌を解説します。次に、OpenAIが発表した新サービス「ChatGPT Work」。GPT-5.6を搭載し、仕事を丸ごとAIに任せられる時代が到来？その機能と業界への影響を深掘りします。さらに、AIチップ企業SambaNovaが11億ドルの大型資金調達に成功。NVIDIA一強に風穴を開けるか？推論インフラ競争の最前線をお届けします。</description>
+      <itunes:summary>今日は激動のAI業界から3つの大ニュースをお届けします。まず、AppleがOpenAIを営業秘密侵害で提訴！元Apple社員400人以上が関わる異例の大型訴訟の全貌を解説します。次に、OpenAIが発表した新サービス「ChatGPT Work」。GPT-5.6を搭載し、仕事を丸ごとAIに任せられる時代が到来？その機能と業界への影響を深掘りします。さらに、AIチップ企業SambaNovaが11億ドルの大型資金調達に成功。NVIDIA一強に風穴を開けるか？推論インフラ競争の最前線をお届けします。</itunes:summary>
+      <pubDate>Tue, 14 Jul 2026 07:10:22 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260714-20260714</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17mshXpf3hjLu-ie4ioT8s3RdZz8_TlSx" length="9446205" type="audio/mpeg"/>
+      <itunes:duration>19:34</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月12日】GPT-5.6三兄弟登場＆Grok 4.5参戦！AI価格戦争と国連の新ルール</title>
       <description>今日はAI業界が大きく動いた3つのニュースをお届けします。まずOpenAIがGPT-5.6シリーズ「Sol・Terra・Luna」の3モデルを一般公開。米政府との調整を経て公開に至った経緯も詳しく解説します。次にイーロン・マスク率いるSpaceXAIが「Grok 4.5」を発表し、価格とスピードでOpenAIやAnthropicに真っ向勝負。さらに国連ITUがAIエージェントの信頼性に関する国際ルール作りを開始。AIが勝手に買い物や契約をする時代、どう安全を確保するのか？最前線の動きをわかりやすくお伝えします。</description>
