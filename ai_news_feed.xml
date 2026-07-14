@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 07:10:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:19:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月15日】GPT-5.6登場＆ロボットが柔らかい物をつかめる時代へ</title>
+      <description>今日はOpenAIが発表した次世代モデル「GPT-5.6」シリーズとエージェント型アプリ「ChatGPT Work」の全貌を詳しく解説します。Sol・Terra・Lunaの3モデル構成やコスト戦略、そしてライバルAnthropicが「Fable 5」の無償期間延長で対抗する熾烈な競争にも迫ります。さらに、ソフトバンクと安川電機がNVIDIAのクラウドを使い、ロボットが柔らかい物体をつかむ「フィジカルAI」の実証に成功したニュースもお届け。製造業の未来を変える技術の最前線をお楽しみください。</description>
+      <itunes:summary>今日はOpenAIが発表した次世代モデル「GPT-5.6」シリーズとエージェント型アプリ「ChatGPT Work」の全貌を詳しく解説します。Sol・Terra・Lunaの3モデル構成やコスト戦略、そしてライバルAnthropicが「Fable 5」の無償期間延長で対抗する熾烈な競争にも迫ります。さらに、ソフトバンクと安川電機がNVIDIAのクラウドを使い、ロボットが柔らかい物体をつかむ「フィジカルAI」の実証に成功したニュースもお届け。製造業の未来を変える技術の最前線をお楽しみください。</itunes:summary>
+      <pubDate>Wed, 15 Jul 2026 07:19:45 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260715-20260715</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QNLZ1_vW1MrUBNZC_ALBkadDI1NHpfe1" length="11986485" type="audio/mpeg"/>
+      <itunes:duration>24:52</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月14日】Apple対OpenAI訴訟勃発＆ChatGPT Workの衝撃</title>
       <description>今日は激動のAI業界から3つの大ニュースをお届けします。まず、AppleがOpenAIを営業秘密侵害で提訴！元Apple社員400人以上が関わる異例の大型訴訟の全貌を解説します。次に、OpenAIが発表した新サービス「ChatGPT Work」。GPT-5.6を搭載し、仕事を丸ごとAIに任せられる時代が到来？その機能と業界への影響を深掘りします。さらに、AIチップ企業SambaNovaが11億ドルの大型資金調達に成功。NVIDIA一強に風穴を開けるか？推論インフラ競争の最前線をお届けします。</description>
