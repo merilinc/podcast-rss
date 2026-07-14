@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 07:12:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:17:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月15日】GPT-5.6登場＆音声AI革命！Atlas終了の真相も</title>
+      <description>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずは新モデル「GPT-5.6」シリーズの正式公開。Sol・Terra・Lunaの3タイプで、競合のClaude Fable 5を大きく引き離した驚きのベンチマーク結果を詳しく解説します。さらに、話しながら聞けるリアルタイム音声AI「GPT-Live-1」の革新的な技術、AIブラウザ「Atlas」が2026年8月で終了する背景と今後の戦略、そしてグループチャット機能のパイロット終了の理由まで、OpenAIの最新動向を徹底的に掘り下げます。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずは新モデル「GPT-5.6」シリーズの正式公開。Sol・Terra・Lunaの3タイプで、競合のClaude Fable 5を大きく引き離した驚きのベンチマーク結果を詳しく解説します。さらに、話しながら聞けるリアルタイム音声AI「GPT-Live-1」の革新的な技術、AIブラウザ「Atlas」が2026年8月で終了する背景と今後の戦略、そしてグループチャット機能のパイロット終了の理由まで、OpenAIの最新動向を徹底的に掘り下げます。</itunes:summary>
+      <pubDate>Wed, 15 Jul 2026 07:17:38 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260715-20260715</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z6tRVHVR7ARRa58wacNcSCPfBvwj9stC" length="11725149" type="audio/mpeg"/>
+      <itunes:duration>24:06</itunes:duration>
+      <itunes:episode>129</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月14日】GPT-5.6登場＆ChatGPT Work統合！音声AI革命も</title>
       <description>今回はOpenAIが怒涛の発表ラッシュ！GPT-5.6モデルファミリー（Sol・Terra・Luna）の一般提供開始、ChatGPT Workとデスクトップアプリの統合、人間のように自然に会話できるGPT-Liveの登場、そしてグループチャット機能の廃止まで、4つの大きなニュースを徹底解説します。新モデルの性能差や料金体系、競合との比較、音声AIのFull-Duplex技術の仕組みなど、気になるポイントを分かりやすくお届けします。</description>
