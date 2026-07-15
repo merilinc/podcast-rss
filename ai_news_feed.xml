@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 07:19:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:15:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月16日】日本AI政策改定＆ChatGPT全体検索＆分散型AI1500億円評価</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、日本政府がAI政策ガイドラインをわずか7か月で改定し、サイバーセキュリティ強化と国内AI重視を打ち出しました。次に、オープンソースAIラボ「Nous Research」が評価額約2250億円で大型資金調達の最終段階に入ったニュース。そして、OpenAIのChatGPTにチャット・プロジェクト・ファイルを横断する全体検索機能が追加され、ただの会話ツールからナレッジ管理ツールへと進化しつつある話題を詳しく解説します。AI政策、スタートアップ投資、実務ツールの3つの視点からAI最前線をお届けします！</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、日本政府がAI政策ガイドラインをわずか7か月で改定し、サイバーセキュリティ強化と国内AI重視を打ち出しました。次に、オープンソースAIラボ「Nous Research」が評価額約2250億円で大型資金調達の最終段階に入ったニュース。そして、OpenAIのChatGPTにチャット・プロジェクト・ファイルを横断する全体検索機能が追加され、ただの会話ツールからナレッジ管理ツールへと進化しつつある話題を詳しく解説します。AI政策、スタートアップ投資、実務ツールの3つの視点からAI最前線をお届けします！</itunes:summary>
+      <pubDate>Thu, 16 Jul 2026 07:15:11 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260716-20260716</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eiE8qLFWUkmZvXcV6PFvX3nsCFlmwBUL" length="9938757" type="audio/mpeg"/>
+      <itunes:duration>20:30</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月15日】GPT-5.6登場＆ロボットが柔らかい物をつかめる時代へ</title>
       <description>今日はOpenAIが発表した次世代モデル「GPT-5.6」シリーズとエージェント型アプリ「ChatGPT Work」の全貌を詳しく解説します。Sol・Terra・Lunaの3モデル構成やコスト戦略、そしてライバルAnthropicが「Fable 5」の無償期間延長で対抗する熾烈な競争にも迫ります。さらに、ソフトバンクと安川電機がNVIDIAのクラウドを使い、ロボットが柔らかい物体をつかむ「フィジカルAI」の実証に成功したニュースもお届け。製造業の未来を変える技術の最前線をお楽しみください。</description>
