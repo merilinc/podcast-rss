@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 07:17:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:18:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月16日】ChatGPT大型アップデート連発！検索強化・Atlas廃止・WhatsApp復帰</title>
+      <description>今回はChatGPTに関する最新ニュースを5本まとめてお届けします。チャット・プロジェクト・ファイルを横断検索できる新機能の提供開始、欧州でのWhatsApp復帰の背景にあるMeta独占禁止の動き、iOS/macOSでの障害発生の詳細、グループチャット機能の廃止理由、そしてAtlas機能を廃止してブラウザベースのエージェント型ワークフローをChatGPTとCodexに統合するという大きな戦略転換まで、それぞれの背景や競合との比較も含めて詳しく解説します。</description>
+      <itunes:summary>今回はChatGPTに関する最新ニュースを5本まとめてお届けします。チャット・プロジェクト・ファイルを横断検索できる新機能の提供開始、欧州でのWhatsApp復帰の背景にあるMeta独占禁止の動き、iOS/macOSでの障害発生の詳細、グループチャット機能の廃止理由、そしてAtlas機能を廃止してブラウザベースのエージェント型ワークフローをChatGPTとCodexに統合するという大きな戦略転換まで、それぞれの背景や競合との比較も含めて詳しく解説します。</itunes:summary>
+      <pubDate>Thu, 16 Jul 2026 07:18:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260716-20260716</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sPxTWNTivkSozgsxZ6AF0yFfZJyYzctu" length="11897469" type="audio/mpeg"/>
+      <itunes:duration>24:29</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月15日】GPT-5.6登場＆音声AI革命！Atlas終了の真相も</title>
       <description>今日はOpenAIの最新ニュースを4本まとめてお届けします。まずは新モデル「GPT-5.6」シリーズの正式公開。Sol・Terra・Lunaの3タイプで、競合のClaude Fable 5を大きく引き離した驚きのベンチマーク結果を詳しく解説します。さらに、話しながら聞けるリアルタイム音声AI「GPT-Live-1」の革新的な技術、AIブラウザ「Atlas」が2026年8月で終了する背景と今後の戦略、そしてグループチャット機能のパイロット終了の理由まで、OpenAIの最新動向を徹底的に掘り下げます。</description>
