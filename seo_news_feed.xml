@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:20:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:16:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月17日】Google検索がAI画像生成対応＆子どもの安全性に赤信号</title>
+      <description>今回はSEO関連の重要ニュースを3本お届けします。まず、GoogleのAI Overviewsに画像生成機能「Nano Banana」が追加され、検索体験が大きく変わりそうです。次に、GoogleのAI検索が子どもにとって危険だという衝撃的な報告書が公開されました。さらに、Search ConsoleでInstagramやTikTok、YouTubeなどSNSの検索流入データが見られるようになる新機能「プラットフォームプロパティ」も登場。SEOやコンテンツ運用に関わる方は必聴の内容です。</description>
+      <itunes:summary>今回はSEO関連の重要ニュースを3本お届けします。まず、GoogleのAI Overviewsに画像生成機能「Nano Banana」が追加され、検索体験が大きく変わりそうです。次に、GoogleのAI検索が子どもにとって危険だという衝撃的な報告書が公開されました。さらに、Search ConsoleでInstagramやTikTok、YouTubeなどSNSの検索流入データが見られるようになる新機能「プラットフォームプロパティ」も登場。SEOやコンテンツ運用に関わる方は必聴の内容です。</itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 07:16:51 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260717-20260717</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EqgqINR1BZ7Txh8WvYYrqgYKEWztKPoD" length="9315765" type="audio/mpeg"/>
+      <itunes:duration>19:00</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月16日】Google画像検索25周年の大改革＆ChatGPT広告に新指標登場</title>
       <description>今日はSEO・広告まわりの注目ニュースを3本お届けします。まずはGoogle Imagesが25周年を迎え、Pinterestのようなギャラリー形式への大規模リデザインとAI画像生成の統合を発表。次にGoogle Adsがアルコール・ギャンブル・ゲーム広告のポリシーを更新し、新たな国での広告展開が可能に。そしてOpenAIのChatGPT Ads Managerに売上貢献を測る新指標「Attributed Sales Value」や「Sales ROAS」が追加されました。それぞれの背景や業界への影響、実務で押さえるべきポイントまで詳しく解説します。</description>
