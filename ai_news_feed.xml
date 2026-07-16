@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:15:15 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:23:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月17日】NY州データセンター建設停止＆AI安全性は&quot;C+&quot;が最高？</title>
+      <description>今日はニューヨーク州が全米初となる超大型データセンターの新設モラトリアムを発動したニュースからスタート。ASMLがAIチップ需要の急増を受けて業績予想を大幅上方修正した話題、Future of Life InstituteによるAI安全性指数で最高でも「C+」という衝撃の結果、Anthropicが米国の教員向けにAIツールを無償提供する「Claude for Teachers」、そしてNew York TimesがOpenAIに証拠隠蔽で制裁を求めた著作権訴訟の最新動向まで、5つのトピックをたっぷり深掘りします。</description>
+      <itunes:summary>今日はニューヨーク州が全米初となる超大型データセンターの新設モラトリアムを発動したニュースからスタート。ASMLがAIチップ需要の急増を受けて業績予想を大幅上方修正した話題、Future of Life InstituteによるAI安全性指数で最高でも「C+」という衝撃の結果、Anthropicが米国の教員向けにAIツールを無償提供する「Claude for Teachers」、そしてNew York TimesがOpenAIに証拠隠蔽で制裁を求めた著作権訴訟の最新動向まで、5つのトピックをたっぷり深掘りします。</itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 07:23:03 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260717-20260717</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UtdVzskKI8dGb5pUb6FYvY9pFK_081us" length="14064237" type="audio/mpeg"/>
+      <itunes:duration>28:45</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月16日】日本AI政策改定＆ChatGPT全体検索＆分散型AI1500億円評価</title>
       <description>今日は3つのビッグニュースをお届けします。まず、日本政府がAI政策ガイドラインをわずか7か月で改定し、サイバーセキュリティ強化と国内AI重視を打ち出しました。次に、オープンソースAIラボ「Nous Research」が評価額約2250億円で大型資金調達の最終段階に入ったニュース。そして、OpenAIのChatGPTにチャット・プロジェクト・ファイルを横断する全体検索機能が追加され、ただの会話ツールからナレッジ管理ツールへと進化しつつある話題を詳しく解説します。AI政策、スタートアップ投資、実務ツールの3つの視点からAI最前線をお届けします！</description>
