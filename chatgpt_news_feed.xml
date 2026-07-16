@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:18:12 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:19:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月17日】ChatGPT大幅アップデート！カスタム指示3倍超＆横断検索登場</title>
+      <description>今回はChatGPTに関する3つの重要ニュースをお届けします。まず、カスタム指示の文字数が1,500文字から5,000文字へ大幅拡大。自分専用のAIアシスタントがさらに賢くなります。次に、チャット・プロジェクト・ファイルをまたいで一括検索できる新機能が全プランで登場。そして、7月14日〜15日にかけて発生した一時的なサービス障害とその復旧についても詳しく解説します。競合のGeminiやCopilotとの比較、ビジネスユーザーへの影響など、多角的に掘り下げていきます。</description>
+      <itunes:summary>今回はChatGPTに関する3つの重要ニュースをお届けします。まず、カスタム指示の文字数が1,500文字から5,000文字へ大幅拡大。自分専用のAIアシスタントがさらに賢くなります。次に、チャット・プロジェクト・ファイルをまたいで一括検索できる新機能が全プランで登場。そして、7月14日〜15日にかけて発生した一時的なサービス障害とその復旧についても詳しく解説します。競合のGeminiやCopilotとの比較、ビジネスユーザーへの影響など、多角的に掘り下げていきます。</itunes:summary>
+      <pubDate>Fri, 17 Jul 2026 07:18:56 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260717-20260717</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1g9_uS-MxpsjfB4meKngRyRU5PsWQA5y4" length="10816845" type="audio/mpeg"/>
+      <itunes:duration>22:04</itunes:duration>
+      <itunes:episode>131</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月16日】ChatGPT大型アップデート連発！検索強化・Atlas廃止・WhatsApp復帰</title>
       <description>今回はChatGPTに関する最新ニュースを5本まとめてお届けします。チャット・プロジェクト・ファイルを横断検索できる新機能の提供開始、欧州でのWhatsApp復帰の背景にあるMeta独占禁止の動き、iOS/macOSでの障害発生の詳細、グループチャット機能の廃止理由、そしてAtlas機能を廃止してブラウザベースのエージェント型ワークフローをChatGPTとCodexに統合するという大きな戦略転換まで、それぞれの背景や競合との比較も含めて詳しく解説します。</description>
