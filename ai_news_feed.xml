@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 07:23:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 07:10:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月18日】中国発AIモデルが米国勢を脅かす＆AI安全性の通信簿</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した2.8兆パラメータの超巨大オープンモデル「Kimi K3」。OpenAIやAnthropicの閉鎖型モデルを一部ベンチマークで上回る衝撃の性能とは？次に、AI安全性の成績表「AI Safety Index」でAnthropicが最高評価を獲得する一方、多くの企業が安全への約束を後退させている実態に迫ります。そして、ノーベル賞受賞者を含む200名以上の経済学者が「今すぐ行動せよ」と警告する声明の中身を詳しく解説します。</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した2.8兆パラメータの超巨大オープンモデル「Kimi K3」。OpenAIやAnthropicの閉鎖型モデルを一部ベンチマークで上回る衝撃の性能とは？次に、AI安全性の成績表「AI Safety Index」でAnthropicが最高評価を獲得する一方、多くの企業が安全への約束を後退させている実態に迫ります。そして、ノーベル賞受賞者を含む200名以上の経済学者が「今すぐ行動せよ」と警告する声明の中身を詳しく解説します。</itunes:summary>
+      <pubDate>Sat, 18 Jul 2026 07:10:46 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260718-20260718</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_PW8yvX5acrM-r7cUG229oH9l2n23F4p" length="11125053" type="audio/mpeg"/>
+      <itunes:duration>23:06</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月17日】NY州データセンター建設停止＆AI安全性は&quot;C+&quot;が最高？</title>
       <description>今日はニューヨーク州が全米初となる超大型データセンターの新設モラトリアムを発動したニュースからスタート。ASMLがAIチップ需要の急増を受けて業績予想を大幅上方修正した話題、Future of Life InstituteによるAI安全性指数で最高でも「C+」という衝撃の結果、Anthropicが米国の教員向けにAIツールを無償提供する「Claude for Teachers」、そしてNew York TimesがOpenAIに証拠隠蔽で制裁を求めた著作権訴訟の最新動向まで、5つのトピックをたっぷり深掘りします。</description>
