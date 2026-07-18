@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 07:08:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:07:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月19日】ChatGPTカスタム指示3倍増＆統一検索で作業革命</title>
+      <description>今日はChatGPTの注目アップデート2件をじっくり解説します。まず、カスタム指示の文字数上限が1,500文字から5,000文字へと3倍以上に拡大。専門業務や企業利用がどう変わるのか、競合のClaudeやGeminiとの比較も交えてお届けします。さらに、過去のチャット・画像・ドキュメントをまとめて検索できる「統一検索」機能が全プランでグローバル展開。NotionやGoogle Driveとの違い、ChatGPTが「作業空間」へと進化する意味を深掘りします。</description>
+      <itunes:summary>今日はChatGPTの注目アップデート2件をじっくり解説します。まず、カスタム指示の文字数上限が1,500文字から5,000文字へと3倍以上に拡大。専門業務や企業利用がどう変わるのか、競合のClaudeやGeminiとの比較も交えてお届けします。さらに、過去のチャット・画像・ドキュメントをまとめて検索できる「統一検索」機能が全プランでグローバル展開。NotionやGoogle Driveとの違い、ChatGPTが「作業空間」へと進化する意味を深掘りします。</itunes:summary>
+      <pubDate>Sun, 19 Jul 2026 07:07:20 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260719-20260719</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jVvlr1_N0Sscafr_WFkjcBsSGRZ3LHzN" length="8848293" type="audio/mpeg"/>
+      <itunes:duration>18:05</itunes:duration>
+      <itunes:episode>133</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月18日】ChatGPTデスクトップ大統合＆SSO障害の裏側</title>
       <description>今日はChatGPT関連の最新ニュース3本をお届けします。まず、企業ユーザーに影響を与えたSSOログイン障害の詳細と復旧の経緯。次に、ChatGPTデスクトップアプリが「Chat」「Work」「Codex」の3モードを統合する大型アップデートの全貌。そして、カスタム指示の文字数上限が最大5,000文字に拡大された件について、プランごとの違いや競合との比較も交えて詳しく解説します。ChatGPTがチャットAIから生産性ツールへと進化する流れを一緒に追いかけましょう！</description>
