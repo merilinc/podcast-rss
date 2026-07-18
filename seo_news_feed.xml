@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 07:16:54 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:09:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月19日】Google検索AI時代の新ルール〜オプトアウトと可視性レポート</title>
+      <description>今日はGoogleが発表した2つの大きなSEO関連ニュースを徹底解説します。1つ目は、AI Overviews・AI Mode・DiscoverのAI機能から自サイトのコンテンツを除外できる新しいオプトアウト機能のテスト開始。2つ目は、Search Consoleに登場した「Generative AIパフォーマンスレポート」の詳細です。従来のクリック数や検索順位とは異なる「AI検索での可視性」という新指標の登場で、サイト運営者は何をすべきなのか？英国の規制当局からの圧力、ゼロクリック検索の増加、Bingとの比較など、多角的に深掘りします。</description>
+      <itunes:summary>今日はGoogleが発表した2つの大きなSEO関連ニュースを徹底解説します。1つ目は、AI Overviews・AI Mode・DiscoverのAI機能から自サイトのコンテンツを除外できる新しいオプトアウト機能のテスト開始。2つ目は、Search Consoleに登場した「Generative AIパフォーマンスレポート」の詳細です。従来のクリック数や検索順位とは異なる「AI検索での可視性」という新指標の登場で、サイト運営者は何をすべきなのか？英国の規制当局からの圧力、ゼロクリック検索の増加、Bingとの比較など、多角的に深掘りします。</itunes:summary>
+      <pubDate>Sun, 19 Jul 2026 07:09:18 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260719-20260719</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Qhj5j0X3cYqrglDZclSqSZPpGG7VezRg" length="10153773" type="audio/mpeg"/>
+      <itunes:duration>20:59</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月17日】Google検索がAI画像生成対応＆子どもの安全性に赤信号</title>
       <description>今回はSEO関連の重要ニュースを3本お届けします。まず、GoogleのAI Overviewsに画像生成機能「Nano Banana」が追加され、検索体験が大きく変わりそうです。次に、GoogleのAI検索が子どもにとって危険だという衝撃的な報告書が公開されました。さらに、Search ConsoleでInstagramやTikTok、YouTubeなどSNSの検索流入データが見られるようになる新機能「プラットフォームプロパティ」も登場。SEOやコンテンツ運用に関わる方は必聴の内容です。</description>
