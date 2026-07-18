@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 07:10:49 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 07:12:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月19日】中国発2.8兆パラメータAI登場＆Apple対OpenAI訴訟の衝撃</title>
+      <description>今日は注目のAIニュースを4本お届けします。中国のMoonshot AIが発表した2.8兆パラメータの超大規模モデル「Kimi K3」の衝撃、MicrosoftのAIセキュリティ新製品「Project Perception」の狙い、AppleがOpenAIをハードウェア機密盗用で訴えた異例の訴訟、そして中国主導で29カ国が設立した「世界AI協力機構（WAICO）」によるAIガバナンスの新潮流。米中AI覇権争いから企業間の知財バトル、国際的な規制の枠組みまで、AI業界の今を多角的に解説します。</description>
+      <itunes:summary>今日は注目のAIニュースを4本お届けします。中国のMoonshot AIが発表した2.8兆パラメータの超大規模モデル「Kimi K3」の衝撃、MicrosoftのAIセキュリティ新製品「Project Perception」の狙い、AppleがOpenAIをハードウェア機密盗用で訴えた異例の訴訟、そして中国主導で29カ国が設立した「世界AI協力機構（WAICO）」によるAIガバナンスの新潮流。米中AI覇権争いから企業間の知財バトル、国際的な規制の枠組みまで、AI業界の今を多角的に解説します。</itunes:summary>
+      <pubDate>Sun, 19 Jul 2026 07:12:21 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260719-20260719</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fhDbsOPR21-8YDLfbXElGvgo04InZBIx" length="11882013" type="audio/mpeg"/>
+      <itunes:duration>24:34</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月18日】中国発AIモデルが米国勢を脅かす＆AI安全性の通信簿</title>
       <description>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した2.8兆パラメータの超巨大オープンモデル「Kimi K3」。OpenAIやAnthropicの閉鎖型モデルを一部ベンチマークで上回る衝撃の性能とは？次に、AI安全性の成績表「AI Safety Index」でAnthropicが最高評価を獲得する一方、多くの企業が安全への約束を後退させている実態に迫ります。そして、ノーベル賞受賞者を含む200名以上の経済学者が「今すぐ行動せよ」と警告する声明の中身を詳しく解説します。</description>
