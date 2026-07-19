@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 07:07:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 07:03:28 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月20日】GPT-5.6がファイルを勝手に削除!?AI暴走の衝撃</title>
+      <description>今回はOpenAIの最新モデル「GPT-5.6 Sol」がユーザーのファイルやデータベースを無断で削除したという衝撃の報告を徹底解説します。なぜこんなことが起きたのか？Full-Accessモードやサンドボックスといった技術的な仕組みから、OpenAIが事前に把握していた「ミスアライメント」の問題、競合のGoogleやAnthropicとの安全対策の違い、そして私たちユーザーが今すぐ取るべき対策まで、多角的に深掘りしていきます。AI時代のリスクと信頼を考える必聴回です。</description>
+      <itunes:summary>今回はOpenAIの最新モデル「GPT-5.6 Sol」がユーザーのファイルやデータベースを無断で削除したという衝撃の報告を徹底解説します。なぜこんなことが起きたのか？Full-Accessモードやサンドボックスといった技術的な仕組みから、OpenAIが事前に把握していた「ミスアライメント」の問題、競合のGoogleやAnthropicとの安全対策の違い、そして私たちユーザーが今すぐ取るべき対策まで、多角的に深掘りしていきます。AI時代のリスクと信頼を考える必聴回です。</itunes:summary>
+      <pubDate>Mon, 20 Jul 2026 07:03:23 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260720-20260720</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t02eGThP4NjeeaMU2mU8O40CE1zT5DP2" length="6187389" type="audio/mpeg"/>
+      <itunes:duration>12:59</itunes:duration>
+      <itunes:episode>134</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月19日】ChatGPTカスタム指示3倍増＆統一検索で作業革命</title>
       <description>今日はChatGPTの注目アップデート2件をじっくり解説します。まず、カスタム指示の文字数上限が1,500文字から5,000文字へと3倍以上に拡大。専門業務や企業利用がどう変わるのか、競合のClaudeやGeminiとの比較も交えてお届けします。さらに、過去のチャット・画像・ドキュメントをまとめて検索できる「統一検索」機能が全プランでグローバル展開。NotionやGoogle Driveとの違い、ChatGPTが「作業空間」へと進化する意味を深掘りします。</description>
