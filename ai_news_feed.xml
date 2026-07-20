@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 07:08:02 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:29:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月21日】中国AIが米国を猛追！Kimi K3の衝撃と規制の行方</title>
+      <description>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した「Kimi K3」がOpenAIやAnthropicのモデルを上回る性能を見せ、米国AI業界に衝撃が走っています。次に、トランプ政権が中国製AIモデルの排除に向けた規制を検討中という報道。そしてNVIDIAが検索・埋め込み技術の最先端モデル「Nemotron 3 Embed」をオープンソースで公開し、RAG技術の民主化が加速しています。米中AI覇権争いの最前線と、開発者に嬉しいオープンソースの新潮流を詳しく解説します。</description>
+      <itunes:summary>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した「Kimi K3」がOpenAIやAnthropicのモデルを上回る性能を見せ、米国AI業界に衝撃が走っています。次に、トランプ政権が中国製AIモデルの排除に向けた規制を検討中という報道。そしてNVIDIAが検索・埋め込み技術の最先端モデル「Nemotron 3 Embed」をオープンソースで公開し、RAG技術の民主化が加速しています。米中AI覇権争いの最前線と、開発者に嬉しいオープンソースの新潮流を詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 21 Jul 2026 07:29:13 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260721-20260721</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14D_m_IJserLN7akwJEl7pz-jpDlvvVg4" length="11362245" type="audio/mpeg"/>
+      <itunes:duration>23:19</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月20日】中国発2.8兆パラメータAI登場＆AI兵器規制と国際ガバナンス競争</title>
       <description>今日は4つのビッグニュースをお届けします。中国のMoonshot AIが発表した2.8兆パラメータの超巨大オープンモデル「Kimi K3」の衝撃、Anthropicが高性能モデル「Claude Fable 5」をサブスクプランに恒久組み込みする戦略転換、米国議会で提出されたAI兵器への人間監督義務法案、そして中国主導で29カ国が参加する新たな国際AI協力機構「WAICO」の設立まで。技術覇権、ビジネス競争、軍事倫理、国際政治が絡み合うAI最前線を詳しく解説します。</description>
