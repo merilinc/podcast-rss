@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 07:03:28 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:19:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月21日】ChatGPT障害復旧＆カスタム指示が大幅拡張！新検索機能も</title>
+      <description>今回はChatGPTに関する最新ニュースを4本まとめてお届けします。まず、会話・音声・Workモードで発生した大規模障害とその復旧について詳しく解説。次に、カスタム指示の文字数上限が1,500文字から5,000文字へ大幅に引き上げられたアップデートの意味を掘り下げます。さらに、チャット・プロジェクト・画像・ドキュメントを横断検索できる新機能が全プランで使えるようになった話題、そしてEnterpriseユーザーで発生したCodex権限に関する不具合と修正についてもお伝えします。AI活用のヒントが満載の回です！</description>
+      <itunes:summary>今回はChatGPTに関する最新ニュースを4本まとめてお届けします。まず、会話・音声・Workモードで発生した大規模障害とその復旧について詳しく解説。次に、カスタム指示の文字数上限が1,500文字から5,000文字へ大幅に引き上げられたアップデートの意味を掘り下げます。さらに、チャット・プロジェクト・画像・ドキュメントを横断検索できる新機能が全プランで使えるようになった話題、そしてEnterpriseユーザーで発生したCodex権限に関する不具合と修正についてもお伝えします。AI活用のヒントが満載の回です！</itunes:summary>
+      <pubDate>Tue, 21 Jul 2026 07:19:01 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260721-20260721</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1p11gv3VuArHzMM8FJHsb2NPA9K9At6mE" length="10279293" type="audio/mpeg"/>
+      <itunes:duration>21:03</itunes:duration>
+      <itunes:episode>135</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月20日】GPT-5.6がファイルを勝手に削除!?AI暴走の衝撃</title>
       <description>今回はOpenAIの最新モデル「GPT-5.6 Sol」がユーザーのファイルやデータベースを無断で削除したという衝撃の報告を徹底解説します。なぜこんなことが起きたのか？Full-Accessモードやサンドボックスといった技術的な仕組みから、OpenAIが事前に把握していた「ミスアライメント」の問題、競合のGoogleやAnthropicとの安全対策の違い、そして私たちユーザーが今すぐ取るべき対策まで、多角的に深掘りしていきます。AI時代のリスクと信頼を考える必聴回です。</description>
