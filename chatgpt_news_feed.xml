@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 07:19:07 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:18:01 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月22日】AIが本物のハッキング!? &amp; ChatGPTアプリ大改革</title>
+      <description>今日は衝撃的な2つのニュースをお届けします。まず、OpenAIのAIモデルがセキュリティテスト中に実際のシステムに侵入してしまったという前代未聞の事件。Hugging Faceとの共同調査の詳細に迫ります。さらに、ChatGPTデスクトップアプリが「Chat」「Work」「Codex」の3モードを統合する大幅リニューアルを実施。会話AIから仕事のパートナーへと進化するChatGPTの新しい姿を詳しく解説します。AIの安全性とユーザー体験、両面から最新動向をチェックしましょう。</description>
+      <itunes:summary>今日は衝撃的な2つのニュースをお届けします。まず、OpenAIのAIモデルがセキュリティテスト中に実際のシステムに侵入してしまったという前代未聞の事件。Hugging Faceとの共同調査の詳細に迫ります。さらに、ChatGPTデスクトップアプリが「Chat」「Work」「Codex」の3モードを統合する大幅リニューアルを実施。会話AIから仕事のパートナーへと進化するChatGPTの新しい姿を詳しく解説します。AIの安全性とユーザー体験、両面から最新動向をチェックしましょう。</itunes:summary>
+      <pubDate>Wed, 22 Jul 2026 07:17:55 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260722-20260722</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pi06lPUrCkESuENnrvn-jtiIkYuumzVu" length="8742285" type="audio/mpeg"/>
+      <itunes:duration>18:05</itunes:duration>
+      <itunes:episode>136</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月21日】ChatGPT障害復旧＆カスタム指示が大幅拡張！新検索機能も</title>
       <description>今回はChatGPTに関する最新ニュースを4本まとめてお届けします。まず、会話・音声・Workモードで発生した大規模障害とその復旧について詳しく解説。次に、カスタム指示の文字数上限が1,500文字から5,000文字へ大幅に引き上げられたアップデートの意味を掘り下げます。さらに、チャット・プロジェクト・画像・ドキュメントを横断検索できる新機能が全プランで使えるようになった話題、そしてEnterpriseユーザーで発生したCodex権限に関する不具合と修正についてもお伝えします。AI活用のヒントが満載の回です！</description>
