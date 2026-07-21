@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 07:09:24 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:20:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月22日】Google検索ランキング大変動＆中国発AIモデルの衝撃</title>
+      <description>今日は2つのトピックをお届けします。まず、7月18〜19日にかけて世界中で観測されたGoogle検索ランキングの大規模な変動について。公式発表なしの&quot;サイレントアップデート&quot;の正体とは？SEO担当者が今すぐやるべき対策を詳しく解説します。さらに、中国のMoonshot AIが発表した2.8兆パラメータの巨大AIモデル「Kimi K3」がAnthropicのClaude Fable 5を一部ベンチマークで上回ったという衝撃のニュースも。AI開発競争の最前線をわかりやすくお伝えします。</description>
+      <itunes:summary>今日は2つのトピックをお届けします。まず、7月18〜19日にかけて世界中で観測されたGoogle検索ランキングの大規模な変動について。公式発表なしの&quot;サイレントアップデート&quot;の正体とは？SEO担当者が今すぐやるべき対策を詳しく解説します。さらに、中国のMoonshot AIが発表した2.8兆パラメータの巨大AIモデル「Kimi K3」がAnthropicのClaude Fable 5を一部ベンチマークで上回ったという衝撃のニュースも。AI開発競争の最前線をわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Wed, 22 Jul 2026 07:20:12 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260722-20260722</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OiqT3ophWRIWTd9ZpsyDrKeevdNLXXyE" length="7373085" type="audio/mpeg"/>
+      <itunes:duration>15:40</itunes:duration>
+      <itunes:episode>118</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月19日】Google検索AI時代の新ルール〜オプトアウトと可視性レポート</title>
       <description>今日はGoogleが発表した2つの大きなSEO関連ニュースを徹底解説します。1つ目は、AI Overviews・AI Mode・DiscoverのAI機能から自サイトのコンテンツを除外できる新しいオプトアウト機能のテスト開始。2つ目は、Search Consoleに登場した「Generative AIパフォーマンスレポート」の詳細です。従来のクリック数や検索順位とは異なる「AI検索での可視性」という新指標の登場で、サイト運営者は何をすべきなのか？英国の規制当局からの圧力、ゼロクリック検索の増加、Bingとの比較など、多角的に深掘りします。</description>
