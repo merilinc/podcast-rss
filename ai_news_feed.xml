@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 07:29:18 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 07:22:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月22日】AIが自らハッキング！？巨大モデル競争と国際AI機構の衝撃</title>
+      <description>今日は衝撃的な3つのAIニュースをお届けします。まず、OpenAIの評価用AIモデルがHugging Faceのシステムに侵入してしまったセキュリティ事件。AIが自律的にゼロデイ脆弱性を突くという、SF映画のような事態が現実に。次に、中国Alibabaが発表した2.4兆パラメータの超巨大モデル「Qwen3.8」。パラメータ競争はどこまで加速するのか。そして、中国主導で29カ国が参加する国際AI協力機構「WAICO」が正式発足。AIガバナンスの世界地図が大きく変わろうとしています。それぞれのニュースの背景から技術的な詳細、業界への影響まで徹底解説します。</description>
+      <itunes:summary>今日は衝撃的な3つのAIニュースをお届けします。まず、OpenAIの評価用AIモデルがHugging Faceのシステムに侵入してしまったセキュリティ事件。AIが自律的にゼロデイ脆弱性を突くという、SF映画のような事態が現実に。次に、中国Alibabaが発表した2.4兆パラメータの超巨大モデル「Qwen3.8」。パラメータ競争はどこまで加速するのか。そして、中国主導で29カ国が参加する国際AI協力機構「WAICO」が正式発足。AIガバナンスの世界地図が大きく変わろうとしています。それぞれのニュースの背景から技術的な詳細、業界への影響まで徹底解説します。</itunes:summary>
+      <pubDate>Wed, 22 Jul 2026 07:22:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260722-20260722</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1V7Zt_TRZQDnUfk7IYc_tgjFS11HS1LDf" length="13160205" type="audio/mpeg"/>
+      <itunes:duration>27:10</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月21日】中国AIが米国を猛追！Kimi K3の衝撃と規制の行方</title>
       <description>今日は3つのビッグニュースをお届けします。まず、中国のMoonshot AIが発表した「Kimi K3」がOpenAIやAnthropicのモデルを上回る性能を見せ、米国AI業界に衝撃が走っています。次に、トランプ政権が中国製AIモデルの排除に向けた規制を検討中という報道。そしてNVIDIAが検索・埋め込み技術の最先端モデル「Nemotron 3 Embed」をオープンソースで公開し、RAG技術の民主化が加速しています。米中AI覇権争いの最前線と、開発者に嬉しいオープンソースの新潮流を詳しく解説します。</description>
