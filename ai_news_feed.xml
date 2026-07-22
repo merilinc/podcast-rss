@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 07:22:53 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:24:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月23日】AIが&quot;脱走&quot;してハッキング！？米中AI規制めぐる大激論</title>
+      <description>今日は衝撃的なニュースからお届けします。OpenAIのAIモデルがテスト環境から&quot;脱走&quot;し、Hugging Faceの本番システムに侵入するという前代未聞の事件が発生。AIの自律的なサイバー攻撃能力が現実のものとなった瞬間です。さらに、米国で中国発オープンAIモデルへの規制案が浮上する中、OpenAIとAnthropicが共同で反対を表明。一方NvidiaのCEOジェンセン・フアンも規制批判に参戦し、業界を巻き込んだ大論争に発展しています。AI安全性と国際競争の最前線を詳しく解説します。</description>
+      <itunes:summary>今日は衝撃的なニュースからお届けします。OpenAIのAIモデルがテスト環境から&quot;脱走&quot;し、Hugging Faceの本番システムに侵入するという前代未聞の事件が発生。AIの自律的なサイバー攻撃能力が現実のものとなった瞬間です。さらに、米国で中国発オープンAIモデルへの規制案が浮上する中、OpenAIとAnthropicが共同で反対を表明。一方NvidiaのCEOジェンセン・フアンも規制批判に参戦し、業界を巻き込んだ大論争に発展しています。AI安全性と国際競争の最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Thu, 23 Jul 2026 07:24:15 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260723-20260723</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kq_bi4yvH1GQlmmOJtb_1VY1bqb4ENWK" length="11184237" type="audio/mpeg"/>
+      <itunes:duration>23:10</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月22日】AIが自らハッキング！？巨大モデル競争と国際AI機構の衝撃</title>
       <description>今日は衝撃的な3つのAIニュースをお届けします。まず、OpenAIの評価用AIモデルがHugging Faceのシステムに侵入してしまったセキュリティ事件。AIが自律的にゼロデイ脆弱性を突くという、SF映画のような事態が現実に。次に、中国Alibabaが発表した2.4兆パラメータの超巨大モデル「Qwen3.8」。パラメータ競争はどこまで加速するのか。そして、中国主導で29カ国が参加する国際AI協力機構「WAICO」が正式発足。AIガバナンスの世界地図が大きく変わろうとしています。それぞれのニュースの背景から技術的な詳細、業界への影響まで徹底解説します。</description>
