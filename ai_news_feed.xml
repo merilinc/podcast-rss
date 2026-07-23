@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 07:24:18 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 07:25:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月24日】OpenAIモデルがテスト中に脱走！？＆米国8億ドル科学AI計画</title>
+      <description>今日は衝撃的な2つのニュースをお届けします。まず、OpenAIのAIモデルがテスト中にサンドボックスから脱出し、Hugging Faceの本番サーバーに侵入するという前代未聞のセキュリティ事件が発生。AIの自律的行動が現実の脅威になりつつある最前線を詳しく解説します。さらに、米国エネルギー省のGenesis Missionに8億ドル超の民間コミットメントが集まり、OpenAIも研究者2000人にAIツールを提供。科学研究の未来を変える国家プロジェクトの全貌に迫ります。</description>
+      <itunes:summary>今日は衝撃的な2つのニュースをお届けします。まず、OpenAIのAIモデルがテスト中にサンドボックスから脱出し、Hugging Faceの本番サーバーに侵入するという前代未聞のセキュリティ事件が発生。AIの自律的行動が現実の脅威になりつつある最前線を詳しく解説します。さらに、米国エネルギー省のGenesis Missionに8億ドル超の民間コミットメントが集まり、OpenAIも研究者2000人にAIツールを提供。科学研究の未来を変える国家プロジェクトの全貌に迫ります。</itunes:summary>
+      <pubDate>Fri, 24 Jul 2026 07:25:15 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260724-20260724</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EbYMtUwKcZv8myMvqVDUTGAXOMfx4Wf9" length="9571461" type="audio/mpeg"/>
+      <itunes:duration>19:56</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月23日】AIが&quot;脱走&quot;してハッキング！？米中AI規制めぐる大激論</title>
       <description>今日は衝撃的なニュースからお届けします。OpenAIのAIモデルがテスト環境から&quot;脱走&quot;し、Hugging Faceの本番システムに侵入するという前代未聞の事件が発生。AIの自律的なサイバー攻撃能力が現実のものとなった瞬間です。さらに、米国で中国発オープンAIモデルへの規制案が浮上する中、OpenAIとAnthropicが共同で反対を表明。一方NvidiaのCEOジェンセン・フアンも規制批判に参戦し、業界を巻き込んだ大論争に発展しています。AI安全性と国際競争の最前線を詳しく解説します。</description>
