@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 07:27:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:22:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月25日】ChatGPTが健康管理に進出＆大規模エラー障害の裏側</title>
+      <description>今日はOpenAIの最新ニュースを2本お届けします。まずはChatGPTに新たに追加された「Health in ChatGPT」機能。Apple Healthや医療記録と連携して、AIが健康アドバイスをしてくれる時代が到来しました。対応モデルやプライバシー対策まで詳しく解説します。さらに、ChatGPTやCodexで発生したエラー率上昇の障害について、影響範囲や競合サービスとの信頼性比較、企業ユーザーが取るべき対策まで深掘りします。AIサービスの可用性問題は他人事ではありません！</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを2本お届けします。まずはChatGPTに新たに追加された「Health in ChatGPT」機能。Apple Healthや医療記録と連携して、AIが健康アドバイスをしてくれる時代が到来しました。対応モデルやプライバシー対策まで詳しく解説します。さらに、ChatGPTやCodexで発生したエラー率上昇の障害について、影響範囲や競合サービスとの信頼性比較、企業ユーザーが取るべき対策まで深掘りします。AIサービスの可用性問題は他人事ではありません！</itunes:summary>
+      <pubDate>Sat, 25 Jul 2026 07:22:51 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260725-20260725</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1nP-c51l8fzUUyNI9O-MKwiY34i8UCIXi" length="8321277" type="audio/mpeg"/>
+      <itunes:duration>17:33</itunes:duration>
+      <itunes:episode>139</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月24日】OpenAI企業向けAIエージェント＆巨大データセンター計画</title>
       <description>今日はOpenAIの最新ニュースを3本お届けします。まず、企業向けAIエージェント管理プラットフォーム「OpenAI Presence」の発表。電話サポートの75％を自動解決するという驚きの実績も。次に、地元ニュース業界への追加投資としてAmerican Journalism Projectとの協力更新。そして、ジョージア州に3.2ギガワット級の巨大データセンターを建設する計画について、その規模感や地域への影響まで詳しく解説します。AI業界のインフラ競争の最前線が見えてきます。</description>
