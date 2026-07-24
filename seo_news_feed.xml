@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 07:20:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 07:29:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月25日】EU巨額罰金とAI検索がメディアを揺るがす最新SEO事情</title>
+      <description>今日はSEO・デジタルマーケティングに関わる重要ニュースを5本お届けします。まず、EUがGoogleにDMA違反で約1400億円の罰金を科した衝撃のニュース。次に、AI検索によるトラフィック激減で大手出版社がGoogleとの関係を見直す動き。さらに、Microsoftのアイトラッキング研究が明かすAI Overviewの検索行動への影響、Google Ads API v25の破壊的変更、そしてGoogleが「llms.txt」は検索に影響しないと公式発表した話題まで、SEOの最前線を詳しく解説します。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングに関わる重要ニュースを5本お届けします。まず、EUがGoogleにDMA違反で約1400億円の罰金を科した衝撃のニュース。次に、AI検索によるトラフィック激減で大手出版社がGoogleとの関係を見直す動き。さらに、Microsoftのアイトラッキング研究が明かすAI Overviewの検索行動への影響、Google Ads API v25の破壊的変更、そしてGoogleが「llms.txt」は検索に影響しないと公式発表した話題まで、SEOの最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Sat, 25 Jul 2026 07:29:19 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260725-20260725</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s-uqiOv64tVs9ScjqpRnIgILkYT4Wd01" length="15274317" type="audio/mpeg"/>
+      <itunes:duration>31:48</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月22日】Google検索ランキング大変動＆中国発AIモデルの衝撃</title>
       <description>今日は2つのトピックをお届けします。まず、7月18〜19日にかけて世界中で観測されたGoogle検索ランキングの大規模な変動について。公式発表なしの&quot;サイレントアップデート&quot;の正体とは？SEO担当者が今すぐやるべき対策を詳しく解説します。さらに、中国のMoonshot AIが発表した2.8兆パラメータの巨大AIモデル「Kimi K3」がAnthropicのClaude Fable 5を一部ベンチマークで上回ったという衝撃のニュースも。AI開発競争の最前線をわかりやすくお伝えします。</description>
