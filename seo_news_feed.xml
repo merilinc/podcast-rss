@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 07:12:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:25:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月31日】Google偽レビュー禁止＆SNS投稿が検索分析に対応</title>
+      <description>今日はSEOに関する2つの重要ニュースをお届けします。まず、Googleがレビュー構造化データのルールを強化し、偽レビューや報酬を隠したレビューの使用を明確に禁止しました。星評価のリッチスニペットが消える可能性もあり、EC・ローカルビジネスは要注意です。さらに、Google Search ConsoleにInstagram・TikTok・X・YouTubeなどのソーシャルアカウントを追加できる「プラットフォームプロパティ」が全世界で正式ロールアウト。SNS投稿がGoogle検索でどう見られているか可視化できるようになりました。SEO担当者必見の内容です。</description>
+      <itunes:summary>今日はSEOに関する2つの重要ニュースをお届けします。まず、Googleがレビュー構造化データのルールを強化し、偽レビューや報酬を隠したレビューの使用を明確に禁止しました。星評価のリッチスニペットが消える可能性もあり、EC・ローカルビジネスは要注意です。さらに、Google Search ConsoleにInstagram・TikTok・X・YouTubeなどのソーシャルアカウントを追加できる「プラットフォームプロパティ」が全世界で正式ロールアウト。SNS投稿がGoogle検索でどう見られているか可視化できるようになりました。SEO担当者必見の内容です。</itunes:summary>
+      <pubDate>Fri, 31 Jul 2026 07:25:28 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260731-20260731</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1T0QCbRAT0y9atsxR5kivlBRsTcErTTws" length="8837781" type="audio/mpeg"/>
+      <itunes:duration>18:18</itunes:duration>
+      <itunes:episode>121</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月30日】Google偽レビュー規制強化＆SNS投稿がSearch Consoleで分析可能に</title>
       <description>今回はGoogleのSEO関連の重要アップデートを3本立てでお届けします。まず、レビュー・スニペットに偽レビューや報酬付きレビューへの新ガイドラインが追加された話題。次に、canonical（正規化）の再評価タイミングが「最大2週間」と明示された件。そして注目のPlatform Properties機能として、InstagramやTikTokなどのSNS投稿がSearch Consoleでトラッキング可能になったニュース。SEO担当者必聴の内容をわかりやすく解説します。</description>
