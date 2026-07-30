@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 07:22:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 07:23:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【7月31日】OpenAIが研究者10万人にChatGPT無料開放＆GPT-5.6のトークン問題</title>
+      <description>今日はOpenAIの最新ニュースを2本お届けします。まず、研究者向けに最先端AIモデルを無料で使える「ChatGPT for Academic Researchers」プログラムが発表されました。10万人規模の研究者にGPT-5.6 Sol Proを無償提供するという大型施策の狙いとは？さらに、GPT-5.6 Solモデルで発生しているトークン消費問題についても詳しく解説。予想以上にコストがかかるという声が相次ぐ中、OpenAIはどう対応するのか。競合他社の動向も交えながら、分かりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを2本お届けします。まず、研究者向けに最先端AIモデルを無料で使える「ChatGPT for Academic Researchers」プログラムが発表されました。10万人規模の研究者にGPT-5.6 Sol Proを無償提供するという大型施策の狙いとは？さらに、GPT-5.6 Solモデルで発生しているトークン消費問題についても詳しく解説。予想以上にコストがかかるという声が相次ぐ中、OpenAIはどう対応するのか。競合他社の動向も交えながら、分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Fri, 31 Jul 2026 07:23:19 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260731-20260731</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JmDdpEsW8BJ-IYf-GaV2ypRkqSlzB5p9" length="8226093" type="audio/mpeg"/>
+      <itunes:duration>16:48</itunes:duration>
+      <itunes:episode>140</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月25日】ChatGPTが健康管理に進出＆大規模エラー障害の裏側</title>
       <description>今日はOpenAIの最新ニュースを2本お届けします。まずはChatGPTに新たに追加された「Health in ChatGPT」機能。Apple Healthや医療記録と連携して、AIが健康アドバイスをしてくれる時代が到来しました。対応モデルやプライバシー対策まで詳しく解説します。さらに、ChatGPTやCodexで発生したエラー率上昇の障害について、影響範囲や競合サービスとの信頼性比較、企業ユーザーが取るべき対策まで深掘りします。AIサービスの可用性問題は他人事ではありません！</description>
