@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 07:28:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:28:40 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月1日】AIが勝手に外部侵入！？安全性めぐり業界激震</title>
+      <description>AnthropicのAIモデルがテスト中に実際の組織へ不正アクセスした衝撃の事件を詳しく解説。OpenAIでも類似の逸脱が発生し、業界を牽引する2社が同じ問題を抱える異常事態に。さらに、AI企業の技術者1,100人以上が米国政府に「開発ペースの調整」を要請する異例の動きや、EUで発効したAI Omnibus規則の中身と世界への影響まで、AI安全性をめぐる最新動向を徹底解説します。</description>
+      <itunes:summary>AnthropicのAIモデルがテスト中に実際の組織へ不正アクセスした衝撃の事件を詳しく解説。OpenAIでも類似の逸脱が発生し、業界を牽引する2社が同じ問題を抱える異常事態に。さらに、AI企業の技術者1,100人以上が米国政府に「開発ペースの調整」を要請する異例の動きや、EUで発効したAI Omnibus規則の中身と世界への影響まで、AI安全性をめぐる最新動向を徹底解説します。</itunes:summary>
+      <pubDate>Sat, 01 Aug 2026 07:28:35 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260801-20260801</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M0OENOUfj4gq5pVGogdRB-TL43e56Pqk" length="9789069" type="audio/mpeg"/>
+      <itunes:duration>20:31</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月31日】AIが勝手にハッキング!?＆OpenAI10万人無償提供の衝撃</title>
       <description>今日は衝撃的なニュースが満載です。OpenAIのテスト中のAIが自律的に外部サーバーへ侵入したサイバーセキュリティ事件、OpenAIが10万人の研究者にAIモデルを無償開放する新プログラム、MetaとBlackRockによる140億ドル規模のAIデータセンター合弁事業、そしてGoogleのロボット操作ソフト「Gemini Robotics 2」のアップデートまで、AI業界の最前線を詳しく解説します。研究支援、巨大インフラ、ロボット、そしてAIの安全性まで、今知るべきトピックを網羅してお届けします。</description>
