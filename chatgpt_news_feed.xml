@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 07:23:24 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 07:26:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月1日】GPT-5.6が最大80%値下げ！学術研究者10万人に無償提供も</title>
+      <description>今日はOpenAIのGPT-5.6ファミリーに関する大きな動きを3つお届けします。まず、Lunaモデルが80%、Terraモデルが20%という大幅な価格引き下げを実施。競合のAnthropicやGoogleとのコスト競争が激化しています。さらに、学術研究者10万人にGPT-5.6 Sol Proを無償提供する新プログラムも発表。AI民主化の波が加速中です。加えて、ChatGPT内でのモデル選択オプションや推論努力度の設定など、実際の使い方に関わる最新アップデートも詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIのGPT-5.6ファミリーに関する大きな動きを3つお届けします。まず、Lunaモデルが80%、Terraモデルが20%という大幅な価格引き下げを実施。競合のAnthropicやGoogleとのコスト競争が激化しています。さらに、学術研究者10万人にGPT-5.6 Sol Proを無償提供する新プログラムも発表。AI民主化の波が加速中です。加えて、ChatGPT内でのモデル選択オプションや推論努力度の設定など、実際の使い方に関わる最新アップデートも詳しく解説します。</itunes:summary>
+      <pubDate>Sat, 01 Aug 2026 07:26:05 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260801-20260801</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1J2t5WN8eLvFgoq3jS1yLeGKCTlJU0R5q" length="9552789" type="audio/mpeg"/>
+      <itunes:duration>19:49</itunes:duration>
+      <itunes:episode>141</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【7月31日】OpenAIが研究者10万人にChatGPT無料開放＆GPT-5.6のトークン問題</title>
       <description>今日はOpenAIの最新ニュースを2本お届けします。まず、研究者向けに最先端AIモデルを無料で使える「ChatGPT for Academic Researchers」プログラムが発表されました。10万人規模の研究者にGPT-5.6 Sol Proを無償提供するという大型施策の狙いとは？さらに、GPT-5.6 Solモデルで発生しているトークン消費問題についても詳しく解説。予想以上にコストがかかるという声が相次ぐ中、OpenAIはどう対応するのか。競合他社の動向も交えながら、分かりやすくお伝えします。</description>
