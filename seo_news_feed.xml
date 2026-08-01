@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 07:23:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:15:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月2日】Search ConsoleがSNS対応＆AI検索の可視化が本格始動</title>
+      <description>今回はGoogleのSearch Consoleに関する大きなアップデートを3つまとめてお届けします。まず、Instagram・TikTok・X・YouTubeのソーシャルコンテンツがGoogle検索でどう表示されているかを確認できる「プラットフォームプロパティ」機能が登場。次に、AI OverviewsやAI Modeでの表示状況を把握できる生成AI検索パフォーマンスレポートの導入。そして、自サイトのコンテンツをAI検索に使わせるかどうかを選べる制御トグルの話題まで、SEOの常識が変わりつつある最前線を詳しく解説します。</description>
+      <itunes:summary>今回はGoogleのSearch Consoleに関する大きなアップデートを3つまとめてお届けします。まず、Instagram・TikTok・X・YouTubeのソーシャルコンテンツがGoogle検索でどう表示されているかを確認できる「プラットフォームプロパティ」機能が登場。次に、AI OverviewsやAI Modeでの表示状況を把握できる生成AI検索パフォーマンスレポートの導入。そして、自サイトのコンテンツをAI検索に使わせるかどうかを選べる制御トグルの話題まで、SEOの常識が変わりつつある最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 02 Aug 2026 07:15:28 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260802-20260802</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WXZ3k5PFlbA2h2Y_GgkHFJC7qjh-cGTc" length="9935853" type="audio/mpeg"/>
+      <itunes:duration>20:35</itunes:duration>
+      <itunes:episode>123</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月1日】Google Search ConsoleにAI時代の新レポート＆SNS検索を一元管理</title>
       <description>今日はSEOに関わる人必見の2つの大きなニュースをお届けします。まず、Google Search ConsoleにAI Overviews・AI Mode・Discoverの生成AI機能における表示回数を確認できる専用レポートが追加されました。AIが検索結果を変える中、自分のサイトがどう扱われているかが見える化される画期的な変更です。さらに、YouTubeやTikTok、InstagramなどSNSコンテンツのGoogle検索上での成果を一元管理できる「プラットフォーム プロパティ」機能もグローバル展開開始。マルチチャネル時代の検索戦略がどう変わるか、詳しく解説します。</description>
