@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 07:26:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:17:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月2日】GPT-5.6大幅値下げ＆10万人の学者に無料開放！AI音声の透かし技術も</title>
+      <description>OpenAIがGPT-5.6シリーズの最廉価モデル「Luna」の価格を約80％も引き下げました。さらに10万人の学術研究者に最先端モデルを無料提供するプログラムも発表。AI音声のディープフェイク対策としてSynthID透かし技術の導入や、Atlasブラウザツールの廃止と機能統合など、2026年7月末のOpenAI関連ニュースを徹底解説します。価格競争の行方、研究者支援の狙い、音声の安全性まで、多角的にお届けします。</description>
+      <itunes:summary>OpenAIがGPT-5.6シリーズの最廉価モデル「Luna」の価格を約80％も引き下げました。さらに10万人の学術研究者に最先端モデルを無料提供するプログラムも発表。AI音声のディープフェイク対策としてSynthID透かし技術の導入や、Atlasブラウザツールの廃止と機能統合など、2026年7月末のOpenAI関連ニュースを徹底解説します。価格競争の行方、研究者支援の狙い、音声の安全性まで、多角的にお届けします。</itunes:summary>
+      <pubDate>Sun, 02 Aug 2026 07:17:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260802-20260802</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qYTsymqZCdvrkJync7HZvzdFNehtgQln" length="10296309" type="audio/mpeg"/>
+      <itunes:duration>21:27</itunes:duration>
+      <itunes:episode>142</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月1日】GPT-5.6が最大80%値下げ！学術研究者10万人に無償提供も</title>
       <description>今日はOpenAIのGPT-5.6ファミリーに関する大きな動きを3つお届けします。まず、Lunaモデルが80%、Terraモデルが20%という大幅な価格引き下げを実施。競合のAnthropicやGoogleとのコスト競争が激化しています。さらに、学術研究者10万人にGPT-5.6 Sol Proを無償提供する新プログラムも発表。AI民主化の波が加速中です。加えて、ChatGPT内でのモデル選択オプションや推論努力度の設定など、実際の使い方に関わる最新アップデートも詳しく解説します。</description>
