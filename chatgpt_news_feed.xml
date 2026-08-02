@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 07:17:49 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 07:17:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月3日】Atlasブラウザ廃止＆ChatGPTログイン革命＆PowerPoint有料化</title>
+      <description>今日はOpenAI・ChatGPT関連の重要ニュースを3本お届けします。まず、OpenAIが独自AIブラウザ「Atlas」を8月9日で廃止し、ChatGPTアプリとChrome拡張に機能統合する方針を発表。次に、外部アプリにChatGPTアカウントでログインできる「Sign in with ChatGPT」機能が登場。GoogleやAppleのログインのように、ChatGPTがIDプロバイダになる時代が到来です。さらに、ビジネス・教育向けのPowerPoint機能が8月6日から有料化。トークンベースの課金モデルの仕組みや、企業への影響を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAI・ChatGPT関連の重要ニュースを3本お届けします。まず、OpenAIが独自AIブラウザ「Atlas」を8月9日で廃止し、ChatGPTアプリとChrome拡張に機能統合する方針を発表。次に、外部アプリにChatGPTアカウントでログインできる「Sign in with ChatGPT」機能が登場。GoogleやAppleのログインのように、ChatGPTがIDプロバイダになる時代が到来です。さらに、ビジネス・教育向けのPowerPoint機能が8月6日から有料化。トークンベースの課金モデルの仕組みや、企業への影響を詳しく解説します。</itunes:summary>
+      <pubDate>Mon, 03 Aug 2026 07:16:56 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260803-20260803</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10OB7AaFFYiiW2DLioGiIBLYkei_h8SbT" length="9540189" type="audio/mpeg"/>
+      <itunes:duration>19:59</itunes:duration>
+      <itunes:episode>143</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月2日】GPT-5.6大幅値下げ＆10万人の学者に無料開放！AI音声の透かし技術も</title>
       <description>OpenAIがGPT-5.6シリーズの最廉価モデル「Luna」の価格を約80％も引き下げました。さらに10万人の学術研究者に最先端モデルを無料提供するプログラムも発表。AI音声のディープフェイク対策としてSynthID透かし技術の導入や、Atlasブラウザツールの廃止と機能統合など、2026年7月末のOpenAI関連ニュースを徹底解説します。価格競争の行方、研究者支援の狙い、音声の安全性まで、多角的にお届けします。</description>
