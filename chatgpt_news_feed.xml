@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 07:17:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:28:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月4日】OpenAI新モデル「Astra」が未解決数学問題を次々解決＆ChatGPT Atlasブラウザ終了へ</title>
+      <description>今日はOpenAIの未公開モデル「Astra」が数学・理論計算機科学の未解決問題10件をわずか約2,000ドルの計算コストで解決したという衝撃ニュースを詳しく解説します。Leanによる形式検証やDeepMind・Anthropicとの比較も。さらに、独立ブラウザ「ChatGPT Atlas」が8月9日で提供終了し、ChatGPT本体やCodex、Chrome拡張へ機能統合される動きについても深掘り。PerplexityのCometやThe Browser CompanyのDiaなど競合ブラウザとの比較も交えてお届けします。</description>
+      <itunes:summary>今日はOpenAIの未公開モデル「Astra」が数学・理論計算機科学の未解決問題10件をわずか約2,000ドルの計算コストで解決したという衝撃ニュースを詳しく解説します。Leanによる形式検証やDeepMind・Anthropicとの比較も。さらに、独立ブラウザ「ChatGPT Atlas」が8月9日で提供終了し、ChatGPT本体やCodex、Chrome拡張へ機能統合される動きについても深掘り。PerplexityのCometやThe Browser CompanyのDiaなど競合ブラウザとの比較も交えてお届けします。</itunes:summary>
+      <pubDate>Tue, 04 Aug 2026 07:28:22 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260804-20260804</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xick4I29mxiYkKyU0RnsGvKDUl6aKgW-" length="9745749" type="audio/mpeg"/>
+      <itunes:duration>19:57</itunes:duration>
+      <itunes:episode>144</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月3日】Atlasブラウザ廃止＆ChatGPTログイン革命＆PowerPoint有料化</title>
       <description>今日はOpenAI・ChatGPT関連の重要ニュースを3本お届けします。まず、OpenAIが独自AIブラウザ「Atlas」を8月9日で廃止し、ChatGPTアプリとChrome拡張に機能統合する方針を発表。次に、外部アプリにChatGPTアカウントでログインできる「Sign in with ChatGPT」機能が登場。GoogleやAppleのログインのように、ChatGPTがIDプロバイダになる時代が到来です。さらに、ビジネス・教育向けのPowerPoint機能が8月6日から有料化。トークンベースの課金モデルの仕組みや、企業への影響を詳しく解説します。</description>
