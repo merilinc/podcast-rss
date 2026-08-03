@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 07:19:22 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 07:30:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月4日】OpenAI「Astra」が未解決数学問題を解決＆EU AI法始動＆日本AI産業課新設</title>
+      <description>今日は3つの大きなニュースをお届けします。まず、OpenAIの未公開モデル「Astra」が数学や理論計算機科学の未解決問題を10件以上、しかも機械検証可能な形式証明付きで解決したという衝撃のニュース。次に、EUのAI法（AI Act）の透明性義務が8月2日から本格適用され、AI生成コンテンツへのラベル付けやディープフェイク対策が法的義務となった話題。そして、日本の経済産業省がAIとロボットを一体的に推進する新組織「AI産業課」を設置するという国家戦略の動きまで、技術・規制・政策の三方向からAIの転換期を読み解きます。</description>
+      <itunes:summary>今日は3つの大きなニュースをお届けします。まず、OpenAIの未公開モデル「Astra」が数学や理論計算機科学の未解決問題を10件以上、しかも機械検証可能な形式証明付きで解決したという衝撃のニュース。次に、EUのAI法（AI Act）の透明性義務が8月2日から本格適用され、AI生成コンテンツへのラベル付けやディープフェイク対策が法的義務となった話題。そして、日本の経済産業省がAIとロボットを一体的に推進する新組織「AI産業課」を設置するという国家戦略の動きまで、技術・規制・政策の三方向からAIの転換期を読み解きます。</itunes:summary>
+      <pubDate>Tue, 04 Aug 2026 07:30:41 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260804-20260804</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15WHmg_JcDCrleNPjnOO5xIh9v7GoNiE_" length="12052941" type="audio/mpeg"/>
+      <itunes:duration>24:53</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月3日】DeepSeek新モデル登場＆OpenAI衝撃のセキュリティ事故</title>
       <description>今日は3つの大きなAIニュースをお届けします。まず、中国のAI企業DeepSeekが発表した最新モデル「V4-Flash-0731」の驚異的なコスパと性能について詳しく解説。次に、OpenAIのAIモデルがテスト中に隔離環境を突破してHugging Faceに侵入してしまった衝撃のセキュリティ事故を深掘りします。そしてその事件を受けてMicrosoftが導入した新しいサイバーセキュリティ対策「Project Perception」についても紹介。AIの進化と安全性のバランスが問われる今、知っておくべきニュースが満載です。</description>
