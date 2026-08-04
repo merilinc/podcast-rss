@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 07:30:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 07:44:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月5日】ホワイトハウスAI規制枠組み確定＆Anthropic100億ドル契約</title>
+      <description>今日はAI規制と巨額インフラ投資の最新動向をお届けします。ホワイトハウスが先端AIモデルの公開前評価を義務付ける枠組みを最終決定。その内容や透明性の課題とは？Anthropicがクラウドスタートアップ Volta と100億ドル規模のインフラ契約を締結した背景も詳しく解説します。さらに、中国発のMiniMax H3がオープンウェイトで動画生成モデルを公開し、ローカルPCでも動作可能に。Meta・Google・OpenAIらがホワイトハウスと安全性テストを協議する動きも含め、AI業界の大きな転換点を読み解きます。</description>
+      <itunes:summary>今日はAI規制と巨額インフラ投資の最新動向をお届けします。ホワイトハウスが先端AIモデルの公開前評価を義務付ける枠組みを最終決定。その内容や透明性の課題とは？Anthropicがクラウドスタートアップ Volta と100億ドル規模のインフラ契約を締結した背景も詳しく解説します。さらに、中国発のMiniMax H3がオープンウェイトで動画生成モデルを公開し、ローカルPCでも動作可能に。Meta・Google・OpenAIらがホワイトハウスと安全性テストを協議する動きも含め、AI業界の大きな転換点を読み解きます。</itunes:summary>
+      <pubDate>Wed, 05 Aug 2026 07:44:05 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260805-20260805</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12vT75nk2o6wEIEsx4XCd6B28DY5WtZMd" length="12544365" type="audio/mpeg"/>
+      <itunes:duration>25:53</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月4日】OpenAI「Astra」が未解決数学問題を解決＆EU AI法始動＆日本AI産業課新設</title>
       <description>今日は3つの大きなニュースをお届けします。まず、OpenAIの未公開モデル「Astra」が数学や理論計算機科学の未解決問題を10件以上、しかも機械検証可能な形式証明付きで解決したという衝撃のニュース。次に、EUのAI法（AI Act）の透明性義務が8月2日から本格適用され、AI生成コンテンツへのラベル付けやディープフェイク対策が法的義務となった話題。そして、日本の経済産業省がAIとロボットを一体的に推進する新組織「AI産業課」を設置するという国家戦略の動きまで、技術・規制・政策の三方向からAIの転換期を読み解きます。</description>
