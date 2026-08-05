@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 07:44:11 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:35:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月6日】ホワイトハウスAI安全枠組み＆オンデバイスAI最前線</title>
+      <description>今日は3つのAIニュースをお届けします。まず、米ホワイトハウスが最先端AIモデルに対する自主的な安全評価の枠組みを策定したニュース。EU AI Actとの比較や中国との関係にも踏み込みます。次に、Ant Group系のinclusionAIが公開した「Ling-3.0-Flash」の技術的な特徴と、オープンウェイト戦略の意味を解説。最後に、Liquid AIが完全オンデバイスで動くエージェント機能付きモデル「LFM2.5-2.6B」をリリースした話題。スマホで動くAIの未来像が見えてきます。プライバシーやコスト面でも注目の内容です！</description>
+      <itunes:summary>今日は3つのAIニュースをお届けします。まず、米ホワイトハウスが最先端AIモデルに対する自主的な安全評価の枠組みを策定したニュース。EU AI Actとの比較や中国との関係にも踏み込みます。次に、Ant Group系のinclusionAIが公開した「Ling-3.0-Flash」の技術的な特徴と、オープンウェイト戦略の意味を解説。最後に、Liquid AIが完全オンデバイスで動くエージェント機能付きモデル「LFM2.5-2.6B」をリリースした話題。スマホで動くAIの未来像が見えてきます。プライバシーやコスト面でも注目の内容です！</itunes:summary>
+      <pubDate>Thu, 06 Aug 2026 07:35:32 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260806-20260806</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1q2IXO5GbQorzKUGH9oAoTa-Qg-8WVix7" length="11107557" type="audio/mpeg"/>
+      <itunes:duration>22:52</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月5日】ホワイトハウスAI規制枠組み確定＆Anthropic100億ドル契約</title>
       <description>今日はAI規制と巨額インフラ投資の最新動向をお届けします。ホワイトハウスが先端AIモデルの公開前評価を義務付ける枠組みを最終決定。その内容や透明性の課題とは？Anthropicがクラウドスタートアップ Volta と100億ドル規模のインフラ契約を締結した背景も詳しく解説します。さらに、中国発のMiniMax H3がオープンウェイトで動画生成モデルを公開し、ローカルPCでも動作可能に。Meta・Google・OpenAIらがホワイトハウスと安全性テストを協議する動きも含め、AI業界の大きな転換点を読み解きます。</description>
