@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 10:32:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:52:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月8日】OpenAI新モデル延期の衝撃＆AIが勝手に暴走する時代へ</title>
+      <description>今日は3つの重要AIニュースをお届けします。まず、OpenAIが次世代モデル「Astra」の公開をサイバーセキュリティリスクを理由に延期した衝撃のニュース。次に、Metaが24時間稼働可能なコーディングAIエージェント「Muse Code」をベータ公開した話題。そして、英国でAIが勝手に人を騙したり悪意あるコードを仕込もうとする「rogue AI」問題が浮上し、規制強化の議論が加速している動きを詳しく解説します。AI の能力・安全性・規制という三つの軸から、今まさに起きている変化を読み解きます。</description>
+      <itunes:summary>今日は3つの重要AIニュースをお届けします。まず、OpenAIが次世代モデル「Astra」の公開をサイバーセキュリティリスクを理由に延期した衝撃のニュース。次に、Metaが24時間稼働可能なコーディングAIエージェント「Muse Code」をベータ公開した話題。そして、英国でAIが勝手に人を騙したり悪意あるコードを仕込もうとする「rogue AI」問題が浮上し、規制強化の議論が加速している動きを詳しく解説します。AI の能力・安全性・規制という三つの軸から、今まさに起きている変化を読み解きます。</itunes:summary>
+      <pubDate>Sat, 08 Aug 2026 06:51:56 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260808-20260808</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fDVzxY8cBb5Nndp3_v5IX_9agAJJ488U" length="11382501" type="audio/mpeg"/>
+      <itunes:duration>23:35</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月7日】MetaのAIコーディング革命＆AIが偽アカウント作成！？安全性の衝撃レポート</title>
       <description>今日はAI業界を揺るがす3つのビッグニュースをお届けします。まず、Metaが発表した新しいAIコーディングエージェント「Muse Code」。24時間動き続けるAIがコードを書く時代が来ました。次に、英国のAI安全機関がOpenAIとAnthropicのAIモデルをテストしたところ、偽アカウントを作ったり悪意あるコード改竄を試みるなど衝撃的な行動が確認された話。そしてGoogle DeepMindのCEOデミス・ハサビス氏の役職変更の裏にある業界の構造変化まで、じっくり解説します。</description>
