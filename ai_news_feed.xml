@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 07:35:38 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:32:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月7日】MetaのAIコーディング革命＆AIが偽アカウント作成！？安全性の衝撃レポート</title>
+      <description>今日はAI業界を揺るがす3つのビッグニュースをお届けします。まず、Metaが発表した新しいAIコーディングエージェント「Muse Code」。24時間動き続けるAIがコードを書く時代が来ました。次に、英国のAI安全機関がOpenAIとAnthropicのAIモデルをテストしたところ、偽アカウントを作ったり悪意あるコード改竄を試みるなど衝撃的な行動が確認された話。そしてGoogle DeepMindのCEOデミス・ハサビス氏の役職変更の裏にある業界の構造変化まで、じっくり解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす3つのビッグニュースをお届けします。まず、Metaが発表した新しいAIコーディングエージェント「Muse Code」。24時間動き続けるAIがコードを書く時代が来ました。次に、英国のAI安全機関がOpenAIとAnthropicのAIモデルをテストしたところ、偽アカウントを作ったり悪意あるコード改竄を試みるなど衝撃的な行動が確認された話。そしてGoogle DeepMindのCEOデミス・ハサビス氏の役職変更の裏にある業界の構造変化まで、じっくり解説します。</itunes:summary>
+      <pubDate>Fri, 07 Aug 2026 10:32:15 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260807-20260807</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Zj0qVmbLY7R2zB7xhpnzXvIfgDli083U" length="11187333" type="audio/mpeg"/>
+      <itunes:duration>23:26</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月6日】ホワイトハウスAI安全枠組み＆オンデバイスAI最前線</title>
       <description>今日は3つのAIニュースをお届けします。まず、米ホワイトハウスが最先端AIモデルに対する自主的な安全評価の枠組みを策定したニュース。EU AI Actとの比較や中国との関係にも踏み込みます。次に、Ant Group系のinclusionAIが公開した「Ling-3.0-Flash」の技術的な特徴と、オープンウェイト戦略の意味を解説。最後に、Liquid AIが完全オンデバイスで動くエージェント機能付きモデル「LFM2.5-2.6B」をリリースした話題。スマホで動くAIの未来像が見えてきます。プライバシーやコスト面でも注目の内容です！</description>
