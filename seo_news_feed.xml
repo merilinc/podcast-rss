@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 07:32:44 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:47:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月9日】Google検索が激変！AI OverviewsにTop Storiesが統合</title>
+      <description>今日はGoogleがモバイル検索で実施した大きな変更について詳しく解説します。AI Overviews（AI概要）の中にTop Storiesカルーセルが完全統合され、さらにPreferred Sources（優先ソース）バッジも強化されました。ニュースサイトの露出がどう変わるのか、従来のSEOとの違い、ユーザー体験への影響、そして今後のニュースメディア戦略まで、多角的に深掘りしていきます。SEOに関わる方もそうでない方も必聴の内容です！</description>
+      <itunes:summary>今日はGoogleがモバイル検索で実施した大きな変更について詳しく解説します。AI Overviews（AI概要）の中にTop Storiesカルーセルが完全統合され、さらにPreferred Sources（優先ソース）バッジも強化されました。ニュースサイトの露出がどう変わるのか、従来のSEOとの違い、ユーザー体験への影響、そして今後のニュースメディア戦略まで、多角的に深掘りしていきます。SEOに関わる方もそうでない方も必聴の内容です！</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 06:47:26 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260809-20260809</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vEkYK_LqRA1XJIV1yS72pPschSgYJtzR" length="8216613" type="audio/mpeg"/>
+      <itunes:duration>17:08</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月6日】Google広告が大変革！LSAがPerformance Maxに統合へ</title>
       <description>今回はGoogleが発表した大きな広告の変更についてじっくり解説します。地域密着型のサービス業者が使ってきた「Local Services Ads（LSA）」が、2026年8月からGoogle Ads内の「Performance Max」キャンペーンに統合されることが決まりました。手動入札の廃止、レポートデータの移行不可、Google Business Profileとの連携強化など、小規模事業者にとって準備が急務となる変更点を、背景から実務的な対策まで徹底的に掘り下げます。日本への波及可能性についてもお伝えします。</description>
