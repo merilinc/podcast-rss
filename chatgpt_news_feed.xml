@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 10:29:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:49:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月9日】GPT-5.6 Lunaが全員デフォルトに＆謎のモデル「Astra」延期の裏側</title>
+      <description>今日はOpenAI関連の大きなニュースを3本お届けします。まず、ChatGPTのデフォルトモデルが「GPT-5.6 Luna」に変更され、無料ユーザーも含めて全員がアップグレードされた話。次に、未発表の最先端モデル「Astra」がサイバーセキュリティ上の懸念からリリース延期になった背景と、AI業界全体の安全性議論について深掘りします。最後に、旧DALL-Eで作った画像が8月30日で見られなくなるという緊急のお知らせも。保存方法も含めて詳しく解説しますので、ChatGPTユーザーの方は必聴です！</description>
+      <itunes:summary>今日はOpenAI関連の大きなニュースを3本お届けします。まず、ChatGPTのデフォルトモデルが「GPT-5.6 Luna」に変更され、無料ユーザーも含めて全員がアップグレードされた話。次に、未発表の最先端モデル「Astra」がサイバーセキュリティ上の懸念からリリース延期になった背景と、AI業界全体の安全性議論について深掘りします。最後に、旧DALL-Eで作った画像が8月30日で見られなくなるという緊急のお知らせも。保存方法も含めて詳しく解説しますので、ChatGPTユーザーの方は必聴です！</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 06:49:50 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260809-20260809</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15lsMNEK2li3sHAEulNedy4p_8A1cl1xF" length="8918853" type="audio/mpeg"/>
+      <itunes:duration>18:16</itunes:duration>
+      <itunes:episode>147</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月7日】ChatGPT無料プラン大幅強化＆GPT-5.6モデル三兄弟の全貌</title>
       <description>OpenAIがChatGPTの無料ユーザー向けにテキストチャット無制限化を発表！デフォルトモデルもGPT-5.6 Lunaに変更され、無料でも高品質なAI体験が可能に。さらに、ブラウザ型アプリ「Atlas」の廃止と機能統合の詳細、PowerPoint連携機能の有料化についても深掘りします。GPT-5.6ファミリーのSol・Terra・Lunaの3つのグレードの違いや、競合のClaudeやGeminiとの比較も交えて、AI業界の最新動向をお届けします。</description>
