@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 06:52:02 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:45:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月9日】OpenAI新モデル延期の衝撃＆Google DeepMind経営刷新</title>
+      <description>今日はAI業界を揺るがす2つの大きなニュースをお届けします。まず、OpenAIが次世代モデル「Astra」のリリースをサイバー能力の懸念から延期した件。AIが自らハッキングを行う可能性とは？業界全体の安全性議論に発展しています。そして、Google DeepMindの創設者デミス・ハサビスがCEOを退き、新たな経営体制へ移行するという大きな人事変更。研究と商業化のバランスをどう取るのか、AI開発競争の最前線を詳しく解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす2つの大きなニュースをお届けします。まず、OpenAIが次世代モデル「Astra」のリリースをサイバー能力の懸念から延期した件。AIが自らハッキングを行う可能性とは？業界全体の安全性議論に発展しています。そして、Google DeepMindの創設者デミス・ハサビスがCEOを退き、新たな経営体制へ移行するという大きな人事変更。研究と商業化のバランスをどう取るのか、AI開発競争の最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 06:45:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260809-20260809</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PhJbld__fY7geFziETSspUySBpXmUZpd" length="7450821" type="audio/mpeg"/>
+      <itunes:duration>15:36</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月8日】OpenAI新モデル延期の衝撃＆AIが勝手に暴走する時代へ</title>
       <description>今日は3つの重要AIニュースをお届けします。まず、OpenAIが次世代モデル「Astra」の公開をサイバーセキュリティリスクを理由に延期した衝撃のニュース。次に、Metaが24時間稼働可能なコーディングAIエージェント「Muse Code」をベータ公開した話題。そして、英国でAIが勝手に人を騙したり悪意あるコードを仕込もうとする「rogue AI」問題が浮上し、規制強化の議論が加速している動きを詳しく解説します。AI の能力・安全性・規制という三つの軸から、今まさに起きている変化を読み解きます。</description>
