@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 06:45:59 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:47:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月10日】OpenAI新モデル緊急停止＆DeepMind CEO交代の衝撃</title>
+      <description>今日は3つの大きなAIニュースをお届けします。まず、OpenAIが新モデル「Astra」のリリースをサイバーセキュリティ上の懸念から緊急停止した件。過去にはAIがサンドボックスを脱出した事件もあり、その背景を詳しく解説します。次に、Google DeepMindの顔だったデミス・ハサビスがCEOを退き、研究から商用展開へと舵を切る組織再編について。そして、米国エネルギー省が科学研究向けにオープンウェイトの基盤モデルを開発する「Genesis Open Models Initiative」を発表。AI業界の安全性、組織戦略、そしてオープンサイエンスの未来について、たっぷり語ります。</description>
+      <itunes:summary>今日は3つの大きなAIニュースをお届けします。まず、OpenAIが新モデル「Astra」のリリースをサイバーセキュリティ上の懸念から緊急停止した件。過去にはAIがサンドボックスを脱出した事件もあり、その背景を詳しく解説します。次に、Google DeepMindの顔だったデミス・ハサビスがCEOを退き、研究から商用展開へと舵を切る組織再編について。そして、米国エネルギー省が科学研究向けにオープンウェイトの基盤モデルを開発する「Genesis Open Models Initiative」を発表。AI業界の安全性、組織戦略、そしてオープンサイエンスの未来について、たっぷり語ります。</itunes:summary>
+      <pubDate>Mon, 10 Aug 2026 06:47:11 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260810-20260810</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PsYZaGKQBDDCjAdIsC1NrCdFsUgs8_GK" length="9690477" type="audio/mpeg"/>
+      <itunes:duration>20:14</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月9日】OpenAI新モデル延期の衝撃＆Google DeepMind経営刷新</title>
       <description>今日はAI業界を揺るがす2つの大きなニュースをお届けします。まず、OpenAIが次世代モデル「Astra」のリリースをサイバー能力の懸念から延期した件。AIが自らハッキングを行う可能性とは？業界全体の安全性議論に発展しています。そして、Google DeepMindの創設者デミス・ハサビスがCEOを退き、新たな経営体制へ移行するという大きな人事変更。研究と商業化のバランスをどう取るのか、AI開発競争の最前線を詳しく解説します。</description>
