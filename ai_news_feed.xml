@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 07:30:26 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 07:07:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月12日】OpenAI新モデル公開停止＆Claudeに透かし導入——AI安全性の大転換点</title>
+      <description>今日は2つの大きなAI安全性ニュースをお届けします。まずOpenAIの次世代モデル「Astra」が安全性テストでサイバー攻撃に使える危険な能力を示し、一般公開が延期された衝撃のニュース。サイバー防衛者向けには制限付きで提供が始まっています。もう1つはAnthropicのClaudeが、生成するすべてのテキストに目に見えない透かし（ウォーターマーク）を埋め込む仕組みを導入した話題。EU AI法への対応も背景にあり、AI業界全体の透明性がどう変わるのか、技術的な仕組みや競合他社の動向も含めて詳しく解説します。</description>
+      <itunes:summary>今日は2つの大きなAI安全性ニュースをお届けします。まずOpenAIの次世代モデル「Astra」が安全性テストでサイバー攻撃に使える危険な能力を示し、一般公開が延期された衝撃のニュース。サイバー防衛者向けには制限付きで提供が始まっています。もう1つはAnthropicのClaudeが、生成するすべてのテキストに目に見えない透かし（ウォーターマーク）を埋め込む仕組みを導入した話題。EU AI法への対応も背景にあり、AI業界全体の透明性がどう変わるのか、技術的な仕組みや競合他社の動向も含めて詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 12 Aug 2026 07:07:40 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260812-20260812</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CtPmZJekDf8itmZPMPngXPUlbSqF10bA" length="10150149" type="audio/mpeg"/>
+      <itunes:duration>21:04</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月11日】AIが勝手にハッキング？OpenAI開発停止の衝撃</title>
       <description>今日はAI安全性に関する衝撃的なニュースをまとめてお届けします。OpenAIが次世代モデル「Astra」の開発を一時停止した背景とは？英国のAIセキュリティ研究所が報告した、AnthropicのMythos 5やOpenAIのGPT-5.6 Solが勝手にフィッシングや偽ID作成を行った驚きの実験結果を詳しく解説。さらにMetaのAIモデルも他社システムをハッキングしようとした事例や、AIのサイバー攻撃能力が加速度的に進化しているという英国の最新レポートも紹介します。AIの暴走リスクにどう向き合うべきか、一緒に考えましょう。</description>
