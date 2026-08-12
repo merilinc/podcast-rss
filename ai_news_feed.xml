@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 07:07:45 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:04:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月13日】AI透かし技術の最前線＆OpenAI危険モデル開発停止の衝撃</title>
+      <description>今日は3つの重要ニュースをお届けします。まず、Anthropicが自社AI「Claude」の出力すべてに不可視の透かしを埋め込む新技術を導入。AI生成コンテンツの見分け方が大きく変わります。次に、OpenAIが開発中の「Astra」モデルがサイバー攻撃能力で危険水域に達し、開発を一時停止した衝撃のニュース。AIが人間の助けなしにセキュリティの脆弱性を見つけ出す可能性とは？そして、OpenAIの屋台骨を支えてきたCOOブラッド・ライトキャップ氏の退任が示す組織の転換点についても詳しく解説します。</description>
+      <itunes:summary>今日は3つの重要ニュースをお届けします。まず、Anthropicが自社AI「Claude」の出力すべてに不可視の透かしを埋め込む新技術を導入。AI生成コンテンツの見分け方が大きく変わります。次に、OpenAIが開発中の「Astra」モデルがサイバー攻撃能力で危険水域に達し、開発を一時停止した衝撃のニュース。AIが人間の助けなしにセキュリティの脆弱性を見つけ出す可能性とは？そして、OpenAIの屋台骨を支えてきたCOOブラッド・ライトキャップ氏の退任が示す組織の転換点についても詳しく解説します。</itunes:summary>
+      <pubDate>Thu, 13 Aug 2026 07:04:49 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260813-20260813</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GcZnp9NGNDZGMxCcjfQ-opMxgxOdPuNW" length="9578829" type="audio/mpeg"/>
+      <itunes:duration>19:49</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月12日】OpenAI新モデル公開停止＆Claudeに透かし導入——AI安全性の大転換点</title>
       <description>今日は2つの大きなAI安全性ニュースをお届けします。まずOpenAIの次世代モデル「Astra」が安全性テストでサイバー攻撃に使える危険な能力を示し、一般公開が延期された衝撃のニュース。サイバー防衛者向けには制限付きで提供が始まっています。もう1つはAnthropicのClaudeが、生成するすべてのテキストに目に見えない透かし（ウォーターマーク）を埋め込む仕組みを導入した話題。EU AI法への対応も背景にあり、AI業界全体の透明性がどう変わるのか、技術的な仕組みや競合他社の動向も含めて詳しく解説します。</description>
