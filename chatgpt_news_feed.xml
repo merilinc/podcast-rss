@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 07:04:19 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 07:10:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月13日】ChatGPTに広告が来た！日本でも開始＆セキュリティAI新モデル</title>
+      <description>今日はOpenAI関連の最新ニュースを4本まとめてお届けします。まず注目は、ChatGPTの広告サービスがついに日本を含む5カ国で開始されたこと。無料ユーザーの画面に広告が表示されるようになりました。次に、サイバーセキュリティ専門AIモデル「Daybreak」がAWSで提供開始。攻撃研究にも使える異例のモデルです。さらに、Businessプランに月額125ドルの「プレミアム席」が登場し、使用制限が撤廃されます。課金タイミングの変更予定も含め、OpenAIの収益戦略と企業向け展開を詳しく解説します。</description>
+      <itunes:summary>今日はOpenAI関連の最新ニュースを4本まとめてお届けします。まず注目は、ChatGPTの広告サービスがついに日本を含む5カ国で開始されたこと。無料ユーザーの画面に広告が表示されるようになりました。次に、サイバーセキュリティ専門AIモデル「Daybreak」がAWSで提供開始。攻撃研究にも使える異例のモデルです。さらに、Businessプランに月額125ドルの「プレミアム席」が登場し、使用制限が撤廃されます。課金タイミングの変更予定も含め、OpenAIの収益戦略と企業向け展開を詳しく解説します。</itunes:summary>
+      <pubDate>Thu, 13 Aug 2026 07:10:12 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260813-20260813</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5oEYb9wkQ-kZWlIx7HzQ60LIjaem4TM" length="11104533" type="audio/mpeg"/>
+      <itunes:duration>23:04</itunes:duration>
+      <itunes:episode>151</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月12日】OpenAIサイバー防御モデル＆未発表「Astra」の衝撃</title>
       <description>今日はOpenAI関連の重要ニュースを3本お届けします。まず、サイバーセキュリティ防御に特化した新モデル「GPT-5.6-Cyber」と「Daybreak」プログラムの拡大について詳しく解説。次に、内部評価で「Critical（重大）」レベルに近づいたとされる未発表モデル「Astra」のリリース延期の背景を掘り下げます。さらに、GPT-5.6シリーズの「Terra」「Luna」モデルが最大80％もの大幅値下げを実施した狙いと、開発者・企業への影響を分析します。AI業界の安全性と価格競争の最前線をお届けします。</description>
