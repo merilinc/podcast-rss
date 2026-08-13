@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 07:10:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 07:01:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月14日】OpenAI新モデル停止の衝撃＆サイバー防御AI登場</title>
+      <description>今回はOpenAI関連の重要ニュースを3本お届けします。まず、次期モデル「Astra」が&quot;重大なサイバー能力&quot;を持つことが判明し開発が一時停止された衝撃のニュース。次に、サイバーセキュリティ専門家向けの新モデル「GPT-5.6-Cyber」の正式発表。防御側にAIの力を解放するという新たなアプローチに注目です。さらに、待望のLinux向けChatGPT公式デスクトップアプリがついにプレビュー公開。Anthropicに後追いながらも、Codex統合など独自の強みも。AI安全性の最前線から開発者向けツールまで、たっぷり解説します。</description>
+      <itunes:summary>今回はOpenAI関連の重要ニュースを3本お届けします。まず、次期モデル「Astra」が&quot;重大なサイバー能力&quot;を持つことが判明し開発が一時停止された衝撃のニュース。次に、サイバーセキュリティ専門家向けの新モデル「GPT-5.6-Cyber」の正式発表。防御側にAIの力を解放するという新たなアプローチに注目です。さらに、待望のLinux向けChatGPT公式デスクトップアプリがついにプレビュー公開。Anthropicに後追いながらも、Codex統合など独自の強みも。AI安全性の最前線から開発者向けツールまで、たっぷり解説します。</itunes:summary>
+      <pubDate>Fri, 14 Aug 2026 07:01:54 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260814-20260814</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1L94Y2aSA6HhaF4N2yeQyWr0XUaVTXPxy" length="9910101" type="audio/mpeg"/>
+      <itunes:duration>20:21</itunes:duration>
+      <itunes:episode>152</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月13日】ChatGPTに広告が来た！日本でも開始＆セキュリティAI新モデル</title>
       <description>今日はOpenAI関連の最新ニュースを4本まとめてお届けします。まず注目は、ChatGPTの広告サービスがついに日本を含む5カ国で開始されたこと。無料ユーザーの画面に広告が表示されるようになりました。次に、サイバーセキュリティ専門AIモデル「Daybreak」がAWSで提供開始。攻撃研究にも使える異例のモデルです。さらに、Businessプランに月額125ドルの「プレミアム席」が登場し、使用制限が撤廃されます。課金タイミングの変更予定も含め、OpenAIの収益戦略と企業向け展開を詳しく解説します。</description>
