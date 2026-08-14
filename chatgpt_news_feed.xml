@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 07:01:58 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:42:04 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月15日】OpenAI新モデル緊急停止＆無料チャット無制限化の衝撃</title>
+      <description>今日はOpenAIの新モデル「Astra」がサイバーセキュリティ能力で危険ラインを超え、開発が一時停止された衝撃ニュースを詳しく解説します。さらに、無料ユーザー待望の「GPT-5.6 Luna」による無制限テキストチャット提供開始の全貌と、Anthropicが次期モデル「Model 2」のリリースを急がないと宣言した背景にも迫ります。AI業界全体が「能力 vs 安全性」の岐路に立たされている今、何が起きているのか、分かりやすくお届けします。</description>
+      <itunes:summary>今日はOpenAIの新モデル「Astra」がサイバーセキュリティ能力で危険ラインを超え、開発が一時停止された衝撃ニュースを詳しく解説します。さらに、無料ユーザー待望の「GPT-5.6 Luna」による無制限テキストチャット提供開始の全貌と、Anthropicが次期モデル「Model 2」のリリースを急がないと宣言した背景にも迫ります。AI業界全体が「能力 vs 安全性」の岐路に立たされている今、何が起きているのか、分かりやすくお届けします。</itunes:summary>
+      <pubDate>Sat, 15 Aug 2026 06:42:00 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260815-20260815</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13IeVfY7oqXFbXpPxs4rkEGT-37wnKydF" length="11052285" type="audio/mpeg"/>
+      <itunes:duration>22:50</itunes:duration>
+      <itunes:episode>153</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月14日】OpenAI新モデル停止の衝撃＆サイバー防御AI登場</title>
       <description>今回はOpenAI関連の重要ニュースを3本お届けします。まず、次期モデル「Astra」が&quot;重大なサイバー能力&quot;を持つことが判明し開発が一時停止された衝撃のニュース。次に、サイバーセキュリティ専門家向けの新モデル「GPT-5.6-Cyber」の正式発表。防御側にAIの力を解放するという新たなアプローチに注目です。さらに、待望のLinux向けChatGPT公式デスクトップアプリがついにプレビュー公開。Anthropicに後追いながらも、Codex統合など独自の強みも。AI安全性の最前線から開発者向けツールまで、たっぷり解説します。</description>
