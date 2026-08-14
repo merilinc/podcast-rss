@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 07:04:43 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:45:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月15日】Gemini 3.7 Flash登場＆Claude全世界で電子透かし導入</title>
+      <description>今日はGoogleが発表した新モデル「Gemini 3.7 Flash」の驚異的なコーディング性能と半額の価格設定について詳しく解説します。前モデルからわずか3週間でのアップデートという異例のスピード感の裏側とは？さらに、AnthropicがEU AI法に対応してClaudeモデルに見えない電子透かしを全世界で導入したニュースも。テキストに目に見えないパターンを埋め込む技術の仕組みや、他社への波及効果、私たちの生活への影響まで、たっぷりお届けします。</description>
+      <itunes:summary>今日はGoogleが発表した新モデル「Gemini 3.7 Flash」の驚異的なコーディング性能と半額の価格設定について詳しく解説します。前モデルからわずか3週間でのアップデートという異例のスピード感の裏側とは？さらに、AnthropicがEU AI法に対応してClaudeモデルに見えない電子透かしを全世界で導入したニュースも。テキストに目に見えないパターンを埋め込む技術の仕組みや、他社への波及効果、私たちの生活への影響まで、たっぷりお届けします。</itunes:summary>
+      <pubDate>Sat, 15 Aug 2026 06:45:18 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260815-20260815</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f3Tl7HgZj4Grdfa3iJh5wyl4kGkxq_4o" length="11868909" type="audio/mpeg"/>
+      <itunes:duration>24:21</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月14日】AI透かし義務化時代到来＆GPT-5.6 Sol vs Grok 4.6最新バトル</title>
       <description>今日はAnthropicがClaudeモデルに不可視のウォーターマークを導入しEU AI Actに対応したニュース、OpenAIのGPT-5.6 SolがGrok 4.6など競合モデルとの比較で高評価を維持している話題、そしてMicrosoft 365 CopilotのSharePointアップデートでライブダッシュボードが登場した件の3本立てでお届けします。AI生成コンテンツの透明性がいよいよ法的に求められる時代に突入し、各社がどう対応しているのか詳しく解説。さらに最新モデル同士の性能比較や、企業の業務効率化を変えるAIアシスタントの進化にも迫ります。</description>
