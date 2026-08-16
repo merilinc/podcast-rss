@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 06:47:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:38:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月17日】Google検索に謎の変動？SEO業界騒然の週末スパイク</title>
+      <description>今日はSEO業界で大きな話題になっている、2026年8月12〜13日にかけて発生したGoogle検索ランキングの謎の変動について詳しく解説します。Google公式は何も発表していないのに、複数のトラッキングツールが一斉に異常を検知。中小サイトを中心にトラフィック急落の報告が相次いでいます。AI Overviewsとの関係や、過去の未確認アップデートとの比較、そしてサイト運営者が今すぐ取るべき対策まで、徹底的に掘り下げます。</description>
+      <itunes:summary>今日はSEO業界で大きな話題になっている、2026年8月12〜13日にかけて発生したGoogle検索ランキングの謎の変動について詳しく解説します。Google公式は何も発表していないのに、複数のトラッキングツールが一斉に異常を検知。中小サイトを中心にトラフィック急落の報告が相次いでいます。AI Overviewsとの関係や、過去の未確認アップデートとの比較、そしてサイト運営者が今すぐ取るべき対策まで、徹底的に掘り下げます。</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 06:37:57 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260817-20260817</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kSTuXVkz16I03XwqsYxJGGAztCilixqm" length="7464285" type="audio/mpeg"/>
+      <itunes:duration>15:30</itunes:duration>
+      <itunes:episode>128</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月15日】Google Search ConsoleにAIレポート登場＆llms.txtは効果なし？</title>
       <description>今日はSEO界隈で大きな話題になっている2つのニュースをお届けします。まず、Google Search Consoleに「生成型AIパフォーマンスレポート」がほぼ全サイトに展開され、AI Overviewでの自サイトの露出が初めて可視化できるようになりました。これがSEO戦略にどんな影響を与えるのか詳しく解説します。さらに、AI向けサイト索引ファイル「llms.txt」が実は効果がほぼないという複数の調査結果についても深掘りします。SEO担当者必聴の回です。</description>
