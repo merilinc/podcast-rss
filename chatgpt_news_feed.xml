@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 06:36:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:43:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月17日】ChatGPTが作業履歴を記憶＆14倍高速化の衝撃</title>
+      <description>今日はOpenAIのChatGPTに関する注目ニュースを3本お届けします。まず、macOS版ChatGPTに追加された「Computer History」機能。パソコン上の操作履歴をAIが参照して作業を支援するという、まるでAI秘書のような新機能の詳細と、プライバシー面の対策を解説します。次に、GPT-5.6 Solモデルの「Ultrafast」モード。最大14倍の高速化という驚異的なスピードアップの仕組みに迫ります。さらに、Luna・Terraモデルの大幅値下げなど、OpenAIの価格戦略の全体像もお伝えします。AIの進化とコスト革命の最前線をお届けします！</description>
+      <itunes:summary>今日はOpenAIのChatGPTに関する注目ニュースを3本お届けします。まず、macOS版ChatGPTに追加された「Computer History」機能。パソコン上の操作履歴をAIが参照して作業を支援するという、まるでAI秘書のような新機能の詳細と、プライバシー面の対策を解説します。次に、GPT-5.6 Solモデルの「Ultrafast」モード。最大14倍の高速化という驚異的なスピードアップの仕組みに迫ります。さらに、Luna・Terraモデルの大幅値下げなど、OpenAIの価格戦略の全体像もお伝えします。AIの進化とコスト革命の最前線をお届けします！</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 06:43:17 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260817-20260817</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ScUYml82ODEZJwRtxp91q6le2i1feiVU" length="11084853" type="audio/mpeg"/>
+      <itunes:duration>23:06</itunes:duration>
+      <itunes:episode>155</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月16日】OpenAI幹部が大量退職！IPO前の激震と安全性の行方</title>
       <description>OpenAIがIPO（新規株式公開）に向けた組織再編を進める中、収益責任者や倫理・安全部門の幹部が相次いで退任するという衝撃的なニュースが飛び込んできました。最高収益責任者は就任からわずか1年未満で交代、後任にはサイバーセキュリティ企業出身の人物が就任。さらに倫理責任者や安全システム部門の幹部も次々と離職しており、ChatGPTの安全性や信頼性への影響が懸念されています。競合のAnthropicやGoogleはどう動いているのか？ユーザーにとって何が変わるのか？徹底的に深掘りします。</description>
