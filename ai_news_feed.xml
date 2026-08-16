@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 06:45:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 06:42:28 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月17日】AIサイバー防御の新時代＆見えない電子透かしの衝撃</title>
+      <description>今日は3つのAI最新ニュースをお届けします。まずOpenAIが発表したサイバーセキュリティ特化モデル「GPT-5.6-Cyber」は脆弱性発見の成功率95％という驚異的な性能。次に中国のZ.ai（旧Zhipu AI）がオープンウェイトモデルGLM-5.3をセキュリティ検証付きで公開へ。そしてAnthropicがEU AI Act対応として、AIが書いた文章に目に見えない電子透かしを埋め込む技術を導入します。AIの能力と安全性・透明性をどう両立させるのか、業界の最前線を詳しく解説します。</description>
+      <itunes:summary>今日は3つのAI最新ニュースをお届けします。まずOpenAIが発表したサイバーセキュリティ特化モデル「GPT-5.6-Cyber」は脆弱性発見の成功率95％という驚異的な性能。次に中国のZ.ai（旧Zhipu AI）がオープンウェイトモデルGLM-5.3をセキュリティ検証付きで公開へ。そしてAnthropicがEU AI Act対応として、AIが書いた文章に目に見えない電子透かしを埋め込む技術を導入します。AIの能力と安全性・透明性をどう両立させるのか、業界の最前線を詳しく解説します。</itunes:summary>
+      <pubDate>Mon, 17 Aug 2026 06:42:24 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260817-20260817</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LwHBvSJ1_v3inbx9cjiM2cMT74izaUis" length="11186925" type="audio/mpeg"/>
+      <itunes:duration>23:11</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月15日】Gemini 3.7 Flash登場＆Claude全世界で電子透かし導入</title>
       <description>今日はGoogleが発表した新モデル「Gemini 3.7 Flash」の驚異的なコーディング性能と半額の価格設定について詳しく解説します。前モデルからわずか3週間でのアップデートという異例のスピード感の裏側とは？さらに、AnthropicがEU AI法に対応してClaudeモデルに見えない電子透かしを全世界で導入したニュースも。テキストに目に見えないパターンを埋め込む技術の仕組みや、他社への波及効果、私たちの生活への影響まで、たっぷりお届けします。</description>
