@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 06:46:38 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:43:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月19日】OpenAI安全チーム解散の真相＆Claude全文透かし革命</title>
+      <description>今日はAI安全性に関する重大ニュースを2本お届けします。まず、OpenAIが自社の安全規則「Preparedness Framework」を大幅改訂し、専任の安全チームを解散したニュース。モデルの能力が危険な領域に近づく中、なぜ専門チームをなくしたのか？その狙いと懸念を深掘りします。続いて、Anthropicが開発するClaudeが、AIが書いた文章に目に見えない透かしを埋め込む技術を全世界で導入開始。コピペしても消えない透かしの仕組みとは？EU AI法との関係や、教育・フェイクニュース対策への影響まで詳しく解説します。</description>
+      <itunes:summary>今日はAI安全性に関する重大ニュースを2本お届けします。まず、OpenAIが自社の安全規則「Preparedness Framework」を大幅改訂し、専任の安全チームを解散したニュース。モデルの能力が危険な領域に近づく中、なぜ専門チームをなくしたのか？その狙いと懸念を深掘りします。続いて、Anthropicが開発するClaudeが、AIが書いた文章に目に見えない透かしを埋め込む技術を全世界で導入開始。コピペしても消えない透かしの仕組みとは？EU AI法との関係や、教育・フェイクニュース対策への影響まで詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 07:43:05 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260819-20260819</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XNyRq-d7ftRF5Fr_sbYoy8Szjm8WYh5A" length="9768621" type="audio/mpeg"/>
+      <itunes:duration>20:06</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月18日】Stripe×OpenRouter巨額買収＆Gemini 3.7 Flash登場</title>
       <description>今日は2つの大きなAIニュースをお届けします。まず、決済大手StripeがAIモデルルーティングのOpenRouterを約80億ドル（約1兆2000億円）で買収した衝撃のニュース。なぜ決済会社がAIプラットフォームを買うのか、その狙いを徹底解説します。続いて、GoogleがGemini 3.7 Flashを発表。価格は従来の半額で性能は大幅アップ。AIモデルの価格競争がどこまで進むのか、開発者や企業への影響も含めて詳しくお伝えします。</description>
