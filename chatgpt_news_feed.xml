@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 06:43:20 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 07:43:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月19日】ChatGPTがティーン専用に＆新モデルAstra開発停止の衝撃</title>
+      <description>今日は2つの大きなOpenAIニュースをお届けします。まず、13〜17歳向けの「ChatGPT for Teens」が正式導入。学習モードや保護者コントロールなど、安全機能が盛りだくさんの新モードを徹底解説します。もう1つは、開発中の新モデル「Astra」がサイバーセキュリティのリスク閾値を超えた可能性があるとして、内部作業を一部停止したという衝撃のニュース。OpenAIの安全基準「Preparedness Framework」の全面改訂にも踏み込みます。AI開発の最前線で何が起きているのか、分かりやすくお伝えします。</description>
+      <itunes:summary>今日は2つの大きなOpenAIニュースをお届けします。まず、13〜17歳向けの「ChatGPT for Teens」が正式導入。学習モードや保護者コントロールなど、安全機能が盛りだくさんの新モードを徹底解説します。もう1つは、開発中の新モデル「Astra」がサイバーセキュリティのリスク閾値を超えた可能性があるとして、内部作業を一部停止したという衝撃のニュース。OpenAIの安全基準「Preparedness Framework」の全面改訂にも踏み込みます。AI開発の最前線で何が起きているのか、分かりやすくお伝えします。</itunes:summary>
+      <pubDate>Wed, 19 Aug 2026 07:43:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260819-20260819</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FIADRaC2mopiqxhHFChGwRUeayPm4KSn" length="9707517" type="audio/mpeg"/>
+      <itunes:duration>20:11</itunes:duration>
+      <itunes:episode>156</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月17日】ChatGPTが作業履歴を記憶＆14倍高速化の衝撃</title>
       <description>今日はOpenAIのChatGPTに関する注目ニュースを3本お届けします。まず、macOS版ChatGPTに追加された「Computer History」機能。パソコン上の操作履歴をAIが参照して作業を支援するという、まるでAI秘書のような新機能の詳細と、プライバシー面の対策を解説します。次に、GPT-5.6 Solモデルの「Ultrafast」モード。最大14倍の高速化という驚異的なスピードアップの仕組みに迫ります。さらに、Luna・Terraモデルの大幅値下げなど、OpenAIの価格戦略の全体像もお伝えします。AIの進化とコスト革命の最前線をお届けします！</description>
