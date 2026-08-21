@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 07:42:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:11:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月22日】OpenAIデータ保持ゼロ宣言＆10代向けChatGPT登場</title>
+      <description>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まず、企業向けに「データを一切保持しない」新機能Zero Data Retentionを発表。次に、13〜17歳向けの安全なChatGPT体験がグローバル展開開始。さらにmacOS版ChatGPTがApple Messagesと統合し、メッセージの読み書きが可能に。OpenAIのIPO計画が2027年と明言された話題や、世界規模の障害発生についても詳しく解説します。プライバシー、安全性、ビジネス戦略の最前線をわかりやすくお届けします！</description>
+      <itunes:summary>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まず、企業向けに「データを一切保持しない」新機能Zero Data Retentionを発表。次に、13〜17歳向けの安全なChatGPT体験がグローバル展開開始。さらにmacOS版ChatGPTがApple Messagesと統合し、メッセージの読み書きが可能に。OpenAIのIPO計画が2027年と明言された話題や、世界規模の障害発生についても詳しく解説します。プライバシー、安全性、ビジネス戦略の最前線をわかりやすくお届けします！</itunes:summary>
+      <pubDate>Sat, 22 Aug 2026 07:11:12 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260822-20260822</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b2Am4FV8x2W-oZGUAHoPodQYiRA7vD-v" length="11265501" type="audio/mpeg"/>
+      <itunes:duration>22:58</itunes:duration>
+      <itunes:episode>158</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月21日】ChatGPTプライバシー革新＆10代向け安全機能と欧州広告展開</title>
       <description>今日はOpenAIの最新ニュースを5本まとめてお届けします。データを一切保持しない「ゼロ・データ保持」と新しい安全処理技術の導入、13〜17歳向け「ChatGPT for Teens」の正式ローンチ、ヨーロッパ31カ国への広告事業拡大、そしてログイン障害の経緯と復旧まで。さらにboost.aiがOpenAIパートナーネットワークの認定パートナーに選ばれたニュースも解説します。プライバシー、安全性、収益化、サービス信頼性と、ChatGPTの今を多角的に深掘りします。</description>
