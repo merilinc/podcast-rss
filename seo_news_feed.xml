@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 06:38:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 07:08:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月22日】Googleスパムアップデート完了＆新機能「偏好ソース」の衝撃</title>
+      <description>今回はGoogleが2026年8月に実施した全言語・全地域対象のスパムアップデートについて徹底解説します。SpamBrainの進化でどんなサイトが影響を受けるのか、過去のアップデートとの違いは何かを深掘りします。さらに、サイト運営者必見の新機能「Preferred Sources（偏好ソース）」ボタンについても詳しく紹介。AI OverviewsやAI Modeとの関係、LLMO時代のSEO戦略まで、盛りだくさんでお届けします。</description>
+      <itunes:summary>今回はGoogleが2026年8月に実施した全言語・全地域対象のスパムアップデートについて徹底解説します。SpamBrainの進化でどんなサイトが影響を受けるのか、過去のアップデートとの違いは何かを深掘りします。さらに、サイト運営者必見の新機能「Preferred Sources（偏好ソース）」ボタンについても詳しく紹介。AI OverviewsやAI Modeとの関係、LLMO時代のSEO戦略まで、盛りだくさんでお届けします。</itunes:summary>
+      <pubDate>Sat, 22 Aug 2026 07:08:20 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260822-20260822</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UcFD1l2jjq1AMKHkZaFvAYy8q4Bsrqfg" length="11237781" type="audio/mpeg"/>
+      <itunes:duration>23:41</itunes:duration>
+      <itunes:episode>129</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月17日】Google検索に謎の変動？SEO業界騒然の週末スパイク</title>
       <description>今日はSEO業界で大きな話題になっている、2026年8月12〜13日にかけて発生したGoogle検索ランキングの謎の変動について詳しく解説します。Google公式は何も発表していないのに、複数のトラッキングツールが一斉に異常を検知。中小サイトを中心にトラフィック急落の報告が相次いでいます。AI Overviewsとの関係や、過去の未確認アップデートとの比較、そしてサイト運営者が今すぐ取るべき対策まで、徹底的に掘り下げます。</description>
