@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 07:11:17 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 06:41:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月23日】ChatGPTがiMessageと連携！＆企業向けゼロデータ保存の衝撃</title>
+      <description>今日はOpenAIが発表した注目の2大アップデートをお届けします。まず、ChatGPTのMacアプリからiMessageやSMSの読み書き・送信ができるようになった「Apple Messagesプラグイン」の詳細を解説。Sitesの共同編集やピン留め同期など、ChatGPTが本格的なコラボレーションツールへ進化する姿をお伝えします。さらに、企業向けAPIで最高性能モデルにも「ゼロデータ保存」を拡大し、新たな安全機構「Private Safety Processing」をプレビューした発表について、Anthropicとの比較も交えて深掘りします。プライバシーと利便性の両立に挑むOpenAIの最新戦略をお見逃しなく！</description>
+      <itunes:summary>今日はOpenAIが発表した注目の2大アップデートをお届けします。まず、ChatGPTのMacアプリからiMessageやSMSの読み書き・送信ができるようになった「Apple Messagesプラグイン」の詳細を解説。Sitesの共同編集やピン留め同期など、ChatGPTが本格的なコラボレーションツールへ進化する姿をお伝えします。さらに、企業向けAPIで最高性能モデルにも「ゼロデータ保存」を拡大し、新たな安全機構「Private Safety Processing」をプレビューした発表について、Anthropicとの比較も交えて深掘りします。プライバシーと利便性の両立に挑むOpenAIの最新戦略をお見逃しなく！</itunes:summary>
+      <pubDate>Sun, 23 Aug 2026 06:41:39 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260823-20260823</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pYfB7kwG_5zudvMFwVAOy53kpciYueBg" length="9490821" type="audio/mpeg"/>
+      <itunes:duration>19:40</itunes:duration>
+      <itunes:episode>159</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月22日】OpenAIデータ保持ゼロ宣言＆10代向けChatGPT登場</title>
       <description>今日はOpenAI関連の重要ニュースを5本まとめてお届けします。まず、企業向けに「データを一切保持しない」新機能Zero Data Retentionを発表。次に、13〜17歳向けの安全なChatGPT体験がグローバル展開開始。さらにmacOS版ChatGPTがApple Messagesと統合し、メッセージの読み書きが可能に。OpenAIのIPO計画が2027年と明言された話題や、世界規模の障害発生についても詳しく解説します。プライバシー、安全性、ビジネス戦略の最前線をわかりやすくお届けします！</description>
