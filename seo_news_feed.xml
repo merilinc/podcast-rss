@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 07:08:25 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:42:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月24日】Googleスパムアップデート完了＆AI検索が出版社を脅かす？</title>
+      <description>今回はSEOに関する重要ニュースを3本お届けします。まず、Googleが2026年8月に実施したスパムアップデートが全言語・全地域で完了。薄いアフィリエイトや量産コンテンツが主なターゲットとなりました。次に、出版社が自サイトに「Preferred Sources（優先ソース）」ボタンを設置できるようになり、AI OverviewsやAI Modeでの露出を高める新たな手段が登場。そして最新の研究では、AI検索が出版社へのクリック率を下げているという実験的証拠が明らかに。SEO担当者やサイト運営者必聴の内容です。</description>
+      <itunes:summary>今回はSEOに関する重要ニュースを3本お届けします。まず、Googleが2026年8月に実施したスパムアップデートが全言語・全地域で完了。薄いアフィリエイトや量産コンテンツが主なターゲットとなりました。次に、出版社が自サイトに「Preferred Sources（優先ソース）」ボタンを設置できるようになり、AI OverviewsやAI Modeでの露出を高める新たな手段が登場。そして最新の研究では、AI検索が出版社へのクリック率を下げているという実験的証拠が明らかに。SEO担当者やサイト運営者必聴の内容です。</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 06:42:30 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260824-20260824</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yzcBhvCWqCzXq_C0l_sJUEWruYfnCRVv" length="11581509" type="audio/mpeg"/>
+      <itunes:duration>23:45</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月22日】Googleスパムアップデート完了＆新機能「偏好ソース」の衝撃</title>
       <description>今回はGoogleが2026年8月に実施した全言語・全地域対象のスパムアップデートについて徹底解説します。SpamBrainの進化でどんなサイトが影響を受けるのか、過去のアップデートとの違いは何かを深掘りします。さらに、サイト運営者必見の新機能「Preferred Sources（偏好ソース）」ボタンについても詳しく紹介。AI OverviewsやAI Modeとの関係、LLMO時代のSEO戦略まで、盛りだくさんでお届けします。</description>
