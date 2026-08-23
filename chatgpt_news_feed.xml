@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 06:41:45 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:45:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月24日】ChatGPT広告が欧州上陸＆API大幅値下げ＆ティーン専用モード登場</title>
+      <description>今日はOpenAIの重要ニュースを3本お届けします。まず、ChatGPTの広告機能がついに欧州31カ国に拡大。GDPR規制の中でどう展開するのか詳しく解説します。次に、開発者向けの最上位モデル「GPT-5.6 Sol」のAPI価格が20%以上値下げ。競合Anthropicとの価格競争の裏側に迫ります。最後に、13〜17歳向けの「ChatGPT for Teens」が正式ローンチ。宿題丸投げ防止機能や保護者管理など、注目の新機能を徹底解説します。AIの進化と社会への影響を一緒に考えましょう！</description>
+      <itunes:summary>今日はOpenAIの重要ニュースを3本お届けします。まず、ChatGPTの広告機能がついに欧州31カ国に拡大。GDPR規制の中でどう展開するのか詳しく解説します。次に、開発者向けの最上位モデル「GPT-5.6 Sol」のAPI価格が20%以上値下げ。競合Anthropicとの価格競争の裏側に迫ります。最後に、13〜17歳向けの「ChatGPT for Teens」が正式ローンチ。宿題丸投げ防止機能や保護者管理など、注目の新機能を徹底解説します。AIの進化と社会への影響を一緒に考えましょう！</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 06:45:20 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260824-20260824</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1umstM_B-S191mqLy4IfRXxjsJenWmfBQ" length="12404301" type="audio/mpeg"/>
+      <itunes:duration>25:46</itunes:duration>
+      <itunes:episode>160</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月23日】ChatGPTがiMessageと連携！＆企業向けゼロデータ保存の衝撃</title>
       <description>今日はOpenAIが発表した注目の2大アップデートをお届けします。まず、ChatGPTのMacアプリからiMessageやSMSの読み書き・送信ができるようになった「Apple Messagesプラグイン」の詳細を解説。Sitesの共同編集やピン留め同期など、ChatGPTが本格的なコラボレーションツールへ進化する姿をお伝えします。さらに、企業向けAPIで最高性能モデルにも「ゼロデータ保存」を拡大し、新たな安全機構「Private Safety Processing」をプレビューした発表について、Anthropicとの比較も交えて深掘りします。プライバシーと利便性の両立に挑むOpenAIの最新戦略をお見逃しなく！</description>
