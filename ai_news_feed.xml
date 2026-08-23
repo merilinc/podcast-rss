@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 06:39:05 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:39:09 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月24日】AIはモデルより&quot;包み方&quot;が勝負？NVIDIA驚異の100％達成</title>
+      <description>今日はAI業界の大きな転換点を示す2つのニュースをお届けします。まず、NVIDIAがエージェント・アーキテクチャ「AVO」でClaude Opus 5を包み込み、難関ベンチマークARC-AGI-3で驚異の100％スコアを達成した衝撃のニュース。モデル単体では30％だったスコアがなぜ完璧になったのか、その仕組みを詳しく解説します。さらに、Anthropicが最強モデル「Mythos 5」をセキュリティ用途で企業向けに解放した戦略についても深掘り。AIの性能競争が「モデルそのもの」から「使い方の設計」へと移り変わる最前線をお届けします。</description>
+      <itunes:summary>今日はAI業界の大きな転換点を示す2つのニュースをお届けします。まず、NVIDIAがエージェント・アーキテクチャ「AVO」でClaude Opus 5を包み込み、難関ベンチマークARC-AGI-3で驚異の100％スコアを達成した衝撃のニュース。モデル単体では30％だったスコアがなぜ完璧になったのか、その仕組みを詳しく解説します。さらに、Anthropicが最強モデル「Mythos 5」をセキュリティ用途で企業向けに解放した戦略についても深掘り。AIの性能競争が「モデルそのもの」から「使い方の設計」へと移り変わる最前線をお届けします。</itunes:summary>
+      <pubDate>Mon, 24 Aug 2026 06:39:04 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260824-20260824</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IWPUBKnRzCieKsxAUdmUI_yih6z9Dtd1" length="7600869" type="audio/mpeg"/>
+      <itunes:duration>15:59</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月23日】Nvidia値上げ衝撃＆業務ツールAI革命＆国産LLM新星登場</title>
       <description>今日は3つの注目ニュースをお届けします。まずNvidiaがAIサーバーの価格を15％以上値上げへ。メモリコスト高騰の背景と業界への影響を詳しく解説します。次に、プロジェクト管理ツールmonday.comがAnthropicのClaudeを軸に「エージェント・ファースト」へ大転換。AIを補助ではなく中核に据える新しい業務ツールの姿とは？最後に、国立情報学研究所が公開した国産LLM「LLM-jp-4 33B」。Dense型モデルの特徴や商用利用可能なライセンスの意義、日本のAI技術主権についても深掘りします。</description>
