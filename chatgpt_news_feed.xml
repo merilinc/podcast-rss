@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 06:45:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:36:34 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【8月25日】ChatGPTにチャットロック機能＆欧州広告展開の衝撃</title>
+      <description>今日はChatGPTに関する3つの重要ニュースをお届けします。まず、ChatGPTアプリのコードからPINや指紋認証でチャットをロックできる新機能が発見されました。次に、企業向けにデータを一切保持しない「ゼロデータ保持」と新しいプライバシー保護技術の試験導入について詳しく解説します。そして、ChatGPTの広告が8月24日から欧州31か国で展開開始というビッグニュース。無料ユーザーへの影響や、GoogleやMetaとの広告戦略の違いまで深掘りします。プライバシー強化と収益化を同時に進めるOpenAIの戦略の全貌に迫ります。</description>
+      <itunes:summary>今日はChatGPTに関する3つの重要ニュースをお届けします。まず、ChatGPTアプリのコードからPINや指紋認証でチャットをロックできる新機能が発見されました。次に、企業向けにデータを一切保持しない「ゼロデータ保持」と新しいプライバシー保護技術の試験導入について詳しく解説します。そして、ChatGPTの広告が8月24日から欧州31か国で展開開始というビッグニュース。無料ユーザーへの影響や、GoogleやMetaとの広告戦略の違いまで深掘りします。プライバシー強化と収益化を同時に進めるOpenAIの戦略の全貌に迫ります。</itunes:summary>
+      <pubDate>Tue, 25 Aug 2026 07:36:28 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260825-20260825</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fMeTki5sEUJLiKoA7J-_LnICIZS_uhc9" length="11379861" type="audio/mpeg"/>
+      <itunes:duration>23:24</itunes:duration>
+      <itunes:episode>161</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月24日】ChatGPT広告が欧州上陸＆API大幅値下げ＆ティーン専用モード登場</title>
       <description>今日はOpenAIの重要ニュースを3本お届けします。まず、ChatGPTの広告機能がついに欧州31カ国に拡大。GDPR規制の中でどう展開するのか詳しく解説します。次に、開発者向けの最上位モデル「GPT-5.6 Sol」のAPI価格が20%以上値下げ。競合Anthropicとの価格競争の裏側に迫ります。最後に、13〜17歳向けの「ChatGPT for Teens」が正式ローンチ。宿題丸投げ防止機能や保護者管理など、注目の新機能を徹底解説します。AIの進化と社会への影響を一緒に考えましょう！</description>
