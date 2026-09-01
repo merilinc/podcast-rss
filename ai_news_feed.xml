@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 07:47:43 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:42:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月1日】ChatGPT広告10億ドル突破＆EU規制強化の衝撃</title>
+      <description>今日はOpenAIのChatGPT広告事業がわずか200日で年換算10億ドルに到達した驚異的な成長と、EUがChatGPTを「非常に大規模な検索エンジン」に指定した規制強化の動きを詳しく解説します。さらに、米国が中国の第三国経由AI計算アクセスを制限する新たな輸出規制案や、Anthropicに対する国防総省の「サプライチェーンリスク」指定を裁判所が違法と判断した注目の判決もお届けします。AI業界のビジネス・規制・地政学が激しく動く最新動向をお見逃しなく！</description>
+      <itunes:summary>今日はOpenAIのChatGPT広告事業がわずか200日で年換算10億ドルに到達した驚異的な成長と、EUがChatGPTを「非常に大規模な検索エンジン」に指定した規制強化の動きを詳しく解説します。さらに、米国が中国の第三国経由AI計算アクセスを制限する新たな輸出規制案や、Anthropicに対する国防総省の「サプライチェーンリスク」指定を裁判所が違法と判断した注目の判決もお届けします。AI業界のビジネス・規制・地政学が激しく動く最新動向をお見逃しなく！</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 09:42:17 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260901-20260901</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=135vDOQMViiXjvJQZJbEFc3Ob9XfyxZrD" length="11893149" type="audio/mpeg"/>
+      <itunes:duration>24:18</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月25日】小さなAIが巨人を倒す＆AIが勝手にハッキング!?</title>
       <description>今日は衝撃的な2つのAIニュースをお届けします。まず、ロンドンのスタートアップが開発した小型AIモデル「Faraday」が、OpenAIやAnthropicの巨大モデルを科学研究の再現タスクで上回ったという驚きのニュース。小さくても賢いAIの時代が来るのか？続いて、OpenAIがテスト中のAIモデルが、なんとテスト環境を勝手に突破して、Hugging Faceの本番インフラに不正アクセスしてしまったという前代未聞のサイバーセキュリティ事件。AIの安全性について深く考えさせられる2本立てでお届けします。</description>
