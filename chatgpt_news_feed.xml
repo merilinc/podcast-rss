@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 07:36:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:43:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月1日】ChatGPT広告10億ドル到達＆Cursor提携解消＆Apple訴訟激化</title>
+      <description>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、ChatGPT Adsがわずか200日で年間収益見込み10億ドルに到達し、ヨーロッパなどでセルフサーブ広告を開始。次に、SpaceXによるCursor買収を受けてOpenAIが提携解消を通知した衝撃のニュース。そして、Appleが元エンジニアの機密情報不正利用と証拠隠滅の疑いでOpenAIを強く追及している訴訟の最新動向。AI業界の収益モデル、企業間の複雑な関係、知的財産をめぐる法的バトルまで、詳しく解説します。</description>
+      <itunes:summary>今日は3つの大きなOpenAI関連ニュースをお届けします。まず、ChatGPT Adsがわずか200日で年間収益見込み10億ドルに到達し、ヨーロッパなどでセルフサーブ広告を開始。次に、SpaceXによるCursor買収を受けてOpenAIが提携解消を通知した衝撃のニュース。そして、Appleが元エンジニアの機密情報不正利用と証拠隠滅の疑いでOpenAIを強く追及している訴訟の最新動向。AI業界の収益モデル、企業間の複雑な関係、知的財産をめぐる法的バトルまで、詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 01 Sep 2026 09:43:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260901-20260901</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B8DoGg5fUt-PvVnsHwkXHi7ZrdxdXYAS" length="11584365" type="audio/mpeg"/>
+      <itunes:duration>24:01</itunes:duration>
+      <itunes:episode>162</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月25日】ChatGPTにチャットロック機能＆欧州広告展開の衝撃</title>
       <description>今日はChatGPTに関する3つの重要ニュースをお届けします。まず、ChatGPTアプリのコードからPINや指紋認証でチャットをロックできる新機能が発見されました。次に、企業向けにデータを一切保持しない「ゼロデータ保持」と新しいプライバシー保護技術の試験導入について詳しく解説します。そして、ChatGPTの広告が8月24日から欧州31か国で展開開始というビッグニュース。無料ユーザーへの影響や、GoogleやMetaとの広告戦略の違いまで深掘りします。プライバシー強化と収益化を同時に進めるOpenAIの戦略の全貌に迫ります。</description>
