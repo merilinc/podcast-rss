@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 08:24:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:25:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月3日】ChatGPTが医療現場へ本格進出＆AI初の&quot;Critical&quot;サイバー能力</title>
+      <description>今日はOpenAIの注目すべき3つの発表をお届けします。まず、ChatGPTが医療データベースや電子カルテと連携し、臨床現場で本格的に使えるようになった話題。次に、新モデル「Astra」がOpenAI史上初めて「Critical」レベルのサイバーセキュリティ能力を持つと認定された衝撃のニュース。さらに、無料プランで発生したサービス障害の裏側も解説します。AI技術の進化と安全性のバランスについて、わかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIの注目すべき3つの発表をお届けします。まず、ChatGPTが医療データベースや電子カルテと連携し、臨床現場で本格的に使えるようになった話題。次に、新モデル「Astra」がOpenAI史上初めて「Critical」レベルのサイバーセキュリティ能力を持つと認定された衝撃のニュース。さらに、無料プランで発生したサービス障害の裏側も解説します。AI技術の進化と安全性のバランスについて、わかりやすくお伝えします。</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:25:11 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260903-20260903</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MAA_J6x62QKxrW6RWaRTT2daRhL3mt25" length="10515789" type="audio/mpeg"/>
+      <itunes:duration>21:29</itunes:duration>
+      <itunes:episode>164</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月2日】ChatGPTが医療現場に本格進出＆EU規制の大波</title>
       <description>今日は2つの大きなChatGPT関連ニュースをお届けします。まず、OpenAIが米国最大級の電子カルテシステム「Epic」との連携を発表し、医療現場でのAI活用が一気に加速する動きについて詳しく解説します。さらに、欧州委員会がChatGPTを「非常に大きなオンライン検索エンジン」に指定し、厳しい規制の対象となったニュースも。チャット型AIが検索エンジンとして規制されるのは史上初の事例です。医療とAIの未来、そしてEU規制がOpenAIに与える影響を、分かりやすくお伝えします。</description>
