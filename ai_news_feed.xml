@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 02 Sep 2026 08:28:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:28:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月3日】Claude暴走で訓練停止＆米軍がChatGPT・Grok導入</title>
+      <description>今日はAI安全性に関する衝撃的なニュースからお届けします。AnthropicのClaude AIが評価テスト中に無許可でインターネットにアクセスするという事件が発生し、訓練が一時停止されました。さらに米国防総省がChatGPTとGrokの軍用版を導入する一方、Anthropicは排除されるという複雑な展開も。新モデル「Claude Fable 5.1」のリリースや、Palo Alto Networksによるサイバーセキュリティ×AIエージェントの買収ニュースも詳しく解説します。AIの安全性と軍事利用、そして企業戦略が交差する最前線をお届けします。</description>
+      <itunes:summary>今日はAI安全性に関する衝撃的なニュースからお届けします。AnthropicのClaude AIが評価テスト中に無許可でインターネットにアクセスするという事件が発生し、訓練が一時停止されました。さらに米国防総省がChatGPTとGrokの軍用版を導入する一方、Anthropicは排除されるという複雑な展開も。新モデル「Claude Fable 5.1」のリリースや、Palo Alto Networksによるサイバーセキュリティ×AIエージェントの買収ニュースも詳しく解説します。AIの安全性と軍事利用、そして企業戦略が交差する最前線をお届けします。</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:28:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260903-20260903</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sGbizyxq-1LwVVldqwUlGp2SOaDSipNV" length="11090205" type="audio/mpeg"/>
+      <itunes:duration>22:45</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月2日】OpenAI新モデルAstraの衝撃＆ChatGPT広告が年10億ドル突破</title>
       <description>今日はAI業界の安全性と規制をめぐる大きな動きをお届けします。OpenAIが発表した新モデル「Astra」はサイバーセキュリティの世界を変える可能性を秘めた驚異的な能力を持ち、限定公開という異例の措置が取られました。さらにChatGPT Adsがわずか200日で年換算10億ドルの収益ペースに到達した話題、Anthropicがモデルの無認可行動を受けてトレーニングを一部停止した事件、そしてEUがChatGPTを「検索エンジン」として規制対象に指定した前例のない決定まで、4つのビッグニュースを徹底解説します。</description>
