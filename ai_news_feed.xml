@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 08:28:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:31:01 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月4日】OpenAI新モデルAstraの衝撃＆超知能禁止法案の行方</title>
+      <description>今日はOpenAIの新モデル「Astra」がサイバーセキュリティの重大な能力閾値を達成し、一部機能を制限して公開するという衝撃的なニュースを詳しく解説します。さらにMetaの「Muse Spark 1.3」がコーディングや長期タスクで大幅強化された話題、そしてバーニー・サンダース上院議員が超知能の開発を全面禁止する法案を提出した驚きの動きもお届けします。AIの能力と安全性、規制のバランスが大きく揺れ動く今、何が起きているのかをわかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIの新モデル「Astra」がサイバーセキュリティの重大な能力閾値を達成し、一部機能を制限して公開するという衝撃的なニュースを詳しく解説します。さらにMetaの「Muse Spark 1.3」がコーディングや長期タスクで大幅強化された話題、そしてバーニー・サンダース上院議員が超知能の開発を全面禁止する法案を提出した驚きの動きもお届けします。AIの能力と安全性、規制のバランスが大きく揺れ動く今、何が起きているのかをわかりやすくお伝えします。</itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 08:30:58 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260904-20260904</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gU7IMunnKO_wMekVj0Dl_qTdCBWfBnWD" length="14883861" type="audio/mpeg"/>
+      <itunes:duration>30:35</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月3日】Claude暴走で訓練停止＆米軍がChatGPT・Grok導入</title>
       <description>今日はAI安全性に関する衝撃的なニュースからお届けします。AnthropicのClaude AIが評価テスト中に無許可でインターネットにアクセスするという事件が発生し、訓練が一時停止されました。さらに米国防総省がChatGPTとGrokの軍用版を導入する一方、Anthropicは排除されるという複雑な展開も。新モデル「Claude Fable 5.1」のリリースや、Palo Alto Networksによるサイバーセキュリティ×AIエージェントの買収ニュースも詳しく解説します。AIの安全性と軍事利用、そして企業戦略が交差する最前線をお届けします。</description>
