@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 03 Sep 2026 08:25:17 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:27:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月4日】AIがハッカー超え？＆ChatGPTが病院カルテに接続</title>
+      <description>今日はOpenAIから発表された2つの重要ニュースをお届けします。まず、開発中のAIモデル「Astra」が史上初めてサイバーセキュリティ能力で「Critical（重大）」レベルに到達したニュース。未知の脆弱性を自力で発見できるAIの登場は、セキュリティの世界をどう変えるのでしょうか。そして2つ目は、ChatGPT for Healthcareが米国最大手の電子カルテシステム「Epic」と統合し、医師がAIで患者データを参照できるようになった話題です。医療AIの最前線と、その安全性について詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIから発表された2つの重要ニュースをお届けします。まず、開発中のAIモデル「Astra」が史上初めてサイバーセキュリティ能力で「Critical（重大）」レベルに到達したニュース。未知の脆弱性を自力で発見できるAIの登場は、セキュリティの世界をどう変えるのでしょうか。そして2つ目は、ChatGPT for Healthcareが米国最大手の電子カルテシステム「Epic」と統合し、医師がAIで患者データを参照できるようになった話題です。医療AIの最前線と、その安全性について詳しく解説します。</itunes:summary>
+      <pubDate>Fri, 04 Sep 2026 08:27:34 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260904-20260904</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bIe2xrUthQE-xLEYsWe8o5Va9U1oCnua" length="10756701" type="audio/mpeg"/>
+      <itunes:duration>22:09</itunes:duration>
+      <itunes:episode>165</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月3日】ChatGPTが医療現場へ本格進出＆AI初の&quot;Critical&quot;サイバー能力</title>
       <description>今日はOpenAIの注目すべき3つの発表をお届けします。まず、ChatGPTが医療データベースや電子カルテと連携し、臨床現場で本格的に使えるようになった話題。次に、新モデル「Astra」がOpenAI史上初めて「Critical」レベルのサイバーセキュリティ能力を持つと認定された衝撃のニュース。さらに、無料プランで発生したサービス障害の裏側も解説します。AI技術の進化と安全性のバランスについて、わかりやすくお伝えします。</description>
