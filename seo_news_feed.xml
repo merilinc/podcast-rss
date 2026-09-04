@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 06:42:35 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:08:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月5日】Google新AIモデルGemini 3.8 Flash登場＆引用バグ騒動</title>
+      <description>今日はGoogleが発表した最新AIモデル「Gemini 3.8 Flash」と、サイバーセキュリティ特化版「Flash Cyber」について詳しく解説します。従来モデルからどれだけ進化したのか、料金体系、競合モデルとの比較まで深掘りします。さらに、新モデル導入直後に発生した「AI回答から引用リンクが消える」という重大バグの顛末と、SEO・ウェブサイト運営者への影響についてもお届けします。AIが検索をどう変えていくのか、一緒に考えていきましょう。</description>
+      <itunes:summary>今日はGoogleが発表した最新AIモデル「Gemini 3.8 Flash」と、サイバーセキュリティ特化版「Flash Cyber」について詳しく解説します。従来モデルからどれだけ進化したのか、料金体系、競合モデルとの比較まで深掘りします。さらに、新モデル導入直後に発生した「AI回答から引用リンクが消える」という重大バグの顛末と、SEO・ウェブサイト運営者への影響についてもお届けします。AIが検索をどう変えていくのか、一緒に考えていきましょう。</itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 08:08:31 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260905-20260905</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16e03XPrH0cB_2J1vVZXlsspUmMn-U3gP" length="8450949" type="audio/mpeg"/>
+      <itunes:duration>17:21</itunes:duration>
+      <itunes:episode>131</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【8月24日】Googleスパムアップデート完了＆AI検索が出版社を脅かす？</title>
       <description>今回はSEOに関する重要ニュースを3本お届けします。まず、Googleが2026年8月に実施したスパムアップデートが全言語・全地域で完了。薄いアフィリエイトや量産コンテンツが主なターゲットとなりました。次に、出版社が自サイトに「Preferred Sources（優先ソース）」ボタンを設置できるようになり、AI OverviewsやAI Modeでの露出を高める新たな手段が登場。そして最新の研究では、AI検索が出版社へのクリック率を下げているという実験的証拠が明らかに。SEO担当者やサイト運営者必聴の内容です。</description>
