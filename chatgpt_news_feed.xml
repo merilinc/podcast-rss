@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 08:27:38 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:12:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月5日】GPT-6 Astra登場＆著作権訴訟に米政府参戦</title>
+      <description>OpenAIが発表した最新モデル「GPT-6 Astra」の驚異的な性能とサイバーセキュリティ能力について徹底解説します。さらに、The New York TimesがOpenAIを訴えた著作権訴訟に米政府がOpenAI側で介入した背景と、AI業界全体への影響を深掘り。加えて、ChatGPTとCodexで発生した大規模障害についても取り上げます。AI技術の最前線から法律問題、サービスの信頼性まで、今週の重要トピックを余すところなくお届けします。</description>
+      <itunes:summary>OpenAIが発表した最新モデル「GPT-6 Astra」の驚異的な性能とサイバーセキュリティ能力について徹底解説します。さらに、The New York TimesがOpenAIを訴えた著作権訴訟に米政府がOpenAI側で介入した背景と、AI業界全体への影響を深掘り。加えて、ChatGPTとCodexで発生した大規模障害についても取り上げます。AI技術の最前線から法律問題、サービスの信頼性まで、今週の重要トピックを余すところなくお届けします。</itunes:summary>
+      <pubDate>Sat, 05 Sep 2026 08:12:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260905-20260905</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uZfoBzKxiM-5AErS_k7oek9Rfae2FW_P" length="10359621" type="audio/mpeg"/>
+      <itunes:duration>21:22</itunes:duration>
+      <itunes:episode>166</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月4日】AIがハッカー超え？＆ChatGPTが病院カルテに接続</title>
       <description>今日はOpenAIから発表された2つの重要ニュースをお届けします。まず、開発中のAIモデル「Astra」が史上初めてサイバーセキュリティ能力で「Critical（重大）」レベルに到達したニュース。未知の脆弱性を自力で発見できるAIの登場は、セキュリティの世界をどう変えるのでしょうか。そして2つ目は、ChatGPT for Healthcareが米国最大手の電子カルテシステム「Epic」と統合し、医師がAIで患者データを参照できるようになった話題です。医療AIの最前線と、その安全性について詳しく解説します。</description>
