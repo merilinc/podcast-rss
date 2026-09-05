@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 08:12:57 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:00:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月6日】GPT-6 Astra登場＆OpenAIが10億ドルでサイバー防衛支援</title>
+      <description>今日はOpenAIが発表した最新モデル「GPT-6 Astra」の全貌を徹底解説！従来モデルからどう進化したのか、安全性対策の新技術「チェーン・オブ・ソート監視」とは何か、そしてなぜ有料プラン限定なのかを掘り下げます。さらに、重要インフラを守るために10億ドル規模の支援を行う「Daybreak for Frontline Defenders」構想の狙いと、ChatGPT・Claude・Grokが同時にダウンした大規模障害の裏側にも迫ります。AI業界の最前線を一緒に追いかけましょう！</description>
+      <itunes:summary>今日はOpenAIが発表した最新モデル「GPT-6 Astra」の全貌を徹底解説！従来モデルからどう進化したのか、安全性対策の新技術「チェーン・オブ・ソート監視」とは何か、そしてなぜ有料プラン限定なのかを掘り下げます。さらに、重要インフラを守るために10億ドル規模の支援を行う「Daybreak for Frontline Defenders」構想の狙いと、ChatGPT・Claude・Grokが同時にダウンした大規模障害の裏側にも迫ります。AI業界の最前線を一緒に追いかけましょう！</itunes:summary>
+      <pubDate>Sun, 06 Sep 2026 08:00:28 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260906-20260906</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gfdlBXG7GFdv46soJV-4C2KqJe60rv1h" length="12085389" type="audio/mpeg"/>
+      <itunes:duration>25:11</itunes:duration>
+      <itunes:episode>167</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月5日】GPT-6 Astra登場＆著作権訴訟に米政府参戦</title>
       <description>OpenAIが発表した最新モデル「GPT-6 Astra」の驚異的な性能とサイバーセキュリティ能力について徹底解説します。さらに、The New York TimesがOpenAIを訴えた著作権訴訟に米政府がOpenAI側で介入した背景と、AI業界全体への影響を深掘り。加えて、ChatGPTとCodexで発生した大規模障害についても取り上げます。AI技術の最前線から法律問題、サービスの信頼性まで、今週の重要トピックを余すところなくお届けします。</description>
