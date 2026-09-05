@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 08:31:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:57:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月6日】GPT-6 Astra登場＆NVIDIA巨額買収でAI業界激震</title>
+      <description>今日はAI業界を揺るがす大型ニュースが目白押し！OpenAIがついに「GPT-6 Astra」を発表し、AGI時代の到来を宣言しました。さらにNVIDIAがオープンソースAIの聖地・Hugging Faceを約1.9兆円で買収するという衝撃のニュースも。Microsoftからは60言語対応の音声認識モデル「MAI-Transcribe-2」が登場し、価格破壊が話題に。そしてEUではAI Actの透明性ルールが発効し、チャットボットの表示義務やディープフェイクのラベル付けが企業に課されています。AI開発・規制の最前線を分かりやすく解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす大型ニュースが目白押し！OpenAIがついに「GPT-6 Astra」を発表し、AGI時代の到来を宣言しました。さらにNVIDIAがオープンソースAIの聖地・Hugging Faceを約1.9兆円で買収するという衝撃のニュースも。Microsoftからは60言語対応の音声認識モデル「MAI-Transcribe-2」が登場し、価格破壊が話題に。そしてEUではAI Actの透明性ルールが発効し、チャットボットの表示義務やディープフェイクのラベル付けが企業に課されています。AI開発・規制の最前線を分かりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 06 Sep 2026 07:57:22 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260906-20260906</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VWgu3DoRXvwOrEE0F1fcGUGIRR95aG1B" length="13630845" type="audio/mpeg"/>
+      <itunes:duration>28:08</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月4日】OpenAI新モデルAstraの衝撃＆超知能禁止法案の行方</title>
       <description>今日はOpenAIの新モデル「Astra」がサイバーセキュリティの重大な能力閾値を達成し、一部機能を制限して公開するという衝撃的なニュースを詳しく解説します。さらにMetaの「Muse Spark 1.3」がコーディングや長期タスクで大幅強化された話題、そしてバーニー・サンダース上院議員が超知能の開発を全面禁止する法案を提出した驚きの動きもお届けします。AIの能力と安全性、規制のバランスが大きく揺れ動く今、何が起きているのかをわかりやすくお伝えします。</description>
