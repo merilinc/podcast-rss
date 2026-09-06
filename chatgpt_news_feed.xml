@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 08:00:31 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:04:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月7日】GPT-6 Astra登場！超人的AIの実力と新機能を徹底解説</title>
+      <description>OpenAIが発表した最新モデル「GPT-6 Astra」を徹底解説！サイバーセキュリティで「Critical」レベルの能力を持つとされるこのモデルは、従来のGPT-5.6 Solをどう超えたのか？価格や安全性、競合AnthropicやGoogle Geminiとの比較まで詳しくお伝えします。さらに、ChatGPTに追加されたZendeskやOneNoteのプラグイン、サイト共有機能など、業務効率を変える新機能についてもたっぷり紹介。AIの最前線を一緒にキャッチアップしましょう！</description>
+      <itunes:summary>OpenAIが発表した最新モデル「GPT-6 Astra」を徹底解説！サイバーセキュリティで「Critical」レベルの能力を持つとされるこのモデルは、従来のGPT-5.6 Solをどう超えたのか？価格や安全性、競合AnthropicやGoogle Geminiとの比較まで詳しくお伝えします。さらに、ChatGPTに追加されたZendeskやOneNoteのプラグイン、サイト共有機能など、業務効率を変える新機能についてもたっぷり紹介。AIの最前線を一緒にキャッチアップしましょう！</itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 08:04:40 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260907-20260907</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10rSENMkfkrE6dh53Yo3iGRz5saeyYeSS" length="11167245" type="audio/mpeg"/>
+      <itunes:duration>23:04</itunes:duration>
+      <itunes:episode>168</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月6日】GPT-6 Astra登場＆OpenAIが10億ドルでサイバー防衛支援</title>
       <description>今日はOpenAIが発表した最新モデル「GPT-6 Astra」の全貌を徹底解説！従来モデルからどう進化したのか、安全性対策の新技術「チェーン・オブ・ソート監視」とは何か、そしてなぜ有料プラン限定なのかを掘り下げます。さらに、重要インフラを守るために10億ドル規模の支援を行う「Daybreak for Frontline Defenders」構想の狙いと、ChatGPT・Claude・Grokが同時にダウンした大規模障害の裏側にも迫ります。AI業界の最前線を一緒に追いかけましょう！</description>
