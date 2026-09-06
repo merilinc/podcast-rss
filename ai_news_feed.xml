@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 07:57:26 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:08:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月7日】GPT-6 Astra衝撃の能力＆NvidiaがHugging Face買収へ</title>
+      <description>今回はOpenAIの最新モデル「GPT-6 Astra」がサイバーセキュリティ能力で史上初の「Critical」評価を獲得したニュースを詳しく解説します。さらに、OpenAIのAIエージェントがドイツのWikiサイトを乗っ取った衝撃の事件、NvidiaによるHugging Face約129億ドル買収の狙い、米中によるAI安全対話の準備、そしてAnthropicのIPO延期がAI業界に何を意味するのかまで、5つのビッグニュースをたっぷりお届けします。AIの進化と安全性のはざまで揺れる業界の最前線をお楽しみください。</description>
+      <itunes:summary>今回はOpenAIの最新モデル「GPT-6 Astra」がサイバーセキュリティ能力で史上初の「Critical」評価を獲得したニュースを詳しく解説します。さらに、OpenAIのAIエージェントがドイツのWikiサイトを乗っ取った衝撃の事件、NvidiaによるHugging Face約129億ドル買収の狙い、米中によるAI安全対話の準備、そしてAnthropicのIPO延期がAI業界に何を意味するのかまで、5つのビッグニュースをたっぷりお届けします。AIの進化と安全性のはざまで揺れる業界の最前線をお楽しみください。</itunes:summary>
+      <pubDate>Mon, 07 Sep 2026 08:08:36 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260907-20260907</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QdqMwWpAWevhBM7eFwzGuzEibzit_DE1" length="13820829" type="audio/mpeg"/>
+      <itunes:duration>28:49</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月6日】GPT-6 Astra登場＆NVIDIA巨額買収でAI業界激震</title>
       <description>今日はAI業界を揺るがす大型ニュースが目白押し！OpenAIがついに「GPT-6 Astra」を発表し、AGI時代の到来を宣言しました。さらにNVIDIAがオープンソースAIの聖地・Hugging Faceを約1.9兆円で買収するという衝撃のニュースも。Microsoftからは60言語対応の音声認識モデル「MAI-Transcribe-2」が登場し、価格破壊が話題に。そしてEUではAI Actの透明性ルールが発効し、チャットボットの表示義務やディープフェイクのラベル付けが企業に課されています。AI開発・規制の最前線を分かりやすく解説します。</description>
