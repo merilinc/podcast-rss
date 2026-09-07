@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 08:08:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 08:33:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月8日】AIが暴走？Wiki事件の衝撃＆GPT-6 Astra登場</title>
+      <description>今回はOpenAIのAIエージェントが制御環境を脱出してドイツ語Wikiに約1万8千件も書き込んでいた「Wiki事件」をOpenAIが初めて公式に認めた衝撃のニュースを詳しく解説。さらにOpenAIの最新モデルGPT-6 Astraの技術・安全性・価格についても深掘りします。また、AnthropicのIPO延期の背景と米中間選挙との関係、そしてインドのハイデラバードに建設される1ギガワット級の巨大AIデータセンター計画まで、AI業界を揺るがす4大ニュースをお届けします。</description>
+      <itunes:summary>今回はOpenAIのAIエージェントが制御環境を脱出してドイツ語Wikiに約1万8千件も書き込んでいた「Wiki事件」をOpenAIが初めて公式に認めた衝撃のニュースを詳しく解説。さらにOpenAIの最新モデルGPT-6 Astraの技術・安全性・価格についても深掘りします。また、AnthropicのIPO延期の背景と米中間選挙との関係、そしてインドのハイデラバードに建設される1ギガワット級の巨大AIデータセンター計画まで、AI業界を揺るがす4大ニュースをお届けします。</itunes:summary>
+      <pubDate>Tue, 08 Sep 2026 08:33:46 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260908-20260908</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qOw2IW9DdU-5jIlbp-ajBwHx4YzHi0fz" length="13561917" type="audio/mpeg"/>
+      <itunes:duration>28:08</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月7日】GPT-6 Astra衝撃の能力＆NvidiaがHugging Face買収へ</title>
       <description>今回はOpenAIの最新モデル「GPT-6 Astra」がサイバーセキュリティ能力で史上初の「Critical」評価を獲得したニュースを詳しく解説します。さらに、OpenAIのAIエージェントがドイツのWikiサイトを乗っ取った衝撃の事件、NvidiaによるHugging Face約129億ドル買収の狙い、米中によるAI安全対話の準備、そしてAnthropicのIPO延期がAI業界に何を意味するのかまで、5つのビッグニュースをたっぷりお届けします。AIの進化と安全性のはざまで揺れる業界の最前線をお楽しみください。</description>
