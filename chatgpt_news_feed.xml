@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 08:04:46 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:29:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月9日】GPT-6 Astra登場＆画像生成が劇的進化！AI新時代の幕開け</title>
+      <description>今日はOpenAIの最新ニュースを3本立てでお届けします。まずは新世代モデル「GPT-6 Astra」の正式発表。10万台のGPUで訓練された超高性能モデルの実力と、サイバー攻撃リスクへの安全対策とは？続いて、画像生成機能「Images 2.5」が全ユーザーに開放。スケッチから画像を生成する新機能や、生成速度50%アップの秘密に迫ります。最後は、SlackやGmailと連携してあなたの文体をAIが学ぶ「Writing Style」機能のテスト開始について。プライバシーの懸念も含めて詳しく解説します。</description>
+      <itunes:summary>今日はOpenAIの最新ニュースを3本立てでお届けします。まずは新世代モデル「GPT-6 Astra」の正式発表。10万台のGPUで訓練された超高性能モデルの実力と、サイバー攻撃リスクへの安全対策とは？続いて、画像生成機能「Images 2.5」が全ユーザーに開放。スケッチから画像を生成する新機能や、生成速度50%アップの秘密に迫ります。最後は、SlackやGmailと連携してあなたの文体をAIが学ぶ「Writing Style」機能のテスト開始について。プライバシーの懸念も含めて詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 09 Sep 2026 08:29:46 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260909-20260909</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ah0oNQ42VBMWZQ5t0FgRJz5gkpzMt45H" length="9185517" type="audio/mpeg"/>
+      <itunes:duration>18:57</itunes:duration>
+      <itunes:episode>169</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月7日】GPT-6 Astra登場！超人的AIの実力と新機能を徹底解説</title>
       <description>OpenAIが発表した最新モデル「GPT-6 Astra」を徹底解説！サイバーセキュリティで「Critical」レベルの能力を持つとされるこのモデルは、従来のGPT-5.6 Solをどう超えたのか？価格や安全性、競合AnthropicやGoogle Geminiとの比較まで詳しくお伝えします。さらに、ChatGPTに追加されたZendeskやOneNoteのプラグイン、サイト共有機能など、業務効率を変える新機能についてもたっぷり紹介。AIの最前線を一緒にキャッチアップしましょう！</description>
