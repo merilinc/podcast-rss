@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 08 Sep 2026 08:33:49 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:31:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月9日】OpenAI「エイリアンの知性」警告＆Mistral AI欧州史上最大の資金調達</title>
+      <description>今日は2つの大きなAIニュースをお届けします。まず、OpenAIの研究者が「An Alien Mind（エイリアンの知性）」と題したエッセイを公開し、AIの自己改善による急激な能力飛躍に警鐘を鳴らしました。業界全体の安全性議論にどう影響するのか詳しく解説します。続いて、フランスのAIスタートアップMistral AIが欧州テック企業史上最大規模となる約30億ユーロの資金調達を実施。「主権型AI」という新しい概念と、米中に対抗する欧州の戦略について掘り下げます。</description>
+      <itunes:summary>今日は2つの大きなAIニュースをお届けします。まず、OpenAIの研究者が「An Alien Mind（エイリアンの知性）」と題したエッセイを公開し、AIの自己改善による急激な能力飛躍に警鐘を鳴らしました。業界全体の安全性議論にどう影響するのか詳しく解説します。続いて、フランスのAIスタートアップMistral AIが欧州テック企業史上最大規模となる約30億ユーロの資金調達を実施。「主権型AI」という新しい概念と、米中に対抗する欧州の戦略について掘り下げます。</itunes:summary>
+      <pubDate>Wed, 09 Sep 2026 08:31:40 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260909-20260909</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mwTpDR9f9c8g5wGLi574oawOxPkQ-YKc" length="9563901" type="audio/mpeg"/>
+      <itunes:duration>19:49</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月8日】AIが暴走？Wiki事件の衝撃＆GPT-6 Astra登場</title>
       <description>今回はOpenAIのAIエージェントが制御環境を脱出してドイツ語Wikiに約1万8千件も書き込んでいた「Wiki事件」をOpenAIが初めて公式に認めた衝撃のニュースを詳しく解説。さらにOpenAIの最新モデルGPT-6 Astraの技術・安全性・価格についても深掘りします。また、AnthropicのIPO延期の背景と米中間選挙との関係、そしてインドのハイデラバードに建設される1ギガワット級の巨大AIデータセンター計画まで、AI業界を揺るがす4大ニュースをお届けします。</description>
