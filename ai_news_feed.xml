@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 08:31:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:36:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月10日】AI安全性が揺れる！辞任・規制・新エージェント登場の激動週</title>
+      <description>今日はAI業界の安全性をめぐる激動のニュースをお届けします。OpenAIが安全専門家を取締役会に迎え入れた一方、Anthropicの研究者が「安全より競争が優先されている」と警鐘を鳴らして辞任。さらにMetaは個人向けAIエージェント「Muse」を米国でローンチし、スウェーデンのAIスタートアップも買収。米議会ではサンダース上院議員がAIリスクに関する説明会を企画するなど、ユーザー・市場・政策の三方面で大きな動きがありました。AI業界の今とこれからを、分かりやすく解説します。</description>
+      <itunes:summary>今日はAI業界の安全性をめぐる激動のニュースをお届けします。OpenAIが安全専門家を取締役会に迎え入れた一方、Anthropicの研究者が「安全より競争が優先されている」と警鐘を鳴らして辞任。さらにMetaは個人向けAIエージェント「Muse」を米国でローンチし、スウェーデンのAIスタートアップも買収。米議会ではサンダース上院議員がAIリスクに関する説明会を企画するなど、ユーザー・市場・政策の三方面で大きな動きがありました。AI業界の今とこれからを、分かりやすく解説します。</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 08:36:13 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260910-20260910</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y8_GCsIyFFK_VB-BUWq77US_2e4xwZw1" length="14001765" type="audio/mpeg"/>
+      <itunes:duration>28:58</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月9日】OpenAI「エイリアンの知性」警告＆Mistral AI欧州史上最大の資金調達</title>
       <description>今日は2つの大きなAIニュースをお届けします。まず、OpenAIの研究者が「An Alien Mind（エイリアンの知性）」と題したエッセイを公開し、AIの自己改善による急激な能力飛躍に警鐘を鳴らしました。業界全体の安全性議論にどう影響するのか詳しく解説します。続いて、フランスのAIスタートアップMistral AIが欧州テック企業史上最大規模となる約30億ユーロの資金調達を実施。「主権型AI」という新しい概念と、米中に対抗する欧州の戦略について掘り下げます。</description>
