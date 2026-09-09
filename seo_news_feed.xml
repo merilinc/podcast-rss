@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 08:34:24 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:32:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月10日】PAA回答の97%がAI生成！SEO激変の全貌</title>
+      <description>GoogleがSearch Consoleの生成AIパフォーマンスレポートを全サイトにグローバル展開。AI OverviewsやAI Modeでの表示状況が可視化できるようになりました。さらに衝撃的なのは、英語圏の「People Also Ask」回答の97%がAI生成に置き換わったというデータ。4月時点ではわずか11%だったのが、たった5ヶ月で激変しています。検索結果の地域差異に関する新文書の追加や、GoogleのJohn Mueller氏によるDisavowツールの効果に関する発言も解説。日本のウェブ担当者が今すぐ取るべきアクションを詳しくお届けします。</description>
+      <itunes:summary>GoogleがSearch Consoleの生成AIパフォーマンスレポートを全サイトにグローバル展開。AI OverviewsやAI Modeでの表示状況が可視化できるようになりました。さらに衝撃的なのは、英語圏の「People Also Ask」回答の97%がAI生成に置き換わったというデータ。4月時点ではわずか11%だったのが、たった5ヶ月で激変しています。検索結果の地域差異に関する新文書の追加や、GoogleのJohn Mueller氏によるDisavowツールの効果に関する発言も解説。日本のウェブ担当者が今すぐ取るべきアクションを詳しくお届けします。</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 08:32:41 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260910-20260910</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eCAFiiDG4c4brKarNWYYnoRiRc-foGDo" length="14272053" type="audio/mpeg"/>
+      <itunes:duration>29:20</itunes:duration>
+      <itunes:episode>133</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月9日】EU規制でGoogle検索が激変＆ドメイン移行で98%消滅</title>
       <description>今日はSEOに関する重要ニュースを4本お届けします。まず、EUのDigital Markets Act対応でGoogleが自社サービスの優遇表示を削減し「過去29年で最大の品質低下」と認めた衝撃の発表。次に、欧州経済領域でサイト評価悪用ポリシーの手動ペナルティが無効化される新運用。さらに、UKのニュースサイトが.co.ukから.comへドメイン移行した直後にニュース検索の可視性が98%も激減した事例。最後にGoogle Ads AIダッシュボードの登場まで、SEO担当者必聴の内容です。</description>
