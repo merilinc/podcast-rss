@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 09 Sep 2026 08:29:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 08:30:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月10日】AI安全強化＆数学&quot;盗用疑惑&quot;＆画像生成2.5の全貌</title>
+      <description>今日はOpenAI関連の注目ニュースを4本まとめてお届けします。まず、AI安全の第一人者ポール・クリスティアーノ氏が取締役会に加わった背景と狙いを解説。次に、AIが数学の超難問「ナビエ・ストークス問題」を解いたという衝撃の発表と、それに伴う&quot;盗用疑惑&quot;の真相に迫ります。さらに、画像生成APIで起きた障害の影響と、新しく登場した「ChatGPT Images 2.5」の注目機能もたっぷり紹介。AI業界の安全・倫理・技術革新が交差する最前線をお届けします！</description>
+      <itunes:summary>今日はOpenAI関連の注目ニュースを4本まとめてお届けします。まず、AI安全の第一人者ポール・クリスティアーノ氏が取締役会に加わった背景と狙いを解説。次に、AIが数学の超難問「ナビエ・ストークス問題」を解いたという衝撃の発表と、それに伴う&quot;盗用疑惑&quot;の真相に迫ります。さらに、画像生成APIで起きた障害の影響と、新しく登場した「ChatGPT Images 2.5」の注目機能もたっぷり紹介。AI業界の安全・倫理・技術革新が交差する最前線をお届けします！</itunes:summary>
+      <pubDate>Thu, 10 Sep 2026 08:30:01 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260910-20260910</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZmaWC3GWW-cVutlVrNADAomP8jDyLfdm" length="12206253" type="audio/mpeg"/>
+      <itunes:duration>25:21</itunes:duration>
+      <itunes:episode>170</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月9日】GPT-6 Astra登場＆画像生成が劇的進化！AI新時代の幕開け</title>
       <description>今日はOpenAIの最新ニュースを3本立てでお届けします。まずは新世代モデル「GPT-6 Astra」の正式発表。10万台のGPUで訓練された超高性能モデルの実力と、サイバー攻撃リスクへの安全対策とは？続いて、画像生成機能「Images 2.5」が全ユーザーに開放。スケッチから画像を生成する新機能や、生成速度50%アップの秘密に迫ります。最後は、SlackやGmailと連携してあなたの文体をAIが学ぶ「Writing Style」機能のテスト開始について。プライバシーの懸念も含めて詳しく解説します。</description>
