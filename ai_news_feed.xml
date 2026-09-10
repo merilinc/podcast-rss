@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 10 Sep 2026 08:36:19 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:26:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月11日】Meta新AIエージェント「Muse」＆数学の難問にAIが挑戦</title>
+      <description>今日はMetaが発表した個人向けAIエージェント「Muse」の革新的なセキュリティ設計を詳しく解説。さらに、OpenAIが数学の超難問「ナヴィエ–ストークス問題」の証明をAIで提案した驚きのニュースと、その裏で起きている論争にも迫ります。また、FBI・NSA・CISAが警告した中国によるAIモデルの「蒸留」問題や、Anthropicが報告したAI悪用事例についてもお届けします。AI業界の安全性・規制・技術の最前線がまるごと分かる回です。</description>
+      <itunes:summary>今日はMetaが発表した個人向けAIエージェント「Muse」の革新的なセキュリティ設計を詳しく解説。さらに、OpenAIが数学の超難問「ナヴィエ–ストークス問題」の証明をAIで提案した驚きのニュースと、その裏で起きている論争にも迫ります。また、FBI・NSA・CISAが警告した中国によるAIモデルの「蒸留」問題や、Anthropicが報告したAI悪用事例についてもお届けします。AI業界の安全性・規制・技術の最前線がまるごと分かる回です。</itunes:summary>
+      <pubDate>Fri, 11 Sep 2026 08:26:48 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260911-20260911</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FgWLFk7AbXKFKvXusjPKauoh1R-_GXvv" length="11455989" type="audio/mpeg"/>
+      <itunes:duration>23:44</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月10日】AI安全性が揺れる！辞任・規制・新エージェント登場の激動週</title>
       <description>今日はAI業界の安全性をめぐる激動のニュースをお届けします。OpenAIが安全専門家を取締役会に迎え入れた一方、Anthropicの研究者が「安全より競争が優先されている」と警鐘を鳴らして辞任。さらにMetaは個人向けAIエージェント「Muse」を米国でローンチし、スウェーデンのAIスタートアップも買収。米議会ではサンダース上院議員がAIリスクに関する説明会を企画するなど、ユーザー・市場・政策の三方面で大きな動きがありました。AI業界の今とこれからを、分かりやすく解説します。</description>
