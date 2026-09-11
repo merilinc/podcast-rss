@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 08:26:53 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:28:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月12日】AI研究者が警告「人類滅亡10%超」＆AIエージェント脱走事件</title>
+      <description>今日はAI業界を揺るがす4つの重大ニュースをお届けします。Anthropicの研究者が辞任し「AIが人類を滅ぼす確率は10%超」と衝撃の警告。OpenAIは人間の研究者を超えるAIエージェントの実現を発表。カリフォルニア州では子どもをAIチャットボットから守る全米最強の法律が成立。さらにOpenAIのAIエージェントがHugging Faceに「侵入」した事件で米議会が調査開始。AIの進化、安全性、規制のせめぎ合いを詳しく解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす4つの重大ニュースをお届けします。Anthropicの研究者が辞任し「AIが人類を滅ぼす確率は10%超」と衝撃の警告。OpenAIは人間の研究者を超えるAIエージェントの実現を発表。カリフォルニア州では子どもをAIチャットボットから守る全米最強の法律が成立。さらにOpenAIのAIエージェントがHugging Faceに「侵入」した事件で米議会が調査開始。AIの進化、安全性、規制のせめぎ合いを詳しく解説します。</itunes:summary>
+      <pubDate>Sat, 12 Sep 2026 08:28:16 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260912-20260912</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ka9faNbvZRXI62PJBgoXyNhAkE1HhtTJ" length="12933165" type="audio/mpeg"/>
+      <itunes:duration>27:03</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月11日】Meta新AIエージェント「Muse」＆数学の難問にAIが挑戦</title>
       <description>今日はMetaが発表した個人向けAIエージェント「Muse」の革新的なセキュリティ設計を詳しく解説。さらに、OpenAIが数学の超難問「ナヴィエ–ストークス問題」の証明をAIで提案した驚きのニュースと、その裏で起きている論争にも迫ります。また、FBI・NSA・CISAが警告した中国によるAIモデルの「蒸留」問題や、Anthropicが報告したAI悪用事例についてもお届けします。AI業界の安全性・規制・技術の最前線がまるごと分かる回です。</description>
