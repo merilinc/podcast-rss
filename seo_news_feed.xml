@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 08:31:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:09:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月13日】Google検索が激変！PAAの97%がAI回答に＆欧州ペナルティ問題</title>
+      <description>今回はGoogle検索に関する大きな変化を2つお届けします。まず、検索結果の「People Also Ask（他の人はこちらも質問）」セクションの回答が、なんと97〜100%もAI生成に切り替わったという衝撃のデータを詳しく解説。FAQ型コンテンツを作ってきたサイトへの影響は？さらに、欧州でのGoogleの「サイト・レピュテーション・アビュー」ポリシー適用が変わった背景と、日本のサイト運営者が知っておくべきポイントもお伝えします。SEOの常識が変わりつつある今、必聴の内容です。</description>
+      <itunes:summary>今回はGoogle検索に関する大きな変化を2つお届けします。まず、検索結果の「People Also Ask（他の人はこちらも質問）」セクションの回答が、なんと97〜100%もAI生成に切り替わったという衝撃のデータを詳しく解説。FAQ型コンテンツを作ってきたサイトへの影響は？さらに、欧州でのGoogleの「サイト・レピュテーション・アビュー」ポリシー適用が変わった背景と、日本のサイト運営者が知っておくべきポイントもお伝えします。SEOの常識が変わりつつある今、必聴の内容です。</itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 08:09:18 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260913-20260913</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1igBxc6ob2UmBfvCZ8BzYkfHwp7wmq_Uu" length="9118029" type="audio/mpeg"/>
+      <itunes:duration>18:48</itunes:duration>
+      <itunes:episode>135</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月12日】検索順位が意味をなさない？AI検索が変えるSEOの常識</title>
       <description>今回はSEO・検索マーケティングに関する重要ニュースを4本お届けします。Google検索の「People Also Ask」がほぼ100％AI回答に置き換わった衝撃、Search Consoleの「順位1〜10位」がもはや意味をなさないとGoogleのJohn Mueller氏が発言した件、Search Consoleのインデックスバグ騒動、そしてGoogle Adsのロケーションアセットポリシー更新まで。AI時代のSEO対策と計測の在り方を、分かりやすく解説します。</description>
