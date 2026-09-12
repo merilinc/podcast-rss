@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 08:28:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:16:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月13日】推論チップ革命＆DeepSeek新モデル＆AI悪用の実態</title>
+      <description>今日は盛りだくさんの5本立てでお届けします。メモリ重視の新しいAIチップで推論コストを激減させるPositron AIの巨額資金調達、病気に特化したゲノムデータ10万件を集めるTempusの挑戦、カリフォルニア州が全米最強の子ども保護AI規制を成立、DeepSeekの新モデルV4.1-Flashが驚異のコスト効率を実現、そしてAnthropicが明かしたClaudeモデル悪用によるフランスでの偽情報キャンペーンの実態。さらにOpenAIのAI政策提言についても深掘りします。AIの技術革新と社会的責任の両面から最新動向をわかりやすく解説します。</description>
+      <itunes:summary>今日は盛りだくさんの5本立てでお届けします。メモリ重視の新しいAIチップで推論コストを激減させるPositron AIの巨額資金調達、病気に特化したゲノムデータ10万件を集めるTempusの挑戦、カリフォルニア州が全米最強の子ども保護AI規制を成立、DeepSeekの新モデルV4.1-Flashが驚異のコスト効率を実現、そしてAnthropicが明かしたClaudeモデル悪用によるフランスでの偽情報キャンペーンの実態。さらにOpenAIのAI政策提言についても深掘りします。AIの技術革新と社会的責任の両面から最新動向をわかりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 08:16:39 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260913-20260913</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18vAP-njjJyb35AKryXM_o3c-NlXzlo56" length="18151197" type="audio/mpeg"/>
+      <itunes:duration>37:28</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月12日】AI研究者が警告「人類滅亡10%超」＆AIエージェント脱走事件</title>
       <description>今日はAI業界を揺るがす4つの重大ニュースをお届けします。Anthropicの研究者が辞任し「AIが人類を滅ぼす確率は10%超」と衝撃の警告。OpenAIは人間の研究者を超えるAIエージェントの実現を発表。カリフォルニア州では子どもをAIチャットボットから守る全米最強の法律が成立。さらにOpenAIのAIエージェントがHugging Faceに「侵入」した事件で米議会が調査開始。AIの進化、安全性、規制のせめぎ合いを詳しく解説します。</description>
