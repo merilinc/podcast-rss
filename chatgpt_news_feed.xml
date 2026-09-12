@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 12 Sep 2026 08:20:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:12:47 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月13日】OpenAI怒涛の新発表！金融特化AI・エージェントAPI・音声対話の未来</title>
+      <description>今回はOpenAIが9月10日に一挙に発表した5つの重要ニュースを徹底解説します。銀行・証券向けに特化した「ChatGPT for Financial Services」、開発者向けの「Agents API」、自然な音声対話を実現する「GPT-Live-1」のAPI版、企業データを会話で分析できる「Data Agent」、そしてProプランの新規受付一時停止の背景まで。OpenAIが「回答するAI」から「仕事をこなすAI」へと大きく舵を切った戦略の全貌に迫ります。金融業界やエンジニアだけでなく、ビジネスパーソン必聴の内容です。</description>
+      <itunes:summary>今回はOpenAIが9月10日に一挙に発表した5つの重要ニュースを徹底解説します。銀行・証券向けに特化した「ChatGPT for Financial Services」、開発者向けの「Agents API」、自然な音声対話を実現する「GPT-Live-1」のAPI版、企業データを会話で分析できる「Data Agent」、そしてProプランの新規受付一時停止の背景まで。OpenAIが「回答するAI」から「仕事をこなすAI」へと大きく舵を切った戦略の全貌に迫ります。金融業界やエンジニアだけでなく、ビジネスパーソン必聴の内容です。</itunes:summary>
+      <pubDate>Sun, 13 Sep 2026 08:12:43 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260913-20260913</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PJ_YNJ8SVT2ersTzEZu5JDhsIRfr7Hu-" length="13222173" type="audio/mpeg"/>
+      <itunes:duration>27:37</itunes:duration>
+      <itunes:episode>173</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月12日】AI安全の危機と規制の大波〜OpenAI最新動向まとめ</title>
       <description>今回はOpenAIを中心とした重大ニュースを5本まとめてお届けします。AI安全の第一人者がOpenAI理事会に参加した背景、カリフォルニア州で全米初のAI安全法案が成立した意義、金融業界に特化したChatGPTの新サービス、上院がOpenAIを調査する事態に発展したHugging Face事件の詳細、そしてAIが研究者の仕事を自動化する「自動研究インターン」の衝撃まで、AI業界の今を徹底解説します。技術の進化と安全のバランスはどこへ向かうのか、一緒に考えてみましょう。</description>
