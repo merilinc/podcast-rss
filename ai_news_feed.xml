@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 09:10:15 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:47:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月16日】AI大手3社が異例の安全協力＆トランプ大統領が猛反発</title>
+      <description>OpenAI・Anthropic・Google DeepMindの競合3社がAI安全性で異例の協力体制を構築。Anthropic CEOダリオ・アモデイ氏の「開発速度を抑えよ」という呼びかけが業界を揺るがしています。一方、トランプ大統領はAIリスクを「デマ」と一蹴し、規制反対を鮮明に。Microsoftは自社AI向けの行動規範草案を公開し、教育現場でのAIプライバシー基準にもコミット。AI開発のスピードと安全性、そして政治との三つ巴の攻防を詳しく解説します。</description>
+      <itunes:summary>OpenAI・Anthropic・Google DeepMindの競合3社がAI安全性で異例の協力体制を構築。Anthropic CEOダリオ・アモデイ氏の「開発速度を抑えよ」という呼びかけが業界を揺るがしています。一方、トランプ大統領はAIリスクを「デマ」と一蹴し、規制反対を鮮明に。Microsoftは自社AI向けの行動規範草案を公開し、教育現場でのAIプライバシー基準にもコミット。AI開発のスピードと安全性、そして政治との三つ巴の攻防を詳しく解説します。</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 08:47:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260916-20260916</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sXXzuPRVL53YYvcqp2pI2AZp2KN8BeJG" length="14573973" type="audio/mpeg"/>
+      <itunes:duration>30:15</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月15日】AI安全性の嵐—Microsoft行動規範・人類存続リスク・株価急落</title>
       <description>今日はAI業界を揺るがす安全性論争を中心にお届けします。Microsoftが発表した37ページの「人中心AI行動規範」の中身とは？Anthropicの研究者が語った「AIが人類を滅ぼす確率10％超」の衝撃。それでもIPOを強行するAnthropicの狙い。安全性懸念で世界的にAI株が急落した背景。AIインフラ企業Temporalの巨額資金調達。そしてAI開発の速度調整「ペーシング」を業界リーダーたちが支持し始めた理由まで、6つのトピックを徹底解説します。</description>
