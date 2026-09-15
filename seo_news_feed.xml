@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 08:09:27 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:03:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月15日】Google がAI回答に貢献した記事に報酬？SEOの大転換点</title>
+      <description>今日は2つの重要なSEOニュースをお届けします。まず、GoogleがAI回答の生成に貢献したWebサイトの発行者に報酬を支払う「AI Contribution Pilot」を試験中というビッグニュース。これまでAIに記事を&quot;タダ乗り&quot;されてきた発行者にとって、ゲームチェンジャーになるのでしょうか？さらに、GoogleのJohn Mueller氏がSearch ConsoleのAIレポートの不十分さを認めたというニュースも。SEO担当者にとってAI時代の分析をどう進めるべきか、詳しく解説します。</description>
+      <itunes:summary>今日は2つの重要なSEOニュースをお届けします。まず、GoogleがAI回答の生成に貢献したWebサイトの発行者に報酬を支払う「AI Contribution Pilot」を試験中というビッグニュース。これまでAIに記事を&quot;タダ乗り&quot;されてきた発行者にとって、ゲームチェンジャーになるのでしょうか？さらに、GoogleのJohn Mueller氏がSearch ConsoleのAIレポートの不十分さを認めたというニュースも。SEO担当者にとってAI時代の分析をどう進めるべきか、詳しく解説します。</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 09:03:38 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260915-20260915</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KiUbnhUMiXYBNE2cqMfipsqXhcCHe4IF" length="9282381" type="audio/mpeg"/>
+      <itunes:duration>19:16</itunes:duration>
+      <itunes:episode>136</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月13日】Google検索が激変！PAAの97%がAI回答に＆欧州ペナルティ問題</title>
       <description>今回はGoogle検索に関する大きな変化を2つお届けします。まず、検索結果の「People Also Ask（他の人はこちらも質問）」セクションの回答が、なんと97〜100%もAI生成に切り替わったという衝撃のデータを詳しく解説。FAQ型コンテンツを作ってきたサイトへの影響は？さらに、欧州でのGoogleの「サイト・レピュテーション・アビュー」ポリシー適用が変わった背景と、日本のサイト運営者が知っておくべきポイントもお伝えします。SEOの常識が変わりつつある今、必聴の内容です。</description>
