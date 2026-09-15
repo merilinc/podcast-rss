@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 08:16:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:10:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月15日】AI安全性の嵐—Microsoft行動規範・人類存続リスク・株価急落</title>
+      <description>今日はAI業界を揺るがす安全性論争を中心にお届けします。Microsoftが発表した37ページの「人中心AI行動規範」の中身とは？Anthropicの研究者が語った「AIが人類を滅ぼす確率10％超」の衝撃。それでもIPOを強行するAnthropicの狙い。安全性懸念で世界的にAI株が急落した背景。AIインフラ企業Temporalの巨額資金調達。そしてAI開発の速度調整「ペーシング」を業界リーダーたちが支持し始めた理由まで、6つのトピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす安全性論争を中心にお届けします。Microsoftが発表した37ページの「人中心AI行動規範」の中身とは？Anthropicの研究者が語った「AIが人類を滅ぼす確率10％超」の衝撃。それでもIPOを強行するAnthropicの狙い。安全性懸念で世界的にAI株が急落した背景。AIインフラ企業Temporalの巨額資金調達。そしてAI開発の速度調整「ペーシング」を業界リーダーたちが支持し始めた理由まで、6つのトピックを徹底解説します。</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 09:10:11 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260915-20260915</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1i7KEKv2FMncclligon2C3kIym545RliY" length="13758525" type="audio/mpeg"/>
+      <itunes:duration>28:44</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月13日】推論チップ革命＆DeepSeek新モデル＆AI悪用の実態</title>
       <description>今日は盛りだくさんの5本立てでお届けします。メモリ重視の新しいAIチップで推論コストを激減させるPositron AIの巨額資金調達、病気に特化したゲノムデータ10万件を集めるTempusの挑戦、カリフォルニア州が全米最強の子ども保護AI規制を成立、DeepSeekの新モデルV4.1-Flashが驚異のコスト効率を実現、そしてAnthropicが明かしたClaudeモデル悪用によるフランスでの偽情報キャンペーンの実態。さらにOpenAIのAI政策提言についても深掘りします。AIの技術革新と社会的責任の両面から最新動向をわかりやすく解説します。</description>
