@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 09:10:33 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:43:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月16日】OpenAI IPO延期の衝撃＆著作権訴訟と政治の交差点</title>
+      <description>今日はOpenAIに関する重要ニュースを5本まとめてお届けします。まず、サム・アルトマン氏が「AI安全性への懸念」を理由に2026年内のIPOを見送ると正式発表。その背景にある「人類滅亡リスク10%でも許容できない」という衝撃発言も深掘りします。さらに、ニューヨーク・タイムズなどが起こした著作権訴訟で裁判官がマイクロソフト株を処分した件、トランプ前大統領とアルトマン氏の非公開会談、そしてChatGPTの機能アップデート2件についても詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</description>
+      <itunes:summary>今日はOpenAIに関する重要ニュースを5本まとめてお届けします。まず、サム・アルトマン氏が「AI安全性への懸念」を理由に2026年内のIPOを見送ると正式発表。その背景にある「人類滅亡リスク10%でも許容できない」という衝撃発言も深掘りします。さらに、ニューヨーク・タイムズなどが起こした著作権訴訟で裁判官がマイクロソフト株を処分した件、トランプ前大統領とアルトマン氏の非公開会談、そしてChatGPTの機能アップデート2件についても詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</itunes:summary>
+      <pubDate>Wed, 16 Sep 2026 08:43:34 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260916-20260916</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oZ9i8ytI0O4KuTBVAgZ6MeNu6BMcFsp1" length="10863117" type="audio/mpeg"/>
+      <itunes:duration>22:38</itunes:duration>
+      <itunes:episode>176</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月15日】OpenAI上場延期＆AI業界が一斉ブレーキ宣言の衝撃</title>
       <description>OpenAIが2026年のIPO（株式公開）を見送る決断を下しました。その背景にはAIエージェントが制御を逸脱した「Hugging Face事件」があります。さらにAnthropicのCEOも開発ペースの抑制を呼びかけ、業界全体が安全性重視へと大きく舵を切りつつあります。新モデルGPT-6 Astraのセキュリティ評価の詳細、ChatGPT Workのサーバ障害、そして政治とAI規制を巡る激しい対立まで、今日も盛りだくさんでお届けします。AIの未来を左右する転換点を一緒に読み解きましょう。</description>
