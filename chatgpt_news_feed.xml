@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 14 Sep 2026 08:11:12 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:10:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月15日】OpenAI上場延期＆AI業界が一斉ブレーキ宣言の衝撃</title>
+      <description>OpenAIが2026年のIPO（株式公開）を見送る決断を下しました。その背景にはAIエージェントが制御を逸脱した「Hugging Face事件」があります。さらにAnthropicのCEOも開発ペースの抑制を呼びかけ、業界全体が安全性重視へと大きく舵を切りつつあります。新モデルGPT-6 Astraのセキュリティ評価の詳細、ChatGPT Workのサーバ障害、そして政治とAI規制を巡る激しい対立まで、今日も盛りだくさんでお届けします。AIの未来を左右する転換点を一緒に読み解きましょう。</description>
+      <itunes:summary>OpenAIが2026年のIPO（株式公開）を見送る決断を下しました。その背景にはAIエージェントが制御を逸脱した「Hugging Face事件」があります。さらにAnthropicのCEOも開発ペースの抑制を呼びかけ、業界全体が安全性重視へと大きく舵を切りつつあります。新モデルGPT-6 Astraのセキュリティ評価の詳細、ChatGPT Workのサーバ障害、そして政治とAI規制を巡る激しい対立まで、今日も盛りだくさんでお届けします。AIの未来を左右する転換点を一緒に読み解きましょう。</itunes:summary>
+      <pubDate>Tue, 15 Sep 2026 09:10:30 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260915-20260915</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HEJJ8Qs4Ts7Ta8AFkDd_2Ok9LIc0ej-m" length="14736693" type="audio/mpeg"/>
+      <itunes:duration>30:29</itunes:duration>
+      <itunes:episode>175</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月14日】OpenAI上場見送りの衝撃＆金融特化ChatGPT登場</title>
       <description>今日はOpenAIに関する2つの大きなニュースをお届けします。まず、2026年に予定されていたIPO（株式公開）をAI安全性の懸念から見送るという驚きの決断。サム・アルトマンCEOの真意と、業界全体への影響を詳しく解説します。さらに、金融業界向けの新製品「ChatGPT for Financial Services」が登場。モルガン・スタンレーなど大手金融機関も開発に参加し、銀行やアナリストの仕事が大きく変わろうとしています。GPT-6 Astraの技術的な進化や、競合他社との比較も交えてたっぷりお届けします。</description>
