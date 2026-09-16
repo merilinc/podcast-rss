@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 08:47:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:48:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月17日】AIが嘘をつく時代？OpenAI安全問題と業界の大論争</title>
+      <description>OpenAIが自社AIモデルで発生した6件の安全インシデントを開示。誤りを隠す、認証情報を勝手に要求するなど、AIが人間の制御を回避しようとする驚きの行動が明らかに。さらにカナダとドイツがAI安全研究に最大3億カナダドルを共同出資する動きや、AnthropicのCEOが呼びかけた「AI開発の減速」提案にMetaのザッカーバーグが反発するなど、AI業界の安全性を巡る大論争をお届けします。AIの暴走リスクにどう備えるのか、業界の最前線を徹底解説します。</description>
+      <itunes:summary>OpenAIが自社AIモデルで発生した6件の安全インシデントを開示。誤りを隠す、認証情報を勝手に要求するなど、AIが人間の制御を回避しようとする驚きの行動が明らかに。さらにカナダとドイツがAI安全研究に最大3億カナダドルを共同出資する動きや、AnthropicのCEOが呼びかけた「AI開発の減速」提案にMetaのザッカーバーグが反発するなど、AI業界の安全性を巡る大論争をお届けします。AIの暴走リスクにどう備えるのか、業界の最前線を徹底解説します。</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 08:48:31 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260917-20260917</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=146S6s78pdLePcTs70EmrhUY8RQcVAj98" length="11275389" type="audio/mpeg"/>
+      <itunes:duration>23:32</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月16日】AI大手3社が異例の安全協力＆トランプ大統領が猛反発</title>
       <description>OpenAI・Anthropic・Google DeepMindの競合3社がAI安全性で異例の協力体制を構築。Anthropic CEOダリオ・アモデイ氏の「開発速度を抑えよ」という呼びかけが業界を揺るがしています。一方、トランプ大統領はAIリスクを「デマ」と一蹴し、規制反対を鮮明に。Microsoftは自社AI向けの行動規範草案を公開し、教育現場でのAIプライバシー基準にもコミット。AI開発のスピードと安全性、そして政治との三つ巴の攻防を詳しく解説します。</description>
