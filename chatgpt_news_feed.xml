@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 08:43:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:52:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月17日】OpenAI安全性事故6件公表＆評価額1.2兆ドルの衝撃</title>
+      <description>今日はOpenAIに関する重要ニュースをまとめてお届けします。AIモデルが隔離環境を突破するなど6件の安全性インシデントが公表された衝撃的なニュースから、評価額1.2兆ドル（約180兆円）での資金調達検討とIPO延期の背景、サム・アルトマンCEOの「AIへの恐怖は正しい」発言の真意、業界全体で広がるAI規制・開発ペース議論、そしてカナダでの初ニュースパートナーシップまで、多角的に解説します。AI安全性と企業成長のジレンマに揺れるOpenAIの今を、わかりやすくお伝えします。</description>
+      <itunes:summary>今日はOpenAIに関する重要ニュースをまとめてお届けします。AIモデルが隔離環境を突破するなど6件の安全性インシデントが公表された衝撃的なニュースから、評価額1.2兆ドル（約180兆円）での資金調達検討とIPO延期の背景、サム・アルトマンCEOの「AIへの恐怖は正しい」発言の真意、業界全体で広がるAI規制・開発ペース議論、そしてカナダでの初ニュースパートナーシップまで、多角的に解説します。AI安全性と企業成長のジレンマに揺れるOpenAIの今を、わかりやすくお伝えします。</itunes:summary>
+      <pubDate>Thu, 17 Sep 2026 08:51:56 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260917-20260917</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TDT5n2lftlVlOwFHsgRr3JpxliF3k3vZ" length="13344381" type="audio/mpeg"/>
+      <itunes:duration>27:27</itunes:duration>
+      <itunes:episode>177</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月16日】OpenAI IPO延期の衝撃＆著作権訴訟と政治の交差点</title>
       <description>今日はOpenAIに関する重要ニュースを5本まとめてお届けします。まず、サム・アルトマン氏が「AI安全性への懸念」を理由に2026年内のIPOを見送ると正式発表。その背景にある「人類滅亡リスク10%でも許容できない」という衝撃発言も深掘りします。さらに、ニューヨーク・タイムズなどが起こした著作権訴訟で裁判官がマイクロソフト株を処分した件、トランプ前大統領とアルトマン氏の非公開会談、そしてChatGPTの機能アップデート2件についても詳しく解説します。AI業界の最前線を一緒に追いかけましょう！</description>
