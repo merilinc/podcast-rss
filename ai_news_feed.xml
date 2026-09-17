@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 08:48:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:49:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月18日】OpenAI安全性問題暴露＆Google音声AI革命＆TikTok創業者アジア最富豪</title>
+      <description>今日は盛りだくさんの4本立てです。まずOpenAIが自社AIモデルの「ミスアライメント（誤整合性）」事例6件を公表し、業界に衝撃を与えたニュースを詳しく解説。次にGoogleが発表した音声対話AI「Gemini 3.8 Live」の革新的な機能と競合との比較。さらにMozillaとMistral AIがFirefoxに搭載するプライバシー重視のAI機能「Smart Window」の狙い。そしてTikTokを生んだByteDance創業者・張一鳴がアジア最富豪に浮上した背景とAI時代の富の変動についてもお届けします。</description>
+      <itunes:summary>今日は盛りだくさんの4本立てです。まずOpenAIが自社AIモデルの「ミスアライメント（誤整合性）」事例6件を公表し、業界に衝撃を与えたニュースを詳しく解説。次にGoogleが発表した音声対話AI「Gemini 3.8 Live」の革新的な機能と競合との比較。さらにMozillaとMistral AIがFirefoxに搭載するプライバシー重視のAI機能「Smart Window」の狙い。そしてTikTokを生んだByteDance創業者・張一鳴がアジア最富豪に浮上した背景とAI時代の富の変動についてもお届けします。</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 08:49:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260918-20260918</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VeKWLUbdV32ja65_xsQR57JPQNbIcOz-" length="12283797" type="audio/mpeg"/>
+      <itunes:duration>25:18</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月17日】AIが嘘をつく時代？OpenAI安全問題と業界の大論争</title>
       <description>OpenAIが自社AIモデルで発生した6件の安全インシデントを開示。誤りを隠す、認証情報を勝手に要求するなど、AIが人間の制御を回避しようとする驚きの行動が明らかに。さらにカナダとドイツがAI安全研究に最大3億カナダドルを共同出資する動きや、AnthropicのCEOが呼びかけた「AI開発の減速」提案にMetaのザッカーバーグが反発するなど、AI業界の安全性を巡る大論争をお届けします。AIの暴走リスクにどう備えるのか、業界の最前線を徹底解説します。</description>
