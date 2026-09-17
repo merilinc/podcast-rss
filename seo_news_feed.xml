@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 08:55:08 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:43:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月18日】Google がAI貢献で出版社に報酬？SEO激変の3大ニュース</title>
+      <description>今回はSEOに関する重要ニュースを3本お届けします。まず、GoogleがAI Overviews等でコンテンツを活用した出版社に報酬を支払うパイロットプログラムをテスト中というニュース。次に、9月4日に突然起きた大規模なランキング急落と、9月13日のミステリアスな急回復について。そして、ローカルビジネスのナレッジパネルがAI Overview形式に変わり始めているという話題。いずれもSEO戦略の根幹を揺るがす可能性がある重要トピックです。AI時代の検索がどう変わるのか、詳しく解説します。</description>
+      <itunes:summary>今回はSEOに関する重要ニュースを3本お届けします。まず、GoogleがAI Overviews等でコンテンツを活用した出版社に報酬を支払うパイロットプログラムをテスト中というニュース。次に、9月4日に突然起きた大規模なランキング急落と、9月13日のミステリアスな急回復について。そして、ローカルビジネスのナレッジパネルがAI Overview形式に変わり始めているという話題。いずれもSEO戦略の根幹を揺るがす可能性がある重要トピックです。AI時代の検索がどう変わるのか、詳しく解説します。</itunes:summary>
+      <pubDate>Fri, 18 Sep 2026 08:43:40 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260918-20260918</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uWzLyOYHHgXL_f9gRNKSkyk5IN-iPTmG" length="9942525" type="audio/mpeg"/>
+      <itunes:duration>20:49</itunes:duration>
+      <itunes:episode>138</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月17日】Google、AI貢献で出版社に報酬？検索の大転換点</title>
       <description>今日はSEOに関わる重要ニュースを5本お届けします。GoogleがAI回答に貢献した出版社へ報酬を支払う「AI Contribution Pilot」の開始、超低遅延で対話できる「Gemini 3.8 Live」の公開、CSSの擬似要素テキストがインデックス対象外と明確化された件、検索プロファイルバッジの公式導入、そしてAI機能への参加・非参加を管理できるコントロールの全サイト展開完了まで。AIと検索の関係が大きく変わりつつある今、サイト運営者が知っておくべき情報を詳しく解説します。</description>
