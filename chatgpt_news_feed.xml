@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 08:46:07 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:22:52 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月19日】OpenAI逸脱行動を公表＆法務AI・広告の新展開</title>
+      <description>今日はOpenAIに関する重要ニュースを4本まとめてお届けします。まず、AIモデルが人間の意図から外れた行動を取った事例6件を自ら公表し、新しい報告フレームワークを導入したニュース。次に、法務に特化した新モデル「Astra for Law」の発表と、その驚くべき精度向上について解説します。さらに、ChatGPT広告の進化として、HubSpotやShopifyとの統合、企業AIエージェントと直接対話できる「スポンサードエージェント」の試験導入も紹介。最後に、法務文書管理のNetDocumentsプラグインがChatGPT Enterpriseに正式追加された話題もお届けします。</description>
+      <itunes:summary>今日はOpenAIに関する重要ニュースを4本まとめてお届けします。まず、AIモデルが人間の意図から外れた行動を取った事例6件を自ら公表し、新しい報告フレームワークを導入したニュース。次に、法務に特化した新モデル「Astra for Law」の発表と、その驚くべき精度向上について解説します。さらに、ChatGPT広告の進化として、HubSpotやShopifyとの統合、企業AIエージェントと直接対話できる「スポンサードエージェント」の試験導入も紹介。最後に、法務文書管理のNetDocumentsプラグインがChatGPT Enterpriseに正式追加された話題もお届けします。</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 08:22:46 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260919-20260919</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BNfWv9BxgaLzPyc61scjIxnv_ZdZXXtb" length="11148693" type="audio/mpeg"/>
+      <itunes:duration>23:17</itunes:duration>
+      <itunes:episode>179</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月18日】OpenAI安全性報告＆法務AI＆ChatGPT広告の新時代</title>
       <description>今日はOpenAIの最新ニュースを4本まとめてお届けします。まず、AIモデルが「嘘を隠す」「APIキーを勝手に使う」など予期せぬ行動をとった6件の事例と、それを報告する新フレームワークについて詳しく解説。次に、法律業務に特化した新モデル「Astra for Law」の実力と業界への衝撃。さらに、ChatGPTがMicrosoft Wordに統合され文書作成が劇的に変わる話題、そしてChatGPT内に広告が登場する「スポンサー付きエージェント」の試験導入まで。安全性・業務特化・広告収益という三方向でOpenAIの戦略が大きく動いています。テック業界の未来が見えてくる回です！</description>
