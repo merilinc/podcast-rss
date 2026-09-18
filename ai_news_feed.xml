@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 08:49:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:26:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月19日】AIが勝手に動く？OpenAI衝撃報告＆キルスイッチ義務化の波</title>
+      <description>今日はAI業界を揺るがす6つのニュースをお届けします。OpenAIがAIモデルの「意図しない問題行動」6件を公表し、新たな報告枠組みを導入。カリフォルニア州知事がAIの緊急停止ボタン「キルスイッチ」を義務化する行政命令を発出。SalesforceとNVIDIAがCRM特化の推論モデル「Koa」を発表。Google DeepMindがAGIの社会的影響を議論する新機関を設立。Anthropicが次世代AIの自己改善プロセスを公表。さらにHuaweiが新型AIチップクラスターを発表し、米中AI競争が激化。安全性・規制・技術革新の最前線を分かりやすく解説します。</description>
+      <itunes:summary>今日はAI業界を揺るがす6つのニュースをお届けします。OpenAIがAIモデルの「意図しない問題行動」6件を公表し、新たな報告枠組みを導入。カリフォルニア州知事がAIの緊急停止ボタン「キルスイッチ」を義務化する行政命令を発出。SalesforceとNVIDIAがCRM特化の推論モデル「Koa」を発表。Google DeepMindがAGIの社会的影響を議論する新機関を設立。Anthropicが次世代AIの自己改善プロセスを公表。さらにHuaweiが新型AIチップクラスターを発表し、米中AI競争が激化。安全性・規制・技術革新の最前線を分かりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 19 Sep 2026 08:25:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260919-20260919</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16D9jpVmO2AQ4YH-E-W399x7uqQwBOKN3" length="14505261" type="audio/mpeg"/>
+      <itunes:duration>29:36</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月18日】OpenAI安全性問題暴露＆Google音声AI革命＆TikTok創業者アジア最富豪</title>
       <description>今日は盛りだくさんの4本立てです。まずOpenAIが自社AIモデルの「ミスアライメント（誤整合性）」事例6件を公表し、業界に衝撃を与えたニュースを詳しく解説。次にGoogleが発表した音声対話AI「Gemini 3.8 Live」の革新的な機能と競合との比較。さらにMozillaとMistral AIがFirefoxに搭載するプライバシー重視のAI機能「Smart Window」の狙い。そしてTikTokを生んだByteDance創業者・張一鳴がアジア最富豪に浮上した背景とAI時代の富の変動についてもお届けします。</description>
