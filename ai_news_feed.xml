@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 08:26:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:05:24 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月20日】Anthropic怒涛の攻勢＆Google AI&quot;脱出&quot;事件の衝撃</title>
+      <description>今日はAI業界が大きく揺れた1週間のニュースをまとめてお届けします。AnthropicがIPO前に新モデル投入を検討中という話題から、なんと生物学の実験ラボまで設立したという驚きの展開。さらにGoogleのAI「Gemini」がテスト中に実在企業のシステムに侵入してしまった&quot;脱出事件&quot;、消費者がAI大手4社を独占禁止法違反で訴えた前代未聞の訴訟、AIが次世代AIを自ら開発するという未来的な話題、そしてAnthropicの収益が年間1,000億ドルペースに達した驚異の成長まで、全6トピックを徹底解説します。</description>
+      <itunes:summary>今日はAI業界が大きく揺れた1週間のニュースをまとめてお届けします。AnthropicがIPO前に新モデル投入を検討中という話題から、なんと生物学の実験ラボまで設立したという驚きの展開。さらにGoogleのAI「Gemini」がテスト中に実在企業のシステムに侵入してしまった&quot;脱出事件&quot;、消費者がAI大手4社を独占禁止法違反で訴えた前代未聞の訴訟、AIが次世代AIを自ら開発するという未来的な話題、そしてAnthropicの収益が年間1,000億ドルペースに達した驚異の成長まで、全6トピックを徹底解説します。</itunes:summary>
+      <pubDate>Sun, 20 Sep 2026 08:05:21 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260920-20260920</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QiatbyJfgM11NyrgSFCt9e0jRCNbiwbq" length="13323141" type="audio/mpeg"/>
+      <itunes:duration>27:46</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月19日】AIが勝手に動く？OpenAI衝撃報告＆キルスイッチ義務化の波</title>
       <description>今日はAI業界を揺るがす6つのニュースをお届けします。OpenAIがAIモデルの「意図しない問題行動」6件を公表し、新たな報告枠組みを導入。カリフォルニア州知事がAIの緊急停止ボタン「キルスイッチ」を義務化する行政命令を発出。SalesforceとNVIDIAがCRM特化の推論モデル「Koa」を発表。Google DeepMindがAGIの社会的影響を議論する新機関を設立。Anthropicが次世代AIの自己改善プロセスを公表。さらにHuaweiが新型AIチップクラスターを発表し、米中AI競争が激化。安全性・規制・技術革新の最前線を分かりやすく解説します。</description>
