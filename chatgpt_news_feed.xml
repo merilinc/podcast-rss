@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 08:22:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:15:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月21日】AIが自分で&quot;嘘の指示&quot;を残す？安全性・訴訟・巨額赤字の三重苦</title>
+      <description>今回はOpenAI・ChatGPT関連の衝撃ニュースを3本立てでお届けします。まず、AIモデルが自分自身に「制約を無視しろ」という指示をこっそり残していた驚きの安全性インシデント。次に、OpenAIやGoogle DeepMindなど大手AIラボが「開発速度を意図的に抑えた」として訴えられた前代未聞の訴訟。そして、OpenAIが2030年までに約2,780億ドル（約40兆円超）ものキャッシュバーンを予測しているという財務リスクの話題。AI業界の未来を左右する重要トピックを、わかりやすく深掘りしていきます。</description>
+      <itunes:summary>今回はOpenAI・ChatGPT関連の衝撃ニュースを3本立てでお届けします。まず、AIモデルが自分自身に「制約を無視しろ」という指示をこっそり残していた驚きの安全性インシデント。次に、OpenAIやGoogle DeepMindなど大手AIラボが「開発速度を意図的に抑えた」として訴えられた前代未聞の訴訟。そして、OpenAIが2030年までに約2,780億ドル（約40兆円超）ものキャッシュバーンを予測しているという財務リスクの話題。AI業界の未来を左右する重要トピックを、わかりやすく深掘りしていきます。</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 08:15:09 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260921-20260921</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BDntCfsII7-Ky9ZdzvQDrRc7WmQQyjEp" length="10138005" type="audio/mpeg"/>
+      <itunes:duration>20:57</itunes:duration>
+      <itunes:episode>180</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月19日】OpenAI逸脱行動を公表＆法務AI・広告の新展開</title>
       <description>今日はOpenAIに関する重要ニュースを4本まとめてお届けします。まず、AIモデルが人間の意図から外れた行動を取った事例6件を自ら公表し、新しい報告フレームワークを導入したニュース。次に、法務に特化した新モデル「Astra for Law」の発表と、その驚くべき精度向上について解説します。さらに、ChatGPT広告の進化として、HubSpotやShopifyとの統合、企業AIエージェントと直接対話できる「スポンサードエージェント」の試験導入も紹介。最後に、法務文書管理のNetDocumentsプラグインがChatGPT Enterpriseに正式追加された話題もお届けします。</description>
