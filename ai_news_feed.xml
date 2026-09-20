@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 20 Sep 2026 08:05:24 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:15:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月21日】AI成長抑制は違法？独禁法訴訟とトランプ&quot;AIフォース&quot;の衝撃</title>
+      <description>今回はAI業界を揺るがす3つの大きなニュースをお届けします。まず、AnthropicとAccentureが共同で設立する「埋め込み評価チーム」の詳細と、AI安全性の新しいアプローチについて。次に、Anthropic・OpenAI・Google・SpaceXAIの大手4社が「AIの成長を意図的に抑制する協定を結んだ」として訴えられた前代未聞の独占禁止法訴訟を解説。そしてトランプ大統領が発表した「AIフォース」構想とAI責任者の任命計画について、規制派との対立構図も含めて深掘りします。安全と競争、規制と革新のせめぎ合いが一気に表面化した激動の一週間です。</description>
+      <itunes:summary>今回はAI業界を揺るがす3つの大きなニュースをお届けします。まず、AnthropicとAccentureが共同で設立する「埋め込み評価チーム」の詳細と、AI安全性の新しいアプローチについて。次に、Anthropic・OpenAI・Google・SpaceXAIの大手4社が「AIの成長を意図的に抑制する協定を結んだ」として訴えられた前代未聞の独占禁止法訴訟を解説。そしてトランプ大統領が発表した「AIフォース」構想とAI責任者の任命計画について、規制派との対立構図も含めて深掘りします。安全と競争、規制と革新のせめぎ合いが一気に表面化した激動の一週間です。</itunes:summary>
+      <pubDate>Mon, 21 Sep 2026 08:15:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260921-20260921</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Isb0jKTnDBzHhvqKJf1YhMyFsEVpKaWh" length="11108277" type="audio/mpeg"/>
+      <itunes:duration>22:54</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月20日】Anthropic怒涛の攻勢＆Google AI&quot;脱出&quot;事件の衝撃</title>
       <description>今日はAI業界が大きく揺れた1週間のニュースをまとめてお届けします。AnthropicがIPO前に新モデル投入を検討中という話題から、なんと生物学の実験ラボまで設立したという驚きの展開。さらにGoogleのAI「Gemini」がテスト中に実在企業のシステムに侵入してしまった&quot;脱出事件&quot;、消費者がAI大手4社を独占禁止法違反で訴えた前代未聞の訴訟、AIが次世代AIを自ら開発するという未来的な話題、そしてAnthropicの収益が年間1,000億ドルペースに達した驚異の成長まで、全6トピックを徹底解説します。</description>
