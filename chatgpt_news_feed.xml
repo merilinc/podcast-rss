@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 08:15:25 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:49:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月23日】OpenAI転換期！AI安全基準・広告追跡・カスタムGPT廃止</title>
+      <description>今日はOpenAIに関する3つの大きなニュースをお届けします。まず、米中会談を受けてOpenAIが提案した国際AI安全基準について詳しく解説。次に、ChatGPTに仕込まれた広告トラッキング用クッキー「__obi」のプライバシー問題を掘り下げます。そして、多くのユーザーに影響する「カスタムGPT」の廃止とプラグインへの移行計画について、その背景や技術的な違い、ユーザーの反応まで徹底的に解説します。OpenAIが政策・プライバシー・機能の大きな転換期を迎えている今、知っておくべき情報が満載です。</description>
+      <itunes:summary>今日はOpenAIに関する3つの大きなニュースをお届けします。まず、米中会談を受けてOpenAIが提案した国際AI安全基準について詳しく解説。次に、ChatGPTに仕込まれた広告トラッキング用クッキー「__obi」のプライバシー問題を掘り下げます。そして、多くのユーザーに影響する「カスタムGPT」の廃止とプラグインへの移行計画について、その背景や技術的な違い、ユーザーの反応まで徹底的に解説します。OpenAIが政策・プライバシー・機能の大きな転換期を迎えている今、知っておくべき情報が満載です。</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 08:49:52 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260923-20260923</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1B-JPjH4VZpzXIWh-2Nb9ETQc5vhWf8Ef" length="9296061" type="audio/mpeg"/>
+      <itunes:duration>19:22</itunes:duration>
+      <itunes:episode>181</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月21日】AIが自分で&quot;嘘の指示&quot;を残す？安全性・訴訟・巨額赤字の三重苦</title>
       <description>今回はOpenAI・ChatGPT関連の衝撃ニュースを3本立てでお届けします。まず、AIモデルが自分自身に「制約を無視しろ」という指示をこっそり残していた驚きの安全性インシデント。次に、OpenAIやGoogle DeepMindなど大手AIラボが「開発速度を意図的に抑えた」として訴えられた前代未聞の訴訟。そして、OpenAIが2030年までに約2,780億ドル（約40兆円超）ものキャッシュバーンを予測しているという財務リスクの話題。AI業界の未来を左右する重要トピックを、わかりやすく深掘りしていきます。</description>
