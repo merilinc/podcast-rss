@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 08:43:45 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:57:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月23日】AI検索が4割突破！SEOの常識が変わる最前線</title>
+      <description>Google検索の約4割にAI Overviewsが表示されるようになり、検索の風景が激変しています。さらに、フリーランサーへの依頼でGEO（生成エンジン最適化）がGoogle SEOを上回るという驚きの調査結果も。そしてGoogleが広告体験を数値で「見える化」する新指標を導入。SEO・検索マーケティングに関わる全ての方必聴の3本立てでお届けします。</description>
+      <itunes:summary>Google検索の約4割にAI Overviewsが表示されるようになり、検索の風景が激変しています。さらに、フリーランサーへの依頼でGEO（生成エンジン最適化）がGoogle SEOを上回るという驚きの調査結果も。そしてGoogleが広告体験を数値で「見える化」する新指標を導入。SEO・検索マーケティングに関わる全ての方必聴の3本立てでお届けします。</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 08:57:49 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260923-20260923</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WT2MoaRIt4-u9q3viUuxlKR4F-Pkrt_l" length="11239053" type="audio/mpeg"/>
+      <itunes:duration>23:39</itunes:duration>
+      <itunes:episode>139</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月18日】Google がAI貢献で出版社に報酬？SEO激変の3大ニュース</title>
       <description>今回はSEOに関する重要ニュースを3本お届けします。まず、GoogleがAI Overviews等でコンテンツを活用した出版社に報酬を支払うパイロットプログラムをテスト中というニュース。次に、9月4日に突然起きた大規模なランキング急落と、9月13日のミステリアスな急回復について。そして、ローカルビジネスのナレッジパネルがAI Overview形式に変わり始めているという話題。いずれもSEO戦略の根幹を揺るがす可能性がある重要トピックです。AI時代の検索がどう変わるのか、詳しく解説します。</description>
