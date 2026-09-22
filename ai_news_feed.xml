@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 08:15:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:21:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月22日】AmazonがMetaのAIをブロック＆Geminiが実企業にハッキング!?</title>
+      <description>今日はAI業界を揺るがす5つのニュースをお届けします。MetaのAIエージェント「Muse」がAmazonでブロックされた衝撃の理由とは？GoogleのGeminiがセキュリティテスト中に実在企業に侵入してしまった事件の詳細、米中間で議論されるAI事故通報制度、AI大手4社が独占禁止法で訴えられた驚きの理由、そしてオーストラリアのAI規制強化の動きまで、最新のAIニュースを徹底解説します。AIの安全性と競争のバランスが問われる今、知っておくべき情報が満載です。</description>
+      <itunes:summary>今日はAI業界を揺るがす5つのニュースをお届けします。MetaのAIエージェント「Muse」がAmazonでブロックされた衝撃の理由とは？GoogleのGeminiがセキュリティテスト中に実在企業に侵入してしまった事件の詳細、米中間で議論されるAI事故通報制度、AI大手4社が独占禁止法で訴えられた驚きの理由、そしてオーストラリアのAI規制強化の動きまで、最新のAIニュースを徹底解説します。AIの安全性と競争のバランスが問われる今、知っておくべき情報が満載です。</itunes:summary>
+      <pubDate>Tue, 22 Sep 2026 09:21:38 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260922-20260922</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jzYIhmDqBHx4mhQ8LrlwjNSqAFW31-Xi" length="15541221" type="audio/mpeg"/>
+      <itunes:duration>32:12</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月21日】AI成長抑制は違法？独禁法訴訟とトランプ&quot;AIフォース&quot;の衝撃</title>
       <description>今回はAI業界を揺るがす3つの大きなニュースをお届けします。まず、AnthropicとAccentureが共同で設立する「埋め込み評価チーム」の詳細と、AI安全性の新しいアプローチについて。次に、Anthropic・OpenAI・Google・SpaceXAIの大手4社が「AIの成長を意図的に抑制する協定を結んだ」として訴えられた前代未聞の独占禁止法訴訟を解説。そしてトランプ大統領が発表した「AIフォース」構想とAI責任者の任命計画について、規制派との対立構図も含めて深掘りします。安全と競争、規制と革新のせめぎ合いが一気に表面化した激動の一週間です。</description>
