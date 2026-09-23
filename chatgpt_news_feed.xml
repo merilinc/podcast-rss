@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 08:49:57 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:50:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月24日】GPT-6登場＆API半額！銃乱射訴訟でOpenAIの責任問われる</title>
+      <description>今日はOpenAIの新モデル「GPT-6 Sol」と「GPT-6 Luna」の正式導入とAPI価格の大幅値下げについて詳しく解説します。さらに、ChatGPTのVoiceモードでプラグインが使えるようになった話、学習に便利な「フラッシュカード」機能の追加、Plus/Proユーザーを襲った一時的な障害についても紹介。そして、カナダの銃乱射事件を巡りブリティッシュコロンビア州がOpenAIとサム・アルトマンCEOを提訴した衝撃のニュース、さらにOpenAIが提案する米中間のAI安全基準についても深掘りしていきます。AIの進化と安全性のバランスを一緒に考えましょう。</description>
+      <itunes:summary>今日はOpenAIの新モデル「GPT-6 Sol」と「GPT-6 Luna」の正式導入とAPI価格の大幅値下げについて詳しく解説します。さらに、ChatGPTのVoiceモードでプラグインが使えるようになった話、学習に便利な「フラッシュカード」機能の追加、Plus/Proユーザーを襲った一時的な障害についても紹介。そして、カナダの銃乱射事件を巡りブリティッシュコロンビア州がOpenAIとサム・アルトマンCEOを提訴した衝撃のニュース、さらにOpenAIが提案する米中間のAI安全基準についても深掘りしていきます。AIの進化と安全性のバランスを一緒に考えましょう。</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 08:49:57 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260924-20260924</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1t1VVxMp94OU3LUkfO20d4aSPvmTmYnRs" length="12038589" type="audio/mpeg"/>
+      <itunes:duration>24:55</itunes:duration>
+      <itunes:episode>182</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月23日】OpenAI転換期！AI安全基準・広告追跡・カスタムGPT廃止</title>
       <description>今日はOpenAIに関する3つの大きなニュースをお届けします。まず、米中会談を受けてOpenAIが提案した国際AI安全基準について詳しく解説。次に、ChatGPTに仕込まれた広告トラッキング用クッキー「__obi」のプライバシー問題を掘り下げます。そして、多くのユーザーに影響する「カスタムGPT」の廃止とプラグインへの移行計画について、その背景や技術的な違い、ユーザーの反応まで徹底的に解説します。OpenAIが政策・プライバシー・機能の大きな転換期を迎えている今、知っておくべき情報が満載です。</description>
