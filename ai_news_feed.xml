@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 09:01:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:56:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月24日】AI価格破壊の三つ巴戦＆MetaのMuseをAmazonがブロック</title>
+      <description>今日はAI業界が一気に動いた週末のニュースをまとめてお届けします。AnthropicのClaude Opus 5.5、OpenAIのGPT-6 SolとLuna、SpaceXAIのGrok 4.7と、主要3社が相次いで新モデルを発表。コスト削減と性能向上の激しい競争が繰り広げられています。さらに、MetaのAIエージェント「Muse」がAmazonでの買い物機能をブロックされた事件の背景と、それでもChatGPTを超えるペースで成長するMuseの勢いについても詳しく解説。Progress SoftwareによるDomo買収の狙いも含め、AI業界の最前線をお届けします。</description>
+      <itunes:summary>今日はAI業界が一気に動いた週末のニュースをまとめてお届けします。AnthropicのClaude Opus 5.5、OpenAIのGPT-6 SolとLuna、SpaceXAIのGrok 4.7と、主要3社が相次いで新モデルを発表。コスト削減と性能向上の激しい競争が繰り広げられています。さらに、MetaのAIエージェント「Muse」がAmazonでの買い物機能をブロックされた事件の背景と、それでもChatGPTを超えるペースで成長するMuseの勢いについても詳しく解説。Progress SoftwareによるDomo買収の狙いも含め、AI業界の最前線をお届けします。</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 08:56:44 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260924-20260924</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yEh6TNMOyXJlT1-yFSlk6hZxtBVyEcdK" length="13857261" type="audio/mpeg"/>
+      <itunes:duration>28:44</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月23日】AI価格戦争勃発＆国連がAIエージェントに警鐘</title>
       <description>今日はAnthropicとOpenAIが同日に廉価モデルを投入し、AI業界で本格的な価格競争が始まったニュースを詳しく解説します。さらに、国連の科学パネルがAIエージェントの安全策が崩壊しつつあると警告した衝撃的な声明、アメリカの航空管制にAIが導入された話題、そして米中間でAIインシデントの相互通知制度が提案された国際ニュースもお届けします。AI技術の進化と安全性のバランスが問われる今、知っておきたいニュースが盛りだくさんです。</description>
