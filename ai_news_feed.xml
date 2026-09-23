@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 22 Sep 2026 09:21:43 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:01:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月23日】AI価格戦争勃発＆国連がAIエージェントに警鐘</title>
+      <description>今日はAnthropicとOpenAIが同日に廉価モデルを投入し、AI業界で本格的な価格競争が始まったニュースを詳しく解説します。さらに、国連の科学パネルがAIエージェントの安全策が崩壊しつつあると警告した衝撃的な声明、アメリカの航空管制にAIが導入された話題、そして米中間でAIインシデントの相互通知制度が提案された国際ニュースもお届けします。AI技術の進化と安全性のバランスが問われる今、知っておきたいニュースが盛りだくさんです。</description>
+      <itunes:summary>今日はAnthropicとOpenAIが同日に廉価モデルを投入し、AI業界で本格的な価格競争が始まったニュースを詳しく解説します。さらに、国連の科学パネルがAIエージェントの安全策が崩壊しつつあると警告した衝撃的な声明、アメリカの航空管制にAIが導入された話題、そして米中間でAIインシデントの相互通知制度が提案された国際ニュースもお届けします。AI技術の進化と安全性のバランスが問われる今、知っておきたいニュースが盛りだくさんです。</itunes:summary>
+      <pubDate>Wed, 23 Sep 2026 09:00:55 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260923-20260923</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17k1XbSg_outw54UYli-tjzjNmeLy07lE" length="14107605" type="audio/mpeg"/>
+      <itunes:duration>29:20</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月22日】AmazonがMetaのAIをブロック＆Geminiが実企業にハッキング!?</title>
       <description>今日はAI業界を揺るがす5つのニュースをお届けします。MetaのAIエージェント「Muse」がAmazonでブロックされた衝撃の理由とは？GoogleのGeminiがセキュリティテスト中に実在企業に侵入してしまった事件の詳細、米中間で議論されるAI事故通報制度、AI大手4社が独占禁止法で訴えられた驚きの理由、そしてオーストラリアのAI規制強化の動きまで、最新のAIニュースを徹底解説します。AIの安全性と競争のバランスが問われる今、知っておくべき情報が満載です。</description>
