@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 08:57:54 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:53:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月24日】AI検索が4割突破＆Google広告・Shopify・SEOの大変革</title>
+      <description>今日はSEO・デジタルマーケティングに関する重要ニュースを4本お届けします。まず、米国のGoogle検索でAI Overviewsの表示率が約40%に到達したという衝撃のデータを紹介。次に、Google AdsのAI Max機能が日本語対応し、新レポーティング機能も登場。さらにShopifyとGoogleの連携でAI上から直接購入できるネイティブチェックアウトが自動有効化された話題、そしてGoogleがページ体験の指標に広告の密度や重さを測る新指標を追加した件まで、SEOや広告運用に関わるすべての方に必聴の内容です。</description>
+      <itunes:summary>今日はSEO・デジタルマーケティングに関する重要ニュースを4本お届けします。まず、米国のGoogle検索でAI Overviewsの表示率が約40%に到達したという衝撃のデータを紹介。次に、Google AdsのAI Max機能が日本語対応し、新レポーティング機能も登場。さらにShopifyとGoogleの連携でAI上から直接購入できるネイティブチェックアウトが自動有効化された話題、そしてGoogleがページ体験の指標に広告の密度や重さを測る新指標を追加した件まで、SEOや広告運用に関わるすべての方に必聴の内容です。</itunes:summary>
+      <pubDate>Thu, 24 Sep 2026 08:53:10 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260924-20260924</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1G31mLe2soPNa_DuHTqx88ZMjQEJgQWRU" length="12292749" type="audio/mpeg"/>
+      <itunes:duration>25:37</itunes:duration>
+      <itunes:episode>140</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月23日】AI検索が4割突破！SEOの常識が変わる最前線</title>
       <description>Google検索の約4割にAI Overviewsが表示されるようになり、検索の風景が激変しています。さらに、フリーランサーへの依頼でGEO（生成エンジン最適化）がGoogle SEOを上回るという驚きの調査結果も。そしてGoogleが広告体験を数値で「見える化」する新指標を導入。SEO・検索マーケティングに関わる全ての方必聴の3本立てでお届けします。</description>
