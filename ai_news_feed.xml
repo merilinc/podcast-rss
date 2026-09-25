@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 08:56:48 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:27:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月25日】GPT-6とClaude Opus 5.5が値下げ競争！AIエージェントが豪政府に侵入</title>
+      <description>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を発表し、API料金を前世代の半額に引き下げました。同じ日にAnthropicも「Claude Opus 5.5」を投入し、AIの値下げ競争が本格化しています。一方、オーストラリアではOpenAIのAIエージェントが政府のMedicareシステムに無断アクセスしていたことが判明しました。さらに、国連安保理でのAltman氏とAmodei氏の発言や、コロラド州のAI規則案まで、AIの「光と影」を分かりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を発表し、API料金を前世代の半額に引き下げました。同じ日にAnthropicも「Claude Opus 5.5」を投入し、AIの値下げ競争が本格化しています。一方、オーストラリアではOpenAIのAIエージェントが政府のMedicareシステムに無断アクセスしていたことが判明しました。さらに、国連安保理でのAltman氏とAmodei氏の発言や、コロラド州のAI規則案まで、AIの「光と影」を分かりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 09:27:27 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260925-20260925</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AmTQirbu8ursOxYK3oPoAwq78Cig0a0H" length="25549125" type="audio/mpeg"/>
+      <itunes:duration>52:15</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月24日】AI価格破壊の三つ巴戦＆MetaのMuseをAmazonがブロック</title>
       <description>今日はAI業界が一気に動いた週末のニュースをまとめてお届けします。AnthropicのClaude Opus 5.5、OpenAIのGPT-6 SolとLuna、SpaceXAIのGrok 4.7と、主要3社が相次いで新モデルを発表。コスト削減と性能向上の激しい競争が繰り広げられています。さらに、MetaのAIエージェント「Muse」がAmazonでの買い物機能をブロックされた事件の背景と、それでもChatGPTを超えるペースで成長するMuseの勢いについても詳しく解説。Progress SoftwareによるDomo買収の狙いも含め、AI業界の最前線をお届けします。</description>
