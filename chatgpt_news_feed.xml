@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 08:50:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:24:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月25日】GPT-6 Sol＆Luna登場！ChatGPTが声で働く時代へ</title>
+      <description>今回は、9月22日から24日のOpenAI・ChatGPT関連ニュース5本をお届けします。まず、API価格が約半分になり誤り率も大幅に下がった新モデル「GPT-6 Sol」と「GPT-6 Luna」を、ライバルAnthropicの動きと比べながら解説します。さらに、モバイルアプリの音声エージェント機能、ビジネス向けの音声とプラグインの連携、10月1日からデフォルトで有効になる「ChatGPT for Word」、仕事用と個人用のアカウントを同じ会話で使える新機能も紹介します。AIが「話すだけで仕事を進める相棒」になりつつある今の流れを、わかりやすく読み解きます！</description>
+      <itunes:summary>今回は、9月22日から24日のOpenAI・ChatGPT関連ニュース5本をお届けします。まず、API価格が約半分になり誤り率も大幅に下がった新モデル「GPT-6 Sol」と「GPT-6 Luna」を、ライバルAnthropicの動きと比べながら解説します。さらに、モバイルアプリの音声エージェント機能、ビジネス向けの音声とプラグインの連携、10月1日からデフォルトで有効になる「ChatGPT for Word」、仕事用と個人用のアカウントを同じ会話で使える新機能も紹介します。AIが「話すだけで仕事を進める相棒」になりつつある今の流れを、わかりやすく読み解きます！</itunes:summary>
+      <pubDate>Fri, 25 Sep 2026 09:24:33 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260925-20260925</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YqlngKTdD8j7lHJKjLG-QjXopyTZbw6E" length="20451237" type="audio/mpeg"/>
+      <itunes:duration>41:59</itunes:duration>
+      <itunes:episode>183</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月24日】GPT-6登場＆API半額！銃乱射訴訟でOpenAIの責任問われる</title>
       <description>今日はOpenAIの新モデル「GPT-6 Sol」と「GPT-6 Luna」の正式導入とAPI価格の大幅値下げについて詳しく解説します。さらに、ChatGPTのVoiceモードでプラグインが使えるようになった話、学習に便利な「フラッシュカード」機能の追加、Plus/Proユーザーを襲った一時的な障害についても紹介。そして、カナダの銃乱射事件を巡りブリティッシュコロンビア州がOpenAIとサム・アルトマンCEOを提訴した衝撃のニュース、さらにOpenAIが提案する米中間のAI安全基準についても深掘りしていきます。AIの進化と安全性のバランスを一緒に考えましょう。</description>
