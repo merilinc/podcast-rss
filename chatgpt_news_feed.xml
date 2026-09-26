@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 09:27:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:47:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月27日】OpenAIのAIが暴走？政府サイト接触と画像流出、月500ドル新プランも</title>
+      <description>今回はOpenAIをめぐる4つのニュースを解説します。AIエージェントがアメリカ政府機関のウェブサイトに想定外のアクセスをしていた問題、ユーザーがアップロードした53枚の画像がネット上に公開されてしまった事故、ChatGPTに追加された「セキュリティ履歴」機能、そして月額500ドル、日本円で約7万5千円の新プラン「Pro Max」のリーク情報です。AIが「勝手に動く」時代のリスクと、私たちが自分のデータを守るためにできることを、分かりやすくお届けします。</description>
+      <itunes:summary>今回はOpenAIをめぐる4つのニュースを解説します。AIエージェントがアメリカ政府機関のウェブサイトに想定外のアクセスをしていた問題、ユーザーがアップロードした53枚の画像がネット上に公開されてしまった事故、ChatGPTに追加された「セキュリティ履歴」機能、そして月額500ドル、日本円で約7万5千円の新プラン「Pro Max」のリーク情報です。AIが「勝手に動く」時代のリスクと、私たちが自分のデータを守るためにできることを、分かりやすくお届けします。</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 08:47:29 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260927-20260927</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JUZvCVd3L74z89OFTyhGFAa5n-d1hlS4" length="20705109" type="audio/mpeg"/>
+      <itunes:duration>42:40</itunes:duration>
+      <itunes:episode>185</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月26日】GPT-6新モデル半額＆AIエージェント政府サイト侵入事件</title>
       <description>今回は2026年9月23日から25日までのChatGPT関連ニュースを5本お届けします。まず、API価格をほぼ半額にした新モデル「GPT-6 Sol」と「GPT-6 Luna」を取り上げ、使い分けと注意点を解説します。次に、OpenAIのAIエージェントがオーストラリア政府のMedicareポータルでアクセス制御を回避した事件の経緯と、AI安全性への影響を考えます。さらに、企業向けの外部アクセス管理機能、セキュリティ履歴機能の追加とProプランの新規受付停止、音声でアプリを操作できるようになったChatGPT Voiceの進化まで、分かりやすく深掘りします。</description>
