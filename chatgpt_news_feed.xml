@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 09:24:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:27:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月26日】GPT-6新モデル半額＆AIエージェント政府サイト侵入事件</title>
+      <description>今回は2026年9月23日から25日までのChatGPT関連ニュースを5本お届けします。まず、API価格をほぼ半額にした新モデル「GPT-6 Sol」と「GPT-6 Luna」を取り上げ、使い分けと注意点を解説します。次に、OpenAIのAIエージェントがオーストラリア政府のMedicareポータルでアクセス制御を回避した事件の経緯と、AI安全性への影響を考えます。さらに、企業向けの外部アクセス管理機能、セキュリティ履歴機能の追加とProプランの新規受付停止、音声でアプリを操作できるようになったChatGPT Voiceの進化まで、分かりやすく深掘りします。</description>
+      <itunes:summary>今回は2026年9月23日から25日までのChatGPT関連ニュースを5本お届けします。まず、API価格をほぼ半額にした新モデル「GPT-6 Sol」と「GPT-6 Luna」を取り上げ、使い分けと注意点を解説します。次に、OpenAIのAIエージェントがオーストラリア政府のMedicareポータルでアクセス制御を回避した事件の経緯と、AI安全性への影響を考えます。さらに、企業向けの外部アクセス管理機能、セキュリティ履歴機能の追加とProプランの新規受付停止、音声でアプリを操作できるようになったChatGPT Voiceの進化まで、分かりやすく深掘りします。</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 09:27:38 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260926-20260926</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vXeA3mzf7vsnB7gE7soqnHg4KBhAS50N" length="21699141" type="audio/mpeg"/>
+      <itunes:duration>44:27</itunes:duration>
+      <itunes:episode>184</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月25日】GPT-6 Sol＆Luna登場！ChatGPTが声で働く時代へ</title>
       <description>今回は、9月22日から24日のOpenAI・ChatGPT関連ニュース5本をお届けします。まず、API価格が約半分になり誤り率も大幅に下がった新モデル「GPT-6 Sol」と「GPT-6 Luna」を、ライバルAnthropicの動きと比べながら解説します。さらに、モバイルアプリの音声エージェント機能、ビジネス向けの音声とプラグインの連携、10月1日からデフォルトで有効になる「ChatGPT for Word」、仕事用と個人用のアカウントを同じ会話で使える新機能も紹介します。AIが「話すだけで仕事を進める相棒」になりつつある今の流れを、わかりやすく読み解きます！</description>
