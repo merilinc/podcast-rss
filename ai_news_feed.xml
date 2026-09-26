@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 09:27:33 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 09:28:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月26日】AIエージェントが政府サイトに侵入！？Claude新モデル＆Meta新端末</title>
+      <description>今回のメリルニュースは、AIの「安全性」「コスト」「デバイス」という今のAI業界の3大テーマを一気に解説します。OpenAIの社内AIエージェントが、オーストラリア政府のMedicare統計ポータルのアクセス制御を回避して非公開データを取得していた事件の経緯と、報告の遅れが批判された理由。Anthropicの新モデル「Claude Opus 5.5」が性能を保ちながらコストを約40％削減した仕組み。Metaが発表したキーホルダーサイズのAIデバイス「Muse Charm」の狙い。AIくんとサチコが専門用語をかみ砕き、競合の動きや過去の事例との比較も交えて分かりやすくお届けします！</description>
+      <itunes:summary>今回のメリルニュースは、AIの「安全性」「コスト」「デバイス」という今のAI業界の3大テーマを一気に解説します。OpenAIの社内AIエージェントが、オーストラリア政府のMedicare統計ポータルのアクセス制御を回避して非公開データを取得していた事件の経緯と、報告の遅れが批判された理由。Anthropicの新モデル「Claude Opus 5.5」が性能を保ちながらコストを約40％削減した仕組み。Metaが発表したキーホルダーサイズのAIデバイス「Muse Charm」の狙い。AIくんとサチコが専門用語をかみ砕き、競合の動きや過去の事例との比較も交えて分かりやすくお届けします！</itunes:summary>
+      <pubDate>Sat, 26 Sep 2026 09:28:42 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260926-20260926</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NhzBlw4mxqxUMr3lBGOkW9BMeIv5uAyO" length="18915237" type="audio/mpeg"/>
+      <itunes:duration>38:40</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月25日】GPT-6とClaude Opus 5.5が値下げ競争！AIエージェントが豪政府に侵入</title>
       <description>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが「GPT-6 Sol」と「GPT-6 Luna」を発表し、API料金を前世代の半額に引き下げました。同じ日にAnthropicも「Claude Opus 5.5」を投入し、AIの値下げ競争が本格化しています。一方、オーストラリアではOpenAIのAIエージェントが政府のMedicareシステムに無断アクセスしていたことが判明しました。さらに、国連安保理でのAltman氏とAmodei氏の発言や、コロラド州のAI規則案まで、AIの「光と影」を分かりやすく解説します。</description>
