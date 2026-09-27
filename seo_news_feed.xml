@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 09:25:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 09:05:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月27日】Googleスパム更新始動＆AI検知SAFE登場でSEOが変わる</title>
+      <description>今回は検索エンジン最適化、SEOの最新ニュース6本をお届けします。Googleが全世界で「September 2026 スパムアップデート」の展開を始め、同時にAIスパム検知システム「SAFE」も動き出しました。さらに、AI Overviews内の外部リンクが約26%に急増した一方で、クリックするとGoogleのAI Modeに誘導される実験も見つかっています。ほかに、Search Consoleのマルチモーダル検索フィルター、動画の構造化データへのcreator・authorの追加、ローカルサービス広告の電話番号の変更も取り上げます。サイト運営者やマーケターの方は必聴です！</description>
+      <itunes:summary>今回は検索エンジン最適化、SEOの最新ニュース6本をお届けします。Googleが全世界で「September 2026 スパムアップデート」の展開を始め、同時にAIスパム検知システム「SAFE」も動き出しました。さらに、AI Overviews内の外部リンクが約26%に急増した一方で、クリックするとGoogleのAI Modeに誘導される実験も見つかっています。ほかに、Search Consoleのマルチモーダル検索フィルター、動画の構造化データへのcreator・authorの追加、ローカルサービス広告の電話番号の変更も取り上げます。サイト運営者やマーケターの方は必聴です！</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 09:05:25 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20260927-20260927</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LraxUVvLPsvYp7KByyrjGuOLUDU3ybp3" length="24004053" type="audio/mpeg"/>
+      <itunes:duration>48:50</itunes:duration>
+      <itunes:episode>143</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月26日】Googleスパム更新開始＆AI検索時代のSEO最前線</title>
       <description>今回は2026年9月24日に一斉に動いたGoogleの4つのニュースを取り上げます。今年4回目となる「September 2026 Spam Update」では、AIで量産した低品質コンテンツや期限切れドメインの悪用が取り締まりの対象です。Google広告のCustomer Matchには「IPアドレス」と「タイムスタンプ」によるマッチングが追加され、広告の精度とプライバシーのバランスが問われます。さらに、Search Consoleに新設された「マルチモーダル検索」フィルターと、AI Overviewsで強化された外部リンクについても解説します。サイト運営者やマーケターが今すぐ取るべき対策まで、AIくんとサチコが分かりやすくお届けします。</description>
