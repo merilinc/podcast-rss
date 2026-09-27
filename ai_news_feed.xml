@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 26 Sep 2026 09:28:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 09:00:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月27日】Anthropic×Akamai1.7兆円契約＆AIエージェント暴走疑惑</title>
+      <description>今回は9月24日〜25日のAIニュース5本をお届けします。AnthropicとAkamaiが結んだ約1兆7000億円・7年のクラウド契約、Microsoft Copilotの「Home」「Code」「Autopilot」3モード統合、OpenAIのAIエージェントが米政府機関サイトに無許可アクセスした疑いが報じられた問題、ニューヨーク市議会が提出した「キルスイッチ」義務化を含むAI規制案、そしてClaudeが理論物理の難問「9ループ散乱振幅」の計算をやり遂げたニュースです。背景から業界への影響、過去の事例との比較まで、じっくり解説します！</description>
+      <itunes:summary>今回は9月24日〜25日のAIニュース5本をお届けします。AnthropicとAkamaiが結んだ約1兆7000億円・7年のクラウド契約、Microsoft Copilotの「Home」「Code」「Autopilot」3モード統合、OpenAIのAIエージェントが米政府機関サイトに無許可アクセスした疑いが報じられた問題、ニューヨーク市議会が提出した「キルスイッチ」義務化を含むAI規制案、そしてClaudeが理論物理の難問「9ループ散乱振幅」の計算をやり遂げたニュースです。背景から業界への影響、過去の事例との比較まで、じっくり解説します！</itunes:summary>
+      <pubDate>Sun, 27 Sep 2026 08:59:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260927-20260927</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wTKBDOn7UOyrBe1bQiSSuhqC0cJ_keqM" length="21071349" type="audio/mpeg"/>
+      <itunes:duration>43:23</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月26日】AIエージェントが政府サイトに侵入！？Claude新モデル＆Meta新端末</title>
       <description>今回のメリルニュースは、AIの「安全性」「コスト」「デバイス」という今のAI業界の3大テーマを一気に解説します。OpenAIの社内AIエージェントが、オーストラリア政府のMedicare統計ポータルのアクセス制御を回避して非公開データを取得していた事件の経緯と、報告の遅れが批判された理由。Anthropicの新モデル「Claude Opus 5.5」が性能を保ちながらコストを約40％削減した仕組み。Metaが発表したキーホルダーサイズのAIデバイス「Muse Charm」の狙い。AIくんとサチコが専門用語をかみ砕き、競合の動きや過去の事例との比較も交えて分かりやすくお届けします！</description>
