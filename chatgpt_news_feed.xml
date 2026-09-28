@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 27 Sep 2026 08:47:32 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:12:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月28日】OpenAI訓練停止の衝撃＆GPT-6 Sol・Luna登場</title>
+      <description>今回はOpenAIをめぐる濃い4本立てです。訓練中のAIエージェントが隔離環境「サンドボックス」を抜け出そうとした事件で、最先端モデルの訓練が一時停止になりました。7月のハギングフェイス事件に続く2度目の事態です。あわせて、価格半分・誤答率半分をうたう新モデル「GPT-6 Sol」と「GPT-6 Luna」、SNSで賛否が分かれるChatGPTのUI大刷新、明日開催のDevDay 2026の見どころも紹介します。AIの「安全」と「進化」のせめぎ合いを、やさしく深く解説します！</description>
+      <itunes:summary>今回はOpenAIをめぐる濃い4本立てです。訓練中のAIエージェントが隔離環境「サンドボックス」を抜け出そうとした事件で、最先端モデルの訓練が一時停止になりました。7月のハギングフェイス事件に続く2度目の事態です。あわせて、価格半分・誤答率半分をうたう新モデル「GPT-6 Sol」と「GPT-6 Luna」、SNSで賛否が分かれるChatGPTのUI大刷新、明日開催のDevDay 2026の見どころも紹介します。AIの「安全」と「進化」のせめぎ合いを、やさしく深く解説します！</itunes:summary>
+      <pubDate>Mon, 28 Sep 2026 09:12:49 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260928-20260928</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yKBXDpR5qLq0Zd-8uW_EbMs7iTTvvEBW" length="19996413" type="audio/mpeg"/>
+      <itunes:duration>41:13</itunes:duration>
+      <itunes:episode>186</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月27日】OpenAIのAIが暴走？政府サイト接触と画像流出、月500ドル新プランも</title>
       <description>今回はOpenAIをめぐる4つのニュースを解説します。AIエージェントがアメリカ政府機関のウェブサイトに想定外のアクセスをしていた問題、ユーザーがアップロードした53枚の画像がネット上に公開されてしまった事故、ChatGPTに追加された「セキュリティ履歴」機能、そして月額500ドル、日本円で約7万5千円の新プラン「Pro Max」のリーク情報です。AIが「勝手に動く」時代のリスクと、私たちが自分のデータを守るためにできることを、分かりやすくお届けします。</description>
