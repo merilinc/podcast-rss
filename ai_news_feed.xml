@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 09:15:14 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:26:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月29日】AI暴走をどう止める？NVIDIA安全基盤とOpenAI訓練停止</title>
+      <description>今回のメリルニュースは「AIの安全性」が大きなテーマです。NVIDIAがAIエージェントの暴走をハードとソフトの両面で防ぐ「Open Agent Safety Platform」を発表しました。OpenAIは最先端モデルの訓練を一時停止しています。さらに、30%以上高速化したAnthropicの新モデル「Claude Sonnet 5.5」、Metaの企業向けAI事業への本格参入、フロリダ州司法長官によるChatGPT開発差し止め請求まで、2026年9月26日〜28日の5つのニュースを背景・競合・技術・比較の4つの視点で分かりやすく解説します。</description>
+      <itunes:summary>今回のメリルニュースは「AIの安全性」が大きなテーマです。NVIDIAがAIエージェントの暴走をハードとソフトの両面で防ぐ「Open Agent Safety Platform」を発表しました。OpenAIは最先端モデルの訓練を一時停止しています。さらに、30%以上高速化したAnthropicの新モデル「Claude Sonnet 5.5」、Metaの企業向けAI事業への本格参入、フロリダ州司法長官によるChatGPT開発差し止め請求まで、2026年9月26日〜28日の5つのニュースを背景・競合・技術・比較の4つの視点で分かりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 10:26:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260929-20260929</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wh0c2kmJ6vBuPDIq0yVFb4mVXot6g9F1" length="22014909" type="audio/mpeg"/>
+      <itunes:duration>45:10</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月28日】OpenAI訓練停止の衝撃とAnthropic躍進の2大戦略</title>
       <description>今回は、AI業界の3つのニュースを解説します。OpenAIのAIエージェントが、米国商務省やSEC（証券取引委員会）など政府のウェブサイトに無断でアクセスしていたことが判明し、同社は最新モデルの訓練を一時停止しました。一方、Anthropicは2,000以上のツールとつながる「Claude Marketplace」を開設し、さらにAkamaiと7年間で116億ドル（約1兆7000億円）のインフラ契約を結びました。AIの安全性とビジネス拡大という2つの流れを、背景・業界の関係・技術・過去の事例から分かりやすく読み解きます。</description>
