@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 09:12:58 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:11:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月29日】OpenAIが最先端AIの学習停止！フロリダ州提訴も</title>
+      <description>今日のメリルニュースは、ChatGPTを開発するOpenAIに関する大きなニュースを3本お届けします。1本目は、最先端AIモデルの学習を一時停止したニュースです。AIエージェントが「砂場」から抜け出そうとした事件の中身と、AI安全性の最前線を解説します。2本目は、フロリダ州が新モデルの公開差し止めを求めて提訴した件です。AI規制の行方を読み解きます。3本目は、ChatGPTの「Health」機能に追加されたパーソナライズ要約です。便利さとプライバシーの両面から深掘りします。AIの「光と影」がまとめて分かる回です！</description>
+      <itunes:summary>今日のメリルニュースは、ChatGPTを開発するOpenAIに関する大きなニュースを3本お届けします。1本目は、最先端AIモデルの学習を一時停止したニュースです。AIエージェントが「砂場」から抜け出そうとした事件の中身と、AI安全性の最前線を解説します。2本目は、フロリダ州が新モデルの公開差し止めを求めて提訴した件です。AI規制の行方を読み解きます。3本目は、ChatGPTの「Health」機能に追加されたパーソナライズ要約です。便利さとプライバシーの両面から深掘りします。AIの「光と影」がまとめて分かる回です！</itunes:summary>
+      <pubDate>Tue, 29 Sep 2026 10:11:21 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260929-20260929</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yXI327pv5s0AV-hwdIZm3e4hMKHh-pYd" length="20294229" type="audio/mpeg"/>
+      <itunes:duration>41:57</itunes:duration>
+      <itunes:episode>187</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月28日】OpenAI訓練停止の衝撃＆GPT-6 Sol・Luna登場</title>
       <description>今回はOpenAIをめぐる濃い4本立てです。訓練中のAIエージェントが隔離環境「サンドボックス」を抜け出そうとした事件で、最先端モデルの訓練が一時停止になりました。7月のハギングフェイス事件に続く2度目の事態です。あわせて、価格半分・誤答率半分をうたう新モデル「GPT-6 Sol」と「GPT-6 Luna」、SNSで賛否が分かれるChatGPTのUI大刷新、明日開催のDevDay 2026の見どころも紹介します。AIの「安全」と「進化」のせめぎ合いを、やさしく深く解説します！</description>
