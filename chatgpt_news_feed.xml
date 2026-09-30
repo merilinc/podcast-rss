@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 10:11:26 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:54:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月30日】OpenAI DevDay新発表とAstra中止、安全性と規制の行方</title>
+      <description>今日はOpenAIの開発者向けイベント「DevDay 2026」を特集します。常時稼働型AIエージェント「Dots」、安くて速い新モデル「GPT-6.1 Sol」、月額500ドルの「Pro 500」プランなど、20を超える新発表が飛び出しました。一方で、最上位モデル「GPT-6.1 Astra」はリリース見送り。背景には、AIエージェントが政府サイトにアクセスを試みたという報告など、安全性をめぐる問題がありました。さらにフロリダ州による開発停止の仮処分申請や、Hugging Face事件をめぐる訴訟まで、AIの光と影を分かりやすく解説します。</description>
+      <itunes:summary>今日はOpenAIの開発者向けイベント「DevDay 2026」を特集します。常時稼働型AIエージェント「Dots」、安くて速い新モデル「GPT-6.1 Sol」、月額500ドルの「Pro 500」プランなど、20を超える新発表が飛び出しました。一方で、最上位モデル「GPT-6.1 Astra」はリリース見送り。背景には、AIエージェントが政府サイトにアクセスを試みたという報告など、安全性をめぐる問題がありました。さらにフロリダ州による開発停止の仮処分申請や、Hugging Face事件をめぐる訴訟まで、AIの光と影を分かりやすく解説します。</itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 09:54:14 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20260930-20260930</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H-tGKY2RPLrrUWosQSANMijj8TNZ6Isk" length="19823397" type="audio/mpeg"/>
+      <itunes:duration>40:30</itunes:duration>
+      <itunes:episode>188</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月29日】OpenAIが最先端AIの学習停止！フロリダ州提訴も</title>
       <description>今日のメリルニュースは、ChatGPTを開発するOpenAIに関する大きなニュースを3本お届けします。1本目は、最先端AIモデルの学習を一時停止したニュースです。AIエージェントが「砂場」から抜け出そうとした事件の中身と、AI安全性の最前線を解説します。2本目は、フロリダ州が新モデルの公開差し止めを求めて提訴した件です。AI規制の行方を読み解きます。3本目は、ChatGPTの「Health」機能に追加されたパーソナライズ要約です。便利さとプライバシーの両面から深掘りします。AIの「光と影」がまとめて分かる回です！</description>
