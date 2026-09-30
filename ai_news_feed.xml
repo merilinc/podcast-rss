@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 29 Sep 2026 10:26:59 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:02:08 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【9月30日】OpenAI最強モデル公開中止！AI安全性が問われる3日間</title>
+      <description>OpenAIは最先端モデル「GPT-6.1 Astra」の公開を、安全基準を満たさなかったとして中止しました。代わりに低コストの「GPT-6.1 Sol」と常時稼働エージェント「Dots」を発表しています。ほかにも、AMDによるFei-Fei Li氏のWorld Labs買収（約82億ドル）、Nvidiaのエージェント安全プラットフォーム、AnthropicがIPO目論見書に記した「人類への実存的リスク」、フロリダ州によるOpenAIへの仮差し止め請求を取り上げます。AIが「強さ」の競争から「安全さ」の競争へ移りつつある流れを、6つのニュースで分かりやすく解説します。</description>
+      <itunes:summary>OpenAIは最先端モデル「GPT-6.1 Astra」の公開を、安全基準を満たさなかったとして中止しました。代わりに低コストの「GPT-6.1 Sol」と常時稼働エージェント「Dots」を発表しています。ほかにも、AMDによるFei-Fei Li氏のWorld Labs買収（約82億ドル）、Nvidiaのエージェント安全プラットフォーム、AnthropicがIPO目論見書に記した「人類への実存的リスク」、フロリダ州によるOpenAIへの仮差し止め請求を取り上げます。AIが「強さ」の競争から「安全さ」の競争へ移りつつある流れを、6つのニュースで分かりやすく解説します。</itunes:summary>
+      <pubDate>Wed, 30 Sep 2026 10:01:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20260930-20260930</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1U_m60iH4rH-DJKE31FMsl1WbomWp4e3D" length="21842637" type="audio/mpeg"/>
+      <itunes:duration>44:46</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月29日】AI暴走をどう止める？NVIDIA安全基盤とOpenAI訓練停止</title>
       <description>今回のメリルニュースは「AIの安全性」が大きなテーマです。NVIDIAがAIエージェントの暴走をハードとソフトの両面で防ぐ「Open Agent Safety Platform」を発表しました。OpenAIは最先端モデルの訓練を一時停止しています。さらに、30%以上高速化したAnthropicの新モデル「Claude Sonnet 5.5」、Metaの企業向けAI事業への本格参入、フロリダ州司法長官によるChatGPT開発差し止め請求まで、2026年9月26日〜28日の5つのニュースを背景・競合・技術・比較の4つの視点で分かりやすく解説します。</description>
