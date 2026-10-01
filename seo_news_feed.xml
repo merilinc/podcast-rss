@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 09:36:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:59:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月1日】Google AI Modeが「見張り番」に！情報モニタリング全世界展開</title>
+      <description>今日は、GoogleのAI Modeに搭載された「情報モニタリング機能」が有料会員だけでなく全ユーザーに世界展開されたニュースを深掘りします。「この話題を追って」と頼むだけで、AIがウェブやSNS、600億点以上の商品データから最新情報を集めて知らせてくれる新機能です。5月のGoogle I/Oで発表された「情報エージェント」構想からの流れ、Amazon・Microsoft・Anthropicとの競争、Googleアラートとの違い、そしてお店や企業がやるべきSEO対策までを解説します。Google AnalyticsとSearch Consoleの話題にも触れます。</description>
+      <itunes:summary>今日は、GoogleのAI Modeに搭載された「情報モニタリング機能」が有料会員だけでなく全ユーザーに世界展開されたニュースを深掘りします。「この話題を追って」と頼むだけで、AIがウェブやSNS、600億点以上の商品データから最新情報を集めて知らせてくれる新機能です。5月のGoogle I/Oで発表された「情報エージェント」構想からの流れ、Amazon・Microsoft・Anthropicとの競争、Googleアラートとの違い、そしてお店や企業がやるべきSEO対策までを解説します。Google AnalyticsとSearch Consoleの話題にも触れます。</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 09:59:15 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261001-20261001</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QSgPYep6MC0nLyJtsweXtYuFupqnP--K" length="20751573" type="audio/mpeg"/>
+      <itunes:duration>42:50</itunes:duration>
+      <itunes:episode>147</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月30日】Google AI検索の大変化とYoastのAI代理編集</title>
       <description>今日はSEO、つまり検索エンジン対策の最新ニュースを4本お届けします。まず、GoogleのAI Modeで、気になる話題をGoogleが見張って変化を知らせてくれる「モニタリング機能」が全ユーザーに開放されました。次に、AI Overviewsの引用カードを画面の下に表示するテストについて。さらに、WordPressの定番プラグイン「Yoast SEO」で、AIがサイトのSEO設定を直接編集できるようになった話題。最後に、AI Overviews内の外部リンクが急増したという調査データも紹介します。サイト運営者もそうでない方も、検索の今が分かる回です！</description>
