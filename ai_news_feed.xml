@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 30 Sep 2026 10:02:08 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:58:34 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月1日】Gemini 4 Argon登場＆OpenAI DevDay、FTC調査も</title>
+      <description>今日のメリルニュースは、AI業界が大きく動いた3つのニュースをお届けします。Googleが久々のフラッグシップモデル「Gemini 4 Argon」を発表し、出力上限100万トークンという驚きの性能でベンチマーク首位に返り咲きました。一方OpenAIはDevDay 2026で常時稼働型エージェント「Dots」や低価格モデル「GPT-6.1 Sol」など20以上の新機能を発表。そしてアメリカのFTCがOpenAIとAnthropicの消費者リスク調査を開始しました。技術競争と規制強化が同時に進む今、私たちの生活にどんな影響があるのか、わかりやすく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界が大きく動いた3つのニュースをお届けします。Googleが久々のフラッグシップモデル「Gemini 4 Argon」を発表し、出力上限100万トークンという驚きの性能でベンチマーク首位に返り咲きました。一方OpenAIはDevDay 2026で常時稼働型エージェント「Dots」や低価格モデル「GPT-6.1 Sol」など20以上の新機能を発表。そしてアメリカのFTCがOpenAIとAnthropicの消費者リスク調査を開始しました。技術競争と規制強化が同時に進む今、私たちの生活にどんな影響があるのか、わかりやすく解説します！</itunes:summary>
+      <pubDate>Thu, 01 Oct 2026 09:58:25 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261001-20261001</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PBbQi7Qf3y5zpxYgBKzPCF7ANFblGwET" length="23745837" type="audio/mpeg"/>
+      <itunes:duration>48:23</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【9月30日】OpenAI最強モデル公開中止！AI安全性が問われる3日間</title>
       <description>OpenAIは最先端モデル「GPT-6.1 Astra」の公開を、安全基準を満たさなかったとして中止しました。代わりに低コストの「GPT-6.1 Sol」と常時稼働エージェント「Dots」を発表しています。ほかにも、AMDによるFei-Fei Li氏のWorld Labs買収（約82億ドル）、Nvidiaのエージェント安全プラットフォーム、AnthropicがIPO目論見書に記した「人類への実存的リスク」、フロリダ州によるOpenAIへの仮差し止め請求を取り上げます。AIが「強さ」の競争から「安全さ」の競争へ移りつつある流れを、6つのニュースで分かりやすく解説します。</description>
