@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 09:59:23 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:02:15 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月2日】AI概要80%急拡大と出版社訴訟棄却、Googleの新ルール</title>
+      <description>今日はSEO・Web担当者にとって見逃せないGoogle関連ニュースを4本お届けします。ブランド名の検索でAI Overviews（AI概要表示）の表示率が約30%から約80%に急上昇したという調査結果、Rolling Stoneなどを運営するPenske MediaがGoogleを訴えた裁判の棄却、2週間かけて進む「September 2026 スパムアップデート」第2フェーズの影響、Google広告「Destination Not Working」ポリシーの明確化を取り上げます。「検索で1位を取れば安心」という時代がどう変わりつつあるのか、背景や業界への影響、今日からできる対策まで、身近な例え話を使って分かりやすく解説します。</description>
+      <itunes:summary>今日はSEO・Web担当者にとって見逃せないGoogle関連ニュースを4本お届けします。ブランド名の検索でAI Overviews（AI概要表示）の表示率が約30%から約80%に急上昇したという調査結果、Rolling Stoneなどを運営するPenske MediaがGoogleを訴えた裁判の棄却、2週間かけて進む「September 2026 スパムアップデート」第2フェーズの影響、Google広告「Destination Not Working」ポリシーの明確化を取り上げます。「検索で1位を取れば安心」という時代がどう変わりつつあるのか、背景や業界への影響、今日からできる対策まで、身近な例え話を使って分かりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 10:02:10 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261002-20261002</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_xGmL7g4jc45ufcj07UbVNtAEnM1m9O8" length="20704605" type="audio/mpeg"/>
+      <itunes:duration>42:29</itunes:duration>
+      <itunes:episode>148</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月1日】Google AI Modeが「見張り番」に！情報モニタリング全世界展開</title>
       <description>今日は、GoogleのAI Modeに搭載された「情報モニタリング機能」が有料会員だけでなく全ユーザーに世界展開されたニュースを深掘りします。「この話題を追って」と頼むだけで、AIがウェブやSNS、600億点以上の商品データから最新情報を集めて知らせてくれる新機能です。5月のGoogle I/Oで発表された「情報エージェント」構想からの流れ、Amazon・Microsoft・Anthropicとの競争、Googleアラートとの違い、そしてお店や企業がやるべきSEO対策までを解説します。Google AnalyticsとSearch Consoleの話題にも触れます。</description>
