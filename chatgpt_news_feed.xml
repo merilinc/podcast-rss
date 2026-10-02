@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 09:54:43 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:00:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月2日】OpenAI新エージェントDots＆月500ドルの新プラン</title>
+      <description>今日はOpenAIの3つのニュースを掘り下げます。DevDayで発表された24時間働くAIエージェント「Dots」の仕組みと、Metaの「Muse」との違い。安全性の懸念から公開が見送られた「GPT-6.1 Astra」と、代わりに登場した低コストな「GPT-6.1 Sol」。さらに月額500ドルの「Pro 500」を含むChatGPTの料金プラン再編です。AIが「話し相手」から「働き手」に変わりつつある今、性能と安全性、そしてコストのバランスをわかりやすく解説します。</description>
+      <itunes:summary>今日はOpenAIの3つのニュースを掘り下げます。DevDayで発表された24時間働くAIエージェント「Dots」の仕組みと、Metaの「Muse」との違い。安全性の懸念から公開が見送られた「GPT-6.1 Astra」と、代わりに登場した低コストな「GPT-6.1 Sol」。さらに月額500ドルの「Pro 500」を含むChatGPTの料金プラン再編です。AIが「話し相手」から「働き手」に変わりつつある今、性能と安全性、そしてコストのバランスをわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 10:00:14 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261002-20261002</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1I1bwEW4PUYFtXRTsTmv0j43GRNabzSPL" length="20859669" type="audio/mpeg"/>
+      <itunes:duration>42:37</itunes:duration>
+      <itunes:episode>190</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月1日】FTCがOpenAIを本格調査＆新モデルAstra公開中止の衝撃</title>
       <description>今日はOpenAIをめぐる4つのニュースをお届けします。アメリカの連邦取引委員会（FTC）がOpenAIとAnthropicに対してAIの安全性を本格調査。さらにOpenAIが新モデル「GPT-6.1 Astra」の公開を安全性への懸念から見送りました。一方、DevDay 2026では常時稼働するAIエージェント「Dots」、低コストモデル「GPT-6.1 Sol」、最大8倍速の「Ultrafast」モードなど20以上の新機能が発表されています。FTCの公聴会と文書提出の要求も含め、「AIの進化と安全性のせめぎ合い」が私たちのChatGPT体験にどう影響するのかを、分かりやすく解説します。</description>
