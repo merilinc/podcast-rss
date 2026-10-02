@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 01 Oct 2026 09:58:34 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:02:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月2日】Gemini 4公開見送り＆GPT-6.1 Solの衝撃価格</title>
+      <description>今日のメリルニュースは、2026年9月29日から10月2日までのAIニュースを4本お届けします。Googleの最新AI「Gemini 4 Argon」は、安全性を理由に一般公開を見送りました。OpenAIの「GPT-6.1 Sol」は、最上位モデル並みの性能を5分の1のコストで実現しています。MITが発表したAI製3Dモデルの修復ツール「InstructMesh」や、Anthropicの巨額IPO目論見書に書かれた赤字とリスクについても解説します。キーワードは「安全性・コスト・実用性」です。AI業界の今を一緒に整理していきましょう。</description>
+      <itunes:summary>今日のメリルニュースは、2026年9月29日から10月2日までのAIニュースを4本お届けします。Googleの最新AI「Gemini 4 Argon」は、安全性を理由に一般公開を見送りました。OpenAIの「GPT-6.1 Sol」は、最上位モデル並みの性能を5分の1のコストで実現しています。MITが発表したAI製3Dモデルの修復ツール「InstructMesh」や、Anthropicの巨額IPO目論見書に書かれた赤字とリスクについても解説します。キーワードは「安全性・コスト・実用性」です。AI業界の今を一緒に整理していきましょう。</itunes:summary>
+      <pubDate>Fri, 02 Oct 2026 10:02:34 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261002-20261002</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x_dz2cCLlmmEezJmj1_EESp7SWM8x4mg" length="25238301" type="audio/mpeg"/>
+      <itunes:duration>51:23</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月1日】Gemini 4 Argon登場＆OpenAI DevDay、FTC調査も</title>
       <description>今日のメリルニュースは、AI業界が大きく動いた3つのニュースをお届けします。Googleが久々のフラッグシップモデル「Gemini 4 Argon」を発表し、出力上限100万トークンという驚きの性能でベンチマーク首位に返り咲きました。一方OpenAIはDevDay 2026で常時稼働型エージェント「Dots」や低価格モデル「GPT-6.1 Sol」など20以上の新機能を発表。そしてアメリカのFTCがOpenAIとAnthropicの消費者リスク調査を開始しました。技術競争と規制強化が同時に進む今、私たちの生活にどんな影響があるのか、わかりやすく解説します！</description>
