@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 10:02:15 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:50:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月3日】AI Overviewsがブランド検索の83%に！SEO激変の4ニュース</title>
+      <description>今日はGoogle検索の大きな変化を4つ取り上げます。ブランド名で検索してもAIの要約が1位に表示されて公式サイトが押し下げられる問題、Googleが明文化した「Main Content」とEOT/SAという品質基準、AI翻訳や自動生成サイトを狙う「2026年9月スパムアップデート」第2波、そしてAI Modeの監視機能の全ユーザー開放です。背景、業界への影響、技術の仕組み、過去事例との比較まで、Webサイトを運営する方にも一般の方にも分かりやすく解説します。</description>
+      <itunes:summary>今日はGoogle検索の大きな変化を4つ取り上げます。ブランド名で検索してもAIの要約が1位に表示されて公式サイトが押し下げられる問題、Googleが明文化した「Main Content」とEOT/SAという品質基準、AI翻訳や自動生成サイトを狙う「2026年9月スパムアップデート」第2波、そしてAI Modeの監視機能の全ユーザー開放です。背景、業界への影響、技術の仕組み、過去事例との比較まで、Webサイトを運営する方にも一般の方にも分かりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 09:50:38 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261003-20261003</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s1SBc0ckmbkdYP4K9zx4YZAQX6hwvEFM" length="24749781" type="audio/mpeg"/>
+      <itunes:duration>50:41</itunes:duration>
+      <itunes:episode>149</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月2日】AI概要80%急拡大と出版社訴訟棄却、Googleの新ルール</title>
       <description>今日はSEO・Web担当者にとって見逃せないGoogle関連ニュースを4本お届けします。ブランド名の検索でAI Overviews（AI概要表示）の表示率が約30%から約80%に急上昇したという調査結果、Rolling Stoneなどを運営するPenske MediaがGoogleを訴えた裁判の棄却、2週間かけて進む「September 2026 スパムアップデート」第2フェーズの影響、Google広告「Destination Not Working」ポリシーの明確化を取り上げます。「検索で1位を取れば安心」という時代がどう変わりつつあるのか、背景や業界への影響、今日からできる対策まで、身近な例え話を使って分かりやすく解説します。</description>
