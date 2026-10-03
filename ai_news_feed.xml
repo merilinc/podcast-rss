@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 10:02:39 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:55:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月3日】FTCがOpenAIとAnthropicを調査＆米AI政策が安全重視へ</title>
+      <description>今回は2026年9月30日から10月2日のAIニュースを6本お届けします。米連邦取引委員会（FTC）がOpenAIとAnthropicに対して消費者リスクの広範な調査を始め、トランプ政権は国家情報長官のジェイ・クレイトン氏をAI政策の統括責任者に起用する方針です。AI規制は「自主規制」から「政府による監視」へ大きく動き出しています。ほかにも、Claude Codeの新機能「TypeScript Mods」、Microsoftのリアルタイム音声AI、論文サーバーarXivの投稿制限、AmazonがAIチップを帳簿から外す財務戦略を取り上げます。背景、業界の関係、技術とビジネス、過去の事例との比較という4つの切り口で解説します。</description>
+      <itunes:summary>今回は2026年9月30日から10月2日のAIニュースを6本お届けします。米連邦取引委員会（FTC）がOpenAIとAnthropicに対して消費者リスクの広範な調査を始め、トランプ政権は国家情報長官のジェイ・クレイトン氏をAI政策の統括責任者に起用する方針です。AI規制は「自主規制」から「政府による監視」へ大きく動き出しています。ほかにも、Claude Codeの新機能「TypeScript Mods」、Microsoftのリアルタイム音声AI、論文サーバーarXivの投稿制限、AmazonがAIチップを帳簿から外す財務戦略を取り上げます。背景、業界の関係、技術とビジネス、過去の事例との比較という4つの切り口で解説します。</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 09:54:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261003-20261003</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16iZAEeRwDGFen0UQXbvIvL_VufTI0vDV" length="22875621" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月2日】Gemini 4公開見送り＆GPT-6.1 Solの衝撃価格</title>
       <description>今日のメリルニュースは、2026年9月29日から10月2日までのAIニュースを4本お届けします。Googleの最新AI「Gemini 4 Argon」は、安全性を理由に一般公開を見送りました。OpenAIの「GPT-6.1 Sol」は、最上位モデル並みの性能を5分の1のコストで実現しています。MITが発表したAI製3Dモデルの修復ツール「InstructMesh」や、Anthropicの巨額IPO目論見書に書かれた赤字とリスクについても解説します。キーワードは「安全性・コスト・実用性」です。AI業界の今を一緒に整理していきましょう。</description>
