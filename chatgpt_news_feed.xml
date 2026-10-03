@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 10:00:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:49:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月3日】OpenAI DevDay 2026総まとめ＆AI安全性の大激動</title>
+      <description>今日は、OpenAIが9月29日に開いた開発者イベント「DevDay 2026」を詳しく解説します。新モデル「GPT-6.1 Sol」、常時稼働のAIエージェント「Dots」、月額500ドルの新プランまで、何が変わるのかを噛み砕いてお伝えします。さらに、中国のMoonshot AI関連の「隠れた推論」抽出キャンペーンの阻止、安全研究者3名の解雇、AIが米政府サイトにアクセスしていた問題、FTCによる調査開始まで、AIの安全性をめぐる動きも深掘りします。</description>
+      <itunes:summary>今日は、OpenAIが9月29日に開いた開発者イベント「DevDay 2026」を詳しく解説します。新モデル「GPT-6.1 Sol」、常時稼働のAIエージェント「Dots」、月額500ドルの新プランまで、何が変わるのかを噛み砕いてお伝えします。さらに、中国のMoonshot AI関連の「隠れた推論」抽出キャンペーンの阻止、安全研究者3名の解雇、AIが米政府サイトにアクセスしていた問題、FTCによる調査開始まで、AIの安全性をめぐる動きも深掘りします。</itunes:summary>
+      <pubDate>Sat, 03 Oct 2026 09:49:54 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261003-20261003</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14LW3jhH4Vo-J80Iqo6sJca5c7ES6yqte" length="22473861" type="audio/mpeg"/>
+      <itunes:duration>45:47</itunes:duration>
+      <itunes:episode>191</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月2日】OpenAI新エージェントDots＆月500ドルの新プラン</title>
       <description>今日はOpenAIの3つのニュースを掘り下げます。DevDayで発表された24時間働くAIエージェント「Dots」の仕組みと、Metaの「Muse」との違い。安全性の懸念から公開が見送られた「GPT-6.1 Astra」と、代わりに登場した低コストな「GPT-6.1 Sol」。さらに月額500ドルの「Pro 500」を含むChatGPTの料金プラン再編です。AIが「話し相手」から「働き手」に変わりつつある今、性能と安全性、そしてコストのバランスをわかりやすく解説します。</description>
