@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 03 Oct 2026 09:55:03 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:09:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月4日】Gemini 4 Argon vs GPT-6.1 Sol＆AIサイバー攻撃の脅威</title>
+      <description>今週はAI業界が大きく動きました。Googleは出力100万トークンに対応した新モデル「Gemini 4 Argon」を限定公開し、OpenAIは性能を保ちながら価格を約5分の1に抑えた「GPT-6.1 Sol」を発表しました。さらに、中国Moonshot AI関連グループによるAIの「隠された思考」抽出事件と、Microsoftが警告する「AIで加速するサイバー攻撃」の最新レポートも取り上げます。性能競争の裏側にある価格戦略やセキュリティの課題を、専門用語を噛み砕きながら分かりやすく解説します。</description>
+      <itunes:summary>今週はAI業界が大きく動きました。Googleは出力100万トークンに対応した新モデル「Gemini 4 Argon」を限定公開し、OpenAIは性能を保ちながら価格を約5分の1に抑えた「GPT-6.1 Sol」を発表しました。さらに、中国Moonshot AI関連グループによるAIの「隠された思考」抽出事件と、Microsoftが警告する「AIで加速するサイバー攻撃」の最新レポートも取り上げます。性能競争の裏側にある価格戦略やセキュリティの課題を、専門用語を噛み砕きながら分かりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 04 Oct 2026 09:08:58 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261004-20261004</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18LcxLn-1Xx8UYiG-2-FrrLGjTZTGZps7" length="23900829" type="audio/mpeg"/>
+      <itunes:duration>48:35</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月3日】FTCがOpenAIとAnthropicを調査＆米AI政策が安全重視へ</title>
       <description>今回は2026年9月30日から10月2日のAIニュースを6本お届けします。米連邦取引委員会（FTC）がOpenAIとAnthropicに対して消費者リスクの広範な調査を始め、トランプ政権は国家情報長官のジェイ・クレイトン氏をAI政策の統括責任者に起用する方針です。AI規制は「自主規制」から「政府による監視」へ大きく動き出しています。ほかにも、Claude Codeの新機能「TypeScript Mods」、Microsoftのリアルタイム音声AI、論文サーバーarXivの投稿制限、AmazonがAIチップを帳簿から外す財務戦略を取り上げます。背景、業界の関係、技術とビジネス、過去の事例との比較という4つの切り口で解説します。</description>
