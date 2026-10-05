@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 09:05:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:25:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月5日】ChatGPT家計簿が無料に！月7.5万円の新Proと安全担当者の告発</title>
+      <description>今日はChatGPT・OpenAIの注目ニュース3本をお届けします。これまで有料限定だった個人財務管理機能「Finances」が米国の無料・低価格プランにも開放。一方で、月額500ドル（約7万5千円）の超高額プラン「Pro 500」と、最速モード「Astra Ultrafast」が登場しました。さらに、OpenAIの安全基準づくりの中心人物だったデビッド・ロビンソン氏が「文化が壊れている」と告発して退社。AIの便利さと安全性、そして値段のゆくえを、背景から業界比較までじっくり解説します！</description>
+      <itunes:summary>今日はChatGPT・OpenAIの注目ニュース3本をお届けします。これまで有料限定だった個人財務管理機能「Finances」が米国の無料・低価格プランにも開放。一方で、月額500ドル（約7万5千円）の超高額プラン「Pro 500」と、最速モード「Astra Ultrafast」が登場しました。さらに、OpenAIの安全基準づくりの中心人物だったデビッド・ロビンソン氏が「文化が壊れている」と告発して退社。AIの便利さと安全性、そして値段のゆくえを、背景から業界比較までじっくり解説します！</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 09:25:46 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261005-20261005</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1X403HJfb0q2DlkEqSxeOPtxn6Prq8PVo" length="20756517" type="audio/mpeg"/>
+      <itunes:duration>42:32</itunes:duration>
+      <itunes:episode>193</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月4日】OpenAI常時稼働AI「Dots」登場＆新モデル延期の真相</title>
       <description>今回はOpenAIの最新ニュースを5本お届けします。DevDayで発表された24時間働き続けるAIエージェント「Dots」の実力と、Metaの「Muse」との違いを解説します。安全性の問題で一般公開が延期された「GPT-6.1 Astra」や、中国のMoonshot AI関係者によるAIの「隠れた思考」抽出キャンペーンも取り上げます。さらに、家計管理機能「Finances」の無料プランへの拡大と、100以上の組織に通知された不正アクセスの可能性についても掘り下げます。便利さと安全性のせめぎ合いが見えてくる回です。</description>
