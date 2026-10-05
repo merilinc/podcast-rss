@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 09:09:03 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:25:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月5日】OpenAI安全責任者が辞任＆半数が人間と誤認した対面AI</title>
+      <description>今日のメリルニュースでは、AIの「安全性」と「透明性」を軸に4つのニュースを解説します。OpenAIで安全性レポートを率いたDavid Robinson氏が「社内文化が壊れている」と述べて辞任しました。また、自律性を高めた新モデル「GPT-6.1 Astra」はリリースが見送られています。1分間のビデオ通話で48％の人が人間だと思い込んだTavusの対面会話AI「Griffin」も登場しました。さらに、Allen Institute for AIは科学レポートを生成するモデル「AstaBrief 8B」と、MoE訓練基盤「Olmo-core 3」をオープンに公開しています。AIの進化と安全のバランスを一緒に考えましょう。</description>
+      <itunes:summary>今日のメリルニュースでは、AIの「安全性」と「透明性」を軸に4つのニュースを解説します。OpenAIで安全性レポートを率いたDavid Robinson氏が「社内文化が壊れている」と述べて辞任しました。また、自律性を高めた新モデル「GPT-6.1 Astra」はリリースが見送られています。1分間のビデオ通話で48％の人が人間だと思い込んだTavusの対面会話AI「Griffin」も登場しました。さらに、Allen Institute for AIは科学レポートを生成するモデル「AstaBrief 8B」と、MoE訓練基盤「Olmo-core 3」をオープンに公開しています。AIの進化と安全のバランスを一緒に考えましょう。</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 09:25:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261005-20261005</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QuWNw0HDWGyj-yuGBXuqzQvUV2zI82VM" length="26239701" type="audio/mpeg"/>
+      <itunes:duration>53:46</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月4日】Gemini 4 Argon vs GPT-6.1 Sol＆AIサイバー攻撃の脅威</title>
       <description>今週はAI業界が大きく動きました。Googleは出力100万トークンに対応した新モデル「Gemini 4 Argon」を限定公開し、OpenAIは性能を保ちながら価格を約5分の1に抑えた「GPT-6.1 Sol」を発表しました。さらに、中国Moonshot AI関連グループによるAIの「隠された思考」抽出事件と、Microsoftが警告する「AIで加速するサイバー攻撃」の最新レポートも取り上げます。性能競争の裏側にある価格戦略やセキュリティの課題を、専門用語を噛み砕きながら分かりやすく解説します。</description>
