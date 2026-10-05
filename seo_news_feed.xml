@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 04 Oct 2026 09:08:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:21:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月5日】Google品質ガイドライン大改訂！AI記事とEOT/SA</title>
+      <description>今日はSEO業界を揺るがすGoogleのガイドライン更新を2本立てで解説します。1本目は、AI生成コンテンツを公開する前の「人の手によるファクトチェック」が「critical（極めて重要）」と明記されたニュースです。2026年9月のスパムアップデート第2波との関係も読み解きます。2本目は、Helpful Contentガイドで「メインコンテンツ」の定義が強化され、Effort・Originality・Talent・Accuracyの4指標「EOT/SA」が新設された話題です。AI検索時代のSEOやLLMOはどう変わるのか。CNETやSports Illustratedの過去の事例とも比べながら、明日から使える対策までわかりやすくお届けします。</description>
+      <itunes:summary>今日はSEO業界を揺るがすGoogleのガイドライン更新を2本立てで解説します。1本目は、AI生成コンテンツを公開する前の「人の手によるファクトチェック」が「critical（極めて重要）」と明記されたニュースです。2026年9月のスパムアップデート第2波との関係も読み解きます。2本目は、Helpful Contentガイドで「メインコンテンツ」の定義が強化され、Effort・Originality・Talent・Accuracyの4指標「EOT/SA」が新設された話題です。AI検索時代のSEOやLLMOはどう変わるのか。CNETやSports Illustratedの過去の事例とも比べながら、明日から使える対策までわかりやすくお届けします。</itunes:summary>
+      <pubDate>Mon, 05 Oct 2026 09:21:04 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261005-20261005</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YpuVsBkL-WgQcdxJhpyONqFrRLnmplKG" length="23269893" type="audio/mpeg"/>
+      <itunes:duration>48:03</itunes:duration>
+      <itunes:episode>151</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月4日】Google品質評価が強化！AI記事に人間のチェック必須へ</title>
       <description>今日のメリルニュースはSEOとネット広告の特集です。Googleが公式文書で「メインコンテンツ」の重要性を強調し、品質評価の基準を更新しました。さらに、AIで作った記事は公開前に人間がファクトチェックするよう明記されています。ブランド名で検索したときにAI Overviewsが表示される割合も、9月末に約26％から約80％へ急増しました。広告担当者向けには、Performance Maxで待望のA/Bテスト機能が正式に始まったニュースもお届けします。サイト運営者もマーケターも必聴の回です！</description>
