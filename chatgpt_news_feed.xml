@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 05 Oct 2026 09:25:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:08:48 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月6日】ChatGPTに広告登場！AI文章の透かしとお詫びリセット</title>
+      <description>今日のメリルニュースは、ChatGPTの重要なアップデートを3本お届けします。1本目は、画像生成中に広告が表示される「視覚広告」の米国テスト。無料プランの維持と回答の中立性をどう両立するのか、Google、Meta、Netflixの事例と比べて解説します。2本目は、EUのAI法に対応した文章の透かし技術「textGrain」。目に見えない透かしを文章に入れる仕組みを、身近な例えで説明します。3本目は、GPT-6.1 Solの初期トラブルを受けた利用制限枠のリセット。AI企業にとってユーザーの信頼がなぜ大切なのかを考えます。</description>
+      <itunes:summary>今日のメリルニュースは、ChatGPTの重要なアップデートを3本お届けします。1本目は、画像生成中に広告が表示される「視覚広告」の米国テスト。無料プランの維持と回答の中立性をどう両立するのか、Google、Meta、Netflixの事例と比べて解説します。2本目は、EUのAI法に対応した文章の透かし技術「textGrain」。目に見えない透かしを文章に入れる仕組みを、身近な例えで説明します。3本目は、GPT-6.1 Solの初期トラブルを受けた利用制限枠のリセット。AI企業にとってユーザーの信頼がなぜ大切なのかを考えます。</itunes:summary>
+      <pubDate>Tue, 06 Oct 2026 11:08:42 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261006-20261006</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-KpbnVjzhVkjXAX5AZWOtcj6Nc3NG4eF" length="26115093" type="audio/mpeg"/>
+      <itunes:duration>54:01</itunes:duration>
+      <itunes:episode>194</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月5日】ChatGPT家計簿が無料に！月7.5万円の新Proと安全担当者の告発</title>
       <description>今日はChatGPT・OpenAIの注目ニュース3本をお届けします。これまで有料限定だった個人財務管理機能「Finances」が米国の無料・低価格プランにも開放。一方で、月額500ドル（約7万5千円）の超高額プラン「Pro 500」と、最速モード「Astra Ultrafast」が登場しました。さらに、OpenAIの安全基準づくりの中心人物だったデビッド・ロビンソン氏が「文化が壊れている」と告発して退社。AIの便利さと安全性、そして値段のゆくえを、背景から業界比較までじっくり解説します！</description>
