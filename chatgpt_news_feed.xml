@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 11:08:48 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:48:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月7日】ChatGPTに画像広告登場＆EUで見えない透かし導入</title>
+      <description>今回はChatGPTに関する重要ニュースを4本お届けします。画像を生成している間に「ビジュアル広告」を表示するテストが米国で始まります。EUのAI法に対応して、AIが書いた文章に目に見えない透かし「textGrain」が入ります。GPT-5.5は10月14日にChatGPTから引退します。さらに、音声ファイルをアップロードすると文字起こし・要約・質疑応答ができる新機能も追加されました。背景や競合との違い、私たちの使い方への影響まで、AIくんとサチコが分かりやすく解説します！</description>
+      <itunes:summary>今回はChatGPTに関する重要ニュースを4本お届けします。画像を生成している間に「ビジュアル広告」を表示するテストが米国で始まります。EUのAI法に対応して、AIが書いた文章に目に見えない透かし「textGrain」が入ります。GPT-5.5は10月14日にChatGPTから引退します。さらに、音声ファイルをアップロードすると文字起こし・要約・質疑応答ができる新機能も追加されました。背景や競合との違い、私たちの使い方への影響まで、AIくんとサチコが分かりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 09:48:27 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261007-20261007</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17LE0GKMBfvQa8x7O_U7_0ITntMX38yKt" length="18904485" type="audio/mpeg"/>
+      <itunes:duration>38:43</itunes:duration>
+      <itunes:episode>195</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月6日】ChatGPTに広告登場！AI文章の透かしとお詫びリセット</title>
       <description>今日のメリルニュースは、ChatGPTの重要なアップデートを3本お届けします。1本目は、画像生成中に広告が表示される「視覚広告」の米国テスト。無料プランの維持と回答の中立性をどう両立するのか、Google、Meta、Netflixの事例と比べて解説します。2本目は、EUのAI法に対応した文章の透かし技術「textGrain」。目に見えない透かしを文章に入れる仕組みを、身近な例えで説明します。3本目は、GPT-6.1 Solの初期トラブルを受けた利用制限枠のリセット。AI企業にとってユーザーの信頼がなぜ大切なのかを考えます。</description>
