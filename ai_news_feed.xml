@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 11:28:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:04:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月7日】西側オープンAI「Beam」登場＆ChatGPT広告の新展開</title>
+      <description>今日は、DeepMind出身者が立ち上げたReflection AIが発表した巨大オープンウェイトモデル「Beam」を詳しく解説します。中国勢が強いオープンモデル市場に、西側がどう挑むのでしょうか。さらに、ChatGPTの画像生成中に表示される新しい広告フォーマット、EUのAI法に対応したテキスト透かし技術「textGrain」、ニューヨーク市議会がAI大手4社の幹部を宣誓のうえで呼び出した公聴会、そしてAnthropicがセキュリティ専門家向けアクセス制度を3階層に拡大したニュースもお届けします。AIの「商業化」と「安全・規制」がぶつかり合う最前線を、わかりやすく解説します！</description>
+      <itunes:summary>今日は、DeepMind出身者が立ち上げたReflection AIが発表した巨大オープンウェイトモデル「Beam」を詳しく解説します。中国勢が強いオープンモデル市場に、西側がどう挑むのでしょうか。さらに、ChatGPTの画像生成中に表示される新しい広告フォーマット、EUのAI法に対応したテキスト透かし技術「textGrain」、ニューヨーク市議会がAI大手4社の幹部を宣誓のうえで呼び出した公聴会、そしてAnthropicがセキュリティ専門家向けアクセス制度を3階層に拡大したニュースもお届けします。AIの「商業化」と「安全・規制」がぶつかり合う最前線を、わかりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 10:04:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261007-20261007</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1G9ASZo-us60KoGVrCL0rMxUff9-bctTC" length="24102189" type="audio/mpeg"/>
+      <itunes:duration>49:33</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月6日】ChatGPTに画像広告登場＆AI規制、米中・NYで一気に動く</title>
       <description>今日のメリルニュースは、10月3日〜5日に報じられたAI関連ニュース4本をお届けします。ChatGPTの画像生成に「ビジュアル広告」が入るというOpenAIの発表、ニューヨーク市議会がAI大手4社を呼んで開いた「キルスイッチ義務化」の公聴会、米国が中国に提案した「AI事故の緊急通知システム」、そしてトランプ政権の国家AIタスクフォース設置です。広告ビジネスの変化から国際的な安全保障まで、エンジニアのAIくんとサチコが背景・業界への影響・技術・他国との比較の4つの視点で分かりやすく解説します。AIの「稼ぎ方」と「止め方」が同時に議論された一週間を、一緒に整理しましょう。</description>
