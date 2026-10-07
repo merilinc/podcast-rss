@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 06 Oct 2026 11:24:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:06:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月7日】AI Overviewsがブランド検索の8割に！Google検索激変</title>
+      <description>Googleでブランド名や会社名を検索したとき、AIによる要約「AI Overviews」が表示される割合が26%から80%以上に急上昇しました。自社の説明をAIに書き換えられる時代に、企業は何をすべきなのでしょうか。さらに、9月スパムアップデートの最終フェーズ、AIで作った偽の著者プロフィールへのGoogleの公式警告、Search Consoleの生成AI制御機能のアップデートも解説します。SEO担当者だけでなく、毎日Google検索を使うすべての方に聴いてほしい回です。</description>
+      <itunes:summary>Googleでブランド名や会社名を検索したとき、AIによる要約「AI Overviews」が表示される割合が26%から80%以上に急上昇しました。自社の説明をAIに書き換えられる時代に、企業は何をすべきなのでしょうか。さらに、9月スパムアップデートの最終フェーズ、AIで作った偽の著者プロフィールへのGoogleの公式警告、Search Consoleの生成AI制御機能のアップデートも解説します。SEO担当者だけでなく、毎日Google検索を使うすべての方に聴いてほしい回です。</itunes:summary>
+      <pubDate>Wed, 07 Oct 2026 10:05:57 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261007-20261007</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HvTMJG_wVeVE3LuzrM3GmZeurxTDGoPG" length="26937477" type="audio/mpeg"/>
+      <itunes:duration>55:02</itunes:duration>
+      <itunes:episode>153</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月6日】GoogleがAIで出版社に報酬？ブランド検索の激変も</title>
       <description>今日は検索とマーケティングの最新ニュースを4本お届けします。GoogleがAIの回答に使われた記事へ報酬を支払う「AI Contribution Pilot」では、広告収入の0.1%以下という例から年間100万ドル超の例まで、金額に大きな差が出ています。企業名で検索したときにAI Overviewsが出る割合は26%から80%以上に急増しました。ほかに、AIクローラーがサイトマップやRSSを読んでいるというJohn Mueller氏の発言と、Google広告がサイト上のセール情報を自動で広告に取り込む新機能も解説します。ウェブに関わる人もそうでない人も、検索の今が分かる回です。</description>
