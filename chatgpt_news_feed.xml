@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 09:48:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:01:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月8日】GPT-6が全員に！答えが&quot;アプリ&quot;になる新UIと音声対応</title>
+      <description>今日のメリルニュースはChatGPTの大型アップデートを3本お届けします。まず、最新モデル「GPT-6」と、質問に応じて計算機や比較表、マップまで自動で作る「Intelligent UI」が無料ユーザーにも展開開始。SolとLunaの違いも解説します。次に、有料プランで音声ファイルのアップロードと文字起こし、要約に対応した新機能を紹介し、会議録音や講義の活用法と現時点の制限をお伝えします。最後は、JiraやConfluenceで知られるAtlassianとOpenAIの提携強化です。仕事の現場でAIがどう変わるのかを深掘りします。</description>
+      <itunes:summary>今日のメリルニュースはChatGPTの大型アップデートを3本お届けします。まず、最新モデル「GPT-6」と、質問に応じて計算機や比較表、マップまで自動で作る「Intelligent UI」が無料ユーザーにも展開開始。SolとLunaの違いも解説します。次に、有料プランで音声ファイルのアップロードと文字起こし、要約に対応した新機能を紹介し、会議録音や講義の活用法と現時点の制限をお伝えします。最後は、JiraやConfluenceで知られるAtlassianとOpenAIの提携強化です。仕事の現場でAIがどう変わるのかを深掘りします。</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 10:01:32 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261008-20261008</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M0BRy09Buzad8Li9xkNraChw2sn6Kuzq" length="22756653" type="audio/mpeg"/>
+      <itunes:duration>46:47</itunes:duration>
+      <itunes:episode>196</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月7日】ChatGPTに画像広告登場＆EUで見えない透かし導入</title>
       <description>今回はChatGPTに関する重要ニュースを4本お届けします。画像を生成している間に「ビジュアル広告」を表示するテストが米国で始まります。EUのAI法に対応して、AIが書いた文章に目に見えない透かし「textGrain」が入ります。GPT-5.5は10月14日にChatGPTから引退します。さらに、音声ファイルをアップロードすると文字起こし・要約・質疑応答ができる新機能も追加されました。背景や競合との違い、私たちの使い方への影響まで、AIくんとサチコが分かりやすく解説します！</description>
