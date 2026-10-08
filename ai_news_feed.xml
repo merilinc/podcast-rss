@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 07 Oct 2026 10:04:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:34:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月8日】GPT-6登場！動くUIを作るChatGPTと欧州の巨人Mistral</title>
+      <description>OpenAIが新世代モデル「GPT-6」と、質問に合わせてチャートやボタン、フォームまで自動で作る新機能「Intelligent UI」を発表しました。開発者向けには、従来の約10倍の速さで「判定」を返す「Decisions API」もパブリックβで公開されています。一方フランスのMistral AIは、1兆パラメータの巨大モデル「Mistral Large 4」、通称“Le Chonk”を発表しました。オープンウェイトとAI主権という、OpenAIとは違う方向から競争を仕掛けています。米国と欧州、2つのAI戦略の違いを、背景・技術・業界への影響まで分かりやすく解説します！</description>
+      <itunes:summary>OpenAIが新世代モデル「GPT-6」と、質問に合わせてチャートやボタン、フォームまで自動で作る新機能「Intelligent UI」を発表しました。開発者向けには、従来の約10倍の速さで「判定」を返す「Decisions API」もパブリックβで公開されています。一方フランスのMistral AIは、1兆パラメータの巨大モデル「Mistral Large 4」、通称“Le Chonk”を発表しました。オープンウェイトとAI主権という、OpenAIとは違う方向から競争を仕掛けています。米国と欧州、2つのAI戦略の違いを、背景・技術・業界への影響まで分かりやすく解説します！</itunes:summary>
+      <pubDate>Thu, 08 Oct 2026 10:34:30 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261008-20261008</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lfCYgiR15GfDivYt57Uq06Z9c1JKzVXv" length="20699877" type="audio/mpeg"/>
+      <itunes:duration>42:33</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月7日】西側オープンAI「Beam」登場＆ChatGPT広告の新展開</title>
       <description>今日は、DeepMind出身者が立ち上げたReflection AIが発表した巨大オープンウェイトモデル「Beam」を詳しく解説します。中国勢が強いオープンモデル市場に、西側がどう挑むのでしょうか。さらに、ChatGPTの画像生成中に表示される新しい広告フォーマット、EUのAI法に対応したテキスト透かし技術「textGrain」、ニューヨーク市議会がAI大手4社の幹部を宣誓のうえで呼び出した公聴会、そしてAnthropicがセキュリティ専門家向けアクセス制度を3階層に拡大したニュースもお届けします。AIの「商業化」と「安全・規制」がぶつかり合う最前線を、わかりやすく解説します！</description>
