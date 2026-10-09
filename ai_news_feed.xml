@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 10:34:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:24:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月9日】GPT-6全員解禁＆Gemini agentで仕事が自動化へ</title>
+      <description>今日は、OpenAIがChatGPTの全ユーザーに展開した新モデル「GPT-6」と、会話の中にボタンやグラフが現れる「Intelligent UI」を詳しく解説します。続いて、Gmailやドキュメントと連携して仕事を自律的にこなすGoogleの「Gemini agent」、電力や水道などの重要インフラをAIで守るAnthropicの新プログラムを紹介します。さらに、ChatGPT for Teensの安全性に「容認できないリスク」という厳しい評価が出た件と、スペインの通信大手Orangeが1,000を超えるAIエージェントを導入した事例もお届けします。AIの進化と安全性の両面がわかる回です。</description>
+      <itunes:summary>今日は、OpenAIがChatGPTの全ユーザーに展開した新モデル「GPT-6」と、会話の中にボタンやグラフが現れる「Intelligent UI」を詳しく解説します。続いて、Gmailやドキュメントと連携して仕事を自律的にこなすGoogleの「Gemini agent」、電力や水道などの重要インフラをAIで守るAnthropicの新プログラムを紹介します。さらに、ChatGPT for Teensの安全性に「容認できないリスク」という厳しい評価が出た件と、スペインの通信大手Orangeが1,000を超えるAIエージェントを導入した事例もお届けします。AIの進化と安全性の両面がわかる回です。</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 10:24:07 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261009-20261009</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CPNQe6PXA3aEGgfl6_pA6LrRGqU9642c" length="21633237" type="audio/mpeg"/>
+      <itunes:duration>44:16</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月8日】GPT-6登場！動くUIを作るChatGPTと欧州の巨人Mistral</title>
       <description>OpenAIが新世代モデル「GPT-6」と、質問に合わせてチャートやボタン、フォームまで自動で作る新機能「Intelligent UI」を発表しました。開発者向けには、従来の約10倍の速さで「判定」を返す「Decisions API」もパブリックβで公開されています。一方フランスのMistral AIは、1兆パラメータの巨大モデル「Mistral Large 4」、通称“Le Chonk”を発表しました。オープンウェイトとAI主権という、OpenAIとは違う方向から競争を仕掛けています。米国と欧州、2つのAI戦略の違いを、背景・技術・業界への影響まで分かりやすく解説します！</description>
