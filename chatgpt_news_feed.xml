@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 08 Oct 2026 10:01:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:24:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月9日】GPT-6全プラン解禁！EU透かし義務とAI数学論文騒動</title>
+      <description>今日のメリルニュースは、OpenAIの怒涛のアップデートを4本まとめてお届けします。ChatGPTに新モデル「GPT-6」と、図表や計算機を会話の中に自動で作る「Intelligent UI」が無料プランも含めて登場しました。EUのAI規制法に対応した見えない電子透かし「textGrain」の仕組みと弱点、AIが書いた722本の数学論文のうち3本が取り下げられた騒動、さらに開発者向けツール「Codex」の新機能「即時割り込み」まで、背景や競合との比較も交えてやさしく深掘りします。</description>
+      <itunes:summary>今日のメリルニュースは、OpenAIの怒涛のアップデートを4本まとめてお届けします。ChatGPTに新モデル「GPT-6」と、図表や計算機を会話の中に自動で作る「Intelligent UI」が無料プランも含めて登場しました。EUのAI規制法に対応した見えない電子透かし「textGrain」の仕組みと弱点、AIが書いた722本の数学論文のうち3本が取り下げられた騒動、さらに開発者向けツール「Codex」の新機能「即時割り込み」まで、背景や競合との比較も交えてやさしく深掘りします。</itunes:summary>
+      <pubDate>Fri, 09 Oct 2026 10:24:39 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261009-20261009</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NsdWRAK92QtSmD9QAoqKagu4a0uSwmwN" length="19788717" type="audio/mpeg"/>
+      <itunes:duration>40:22</itunes:duration>
+      <itunes:episode>197</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月8日】GPT-6が全員に！答えが&quot;アプリ&quot;になる新UIと音声対応</title>
       <description>今日のメリルニュースはChatGPTの大型アップデートを3本お届けします。まず、最新モデル「GPT-6」と、質問に応じて計算機や比較表、マップまで自動で作る「Intelligent UI」が無料ユーザーにも展開開始。SolとLunaの違いも解説します。次に、有料プランで音声ファイルのアップロードと文字起こし、要約に対応した新機能を紹介し、会議録音や講義の活用法と現時点の制限をお伝えします。最後は、JiraやConfluenceで知られるAtlassianとOpenAIの提携強化です。仕事の現場でAIがどう変わるのかを深掘りします。</description>
