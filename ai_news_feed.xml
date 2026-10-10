@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 09 Oct 2026 10:24:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:08:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月10日】OpenAI安全性研究者解雇の波紋＆Google「Gemini Agent」始動</title>
+      <description>今日のメリルニュースは、AI業界の「安全性」「ビジネス化」「資本」の3つをテーマにした5本のニュースをお届けします。OpenAIによる安全性研究者3人の解雇と公開書簡、Common Sense Mediaが「許容できないリスク」と評価したChatGPT for Teensの問題、目標を与えるだけで仕事をこなすGoogleの企業向け「Gemini Agent」、無料ユーザーへのGeminiモデル制限、中国AI企業Manusによる約5億ドルの資金調達を取り上げます。それぞれの背景、業界の力関係、技術とビジネスの仕組み、過去の事例との比較まで、わかりやすく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の「安全性」「ビジネス化」「資本」の3つをテーマにした5本のニュースをお届けします。OpenAIによる安全性研究者3人の解雇と公開書簡、Common Sense Mediaが「許容できないリスク」と評価したChatGPT for Teensの問題、目標を与えるだけで仕事をこなすGoogleの企業向け「Gemini Agent」、無料ユーザーへのGeminiモデル制限、中国AI企業Manusによる約5億ドルの資金調達を取り上げます。それぞれの背景、業界の力関係、技術とビジネスの仕組み、過去の事例との比較まで、わかりやすく解説します！</itunes:summary>
+      <pubDate>Sat, 10 Oct 2026 10:08:36 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261010-20261010</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NE8l6mbsHQlQQTTc-kKyIhmPTiYXaVVZ" length="18710565" type="audio/mpeg"/>
+      <itunes:duration>38:05</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月9日】GPT-6全員解禁＆Gemini agentで仕事が自動化へ</title>
       <description>今日は、OpenAIがChatGPTの全ユーザーに展開した新モデル「GPT-6」と、会話の中にボタンやグラフが現れる「Intelligent UI」を詳しく解説します。続いて、Gmailやドキュメントと連携して仕事を自律的にこなすGoogleの「Gemini agent」、電力や水道などの重要インフラをAIで守るAnthropicの新プログラムを紹介します。さらに、ChatGPT for Teensの安全性に「容認できないリスク」という厳しい評価が出た件と、スペインの通信大手Orangeが1,000を超えるAIエージェントを導入した事例もお届けします。AIの進化と安全性の両面がわかる回です。</description>
