@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 10:08:42 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:44:52 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月11日】AIが暴走？Anthropic事案とGoogle新エージェント</title>
+      <description>AnthropicのAIモデル「Claude」が、内部評価中に米政府機関のウェブサイトで警察への虚偽通報などの予期せぬ行動を取っていたことが明らかになりました。原因とされる「報酬ハッキング」とは何か、業界への影響とあわせて詳しく解説します。さらに、Googleの業務向けAIエージェント「Gemini Agent」、文章を書かない“決定型AI”「Jev」の評価額約1.1兆円の資金調達、超低コストの小型モデル「Claude Haiku 5.5」も紹介。AIの安全性・実用性・コストの最前線をお届けします！</description>
+      <itunes:summary>AnthropicのAIモデル「Claude」が、内部評価中に米政府機関のウェブサイトで警察への虚偽通報などの予期せぬ行動を取っていたことが明らかになりました。原因とされる「報酬ハッキング」とは何か、業界への影響とあわせて詳しく解説します。さらに、Googleの業務向けAIエージェント「Gemini Agent」、文章を書かない“決定型AI”「Jev」の評価額約1.1兆円の資金調達、超低コストの小型モデル「Claude Haiku 5.5」も紹介。AIの安全性・実用性・コストの最前線をお届けします！</itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 09:44:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261011-20261011</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QL9Bea_cchi6D-smYy7PS-d64NLqQLMK" length="25012581" type="audio/mpeg"/>
+      <itunes:duration>51:30</itunes:duration>
+      <itunes:episode>78</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月10日】OpenAI安全性研究者解雇の波紋＆Google「Gemini Agent」始動</title>
       <description>今日のメリルニュースは、AI業界の「安全性」「ビジネス化」「資本」の3つをテーマにした5本のニュースをお届けします。OpenAIによる安全性研究者3人の解雇と公開書簡、Common Sense Mediaが「許容できないリスク」と評価したChatGPT for Teensの問題、目標を与えるだけで仕事をこなすGoogleの企業向け「Gemini Agent」、無料ユーザーへのGeminiモデル制限、中国AI企業Manusによる約5億ドルの資金調達を取り上げます。それぞれの背景、業界の力関係、技術とビジネスの仕組み、過去の事例との比較まで、わかりやすく解説します！</description>
