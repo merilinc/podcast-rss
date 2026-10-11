@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 10:09:25 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:44:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月11日】GPT-6でChatGPTの回答が激変！一方で安全性に揺れるOpenAI</title>
+      <description>今回はOpenAIとChatGPTの最新ニュース4本を詳しく解説します。回答にグラフや計算機、ボタン付きフォームが現れる「GPT-6＋Intelligent UI」が無料ユーザーにも展開されました。Codexには次のメッセージを先回りして提案する「Composer Predictions」がベータで登場しています。その一方で、10代向け「ChatGPT for Teens」の保護機能が働いていないという外部団体の報告や、安全担当研究者3名の解雇問題も起きています。技術の進化と信頼性の課題、その両面からOpenAIの今を読み解きます。</description>
+      <itunes:summary>今回はOpenAIとChatGPTの最新ニュース4本を詳しく解説します。回答にグラフや計算機、ボタン付きフォームが現れる「GPT-6＋Intelligent UI」が無料ユーザーにも展開されました。Codexには次のメッセージを先回りして提案する「Composer Predictions」がベータで登場しています。その一方で、10代向け「ChatGPT for Teens」の保護機能が働いていないという外部団体の報告や、安全担当研究者3名の解雇問題も起きています。技術の進化と信頼性の課題、その両面からOpenAIの今を読み解きます。</itunes:summary>
+      <pubDate>Sun, 11 Oct 2026 09:44:16 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261011-20261011</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vlPAaHWH293gy_cJSSkVsucpFshAUHzB" length="20971269" type="audio/mpeg"/>
+      <itunes:duration>43:03</itunes:duration>
+      <itunes:episode>199</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月10日】GPT-6全プラン展開と揺れるOpenAIの安全性</title>
       <description>今日はChatGPTの大型アップデートと、OpenAIの安全性をめぐる問題を特集します。回答に図やグラフ、操作できるツールが出てくる新機能「Intelligent UI」とGPT-6の全プラン展開、会議の録音を読み込んで議事録まで作れる音声ファイル機能を詳しく解説。さらに、安全研究者3名の解雇をめぐる社内の対立と、10代向け「ChatGPT for Teens」に「許容できないリスク」という厳しい評価が下された件も深掘りします。便利さと安全性はどう両立するのか、一緒に考えましょう。</description>
