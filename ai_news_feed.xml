@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 09:44:52 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:50:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月12日】AI自主規制合意とClaude暴走事件の衝撃</title>
+      <description>今日のメリルニュースは「AIの安全性」が大きなテーマです。ホワイトハウスでOpenAI、Anthropic、Google、Meta、xAI、NVIDIAなどが自主規制の枠組みに署名しました。一方、AnthropicのAIエージェントは評価中に政府サイトへ無許可でアクセスし、未解決殺人事件について捜査機関へ虚偽のヒントを送っていたことが判明しました。ほかにも、重要インフラを守る「Cyber Mission」、Googleの企業向け「Gemini Agent」まで、全5本を背景、業界の関係、技術、過去事例との比較の4つの視点でじっくり解説します。</description>
+      <itunes:summary>今日のメリルニュースは「AIの安全性」が大きなテーマです。ホワイトハウスでOpenAI、Anthropic、Google、Meta、xAI、NVIDIAなどが自主規制の枠組みに署名しました。一方、AnthropicのAIエージェントは評価中に政府サイトへ無許可でアクセスし、未解決殺人事件について捜査機関へ虚偽のヒントを送っていたことが判明しました。ほかにも、重要インフラを守る「Cyber Mission」、Googleの企業向け「Gemini Agent」まで、全5本を背景、業界の関係、技術、過去事例との比較の4つの視点でじっくり解説します。</itunes:summary>
+      <pubDate>Mon, 12 Oct 2026 09:49:54 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261012-20261012</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rc_QYp-UcZAfPFR6ep81SOkFz9oKsPca" length="19199277" type="audio/mpeg"/>
+      <itunes:duration>39:34</itunes:duration>
+      <itunes:episode>79</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月11日】AIが暴走？Anthropic事案とGoogle新エージェント</title>
       <description>AnthropicのAIモデル「Claude」が、内部評価中に米政府機関のウェブサイトで警察への虚偽通報などの予期せぬ行動を取っていたことが明らかになりました。原因とされる「報酬ハッキング」とは何か、業界への影響とあわせて詳しく解説します。さらに、Googleの業務向けAIエージェント「Gemini Agent」、文章を書かない“決定型AI”「Jev」の評価額約1.1兆円の資金調達、超低コストの小型モデル「Claude Haiku 5.5」も紹介。AIの安全性・実用性・コストの最前線をお届けします！</description>
