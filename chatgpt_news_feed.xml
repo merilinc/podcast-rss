@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 11 Oct 2026 09:44:21 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:49:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月12日】GPT-6無料開放の裏で揺れるOpenAI〜研究者解雇とAIの緊急ブレーキ</title>
+      <description>今日はOpenAIをめぐる4つのニュースをお届けします。新モデル「GPT-6」と、図表やグラフで答えてくれる新画面「Intelligent UI」が無料プランにも登場しました。開発者向けのCodexには「次に送る指示」を先読みする新機能が加わっています。一方で、安全性を訴えていた研究者3名が解雇され、業界に波紋が広がりました。さらにMicrosoftのナデラCEOが「AIには緊急ブレーキが必要だ」と提言しています。AIの進化と安全をどう両立するのかを、やさしく深掘りします！</description>
+      <itunes:summary>今日はOpenAIをめぐる4つのニュースをお届けします。新モデル「GPT-6」と、図表やグラフで答えてくれる新画面「Intelligent UI」が無料プランにも登場しました。開発者向けのCodexには「次に送る指示」を先読みする新機能が加わっています。一方で、安全性を訴えていた研究者3名が解雇され、業界に波紋が広がりました。さらにMicrosoftのナデラCEOが「AIには緊急ブレーキが必要だ」と提言しています。AIの進化と安全をどう両立するのかを、やさしく深掘りします！</itunes:summary>
+      <pubDate>Mon, 12 Oct 2026 09:49:19 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261012-20261012</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_WxBd7xCvL9Fopnv-qpZD1kcfmwMH3o5" length="21172485" type="audio/mpeg"/>
+      <itunes:duration>43:34</itunes:duration>
+      <itunes:episode>200</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月11日】GPT-6でChatGPTの回答が激変！一方で安全性に揺れるOpenAI</title>
       <description>今回はOpenAIとChatGPTの最新ニュース4本を詳しく解説します。回答にグラフや計算機、ボタン付きフォームが現れる「GPT-6＋Intelligent UI」が無料ユーザーにも展開されました。Codexには次のメッセージを先回りして提案する「Composer Predictions」がベータで登場しています。その一方で、10代向け「ChatGPT for Teens」の保護機能が働いていないという外部団体の報告や、安全担当研究者3名の解雇問題も起きています。技術の進化と信頼性の課題、その両面からOpenAIの今を読み解きます。</description>
