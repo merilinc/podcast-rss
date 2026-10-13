@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 09:57:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 12:08:10 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月13日】AI要約がブランド検索を席巻＆Googleスパム対策強化</title>
+      <description>今日のメリルニュースはSEO特集です。ブランド名で検索すると、約83%でGoogleのAI要約「AI Overviews」が表示されるというAhrefsの調査結果を紹介します。さらに、掲示板やレビューの投稿を検索にすばやく反映させる新しい仕組み「UGC Fresh Data Program」、約2週間続いた「September 2026 Spam Update」の完了、AI生成コンテンツの公式ガイドライン更新も解説します。AI時代に企業やサイト運営者が何をすべきかを、具体的なアクションまで分かりやすくお届けします。</description>
+      <itunes:summary>今日のメリルニュースはSEO特集です。ブランド名で検索すると、約83%でGoogleのAI要約「AI Overviews」が表示されるというAhrefsの調査結果を紹介します。さらに、掲示板やレビューの投稿を検索にすばやく反映させる新しい仕組み「UGC Fresh Data Program」、約2週間続いた「September 2026 Spam Update」の完了、AI生成コンテンツの公式ガイドライン更新も解説します。AI時代に企業やサイト運営者が何をすべきかを、具体的なアクションまで分かりやすくお届けします。</itunes:summary>
+      <pubDate>Tue, 13 Oct 2026 12:08:06 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261013-20261013</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MyYdoSW75nRO8_D5nMJAGnQkEJn26a73" length="26425773" type="audio/mpeg"/>
+      <itunes:duration>54:15</itunes:duration>
+      <itunes:episode>158</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月12日】Google9月スパムアップデート完了＆サーチコンソール異常遅延</title>
       <description>今日はGoogle検索の大きな動きをまとめてお届けします。約2週間かけて完了した「2026年9月スパムアップデート」の中身と、それに重なるように起きたSearch Consoleの64時間超の異常遅延について解説します。さらに、手動ペナルティ「マニュアルアクション」の増加報告、RedditやQuoraなどの投稿をGoogleへ素早く届ける新プログラム「UGC Fresh Data Program」、Google広告で始まったAI生成広告文の事前プレビュー機能まで、全5トピックを取り上げます。サイト運営者やマーケターはもちろん、「検索結果ってどう決まるの？」と気になる方にもおすすめの回です。</description>
