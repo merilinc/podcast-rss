@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 12:06:28 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:50:37 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月14日】OpenAI盗聴事件と偽記者工作、GPT-6安全性の現在地</title>
+      <description>今回はChatGPTを開発するOpenAIの重大ニュースを3本解説します。1本目は、本社の役員用会議室で隠された録音装置が見つかり、従業員が逮捕された事件です。AIを使った容疑者特定の舞台裏と「内部脅威」の怖さに迫ります。2本目は、ロシアとイランに由来する偽ジャーナリストや偽シンクタンクを使った情報操作の摘発です。3本目は、GPT-6 SolとLunaの安全性アップデートの中身を紹介します。AIを安心して使うために知っておきたい話題をお届けします。</description>
+      <itunes:summary>今回はChatGPTを開発するOpenAIの重大ニュースを3本解説します。1本目は、本社の役員用会議室で隠された録音装置が見つかり、従業員が逮捕された事件です。AIを使った容疑者特定の舞台裏と「内部脅威」の怖さに迫ります。2本目は、ロシアとイランに由来する偽ジャーナリストや偽シンクタンクを使った情報操作の摘発です。3本目は、GPT-6 SolとLunaの安全性アップデートの中身を紹介します。AIを安心して使うために知っておきたい話題をお届けします。</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 09:50:31 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261014-20261014</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j0v0k3lqPiagWa87wBrGCkdNkytHjbfJ" length="21581157" type="audio/mpeg"/>
+      <itunes:duration>43:56</itunes:duration>
+      <itunes:episode>202</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月13日】GPT-6登場！ティーン安全問題とAI数学論文の衝撃</title>
       <description>今日はOpenAI・ChatGPT関連の5大ニュースをまとめて解説します。チャートやボタンで答える新機能「Intelligent UI」とGPT-6の全プラン展開、ティーン向けモードへの「受け入れがたいリスク」評価、EUのAI法に対応した見えない透かし「textGrain」の導入を取り上げます。さらに、AIが生成した722本の数学論文が数学界に起こした論争と、安全研究者3名の解雇で揺れるOpenAIの安全文化についても深掘りします。AIの進化と、その裏にある課題が分かる回です。</description>
