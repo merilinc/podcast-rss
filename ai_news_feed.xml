@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 12:07:01 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:51:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月14日】Meta新AI「Muse Wonder」とAIワーム警告の衝撃</title>
+      <description>今日のメリルニュースは、2026年10月11日〜13日のAI業界の大きな動きを5本お届けします。Metaがフロンティア級モデル「Muse Wonder」でOpenAI・Anthropicに挑戦状。Microsoftは自社AIチップ「Azure Maia 300」でNvidia依存からの脱却を狙います。人気チャットボットCharacter.AIの破産申請とDisneyのライセンス取得の裏側、Anthropicが警告した「家電でAIが自己複製する」リスク、そして350名の科学者による国際規制の要請まで、技術・ビジネス・安全性の観点から分かりやすく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、2026年10月11日〜13日のAI業界の大きな動きを5本お届けします。Metaがフロンティア級モデル「Muse Wonder」でOpenAI・Anthropicに挑戦状。Microsoftは自社AIチップ「Azure Maia 300」でNvidia依存からの脱却を狙います。人気チャットボットCharacter.AIの破産申請とDisneyのライセンス取得の裏側、Anthropicが警告した「家電でAIが自己複製する」リスク、そして350名の科学者による国際規制の要請まで、技術・ビジネス・安全性の観点から分かりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 14 Oct 2026 09:51:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261014-20261014</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EjY8HnIjyfT6259svN-xaDKyI_Cowi5c" length="22494981" type="audio/mpeg"/>
+      <itunes:duration>46:11</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月13日】Meta新AI「Muse Wonder」登場＆英国AI防衛と投資の行方</title>
       <description>今日のメリルニュースでは、3つのAIニュースを詳しく解説します。1つ目は、Metaが発表した最先端AIモデル「Muse Wonder」シリーズです。会話をまたいで記憶する「Active Memory」と、つまずいても立て直す「Active Focus」で、OpenAIやAnthropicに真っ向勝負を挑みます。2つ目は、英国政府のAIサイバー防衛強化策です。AIで1,352件の脆弱性を見つけた実績と、その背景にあるAIの誤通報事件を取り上げます。3つ目は、第3四半期のAI投資が30％以上減ったのに、大型ラウンドが増えたという意外なデータです。AI業界の今がまるごとわかる回です！</description>
