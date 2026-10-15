@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 09:52:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:36:01 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月15日】Gemini 4 Argon登場＆Google検索のAI化が加速</title>
+      <description>今日のメリルニュースは、Googleが発表した新フロンティアモデル「Gemini 4 Argon」を特集します。100万トークンの記憶力と推論の深さを調整できる機能が、AI検索とSEOをどう変えるのかを解説します。掲示板やレビューの投稿を素早く検索に反映する「UGC Fresh Data Program」、URLの「ハイフンとアンダースコア問題」に決着をつけたGoogle公式シリーズ、AI Modeの会話履歴サイドバーを通常検索に統合するテストも取り上げます。Webに関わるすべての人に役立つ内容です。</description>
+      <itunes:summary>今日のメリルニュースは、Googleが発表した新フロンティアモデル「Gemini 4 Argon」を特集します。100万トークンの記憶力と推論の深さを調整できる機能が、AI検索とSEOをどう変えるのかを解説します。掲示板やレビューの投稿を素早く検索に反映する「UGC Fresh Data Program」、URLの「ハイフンとアンダースコア問題」に決着をつけたGoogle公式シリーズ、AI Modeの会話履歴サイドバーを通常検索に統合するテストも取り上げます。Webに関わるすべての人に役立つ内容です。</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 09:35:58 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261015-20261015</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lCe8hQ6GrYlA9bEP76BakPF0QOCj375L" length="25301253" type="audio/mpeg"/>
+      <itunes:duration>51:35</itunes:duration>
+      <itunes:episode>160</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月14日】Gemini 4 Argon登場＆AI検索に医薬品広告、SEOツール大混乱</title>
       <description>今日のメリルニュースはSEO・検索マーケティング特集です。Googleの最新AIモデル「Gemini 4 Argon」がAI ModeとGeminiアプリで世界展開を開始しました。さらに、米国ではAI検索内での医薬品広告テストが始まっています。Search Consoleで日付が「1969年」になる謎の不具合、Googleのスクレイピング対策による順位計測ツールの大規模障害、ドメイン移行から4ヶ月経っても旧サイトが残り続ける問題まで、マーケターが今知っておくべき5つのニュースを背景・技術・比較の観点から分かりやすく解説します！</description>
