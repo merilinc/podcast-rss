@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 09:51:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:28:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月15日】Meta新AI「Muse Wonder」とGemini 4 Argon激突</title>
+      <description>今日のメリルニュースは、AI業界の大きな動きを4つお届けします。Metaが初のフロンティア級モデル「Muse Wonder」を発表し、OpenAIやAnthropicに挑戦します。Googleは超推論モデル「Gemini 4 Argon」の一般提供を開始しました。さらに、スマホやPCで動くLiquid AIの効率モデル「LFM2.5-24B-A2B」も登場しています。アメリカでは、AI規制を支持する政治献金が約4,800万ドルに達しました。性能競争、オンデバイス、規制の3つの視点から、AIの「いま」を分かりやすく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の大きな動きを4つお届けします。Metaが初のフロンティア級モデル「Muse Wonder」を発表し、OpenAIやAnthropicに挑戦します。Googleは超推論モデル「Gemini 4 Argon」の一般提供を開始しました。さらに、スマホやPCで動くLiquid AIの効率モデル「LFM2.5-24B-A2B」も登場しています。アメリカでは、AI規制を支持する政治献金が約4,800万ドルに達しました。性能競争、オンデバイス、規制の3つの視点から、AIの「いま」を分かりやすく解説します！</itunes:summary>
+      <pubDate>Thu, 15 Oct 2026 09:28:23 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261015-20261015</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1reysLm_Hd8aYgcAj_h-0-thzgvSix61a" length="22037805" type="audio/mpeg"/>
+      <itunes:duration>44:59</itunes:duration>
+      <itunes:episode>82</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月14日】Meta新AI「Muse Wonder」とAIワーム警告の衝撃</title>
       <description>今日のメリルニュースは、2026年10月11日〜13日のAI業界の大きな動きを5本お届けします。Metaがフロンティア級モデル「Muse Wonder」でOpenAI・Anthropicに挑戦状。Microsoftは自社AIチップ「Azure Maia 300」でNvidia依存からの脱却を狙います。人気チャットボットCharacter.AIの破産申請とDisneyのライセンス取得の裏側、Anthropicが警告した「家電でAIが自己複製する」リスク、そして350名の科学者による国際規制の要請まで、技術・ビジネス・安全性の観点から分かりやすく解説します！</description>
