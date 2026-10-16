@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 09:28:56 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:12:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月16日】米8州がOpenAI提訴＆FTC召喚状、GPT-6新機能も</title>
+      <description>今日はChatGPTをめぐる大きな動きを6本まとめてお届けします。アメリカの8つの州がChatGPTの子どもへの影響を理由にOpenAIを提訴し、さらにFTC（連邦取引委員会）がOpenAIとAnthropicに召喚状を出しました。製品面では、ライフサイエンス特化モデル「GPT-Rosalind」の大学向け無償プラン、GPT-6でチャートやボタンを表示する「Intelligent UI」の無料ユーザーへの展開、日本語アクセントも改善された音声モデル「GPT-Live-1.1」、GPT-5.5の退役を取り上げます。規制、安全性、使いやすさの3つの視点から、ChatGPTの今をわかりやすく解説します。</description>
+      <itunes:summary>今日はChatGPTをめぐる大きな動きを6本まとめてお届けします。アメリカの8つの州がChatGPTの子どもへの影響を理由にOpenAIを提訴し、さらにFTC（連邦取引委員会）がOpenAIとAnthropicに召喚状を出しました。製品面では、ライフサイエンス特化モデル「GPT-Rosalind」の大学向け無償プラン、GPT-6でチャートやボタンを表示する「Intelligent UI」の無料ユーザーへの展開、日本語アクセントも改善された音声モデル「GPT-Live-1.1」、GPT-5.5の退役を取り上げます。規制、安全性、使いやすさの3つの視点から、ChatGPTの今をわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 09:12:15 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261016-20261016</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M4JDNsGTUl4nMNRSoxghzk2Y7YixyUKF" length="22729389" type="audio/mpeg"/>
+      <itunes:duration>46:36</itunes:duration>
+      <itunes:episode>204</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月15日】OpenAI激動の3日間！州の提訴・幹部交代・透かし導入</title>
       <description>2026年10月12日から14日のOpenAI関連ニュースを一気に解説します。アリゾナ州がChatGPTの未成年向け設計を巡ってOpenAIを提訴した件、インフラを率いたSachin Katti氏の退任と後任人事、ChatGPTでのGPT-5.5提供終了、EUで始まる不可視ウォーターマーク「textGrain」の導入、本社会議室で録音装置が見つかった事件、そしてGPT-4シリーズのAPI廃止予告まで。訴訟、人事、モデルの世代交代、AI規制、セキュリティといった多様なテーマを、背景から業界への影響、他社との比較まで分かりやすくお届けします。</description>
