@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 09:36:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:10:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月16日】GoogleのAI検索がリンク重視に＆広告の新レポート登場</title>
+      <description>今日のメリルニュースはSEOと検索広告の最新動向を2本お届けします。1本目は、GoogleがAI ModeとAI Overviewsで情報源へのリンクを目立たせるアップデートを実施したニュース。好きな情報源を選べる「Preferred Sources」の利用は年初比で7倍以上に増えました。ゼロクリック検索をめぐる出版社との関係も解説します。2本目は、Google広告で「検索語句と広告の組み合わせレポート」のテストが始まった話題です。AI任せの広告運用が見えやすくなる理由と、明日から使える実務のポイントを紹介します。</description>
+      <itunes:summary>今日のメリルニュースはSEOと検索広告の最新動向を2本お届けします。1本目は、GoogleがAI ModeとAI Overviewsで情報源へのリンクを目立たせるアップデートを実施したニュース。好きな情報源を選べる「Preferred Sources」の利用は年初比で7倍以上に増えました。ゼロクリック検索をめぐる出版社との関係も解説します。2本目は、Google広告で「検索語句と広告の組み合わせレポート」のテストが始まった話題です。AI任せの広告運用が見えやすくなる理由と、明日から使える実務のポイントを紹介します。</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 09:09:56 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261016-20261016</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iHVk1POB0d8pXimyQExnWohZ5NomLjU5" length="18826389" type="audio/mpeg"/>
+      <itunes:duration>38:39</itunes:duration>
+      <itunes:episode>161</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月15日】Gemini 4 Argon登場＆Google検索のAI化が加速</title>
       <description>今日のメリルニュースは、Googleが発表した新フロンティアモデル「Gemini 4 Argon」を特集します。100万トークンの記憶力と推論の深さを調整できる機能が、AI検索とSEOをどう変えるのかを解説します。掲示板やレビューの投稿を素早く検索に反映する「UGC Fresh Data Program」、URLの「ハイフンとアンダースコア問題」に決着をつけたGoogle公式シリーズ、AI Modeの会話履歴サイドバーを通常検索に統合するテストも取り上げます。Webに関わるすべての人に役立つ内容です。</description>
