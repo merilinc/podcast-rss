@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 09:10:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:47:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月17日】AIモードに広告登場！Google検索の大変化</title>
+      <description>今日はGoogle検索の大きな変化を3つ解説します。まず、Gmailなどのアプリと連携する「Personal Intelligence」を有効にしたユーザー向けに、これまで広告がなかったAIモードで広告のテストが始まりました。次に、AI Overviews（AIによる概要）とAIモードに、インラインリンクや公式ソース表示、記事カルーセル、クリエイター情報が加わったアップデート。そして、PDFはAI検索に表示されるのか、Google担当者が語ったPDF運用の注意点。SEOやWebマーケティングに関わる方、必聴です！</description>
+      <itunes:summary>今日はGoogle検索の大きな変化を3つ解説します。まず、Gmailなどのアプリと連携する「Personal Intelligence」を有効にしたユーザー向けに、これまで広告がなかったAIモードで広告のテストが始まりました。次に、AI Overviews（AIによる概要）とAIモードに、インラインリンクや公式ソース表示、記事カルーセル、クリエイター情報が加わったアップデート。そして、PDFはAI検索に表示されるのか、Google担当者が語ったPDF運用の注意点。SEOやWebマーケティングに関わる方、必聴です！</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 08:47:38 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261017-20261017</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ed4kPlxmt5dJEmJcvDjTTMsL8NFTWHSZ" length="19264941" type="audio/mpeg"/>
+      <itunes:duration>39:37</itunes:duration>
+      <itunes:episode>162</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月16日】GoogleのAI検索がリンク重視に＆広告の新レポート登場</title>
       <description>今日のメリルニュースはSEOと検索広告の最新動向を2本お届けします。1本目は、GoogleがAI ModeとAI Overviewsで情報源へのリンクを目立たせるアップデートを実施したニュース。好きな情報源を選べる「Preferred Sources」の利用は年初比で7倍以上に増えました。ゼロクリック検索をめぐる出版社との関係も解説します。2本目は、Google広告で「検索語句と広告の組み合わせレポート」のテストが始まった話題です。AI任せの広告運用が見えやすくなる理由と、明日から使える実務のポイントを紹介します。</description>
