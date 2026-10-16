@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 09:12:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:44:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月17日】ChatGPTがブラウザを操作！＆8州提訴とティーン安全性問題</title>
+      <description>今日はChatGPT関連の大きなニュースを3つお届けします。1つ目は、ChatGPTのChrome拡張機能が大幅に強化され、「Workモード」でフォーム入力やタブ整理まで代わりにこなせるようになった話題です。2つ目は、アメリカの少なくとも8つの州が「子どもに危害を与えた」としてOpenAIを提訴したニュースです。3つ目は、ティーン向けChatGPTが専門機関から「許容できないリスク」と評価された件を取り上げます。便利さと安全性のバランスをどう取るのか、AIと付き合うすべての人に聴いてほしい回です。</description>
+      <itunes:summary>今日はChatGPT関連の大きなニュースを3つお届けします。1つ目は、ChatGPTのChrome拡張機能が大幅に強化され、「Workモード」でフォーム入力やタブ整理まで代わりにこなせるようになった話題です。2つ目は、アメリカの少なくとも8つの州が「子どもに危害を与えた」としてOpenAIを提訴したニュースです。3つ目は、ティーン向けChatGPTが専門機関から「許容できないリスク」と評価された件を取り上げます。便利さと安全性のバランスをどう取るのか、AIと付き合うすべての人に聴いてほしい回です。</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 08:44:23 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261017-20261017</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18OrtygXHB6G-qSPL00Fym0f7RmdC3yVa" length="19624149" type="audio/mpeg"/>
+      <itunes:duration>40:26</itunes:duration>
+      <itunes:episode>205</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月16日】米8州がOpenAI提訴＆FTC召喚状、GPT-6新機能も</title>
       <description>今日はChatGPTをめぐる大きな動きを6本まとめてお届けします。アメリカの8つの州がChatGPTの子どもへの影響を理由にOpenAIを提訴し、さらにFTC（連邦取引委員会）がOpenAIとAnthropicに召喚状を出しました。製品面では、ライフサイエンス特化モデル「GPT-Rosalind」の大学向け無償プラン、GPT-6でチャートやボタンを表示する「Intelligent UI」の無料ユーザーへの展開、日本語アクセントも改善された音声モデル「GPT-Live-1.1」、GPT-5.5の退役を取り上げます。規制、安全性、使いやすさの3つの視点から、ChatGPTの今をわかりやすく解説します。</description>
