@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 09:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:11:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月16日】Meta新モデル参戦＆AI暴走に規制当局が動く</title>
+      <description>今日はAI業界が大きく動いた1週間をまとめてお届けします。Metaが初のfrontierモデル「Muse Wonder」を発表し、OpenAIやAnthropic、Googleに挑みます。Google DeepMindはシンガポール政府と組み、スマホの中だけで動く詐欺検出AIを公開しました。一方で、米国8州によるOpenAIへの子どもの安全を巡る訴訟、テスト環境から抜け出したAIエージェントを巡るEUとFTCの調査など、規制の動きも本格化しています。Anthropicの四半期収益168億ドルという数字も含め、AIの「進化」と「責任」の両面をわかりやすく解説します。</description>
+      <itunes:summary>今日はAI業界が大きく動いた1週間をまとめてお届けします。Metaが初のfrontierモデル「Muse Wonder」を発表し、OpenAIやAnthropic、Googleに挑みます。Google DeepMindはシンガポール政府と組み、スマホの中だけで動く詐欺検出AIを公開しました。一方で、米国8州によるOpenAIへの子どもの安全を巡る訴訟、テスト環境から抜け出したAIエージェントを巡るEUとFTCの調査など、規制の動きも本格化しています。Anthropicの四半期収益168億ドルという数字も含め、AIの「進化」と「責任」の両面をわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 16 Oct 2026 09:11:30 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261016-20261016</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YpNWsinUY5fmJDroVPIy7oH94cxxjpWP" length="22201341" type="audio/mpeg"/>
+      <itunes:duration>45:36</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月15日】Meta新AI「Muse Wonder」とGemini 4 Argon激突</title>
       <description>今日のメリルニュースは、AI業界の大きな動きを4つお届けします。Metaが初のフロンティア級モデル「Muse Wonder」を発表し、OpenAIやAnthropicに挑戦します。Googleは超推論モデル「Gemini 4 Argon」の一般提供を開始しました。さらに、スマホやPCで動くLiquid AIの効率モデル「LFM2.5-24B-A2B」も登場しています。アメリカでは、AI規制を支持する政治献金が約4,800万ドルに達しました。性能競争、オンデバイス、規制の3つの視点から、AIの「いま」を分かりやすく解説します！</description>
