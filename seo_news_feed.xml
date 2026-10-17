@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 08:47:41 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:32:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月18日】Google AI検索がリンク強化！Gemini有料プラン改定とスパム更新</title>
+      <description>今回のメリルニュースは、Google関連のSEOニュースを3本お届けします。1本目は、AI ModeとAI Overviewsでインラインリンクの増加、公式ページの強調表示、ニュースカルーセルの拡大が行われたアップデートです。AI検索でクリックが減るというサイト運営者の不安に、Googleはどう応えたのかを解説します。米国で始まったUniversal Cartにも触れます。2本目は、月額約5ドルのAI PlusプランからProモデルが外れる件です。サブスク戦略の狙いを読み解きます。3本目は、9月スパムアップデートの完了と、サイト運営者が取るべき対策です。</description>
+      <itunes:summary>今回のメリルニュースは、Google関連のSEOニュースを3本お届けします。1本目は、AI ModeとAI Overviewsでインラインリンクの増加、公式ページの強調表示、ニュースカルーセルの拡大が行われたアップデートです。AI検索でクリックが減るというサイト運営者の不安に、Googleはどう応えたのかを解説します。米国で始まったUniversal Cartにも触れます。2本目は、月額約5ドルのAI PlusプランからProモデルが外れる件です。サブスク戦略の狙いを読み解きます。3本目は、9月スパムアップデートの完了と、サイト運営者が取るべき対策です。</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 08:32:30 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261018-20261018</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_IEwVDBSeRzuZTrSaiJNny1Ly0opQsGz" length="20415405" type="audio/mpeg"/>
+      <itunes:duration>41:59</itunes:duration>
+      <itunes:episode>163</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月17日】AIモードに広告登場！Google検索の大変化</title>
       <description>今日はGoogle検索の大きな変化を3つ解説します。まず、Gmailなどのアプリと連携する「Personal Intelligence」を有効にしたユーザー向けに、これまで広告がなかったAIモードで広告のテストが始まりました。次に、AI Overviews（AIによる概要）とAIモードに、インラインリンクや公式ソース表示、記事カルーセル、クリエイター情報が加わったアップデート。そして、PDFはAI検索に表示されるのか、Google担当者が語ったPDF運用の注意点。SEOやWebマーケティングに関わる方、必聴です！</description>
