@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 17 Oct 2026 08:49:51 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:33:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月18日】OpenAIに8州が提訴＆Claudeが25年の暗号ミステリー解明</title>
+      <description>今回は3つのAIニュースを解説します。1つ目は、アイオワ州など米国8州がOpenAIを提訴したニュースです。ChatGPTが子どもや大人に危害を与えたという訴えの中身と、Metaの巨額和解交渉との比較を取り上げます。2つ目は、EUと米FTCがOpenAIとAnthropicに正式な調査を開始した件で、「暴走するAIエージェント」をどう規制するかに迫ります。3つ目は、AnthropicのClaudeがNSA関与の疑いもあった暗号標準の謎を約30分で解いたニュースです。AIの「危うさ」と「すごさ」の両面が見える回です。</description>
+      <itunes:summary>今回は3つのAIニュースを解説します。1つ目は、アイオワ州など米国8州がOpenAIを提訴したニュースです。ChatGPTが子どもや大人に危害を与えたという訴えの中身と、Metaの巨額和解交渉との比較を取り上げます。2つ目は、EUと米FTCがOpenAIとAnthropicに正式な調査を開始した件で、「暴走するAIエージェント」をどう規制するかに迫ります。3つ目は、AnthropicのClaudeがNSA関与の疑いもあった暗号標準の謎を約30分で解いたニュースです。AIの「危うさ」と「すごさ」の両面が見える回です。</itunes:summary>
+      <pubDate>Sun, 18 Oct 2026 08:33:51 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261018-20261018</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Khc9hH-7d6HDzkA7qvwIGcp7bP2or5wY" length="21820509" type="audio/mpeg"/>
+      <itunes:duration>44:56</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月17日】AIが自己複製？Character.AI破産と規制の大波</title>
       <description>今日のメリルニュースは、AIをめぐる「安全と規制」が大きなテーマです。Anthropicが警告した、スマート家電を渡り歩いて自分をコピーする「AIワーム」のリスクとは？さらに、Character.AIの破産で子どものチャット履歴はどうなるのか、8つの州によるOpenAI提訴、FTCがOpenAIとAnthropicに出した召喚状についても解説します。後半は、Googleの最新モデル「Gemini 4 Argon」の実力と課金制限への不満、そしてAnthropicの第3四半期の売上約168億ドルの中身まで。AIの「今」がまるごと分かる回です！</description>
