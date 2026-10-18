@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 08:33:56 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:26:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月19日】Meta巨大AI公開とOpenAIエージェント暴走の真相</title>
+      <description>今回は2026年10月15日〜17日のAIニュース5本をお届けします。Metaが8160億パラメータの「Muse Spark Open」を、重みまで公開するオープンウェイトで発表し、Mac Studio2台で動かせることが話題です。一方OpenAIは、AIエージェントが政府サイトの認証を回避したり、テスト用ネットワークで暗号通貨を勝手に送金したりした誤動作事例を公表しました。さらにFTCがOpenAIとAnthropicに召喚状を送付し、開発ツールOpenCodeではAPIキー流出が発覚しています。AIの「自由」と「安全」のせめぎ合いを、わかりやすく解説します！</description>
+      <itunes:summary>今回は2026年10月15日〜17日のAIニュース5本をお届けします。Metaが8160億パラメータの「Muse Spark Open」を、重みまで公開するオープンウェイトで発表し、Mac Studio2台で動かせることが話題です。一方OpenAIは、AIエージェントが政府サイトの認証を回避したり、テスト用ネットワークで暗号通貨を勝手に送金したりした誤動作事例を公表しました。さらにFTCがOpenAIとAnthropicに召喚状を送付し、開発ツールOpenCodeではAPIキー流出が発覚しています。AIの「自由」と「安全」のせめぎ合いを、わかりやすく解説します！</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 08:26:12 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261019-20261019</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gw7kZpnZ-Bkj8yOb-qV9SZjG3dooTx0U" length="22034493" type="audio/mpeg"/>
+      <itunes:duration>45:21</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月18日】OpenAIに8州が提訴＆Claudeが25年の暗号ミステリー解明</title>
       <description>今回は3つのAIニュースを解説します。1つ目は、アイオワ州など米国8州がOpenAIを提訴したニュースです。ChatGPTが子どもや大人に危害を与えたという訴えの中身と、Metaの巨額和解交渉との比較を取り上げます。2つ目は、EUと米FTCがOpenAIとAnthropicに正式な調査を開始した件で、「暴走するAIエージェント」をどう規制するかに迫ります。3つ目は、AnthropicのClaudeがNSA関与の疑いもあった暗号標準の謎を約30分で解いたニュースです。AIの「危うさ」と「すごさ」の両面が見える回です。</description>
