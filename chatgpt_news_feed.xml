@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 08:29:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:23:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月19日】ChatGPTの声が進化＆Slides登場、米8州提訴とApple機密騒動</title>
+      <description>2026年10月16〜18日のOpenAI・ChatGPT関連ニュースを4本解説します。日本語を含む新しい声と、文章から声を作る「prompt-to-voice」を備えたGPT-Live-1.1。PowerPointやGoogle Slidesと競合するプレゼン作成機能「ChatGPT Slides」。未成年者への安全性をめぐるアメリカ8州からの一斉提訴。元社員が未発表デバイスの機密ファイルをAppleに持ち出したとするOpenAIの訴え。技術とビジネスの話から法律の話まで、OpenAIに集まる注目と監視の今を分かりやすく掘り下げます。</description>
+      <itunes:summary>2026年10月16〜18日のOpenAI・ChatGPT関連ニュースを4本解説します。日本語を含む新しい声と、文章から声を作る「prompt-to-voice」を備えたGPT-Live-1.1。PowerPointやGoogle Slidesと競合するプレゼン作成機能「ChatGPT Slides」。未成年者への安全性をめぐるアメリカ8州からの一斉提訴。元社員が未発表デバイスの機密ファイルをAppleに持ち出したとするOpenAIの訴え。技術とビジネスの話から法律の話まで、OpenAIに集まる注目と監視の今を分かりやすく掘り下げます。</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 08:23:48 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261019-20261019</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YpyD4W6DixArxeyMgD8Kg3FgOLiQ_3Tc" length="19186101" type="audio/mpeg"/>
+      <itunes:duration>39:18</itunes:duration>
+      <itunes:episode>207</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月18日】ChatGPTに日本語の新しい声「ひまり」登場＆米8州がOpenAI提訴</title>
       <description>今回はChatGPTをめぐるニュースを5本お届けします。音声モデル「GPT-Live-1.1」の登場で、日本語の新しい声「ひまり」「りんどう」が追加されました。プレゼン資料をみんなで同時に編集できる「ChatGPT Slides」も正式に始まります。一方で、アメリカの8つの州が「子どもに害を与えている」としてOpenAIを提訴しました。Appleとの機密情報をめぐる訴訟合戦や、企業・教育機関向けのデータ管理強化もあわせて解説します。便利になるAIの裏で、どんな責任が問われているのか。いっしょに考えていきましょう。</description>
