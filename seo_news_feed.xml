@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 18 Oct 2026 08:32:36 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:24:58 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月19日】Google順位大変動＆ChatGPTの流入が見えなくなる問題</title>
+      <description>今日のメリルニュースは、SEOとAI検索の最新動向を3本立てで深掘りします。9月のスパムアップデート完了後も収まらないGoogle検索順位の大きな変動、AI ModeとAI Overviewsのリンク表示強化、そしてChatGPTのリンクからUTMパラメータが消え、AI経由の流入が「直接流入」に紛れてしまう計測問題を取り上げます。サイト運営者やマーケターが今すぐできる対策まで、専門用語をかみ砕いてわかりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースは、SEOとAI検索の最新動向を3本立てで深掘りします。9月のスパムアップデート完了後も収まらないGoogle検索順位の大きな変動、AI ModeとAI Overviewsのリンク表示強化、そしてChatGPTのリンクからUTMパラメータが消え、AI経由の流入が「直接流入」に紛れてしまう計測問題を取り上げます。サイト運営者やマーケターが今すぐできる対策まで、専門用語をかみ砕いてわかりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 19 Oct 2026 08:24:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261019-20261019</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rb8Caw7Uwsfb5h1nuByZssQMl97f3eWl" length="23013837" type="audio/mpeg"/>
+      <itunes:duration>47:17</itunes:duration>
+      <itunes:episode>164</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月18日】Google AI検索がリンク強化！Gemini有料プラン改定とスパム更新</title>
       <description>今回のメリルニュースは、Google関連のSEOニュースを3本お届けします。1本目は、AI ModeとAI Overviewsでインラインリンクの増加、公式ページの強調表示、ニュースカルーセルの拡大が行われたアップデートです。AI検索でクリックが減るというサイト運営者の不安に、Googleはどう応えたのかを解説します。米国で始まったUniversal Cartにも触れます。2本目は、月額約5ドルのAI PlusプランからProモデルが外れる件です。サブスク戦略の狙いを読み解きます。3本目は、9月スパムアップデートの完了と、サイト運営者が取るべき対策です。</description>
