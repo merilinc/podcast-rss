@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 08:23:53 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:41:38 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月20日】OpenAI巨額調達とロボット参入、8州提訴の衝撃</title>
+      <description>今日はChatGPTを開発するOpenAIをめぐる5つのニュースを深掘りします。ライバルAnthropicの上場前に、評価額1.4兆ドル超で300億ドルを集めようとする巨額資金調達の狙い。アメリカ8州が「子どもへの危害」と「安全性の過大表示」で起こした訴訟の論点。元エンジニアによる社内盗聴事件と、サウジアラビア関係者との接点。銀行システムを支えるCOBOLなど「マイナー言語」でのAIコーディング性能の向上。そして2027年のデモを目指すヒューマノイドロボット開発。AI業界のお金、法律、安全保障、技術、未来の話をまとめてお届けします！</description>
+      <itunes:summary>今日はChatGPTを開発するOpenAIをめぐる5つのニュースを深掘りします。ライバルAnthropicの上場前に、評価額1.4兆ドル超で300億ドルを集めようとする巨額資金調達の狙い。アメリカ8州が「子どもへの危害」と「安全性の過大表示」で起こした訴訟の論点。元エンジニアによる社内盗聴事件と、サウジアラビア関係者との接点。銀行システムを支えるCOBOLなど「マイナー言語」でのAIコーディング性能の向上。そして2027年のデモを目指すヒューマノイドロボット開発。AI業界のお金、法律、安全保障、技術、未来の話をまとめてお届けします！</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 09:41:32 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261020-20261020</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qCkpXzSNGce2U2nhD5SbeCHUWrUssh_4" length="23683005" type="audio/mpeg"/>
+      <itunes:duration>48:47</itunes:duration>
+      <itunes:episode>208</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月19日】ChatGPTの声が進化＆Slides登場、米8州提訴とApple機密騒動</title>
       <description>2026年10月16〜18日のOpenAI・ChatGPT関連ニュースを4本解説します。日本語を含む新しい声と、文章から声を作る「prompt-to-voice」を備えたGPT-Live-1.1。PowerPointやGoogle Slidesと競合するプレゼン作成機能「ChatGPT Slides」。未成年者への安全性をめぐるアメリカ8州からの一斉提訴。元社員が未発表デバイスの機密ファイルをAppleに持ち出したとするOpenAIの訴え。技術とビジネスの話から法律の話まで、OpenAIに集まる注目と監視の今を分かりやすく掘り下げます。</description>
