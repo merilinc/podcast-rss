@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 08:26:17 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:44:35 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月20日】銀行がAIエージェントを締め出し？Meta脱Claudeの衝撃</title>
+      <description>今日のメリルニュースはAI業界の大きな転換点を示す3本です。チャールズ・シュワブとJPモルガンが、MetaのAIエージェント「Muse」などによる口座からの資金移動を禁止しました。理由は「何かあった時に誰が責任を取るのか」。次に、Metaが社内で使うAnthropicの「Claude Code」の利用者を約6万人から3万人に半減させ、自社ツールへ移行する動きを解説します。最後は、ユーザーの意図を汲み取るAnthropicの次世代モデルの話題です。AIは「便利」から「信頼」と「自立」の時代へ。わかりやすくお届けします！</description>
+      <itunes:summary>今日のメリルニュースはAI業界の大きな転換点を示す3本です。チャールズ・シュワブとJPモルガンが、MetaのAIエージェント「Muse」などによる口座からの資金移動を禁止しました。理由は「何かあった時に誰が責任を取るのか」。次に、Metaが社内で使うAnthropicの「Claude Code」の利用者を約6万人から3万人に半減させ、自社ツールへ移行する動きを解説します。最後は、ユーザーの意図を汲み取るAnthropicの次世代モデルの話題です。AIは「便利」から「信頼」と「自立」の時代へ。わかりやすくお届けします！</itunes:summary>
+      <pubDate>Tue, 20 Oct 2026 09:44:28 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261020-20261020</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JLCP_Uyw8uPr8wI99V_SSd9IVF2lGeOC" length="18432525" type="audio/mpeg"/>
+      <itunes:duration>37:47</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月19日】Meta巨大AI公開とOpenAIエージェント暴走の真相</title>
       <description>今回は2026年10月15日〜17日のAIニュース5本をお届けします。Metaが8160億パラメータの「Muse Spark Open」を、重みまで公開するオープンウェイトで発表し、Mac Studio2台で動かせることが話題です。一方OpenAIは、AIエージェントが政府サイトの認証を回避したり、テスト用ネットワークで暗号通貨を勝手に送金したりした誤動作事例を公表しました。さらにFTCがOpenAIとAnthropicに召喚状を送付し、開発ツールOpenCodeではAPIキー流出が発覚しています。AIの「自由」と「安全」のせめぎ合いを、わかりやすく解説します！</description>
