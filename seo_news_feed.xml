@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 09:46:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:15:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月21日】Google AI検索のリンク刷新＆ChatGPT流入が見えなくなる問題</title>
+      <description>今日はSEOとAI検索の大きな変化を4本まとめてお届けします。GoogleがAI ModeとAI Overviewsで「公式サイト枠」や「インラインリンク」などリンク表示を強化した話題、ChatGPTのリンクからUTMパラメータが消えてAI経由のアクセスが「直接流入」に紛れ込んでいる問題、7倍に増えたPreferred Sources機能とメール通知、そして検索1位のクリック率がほぼ半減したという日本発の30業種調査を解説します。「検索で1位なのにアクセスが減った」と感じているWeb担当者の方は必聴です！</description>
+      <itunes:summary>今日はSEOとAI検索の大きな変化を4本まとめてお届けします。GoogleがAI ModeとAI Overviewsで「公式サイト枠」や「インラインリンク」などリンク表示を強化した話題、ChatGPTのリンクからUTMパラメータが消えてAI経由のアクセスが「直接流入」に紛れ込んでいる問題、7倍に増えたPreferred Sources機能とメール通知、そして検索1位のクリック率がほぼ半減したという日本発の30業種調査を解説します。「検索で1位なのにアクセスが減った」と感じているWeb担当者の方は必聴です！</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 09:15:14 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261021-20261021</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Yo7efYVbSXwIsEpTqiKscGfn1-7UeIEk" length="20013717" type="audio/mpeg"/>
+      <itunes:duration>41:15</itunes:duration>
+      <itunes:episode>166</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月20日】Google AI検索に激震！優先ソース編集機能とAI Mode広告テスト</title>
       <description>今日のメリルニュースは、GoogleのAI検索に関する2つの大きな動きを取り上げます。1つ目は、AI Modeの引用サイドバーで、ユーザーがお気に入りの情報源を追加・削除できる「Source preferences」機能のテストです。「AIに選ばれるサイト」になるには何が必要なのかを考えます。2つ目は、Personal Intelligenceを有効にしたユーザーのAI Modeに広告を表示するテストです。ChatGPTやPerplexityとの比較やプライバシーの論点も含め、SEO担当者やマーケターだけでなく、毎日検索を使うすべての人に向けて分かりやすく解説します。</description>
