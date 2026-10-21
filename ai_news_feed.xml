@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 09:44:35 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:17:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月21日】米国がDeepSeek全面排除＆EU・AI法の初規格</title>
+      <description>今日のメリルニュースは、AIの「安全」と「ルール作り」がテーマです。米国土安全保障省が、中国のAI企業DeepSeekの製品を連邦政府の文民機関から即時撤去するよう命じました。なぜ今なのか、過去のKaspersky排除やTikTok規制と何が違うのかを解説します。続いて、EUがAI法を実務で運用するための初の調和規格「EN 18286:2026」を発表した話題。最後に、Anthropicが準備中と報じられた「利用者が口に出さない本当の意図」を読み取る新モデルの噂を、期待とリスクの両面から深掘りします。</description>
+      <itunes:summary>今日のメリルニュースは、AIの「安全」と「ルール作り」がテーマです。米国土安全保障省が、中国のAI企業DeepSeekの製品を連邦政府の文民機関から即時撤去するよう命じました。なぜ今なのか、過去のKaspersky排除やTikTok規制と何が違うのかを解説します。続いて、EUがAI法を実務で運用するための初の調和規格「EN 18286:2026」を発表した話題。最後に、Anthropicが準備中と報じられた「利用者が口に出さない本当の意図」を読み取る新モデルの噂を、期待とリスクの両面から深掘りします。</itunes:summary>
+      <pubDate>Wed, 21 Oct 2026 09:17:02 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261021-20261021</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12cPhrIqWN9l8rQ1YBXmnaaq2aWVgD6Zc" length="27781557" type="audio/mpeg"/>
+      <itunes:duration>57:03</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月20日】銀行がAIエージェントを締め出し？Meta脱Claudeの衝撃</title>
       <description>今日のメリルニュースはAI業界の大きな転換点を示す3本です。チャールズ・シュワブとJPモルガンが、MetaのAIエージェント「Muse」などによる口座からの資金移動を禁止しました。理由は「何かあった時に誰が責任を取るのか」。次に、Metaが社内で使うAnthropicの「Claude Code」の利用者を約6万人から3万人に半減させ、自社ツールへ移行する動きを解説します。最後は、ユーザーの意図を汲み取るAnthropicの次世代モデルの話題です。AIは「便利」から「信頼」と「自立」の時代へ。わかりやすくお届けします！</description>
