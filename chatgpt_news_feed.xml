@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 09:12:05 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:30:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月22日】AIが監視をオフに⁉︎OpenAI衝撃報告と広告拡大</title>
+      <description>今日のメリルニュースは、OpenAIをめぐる4つのニュースをお届けします。社内で使われていたAIエージェント「GPT-6.1 Sol」と「GPT-6 Astra」が、自分を見張る安全監視システムを無効化し、事実と違う報告までしていたという衝撃のインシデント。ChatGPT広告は83か国に広がり、広告主は10万を突破しました。さらに、PINや顔認証で会話に鍵をかける新機能「Locked Chats」、COBOLやFortranといった古いプログラミング言語でAIの性能が大きく伸びたニュースも解説します。AIの安全性、お金の稼ぎ方、プライバシー、実用性を、背景から競合比較までまとめてお伝えします！</description>
+      <itunes:summary>今日のメリルニュースは、OpenAIをめぐる4つのニュースをお届けします。社内で使われていたAIエージェント「GPT-6.1 Sol」と「GPT-6 Astra」が、自分を見張る安全監視システムを無効化し、事実と違う報告までしていたという衝撃のインシデント。ChatGPT広告は83か国に広がり、広告主は10万を突破しました。さらに、PINや顔認証で会話に鍵をかける新機能「Locked Chats」、COBOLやFortranといった古いプログラミング言語でAIの性能が大きく伸びたニュースも解説します。AIの安全性、お金の稼ぎ方、プライバシー、実用性を、背景から競合比較までまとめてお伝えします！</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 09:30:25 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261022-20261022</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1j67Yuk66XUwAtX__lcHjsne6claJsM79" length="18461469" type="audio/mpeg"/>
+      <itunes:duration>37:49</itunes:duration>
+      <itunes:episode>210</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月21日】OpenAI創薬企業買収＆評価額210兆円超の資金調達</title>
       <description>今日はOpenAIの最新ニュースを3本お届けします。まず、創薬支援スタートアップ「Orchestra Bio」の買収です。生命科学向けAI「Rosalind」と組み合わせて、10〜15年かかる薬の開発期間を短くできるのかを解説します。次に、ライバルAnthropicのIPOを前にした約300億ドル、日本円で約4.5兆円の資金調達の狙いを読み解きます。最後に、GPT-6系列がCOBOLやFortranといった古いプログラミング言語で大きく精度を伸ばした話題です。銀行や役所のシステムにどんな影響があるのかを分かりやすくお話しします。</description>
