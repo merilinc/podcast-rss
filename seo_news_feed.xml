@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 21 Oct 2026 09:15:20 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:33:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月22日】Google AI検索の制御ルール明文化と検索流入激減の衝撃</title>
+      <description>今日はSEOとAI検索の最新ニュース4本をお届けします。GoogleがAI OverviewsやAI Modeでのコンテンツの使われ方を制御する方法を公式ドキュメントに明記しました。Chartbeatの調査では、北米パブリッシャーの検索経由PVシェアが21％から12％へ急落しています。さらに、ChatGPT広告のクリエイティブ自動調整機能が10月末からデフォルトでオンになるほか、ChatGPTからの流入が「直接流入」と誤って計測されていたUTMバグも発覚しました。Webサイト運営者やマーケターがいま何をすべきか、背景から対策まで分かりやすく解説します。</description>
+      <itunes:summary>今日はSEOとAI検索の最新ニュース4本をお届けします。GoogleがAI OverviewsやAI Modeでのコンテンツの使われ方を制御する方法を公式ドキュメントに明記しました。Chartbeatの調査では、北米パブリッシャーの検索経由PVシェアが21％から12％へ急落しています。さらに、ChatGPT広告のクリエイティブ自動調整機能が10月末からデフォルトでオンになるほか、ChatGPTからの流入が「直接流入」と誤って計測されていたUTMバグも発覚しました。Webサイト運営者やマーケターがいま何をすべきか、背景から対策まで分かりやすく解説します。</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 09:33:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261022-20261022</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QvcBJH6cJCowFwZXDGLfGLw3NOGyxScW" length="21243237" type="audio/mpeg"/>
+      <itunes:duration>43:37</itunes:duration>
+      <itunes:episode>167</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月21日】Google AI検索のリンク刷新＆ChatGPT流入が見えなくなる問題</title>
       <description>今日はSEOとAI検索の大きな変化を4本まとめてお届けします。GoogleがAI ModeとAI Overviewsで「公式サイト枠」や「インラインリンク」などリンク表示を強化した話題、ChatGPTのリンクからUTMパラメータが消えてAI経由のアクセスが「直接流入」に紛れ込んでいる問題、7倍に増えたPreferred Sources機能とメール通知、そして検索1位のクリック率がほぼ半減したという日本発の30業種調査を解説します。「検索で1位なのにアクセスが減った」と感じているWeb担当者の方は必聴です！</description>
