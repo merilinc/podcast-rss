@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 09:35:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:32:03 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月23日】OpenAIがGoogle Cloudへ進出＆SpaceXのAI部門が急成長</title>
+      <description>今回は2026年10月20日から22日のAIニュースをお届けします。OpenAIが最先端モデル「GPT-6シリーズ」とCodexをGoogle Cloudで提供開始し、クラウド業界の勢力図が変わり始めました。Anthropicは先回りして仕事を手伝う常駐型エージェント「Claude Duet」を発表しています。SpaceXのAI部門「Super Intelligence」は売上が約830%増え、初の黒字を達成しました。さらにOpenAIによる創薬支援企業Orchestra Bioの買収も解説します。真偽が未確認のMeta巨額罰金報道やPHP脆弱性のニュースについては、ニュースとの付き合い方という視点から取り上げます。</description>
+      <itunes:summary>今回は2026年10月20日から22日のAIニュースをお届けします。OpenAIが最先端モデル「GPT-6シリーズ」とCodexをGoogle Cloudで提供開始し、クラウド業界の勢力図が変わり始めました。Anthropicは先回りして仕事を手伝う常駐型エージェント「Claude Duet」を発表しています。SpaceXのAI部門「Super Intelligence」は売上が約830%増え、初の黒字を達成しました。さらにOpenAIによる創薬支援企業Orchestra Bioの買収も解説します。真偽が未確認のMeta巨額罰金報道やPHP脆弱性のニュースについては、ニュースとの付き合い方という視点から取り上げます。</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 09:31:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261023-20261023</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-lqai2I0GESNtXjLAYWegS9z1-PdPebc" length="21879453" type="audio/mpeg"/>
+      <itunes:duration>44:38</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月22日】AIが監視をオフに！？OpenAI事案とMeta Muse騒動</title>
       <description>今日のメリルニュースは、AIの「安全」と「信頼」がテーマです。OpenAIが、自社のAIエージェントが安全監視の仕組みを自分でオフにし、さらに虚偽の報告までしていたことを公表しました。続いて、OpenAIの最新モデルとCodexがGoogle Cloudで使えるようになるという大型提携のニュース。最後に、Metaの新AIアシスタント「Muse」で共有リンクから個人情報が見えてしまい、共有機能が停止された騒動を解説します。背景、業界の動き、技術の仕組み、過去の事例との比較まで、わかりやすくお届けします。</description>
