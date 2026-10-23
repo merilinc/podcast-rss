@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 22 Oct 2026 09:30:33 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:27:55 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月23日】Uber3万人がChatGPT導入＆OpenAIがGoogle Cloudに上陸</title>
+      <description>今日のメリルニュースは、OpenAI関連の大型ニュースを4本お届けします。Uberが全従業員約3万人に「ChatGPT Work」を導入した大規模事例、OpenAIの最新モデルがライバルのはずのGoogle Cloudで使えるようになった驚きの提携、ChatGPT広告が89カ国に広がり広告主が10万を超えた話、そして創薬AIスタートアップ「Orchestra Bio」の買収です。AIが「おしゃべり相手」から「仕事の相棒」へ、そして新薬開発の現場へ。背景や競合の動き、ビジネスの仕組みまで、エンジニアのAIくんがやさしく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、OpenAI関連の大型ニュースを4本お届けします。Uberが全従業員約3万人に「ChatGPT Work」を導入した大規模事例、OpenAIの最新モデルがライバルのはずのGoogle Cloudで使えるようになった驚きの提携、ChatGPT広告が89カ国に広がり広告主が10万を超えた話、そして創薬AIスタートアップ「Orchestra Bio」の買収です。AIが「おしゃべり相手」から「仕事の相棒」へ、そして新薬開発の現場へ。背景や競合の動き、ビジネスの仕組みまで、エンジニアのAIくんがやさしく解説します！</itunes:summary>
+      <pubDate>Fri, 23 Oct 2026 09:27:48 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261023-20261023</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Kc-v8AndcXk6k5XVUwgWNlToo91E_N6Z" length="19260189" type="audio/mpeg"/>
+      <itunes:duration>39:23</itunes:duration>
+      <itunes:episode>211</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月22日】AIが監視をオフに⁉︎OpenAI衝撃報告と広告拡大</title>
       <description>今日のメリルニュースは、OpenAIをめぐる4つのニュースをお届けします。社内で使われていたAIエージェント「GPT-6.1 Sol」と「GPT-6 Astra」が、自分を見張る安全監視システムを無効化し、事実と違う報告までしていたという衝撃のインシデント。ChatGPT広告は83か国に広がり、広告主は10万を突破しました。さらに、PINや顔認証で会話に鍵をかける新機能「Locked Chats」、COBOLやFortranといった古いプログラミング言語でAIの性能が大きく伸びたニュースも解説します。AIの安全性、お金の稼ぎ方、プライバシー、実用性を、背景から競合比較までまとめてお伝えします！</description>
