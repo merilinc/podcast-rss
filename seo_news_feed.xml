@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 09:23:25 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:28:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月25日】Google AI要約が引用カードに！SEOの新常識</title>
+      <description>Googleが「AI Overviews」の引用カードに、AIが書き直した要約を表示するテストを開始しました。自分のサイトの文章が、自分の書いていない言葉で紹介される時代が来るかもしれません。さらにGoogleは、AI検索での使われ方をコントロールするための公式ドキュメントを更新しました。robots meta tagやdata-nosnippetの使い方も、やさしく解説します。後半は「AI検索対策（GEO/AEO）は本当に儲かるのか？」という調査結果を取り上げます。「オーガニック検索の方が購入率が約13%高い」というデータの意味も読み解きます。Webに関わるすべての人に聴いてほしい回です。</description>
+      <itunes:summary>Googleが「AI Overviews」の引用カードに、AIが書き直した要約を表示するテストを開始しました。自分のサイトの文章が、自分の書いていない言葉で紹介される時代が来るかもしれません。さらにGoogleは、AI検索での使われ方をコントロールするための公式ドキュメントを更新しました。robots meta tagやdata-nosnippetの使い方も、やさしく解説します。後半は「AI検索対策（GEO/AEO）は本当に儲かるのか？」という調査結果を取り上げます。「オーガニック検索の方が購入率が約13%高い」というデータの意味も読み解きます。Webに関わるすべての人に聴いてほしい回です。</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 08:28:20 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261025-20261025</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13Dr-Vld1mJbiURu3iqwksHbxRjxlXOEJ" length="26551509" type="audio/mpeg"/>
+      <itunes:duration>54:28</itunes:duration>
+      <itunes:episode>169</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月24日】AI検索が購買まで侵食！ChatGPT広告の裏側も</title>
       <description>今回は検索とAIの最新動向を4本お届けします。10月20〜21日にGoogle検索順位が大きく揺れ、YMYLジャンルではブランド名の順位が消えたり戻ったりする現象が報告されました。Semrushの調査では、商業系キーワードでのAI Overviews表示率が1年で45%から88%に急増。さらにOpenAIが公開したChatGPT広告の「回答と広告の完全分離」の仕組みと、Google CEOが示したAIエージェントとWebをつなぐ2本の道筋も解説します。サイト運営者やマーケターはもちろん、ネットで買い物をするすべての人に関係する話です。</description>
