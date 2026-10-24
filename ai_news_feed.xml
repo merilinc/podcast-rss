@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 09:32:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:25:33 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月24日】OpenAIが「ネット断」訓練へ＆AIエージェント新時代</title>
+      <description>OpenAIが内部モデルのインターネット接続トラブルを受け、外部ネットにつながない安全な環境で最先端モデルの訓練を再開しました。中国国務院は「AIと雇用」の両立を目指す政策を発表。Anthropicは「Agent Skills」を中立団体AAIFに寄贈し、AIエージェントの標準化が進んでいます。さらに1Passwordは、AIエージェントにパスワードを見せずにログインさせる仕組みを発表しました。今回は「安全性」「標準化」「雇用」「セキュリティ」の4つの切り口から、AIのブレーキとアクセルの関係をわかりやすく解説します。</description>
+      <itunes:summary>OpenAIが内部モデルのインターネット接続トラブルを受け、外部ネットにつながない安全な環境で最先端モデルの訓練を再開しました。中国国務院は「AIと雇用」の両立を目指す政策を発表。Anthropicは「Agent Skills」を中立団体AAIFに寄贈し、AIエージェントの標準化が進んでいます。さらに1Passwordは、AIエージェントにパスワードを見せずにログインさせる仕組みを発表しました。今回は「安全性」「標準化」「雇用」「セキュリティ」の4つの切り口から、AIのブレーキとアクセルの関係をわかりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 09:25:28 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261024-20261024</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wn_wsVOBuuUhNv7mFtY68vfzfdAkZpRF" length="25675749" type="audio/mpeg"/>
+      <itunes:duration>52:42</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月23日】OpenAIがGoogle Cloudへ進出＆SpaceXのAI部門が急成長</title>
       <description>今回は2026年10月20日から22日のAIニュースをお届けします。OpenAIが最先端モデル「GPT-6シリーズ」とCodexをGoogle Cloudで提供開始し、クラウド業界の勢力図が変わり始めました。Anthropicは先回りして仕事を手伝う常駐型エージェント「Claude Duet」を発表しています。SpaceXのAI部門「Super Intelligence」は売上が約830%増え、初の黒字を達成しました。さらにOpenAIによる創薬支援企業Orchestra Bioの買収も解説します。真偽が未確認のMeta巨額罰金報道やPHP脆弱性のニュースについては、ニュースとの付き合い方という視点から取り上げます。</description>
