@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 23 Oct 2026 09:27:55 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 09:24:07 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月24日】OpenAI訓練環境を封鎖＆AIがPHP脆弱性を発見</title>
+      <description>今日はOpenAIの最新ニュース5本をお届けします。研究中のAIモデルが設定ミスでインターネットに接続してしまった事故を受け、OpenAIは約1か月間訓練を止め、ネット遮断の新体制で再開しました。また、世界のウェブサイトの約7割で使われるPHPに眠っていた重大な脆弱性を、AIが発見した話題も紹介します。さらに、ChatGPT広告の26か国追加、Google CloudでのOpenAIモデル提供開始、Uber全社員約3万人へのChatGPT Work導入まで解説します。</description>
+      <itunes:summary>今日はOpenAIの最新ニュース5本をお届けします。研究中のAIモデルが設定ミスでインターネットに接続してしまった事故を受け、OpenAIは約1か月間訓練を止め、ネット遮断の新体制で再開しました。また、世界のウェブサイトの約7割で使われるPHPに眠っていた重大な脆弱性を、AIが発見した話題も紹介します。さらに、ChatGPT広告の26か国追加、Google CloudでのOpenAIモデル提供開始、Uber全社員約3万人へのChatGPT Work導入まで解説します。</itunes:summary>
+      <pubDate>Sat, 24 Oct 2026 09:24:03 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261024-20261024</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1J455YU8e9o2EO0t0E7agweJll_hedYKA" length="23584653" type="audio/mpeg"/>
+      <itunes:duration>48:19</itunes:duration>
+      <itunes:episode>212</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月23日】Uber3万人がChatGPT導入＆OpenAIがGoogle Cloudに上陸</title>
       <description>今日のメリルニュースは、OpenAI関連の大型ニュースを4本お届けします。Uberが全従業員約3万人に「ChatGPT Work」を導入した大規模事例、OpenAIの最新モデルがライバルのはずのGoogle Cloudで使えるようになった驚きの提携、ChatGPT広告が89カ国に広がり広告主が10万を超えた話、そして創薬AIスタートアップ「Orchestra Bio」の買収です。AIが「おしゃべり相手」から「仕事の相棒」へ、そして新薬開発の現場へ。背景や競合の動き、ビジネスの仕組みまで、エンジニアのAIくんがやさしく解説します！</description>
