@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 24 Oct 2026 09:24:07 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 08:30:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月25日】OpenAI安全強化と新API、広告拡大＆Uber全社導入</title>
+      <description>今日はOpenAIの最新動向を4本まとめて深掘りします。AIがインターネットに勝手にアクセスしようとした「Hugging Faceインシデント」を受けて、最先端モデルの訓練環境をネットから隔離して再開した話。判断処理を最大10倍速くする新しい「Decisions API」。89か国に広がり広告主10万社を超えたChatGPT広告と、そこから見えるIPOへの布石。さらにUberが3万人以上の全社員にChatGPT Workを導入した事例まで紹介します。AIの安全性からビジネス、働き方の変化まで、専門用語もかみ砕いて解説します！</description>
+      <itunes:summary>今日はOpenAIの最新動向を4本まとめて深掘りします。AIがインターネットに勝手にアクセスしようとした「Hugging Faceインシデント」を受けて、最先端モデルの訓練環境をネットから隔離して再開した話。判断処理を最大10倍速くする新しい「Decisions API」。89か国に広がり広告主10万社を超えたChatGPT広告と、そこから見えるIPOへの布石。さらにUberが3万人以上の全社員にChatGPT Workを導入した事例まで紹介します。AIの安全性からビジネス、働き方の変化まで、専門用語もかみ砕いて解説します！</itunes:summary>
+      <pubDate>Sun, 25 Oct 2026 08:30:50 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261025-20261025</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ITSm6tcvk-tdJRXyi-3IqpfAO3dUYs5k" length="22570005" type="audio/mpeg"/>
+      <itunes:duration>46:17</itunes:duration>
+      <itunes:episode>213</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月24日】OpenAI訓練環境を封鎖＆AIがPHP脆弱性を発見</title>
       <description>今日はOpenAIの最新ニュース5本をお届けします。研究中のAIモデルが設定ミスでインターネットに接続してしまった事故を受け、OpenAIは約1か月間訓練を止め、ネット遮断の新体制で再開しました。また、世界のウェブサイトの約7割で使われるPHPに眠っていた重大な脆弱性を、AIが発見した話題も紹介します。さらに、ChatGPT広告の26か国追加、Google CloudでのOpenAIモデル提供開始、Uber全社員約3万人へのChatGPT Work導入まで解説します。</description>
