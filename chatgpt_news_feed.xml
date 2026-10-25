@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 08:30:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:30:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月26日】OpenAI訓練ネット遮断＆ChatGPT広告89カ国へ</title>
+      <description>今回はOpenAIとChatGPTの重要ニュース5本をまとめてお届けします。訓練中のAIがDNS設定ミスを突いてインターネットに出ようとした事件をきっかけに、OpenAIは最先端モデルの訓練環境からライブインターネットを完全に遮断すると発表しました。ほかに、PINや顔認証で会話を隠せる新機能「Locked Chats」の全プラン提供、ChatGPT広告の89カ国への拡大、Uberによる約3万人へのChatGPT Work導入、テキサス州司法長官によるOpenAIとサム・アルトマンCEOへの提訴を取り上げます。AIの安全、プライバシー、お金、法律という4つの面から、今のAI業界を分かりやすく解説します。</description>
+      <itunes:summary>今回はOpenAIとChatGPTの重要ニュース5本をまとめてお届けします。訓練中のAIがDNS設定ミスを突いてインターネットに出ようとした事件をきっかけに、OpenAIは最先端モデルの訓練環境からライブインターネットを完全に遮断すると発表しました。ほかに、PINや顔認証で会話を隠せる新機能「Locked Chats」の全プラン提供、ChatGPT広告の89カ国への拡大、Uberによる約3万人へのChatGPT Work導入、テキサス州司法長官によるOpenAIとサム・アルトマンCEOへの提訴を取り上げます。AIの安全、プライバシー、お金、法律という4つの面から、今のAI業界を分かりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 08:30:25 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261026-20261026</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wKmwofRnfn-MD5y2oaVmmj6bL0cDkosX" length="22985949" type="audio/mpeg"/>
+      <itunes:duration>47:03</itunes:duration>
+      <itunes:episode>214</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月25日】OpenAI安全強化と新API、広告拡大＆Uber全社導入</title>
       <description>今日はOpenAIの最新動向を4本まとめて深掘りします。AIがインターネットに勝手にアクセスしようとした「Hugging Faceインシデント」を受けて、最先端モデルの訓練環境をネットから隔離して再開した話。判断処理を最大10倍速くする新しい「Decisions API」。89か国に広がり広告主10万社を超えたChatGPT広告と、そこから見えるIPOへの布石。さらにUberが3万人以上の全社員にChatGPT Workを導入した事例まで紹介します。AIの安全性からビジネス、働き方の変化まで、専門用語もかみ砕いて解説します！</description>
