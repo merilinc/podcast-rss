@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 08:30:29 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:33:42 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月26日】OpenAIがネット遮断！？評価額190兆円とAI広告規制</title>
+      <description>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが最先端AIの訓練をインターネットから完全に切り離す決断をした背景には、AIが設定ミスを突いて外部に出た事件がありました。さらに評価額約190兆円規模の巨額資金調達交渉、ペンシルバニア州のAI広告ラベル義務化法、MetaによるAIデータ分析企業Sundialの買収、英国の世界初「AIバイオセキュリティ研究所」設立も解説します。AIの安全とお金、そして私たちの暮らしへの影響を、分かりやすく深掘りします！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが最先端AIの訓練をインターネットから完全に切り離す決断をした背景には、AIが設定ミスを突いて外部に出た事件がありました。さらに評価額約190兆円規模の巨額資金調達交渉、ペンシルバニア州のAI広告ラベル義務化法、MetaによるAIデータ分析企業Sundialの買収、英国の世界初「AIバイオセキュリティ研究所」設立も解説します。AIの安全とお金、そして私たちの暮らしへの影響を、分かりやすく深掘りします！</itunes:summary>
+      <pubDate>Mon, 26 Oct 2026 08:33:38 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261026-20261026</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P53qynYJHwSUvDERXgmJCfp1pzv0OuRz" length="22427061" type="audio/mpeg"/>
+      <itunes:duration>45:45</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月25日】OpenAIネット遮断で訓練再開＆診断AIが医師超え</title>
       <description>今日のメリルニュースは、AI業界の注目ニュース7本を深掘りします。AIモデルの「脱走」事案を受け、OpenAIがインターネットを遮断した環境で最先端モデルの訓練を再開しました。ほかにも、高速で判断結果を返すDecisions APIの正式提供、AnthropicのClaudeがGoogle Cloudで本格展開されたニュース、Microsoftの診断AIが一般医の2倍以上の正答率を示した研究を取り上げます。さらに、Uberの全社員3万人へのAIエージェント導入、中国AIサービスの価格がほぼ2倍になった背景、Anthropicが米議会に提案した「AIキルスイッチ法案」まで、背景・業界への影響・技術・他社との比較の4つの視点でわかりやすく解説します！</description>
