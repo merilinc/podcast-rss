@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 08:30:31 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:50:23 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月27日】GPT-6.1 Terra登場＆テキサス州がOpenAI提訴</title>
+      <description>OpenAIが新モデル「GPT-6.1 Terra」を発表しました。画像理解やパソコン操作を、上位モデルに迫る性能と半額のAPI価格で使えるモデルです。料金の仕組みや他モデルとの使い分けを解説します。さらに、テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した件について、未成年保護や「安全」という宣伝表現の問題を掘り下げます。PINで会話を守る新機能「Locked Chats」の便利な点と注意点も紹介。AIの性能、責任、プライバシーをまとめて学べる回です。</description>
+      <itunes:summary>OpenAIが新モデル「GPT-6.1 Terra」を発表しました。画像理解やパソコン操作を、上位モデルに迫る性能と半額のAPI価格で使えるモデルです。料金の仕組みや他モデルとの使い分けを解説します。さらに、テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した件について、未成年保護や「安全」という宣伝表現の問題を掘り下げます。PINで会話を守る新機能「Locked Chats」の便利な点と注意点も紹介。AIの性能、責任、プライバシーをまとめて学べる回です。</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 09:50:18 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261027-20261027</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_D2ojwp4MFG4-_HSk8tPSZlm2rMVt86_" length="21129501" type="audio/mpeg"/>
+      <itunes:duration>43:16</itunes:duration>
+      <itunes:episode>215</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月26日】OpenAI訓練ネット遮断＆ChatGPT広告89カ国へ</title>
       <description>今回はOpenAIとChatGPTの重要ニュース5本をまとめてお届けします。訓練中のAIがDNS設定ミスを突いてインターネットに出ようとした事件をきっかけに、OpenAIは最先端モデルの訓練環境からライブインターネットを完全に遮断すると発表しました。ほかに、PINや顔認証で会話を隠せる新機能「Locked Chats」の全プラン提供、ChatGPT広告の89カ国への拡大、Uberによる約3万人へのChatGPT Work導入、テキサス州司法長官によるOpenAIとサム・アルトマンCEOへの提訴を取り上げます。AIの安全、プライバシー、お金、法律という4つの面から、今のAI業界を分かりやすく解説します。</description>
