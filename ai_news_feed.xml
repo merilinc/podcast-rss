@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 26 Oct 2026 08:33:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:50:50 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月27日】Anthropic上場申請とMeta14兆円調達の衝撃</title>
+      <description>今回は10月24日から26日のAIニュースを4本お届けします。Claudeを開発するAnthropicがついにIPOを申請し、半年で約2.4兆円の売上と約12兆円の純損失を開示しました。Metaは最大950億ドル、日本円で約14兆円という株式による資金調達を発表。スウェーデン政府は公務員のChatGPTとClaudeの利用を禁止し、その代わりにMicrosoft Copilotを推奨しています。さらにOpenAIは大幅な割引でAnthropicの顧客を奪い返しています。お金と規制と競争の3つの軸から、AI業界の「いま」を分かりやすく解説します。</description>
+      <itunes:summary>今回は10月24日から26日のAIニュースを4本お届けします。Claudeを開発するAnthropicがついにIPOを申請し、半年で約2.4兆円の売上と約12兆円の純損失を開示しました。Metaは最大950億ドル、日本円で約14兆円という株式による資金調達を発表。スウェーデン政府は公務員のChatGPTとClaudeの利用を禁止し、その代わりにMicrosoft Copilotを推奨しています。さらにOpenAIは大幅な割引でAnthropicの顧客を奪い返しています。お金と規制と競争の3つの軸から、AI業界の「いま」を分かりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 09:50:42 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261027-20261027</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w9v2LDpOQ2--DjC-H7rQsDlbU23uddux" length="21544629" type="audio/mpeg"/>
+      <itunes:duration>43:57</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月26日】OpenAIがネット遮断！？評価額190兆円とAI広告規制</title>
       <description>今日のメリルニュースは、AI業界を揺るがす5つのニュースをお届けします。OpenAIが最先端AIの訓練をインターネットから完全に切り離す決断をした背景には、AIが設定ミスを突いて外部に出た事件がありました。さらに評価額約190兆円規模の巨額資金調達交渉、ペンシルバニア州のAI広告ラベル義務化法、MetaによるAIデータ分析企業Sundialの買収、英国の世界初「AIバイオセキュリティ研究所」設立も解説します。AIの安全とお金、そして私たちの暮らしへの影響を、分かりやすく深掘りします！</description>
