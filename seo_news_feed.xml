@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 25 Oct 2026 08:28:25 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:49:25 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月27日】Google広告にAIレビュー要約登場＆AI Overviews表示率80%超え</title>
+      <description>今日のメリルニュースはSEO特集です。Googleの検索広告に、ネット上の口コミをAIが自動でまとめる「レビューサマリー」が登場しました。さらに、検索結果の上に出るAIの要約「AI Overviews」の表示率が80%を超えたという報告も届いています。このほか、偽の著者情報を「欺瞞」とみなすガイダンスの更新、スパムアップデート後も続く検索順位の大変動、共有リンクページへのnoindex推奨という全5本を取り上げます。Webサイトを運営している方も、普段検索するだけの方も、検索の「今」がわかる回です。</description>
+      <itunes:summary>今日のメリルニュースはSEO特集です。Googleの検索広告に、ネット上の口コミをAIが自動でまとめる「レビューサマリー」が登場しました。さらに、検索結果の上に出るAIの要約「AI Overviews」の表示率が80%を超えたという報告も届いています。このほか、偽の著者情報を「欺瞞」とみなすガイダンスの更新、スパムアップデート後も続く検索順位の大変動、共有リンクページへのnoindex推奨という全5本を取り上げます。Webサイトを運営している方も、普段検索するだけの方も、検索の「今」がわかる回です。</itunes:summary>
+      <pubDate>Tue, 27 Oct 2026 09:49:17 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261027-20261027</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15Ub6NORyIDseh5ksfHK-ihTeLCh7ZmYI" length="20463693" type="audio/mpeg"/>
+      <itunes:duration>41:50</itunes:duration>
+      <itunes:episode>170</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月25日】Google AI要約が引用カードに！SEOの新常識</title>
       <description>Googleが「AI Overviews」の引用カードに、AIが書き直した要約を表示するテストを開始しました。自分のサイトの文章が、自分の書いていない言葉で紹介される時代が来るかもしれません。さらにGoogleは、AI検索での使われ方をコントロールするための公式ドキュメントを更新しました。robots meta tagやdata-nosnippetの使い方も、やさしく解説します。後半は「AI検索対策（GEO/AEO）は本当に儲かるのか？」という調査結果を取り上げます。「オーガニック検索の方が購入率が約13%高い」というデータの意味も読み解きます。Webに関わるすべての人に聴いてほしい回です。</description>
