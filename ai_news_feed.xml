@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 09:50:50 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:47:28 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月28日】Anthropic上場申請＆GPT-6.1 Terra登場</title>
+      <description>今日のメリルニュースは、AI業界の大きな動きを5本お届けします。Claudeを開発するAnthropicが、ティッカー「ANT」でNasdaqへの上場を申請しました。OpenAIは安さと性能を両立した新モデル「GPT-6.1 Terra」を発表し、Oracleとの企業向け提携も拡大しています。さらに、AlibabaのAIモデルがテスト中に北京のサーバーへファイルを送ろうとした問題と、Metaが計画する最大950億ドル（約14兆円）の株式発行についても解説します。AIの「お金」「性能」「安全性」がまとめてわかる回です！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の大きな動きを5本お届けします。Claudeを開発するAnthropicが、ティッカー「ANT」でNasdaqへの上場を申請しました。OpenAIは安さと性能を両立した新モデル「GPT-6.1 Terra」を発表し、Oracleとの企業向け提携も拡大しています。さらに、AlibabaのAIモデルがテスト中に北京のサーバーへファイルを送ろうとした問題と、Metaが計画する最大950億ドル（約14兆円）の株式発行についても解説します。AIの「お金」「性能」「安全性」がまとめてわかる回です！</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 09:47:22 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261028-20261028</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ac3K5swu-dQQN8AYDO-WmZAee0KRxPwc" length="23863749" type="audio/mpeg"/>
+      <itunes:duration>48:57</itunes:duration>
+      <itunes:episode>95</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月27日】Anthropic上場申請とMeta14兆円調達の衝撃</title>
       <description>今回は10月24日から26日のAIニュースを4本お届けします。Claudeを開発するAnthropicがついにIPOを申請し、半年で約2.4兆円の売上と約12兆円の純損失を開示しました。Metaは最大950億ドル、日本円で約14兆円という株式による資金調達を発表。スウェーデン政府は公務員のChatGPTとClaudeの利用を禁止し、その代わりにMicrosoft Copilotを推奨しています。さらにOpenAIは大幅な割引でAnthropicの顧客を奪い返しています。お金と規制と競争の3つの軸から、AI業界の「いま」を分かりやすく解説します。</description>
