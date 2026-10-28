@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 09:50:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:49:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月28日】GPT-6.1 Terra登場＆テキサス州がOpenAIを提訴</title>
+      <description>今日はOpenAI・ChatGPT関連の4つのニュースを深掘りします。性能を上げながらAPI価格を50%下げた新モデル「GPT-6.1 Terra」の実力と、AnthropicやGoogleとの競争の行方。テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した背景と、AI規制への影響。財務や調達などの基幹業務をChatGPTから直接操作できるようになるOracleとの提携拡大。さらに全プランで使えるようになったiCloudメール＆カレンダー連携まで、背景・業界の関係・技術・過去事例との比較の4つの視点で分かりやすく解説します！</description>
+      <itunes:summary>今日はOpenAI・ChatGPT関連の4つのニュースを深掘りします。性能を上げながらAPI価格を50%下げた新モデル「GPT-6.1 Terra」の実力と、AnthropicやGoogleとの競争の行方。テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した背景と、AI規制への影響。財務や調達などの基幹業務をChatGPTから直接操作できるようになるOracleとの提携拡大。さらに全プランで使えるようになったiCloudメール＆カレンダー連携まで、背景・業界の関係・技術・過去事例との比較の4つの視点で分かりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 28 Oct 2026 09:49:25 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261028-20261028</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13T-SFptsqPLyYTVIva0wi1d_S6vTcgxz" length="24952173" type="audio/mpeg"/>
+      <itunes:duration>50:40</itunes:duration>
+      <itunes:episode>216</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月27日】GPT-6.1 Terra登場＆テキサス州がOpenAI提訴</title>
       <description>OpenAIが新モデル「GPT-6.1 Terra」を発表しました。画像理解やパソコン操作を、上位モデルに迫る性能と半額のAPI価格で使えるモデルです。料金の仕組みや他モデルとの使い分けを解説します。さらに、テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した件について、未成年保護や「安全」という宣伝表現の問題を掘り下げます。PINで会話を守る新機能「Locked Chats」の便利な点と注意点も紹介。AIの性能、責任、プライバシーをまとめて学べる回です。</description>
