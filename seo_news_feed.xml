@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 09:50:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:13:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月29日】SEOツールに&quot;偽の検索結果&quot;？Google最新動向まとめ</title>
+      <description>今日のメリルニュースはSEO特集です。SemrushやAhrefsなどのSEOツールに、Googleが一般ユーザーとは違う&quot;偽の検索結果&quot;を返しているという「poisoned SERPs」問題を詳しく解説します。さらに、共有リンク経由ページのnoindex化を求めるスパム対策ガイドの改訂、Search Consoleのデータが止まって見える「フラットライン」問題、Googleビジネスプロフィールへのメッセンジャーリンク追加、SEO担当者の44%がAIへの不安を強めているという調査結果もお届けします。Web担当者はもちろん、ネット検索の裏側が気になる方にもおすすめの回です。</description>
+      <itunes:summary>今日のメリルニュースはSEO特集です。SemrushやAhrefsなどのSEOツールに、Googleが一般ユーザーとは違う&quot;偽の検索結果&quot;を返しているという「poisoned SERPs」問題を詳しく解説します。さらに、共有リンク経由ページのnoindex化を求めるスパム対策ガイドの改訂、Search Consoleのデータが止まって見える「フラットライン」問題、Googleビジネスプロフィールへのメッセンジャーリンク追加、SEO担当者の44%がAIへの不安を強めているという調査結果もお届けします。Web担当者はもちろん、ネット検索の裏側が気になる方にもおすすめの回です。</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 10:13:43 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261029-20261029</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HuSk2R74WyvAbyOj6MFEir7wlaO98MGu" length="23273445" type="audio/mpeg"/>
+      <itunes:duration>47:27</itunes:duration>
+      <itunes:episode>172</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月28日】汚染された検索結果とGoogle・Meta広告の新常識</title>
       <description>今日のメリルニュースはSEOと広告運用のニュースを5本お届けします。SEOツールの順位がおかしくなる「Poisoned SERPs」とは何なのか。AIで作られた大量のページに対してGoogleが出した警告。検索広告の口コミをAIが勝手に要約する新機能。10月28日からMeta広告で自動的にオンになる「Product Browsing」。最後に、Search Consoleのデータが遅れたときにどう考えればいいのか、Googleの回答も紹介します。Webに関わる人がいま見直すべきポイントを、専門用語から丁寧に解説します！</description>
