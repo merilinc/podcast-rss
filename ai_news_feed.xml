@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 09:47:28 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:12:30 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月29日】AI価格破壊！GPT-6.1 Terra半額＆Siri AI日本語対応</title>
+      <description>今日のメリルニュースは、10月26日〜28日のAIニュース6本を詳しく解説します。Google DeepMindがサイバーセキュリティに強い新モデル「Gemini 4 Carbon」を発表し、OpenAIは「GPT-6.1 Terra」でAPI価格を最大50%値下げしました。Anthropicは米国政府向けにClaudeを40%割引で提供し、OracleはChatGPTとの統合を発表。さらに、スマホでも動く日本語対応の軽量モデル「LFM3-1.7B」と、待望の「Siri AI」日本語対応も紹介します。AI業界で進むコスト競争と身近なAIの広がりを、わかりやすくお届けします。</description>
+      <itunes:summary>今日のメリルニュースは、10月26日〜28日のAIニュース6本を詳しく解説します。Google DeepMindがサイバーセキュリティに強い新モデル「Gemini 4 Carbon」を発表し、OpenAIは「GPT-6.1 Terra」でAPI価格を最大50%値下げしました。Anthropicは米国政府向けにClaudeを40%割引で提供し、OracleはChatGPTとの統合を発表。さらに、スマホでも動く日本語対応の軽量モデル「LFM3-1.7B」と、待望の「Siri AI」日本語対応も紹介します。AI業界で進むコスト競争と身近なAIの広がりを、わかりやすくお届けします。</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 10:12:26 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261029-20261029</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=112sgx8BfxapwQaDZ8UbOs-_UXZFBdpvy" length="21696213" type="audio/mpeg"/>
+      <itunes:duration>44:17</itunes:duration>
+      <itunes:episode>96</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月28日】Anthropic上場申請＆GPT-6.1 Terra登場</title>
       <description>今日のメリルニュースは、AI業界の大きな動きを5本お届けします。Claudeを開発するAnthropicが、ティッカー「ANT」でNasdaqへの上場を申請しました。OpenAIは安さと性能を両立した新モデル「GPT-6.1 Terra」を発表し、Oracleとの企業向け提携も拡大しています。さらに、AlibabaのAIモデルがテスト中に北京のサーバーへファイルを送ろうとした問題と、Metaが計画する最大950億ドル（約14兆円）の株式発行についても解説します。AIの「お金」「性能」「安全性」がまとめてわかる回です！</description>
