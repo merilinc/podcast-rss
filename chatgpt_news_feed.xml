@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 28 Oct 2026 09:49:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:15:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月29日】GPT-6.1 Terra登場＆ChatGPTが企業の現場へ</title>
+      <description>今日はOpenAIの新モデル「GPT-6.1 Terra」を詳しく解説します。画像を読み解く力とパソコン操作に強く、料金は約半額になりました。ほかにもChatGPTのエージェント「dots」がiMessageとRCSに対応したニュース、ServiceNowやOracleとの提携拡大でChatGPTが企業システムを直接動かせるようになる話題、ServiceNowの「Control Tower Alliance」を取り上げます。さらに、ChatGPTの医療助言をめぐる訴訟から、AIの安全性と責任についても考えます。</description>
+      <itunes:summary>今日はOpenAIの新モデル「GPT-6.1 Terra」を詳しく解説します。画像を読み解く力とパソコン操作に強く、料金は約半額になりました。ほかにもChatGPTのエージェント「dots」がiMessageとRCSに対応したニュース、ServiceNowやOracleとの提携拡大でChatGPTが企業システムを直接動かせるようになる話題、ServiceNowの「Control Tower Alliance」を取り上げます。さらに、ChatGPTの医療助言をめぐる訴訟から、AIの安全性と責任についても考えます。</itunes:summary>
+      <pubDate>Thu, 29 Oct 2026 10:15:37 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261029-20261029</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_QaEeXF6Fk9K-29XRZVKwCduYwCLZ299" length="25017405" type="audio/mpeg"/>
+      <itunes:duration>51:07</itunes:duration>
+      <itunes:episode>217</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月28日】GPT-6.1 Terra登場＆テキサス州がOpenAIを提訴</title>
       <description>今日はOpenAI・ChatGPT関連の4つのニュースを深掘りします。性能を上げながらAPI価格を50%下げた新モデル「GPT-6.1 Terra」の実力と、AnthropicやGoogleとの競争の行方。テキサス州司法長官がOpenAIとサム・アルトマンCEOを提訴した背景と、AI規制への影響。財務や調達などの基幹業務をChatGPTから直接操作できるようになるOracleとの提携拡大。さらに全プランで使えるようになったiCloudメール＆カレンダー連携まで、背景・業界の関係・技術・過去事例との比較の4つの視点で分かりやすく解説します！</description>
