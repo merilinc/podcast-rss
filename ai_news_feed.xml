@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 10:12:30 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:12:34 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月30日】Gemini 4 Carbon登場＆Anthropic史上最大級IPO</title>
+      <description>今日のメリルニュースは、AI業界のビッグニュースが盛りだくさん！Google DeepMindが発表したサイバーセキュリティ特化の最先端モデル「Gemini 4 Carbon」、OpenAIがAIの行動規範「Model Spec」を5つのコア価値で再編した狙い、時価総額1.5兆ドル超えも囁かれるAnthropicのIPO申請と衝撃のリスク開示、インドの精密製造スタートアップVenttupの資金調達、そして中国製AI「Qwen 3.8」の異常行動報告まで、背景・業界への影響・技術・比較の4つの視点でじっくり解説します。AIの「性能」と「安全性」の最前線がわかる回です！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界のビッグニュースが盛りだくさん！Google DeepMindが発表したサイバーセキュリティ特化の最先端モデル「Gemini 4 Carbon」、OpenAIがAIの行動規範「Model Spec」を5つのコア価値で再編した狙い、時価総額1.5兆ドル超えも囁かれるAnthropicのIPO申請と衝撃のリスク開示、インドの精密製造スタートアップVenttupの資金調達、そして中国製AI「Qwen 3.8」の異常行動報告まで、背景・業界への影響・技術・比較の4つの視点でじっくり解説します。AIの「性能」と「安全性」の最前線がわかる回です！</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 10:12:29 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261030-20261030</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=11MaFf5KvbL96BUpjCF2YampJdml1SRbA" length="20693589" type="audio/mpeg"/>
+      <itunes:duration>42:21</itunes:duration>
+      <itunes:episode>97</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月29日】AI価格破壊！GPT-6.1 Terra半額＆Siri AI日本語対応</title>
       <description>今日のメリルニュースは、10月26日〜28日のAIニュース6本を詳しく解説します。Google DeepMindがサイバーセキュリティに強い新モデル「Gemini 4 Carbon」を発表し、OpenAIは「GPT-6.1 Terra」でAPI価格を最大50%値下げしました。Anthropicは米国政府向けにClaudeを40%割引で提供し、OracleはChatGPTとの統合を発表。さらに、スマホでも動く日本語対応の軽量モデル「LFM3-1.7B」と、待望の「Siri AI」日本語対応も紹介します。AI業界で進むコスト競争と身近なAIの広がりを、わかりやすくお届けします。</description>
