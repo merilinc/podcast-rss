@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 10:15:41 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:14:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月30日】OpenAI行動規範刷新＆Pro利用枠倍増、Dotがメッセージ対応</title>
+      <description>2026年10月27日〜30日にOpenAIから出た重要ニュースを4本解説します。AIの行動指針「Model Spec」は5つの核心的価値で整理し直されました。ユーザーの反発を受けて、Proプランの「Work」「Codex」の利用枠は2倍に増え、Pro 200の削減計画は撤回されています。自律型エージェント「Dot」はiMessageやRCSでやり取りできるようになりました。最後に、ChatGPTの医療アドバイスを巡る訴訟を取り上げ、AIと健康相談の向き合い方を考えます。AIの「安全性」と「使いやすさ」、そして「責任」がどこへ向かっているのかを、背景や競合との比較も交えて掘り下げます。</description>
+      <itunes:summary>2026年10月27日〜30日にOpenAIから出た重要ニュースを4本解説します。AIの行動指針「Model Spec」は5つの核心的価値で整理し直されました。ユーザーの反発を受けて、Proプランの「Work」「Codex」の利用枠は2倍に増え、Pro 200の削減計画は撤回されています。自律型エージェント「Dot」はiMessageやRCSでやり取りできるようになりました。最後に、ChatGPTの医療アドバイスを巡る訴訟を取り上げ、AIと健康相談の向き合い方を考えます。AIの「安全性」と「使いやすさ」、そして「責任」がどこへ向かっているのかを、背景や競合との比較も交えて掘り下げます。</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 10:14:24 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261030-20261030</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BwBiUh4tcdbyOkGmfMvOaIM4rhAHIub0" length="23426973" type="audio/mpeg"/>
+      <itunes:duration>48:00</itunes:duration>
+      <itunes:episode>218</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月29日】GPT-6.1 Terra登場＆ChatGPTが企業の現場へ</title>
       <description>今日はOpenAIの新モデル「GPT-6.1 Terra」を詳しく解説します。画像を読み解く力とパソコン操作に強く、料金は約半額になりました。ほかにもChatGPTのエージェント「dots」がiMessageとRCSに対応したニュース、ServiceNowやOracleとの提携拡大でChatGPTが企業システムを直接動かせるようになる話題、ServiceNowの「Control Tower Alliance」を取り上げます。さらに、ChatGPTの医療助言をめぐる訴訟から、AIの安全性と責任についても考えます。</description>
