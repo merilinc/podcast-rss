@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 10:13:59 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:08:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月30日】SEOツールに&quot;毒入り&quot;検索結果？AI検索でクリック激減の衝撃</title>
+      <description>今日のメリルニュースはSEOとAI検索の最新動向を特集します。Semrushなどの順位チェックツールに、実際とは異なる検索結果が返される「Poisoned SERPs」現象。GoogleのAI Modeで外部サイトへのクリック率が約18.8ポイント下がったという実験結果。一方でAdobeの調査では、AI経由の訪問者は1訪問あたりの売上が83％も高いことがわかりました。さらにAI Overviewsの引用カードで始まった「Googleによる要約文」のテストも取り上げます。LLMO時代にWebサイト運営者が今やるべきことを、わかりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースはSEOとAI検索の最新動向を特集します。Semrushなどの順位チェックツールに、実際とは異なる検索結果が返される「Poisoned SERPs」現象。GoogleのAI Modeで外部サイトへのクリック率が約18.8ポイント下がったという実験結果。一方でAdobeの調査では、AI経由の訪問者は1訪問あたりの売上が83％も高いことがわかりました。さらにAI Overviewsの引用カードで始まった「Googleによる要約文」のテストも取り上げます。LLMO時代にWebサイト運営者が今やるべきことを、わかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 30 Oct 2026 10:08:41 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261030-20261030</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=142q6qqn3ILFiXpvd4bJjQo8uXN_jZIDd" length="20473773" type="audio/mpeg"/>
+      <itunes:duration>42:07</itunes:duration>
+      <itunes:episode>173</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月29日】SEOツールに&quot;偽の検索結果&quot;？Google最新動向まとめ</title>
       <description>今日のメリルニュースはSEO特集です。SemrushやAhrefsなどのSEOツールに、Googleが一般ユーザーとは違う&quot;偽の検索結果&quot;を返しているという「poisoned SERPs」問題を詳しく解説します。さらに、共有リンク経由ページのnoindex化を求めるスパム対策ガイドの改訂、Search Consoleのデータが止まって見える「フラットライン」問題、Googleビジネスプロフィールへのメッセンジャーリンク追加、SEO担当者の44%がAIへの不安を強めているという調査結果もお届けします。Web担当者はもちろん、ネット検索の裏側が気になる方にもおすすめの回です。</description>
