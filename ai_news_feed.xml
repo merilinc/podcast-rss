@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 09:58:21 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:54:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月1日】Anthropic上場申請＆AI学習拒否の新ルール誕生</title>
+      <description>今回のメリルニュースは、ここ数日のAI業界の大きな動きを6本まとめてお届けします。ウェブサイトが「AIの学習に使わないで」と一括で意思表示できる新しいrobots.txtの仕組み、Mistralが公開した約1兆パラメータの巨大オープンモデル「Le Chonk」、AnthropicのIPO申請で明らかになった驚きの収益と損失を取り上げます。さらに、Nvidiaによる約130億ドル規模のHugging Face買収への米司法省の調査、Metaの超党派ロビー戦略、OpenAIの「Model Spec」改訂も、背景や業界への影響まで丁寧に解説します。</description>
+      <itunes:summary>今回のメリルニュースは、ここ数日のAI業界の大きな動きを6本まとめてお届けします。ウェブサイトが「AIの学習に使わないで」と一括で意思表示できる新しいrobots.txtの仕組み、Mistralが公開した約1兆パラメータの巨大オープンモデル「Le Chonk」、AnthropicのIPO申請で明らかになった驚きの収益と損失を取り上げます。さらに、Nvidiaによる約130億ドル規模のHugging Face買収への米司法省の調査、Metaの超党派ロビー戦略、OpenAIの「Model Spec」改訂も、背景や業界への影響まで丁寧に解説します。</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 05:54:14 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261101-20261101</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tsMUf48AxAfe3-u3dJOayRhxEEOO5RMN" length="23569317" type="audio/mpeg"/>
+      <itunes:duration>48:13</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月31日】Gemini 4 Carbon登場＆Mistral 1兆パラメータ公開</title>
       <description>今日のメリルニュースは、AI業界の大きな動きを4本お届けします。Google DeepMindの新モデル「Gemini 4 Carbon」はサイバーセキュリティ性能で世界首位を獲得しました。フランスのMistralは1兆パラメータの「Le Chonk」の重みを公開しました。さらに、ニューヨーク州で未成年者をAIチャットボットから守る法律が成立し、音声AIのDeepgramはDailyを買収してPipecat財団を設立します。「閉じたAI」と「開かれたAI」の対立、そしてAIとの付き合い方のルール作りまで、背景から技術の中身まで分かりやすく解説します。</description>
