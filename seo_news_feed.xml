@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 31 Oct 2026 09:59:37 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:50:32 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月1日】AI検索でSEOが激変！Microsoftの新設定とGoogle決算</title>
+      <description>今日はSEOとAI検索の最新ニュースを4本お届けします。Microsoftが発表した、AIにコンテンツをどう使わせるか選べる新設定「AI Training」「AI Grounding」「Limited Grounding」の中身。GoogleのAI Overviewsがニュースボックスを押し下げているという調査データ。AI機能からオプトアウトしたら通常のクリックまで減ったという意外な事例。そして、Googleの第3四半期決算から見える「クラシック検索」から「エージェント型検索」への転換。Webサイトを運営する人も、毎日検索を使う人も知っておきたい内容です。</description>
+      <itunes:summary>今日はSEOとAI検索の最新ニュースを4本お届けします。Microsoftが発表した、AIにコンテンツをどう使わせるか選べる新設定「AI Training」「AI Grounding」「Limited Grounding」の中身。GoogleのAI Overviewsがニュースボックスを押し下げているという調査データ。AI機能からオプトアウトしたら通常のクリックまで減ったという意外な事例。そして、Googleの第3四半期決算から見える「クラシック検索」から「エージェント型検索」への転換。Webサイトを運営する人も、毎日検索を使う人も知っておきたい内容です。</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 05:50:27 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261101-20261101</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IGGQhRgiJ2cHQdPubvOg34zrfkJVBXrV" length="21891789" type="audio/mpeg"/>
+      <itunes:duration>44:37</itunes:duration>
+      <itunes:episode>175</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月31日】AI検索で激変するSEO！学習拒否の新ルールとChatGPT広告拡大</title>
       <description>今日のメリルニュースは、AI時代の「検索」とウェブサイト運営をめぐる4つのニュースをお届けします。GoogleとMicrosoft Bingが発表した「AI学習」と「検索での引用」を分けて管理できる新しい標準とは？AI機能から自サイトを外したら、通常の検索クリックまで落ちたという検証データの中身は？AI Overviewsがニュース枠を圧迫し、出版社の露出が半分以下になった問題や、ChatGPT広告の89カ国展開とShopify連携についても、背景・業界の関係・技術・過去事例との比較の4つの視点でじっくり解説します。サイト運営者やマーケターの方は必聴です！</description>
