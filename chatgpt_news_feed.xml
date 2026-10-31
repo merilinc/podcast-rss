@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 10:14:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:47:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月1日】ChatGPT使用枠倍増＆行動指針改定、青少年保護も強化</title>
+      <description>今回はOpenAIのChatGPTに関する4つのアップデートを解説します。Pro・Business Premiumプランで「Work」と「Codex」の使用枠が2倍になり、ユーザーの反発を受けて方針を撤回した経緯をひもときます。AIの行動指針「Model Spec」は5つのコアバリューに再編されました。18歳未満への武器情報の制限や、法執行機関への200件以上の通報など、新しい安全対策も紹介します。最後に、モバイルアプリのアカウント切り替え機能もお届けします。AnthropicやGoogleとの比較を交えて分かりやすく解説します。</description>
+      <itunes:summary>今回はOpenAIのChatGPTに関する4つのアップデートを解説します。Pro・Business Premiumプランで「Work」と「Codex」の使用枠が2倍になり、ユーザーの反発を受けて方針を撤回した経緯をひもときます。AIの行動指針「Model Spec」は5つのコアバリューに再編されました。18歳未満への武器情報の制限や、法執行機関への200件以上の通報など、新しい安全対策も紹介します。最後に、モバイルアプリのアカウント切り替え機能もお届けします。AnthropicやGoogleとの比較を交えて分かりやすく解説します。</itunes:summary>
+      <pubDate>Sun, 01 Nov 2026 05:47:07 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261101-20261101</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AVLHlAYPTTsq8EMDC1_y9f-hjsMgZVr_" length="16518837" type="audio/mpeg"/>
+      <itunes:duration>33:43</itunes:duration>
+      <itunes:episode>219</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月30日】OpenAI行動規範刷新＆Pro利用枠倍増、Dotがメッセージ対応</title>
       <description>2026年10月27日〜30日にOpenAIから出た重要ニュースを4本解説します。AIの行動指針「Model Spec」は5つの核心的価値で整理し直されました。ユーザーの反発を受けて、Proプランの「Work」「Codex」の利用枠は2倍に増え、Pro 200の削減計画は撤回されています。自律型エージェント「Dot」はiMessageやRCSでやり取りできるようになりました。最後に、ChatGPTの医療アドバイスを巡る訴訟を取り上げ、AIと健康相談の向き合い方を考えます。AIの「安全性」と「使いやすさ」、そして「責任」がどこへ向かっているのかを、背景や競合との比較も交えて掘り下げます。</description>
