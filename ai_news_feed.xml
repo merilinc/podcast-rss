@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 30 Oct 2026 10:12:34 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:58:21 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【10月31日】Gemini 4 Carbon登場＆Mistral 1兆パラメータ公開</title>
+      <description>今日のメリルニュースは、AI業界の大きな動きを4本お届けします。Google DeepMindの新モデル「Gemini 4 Carbon」はサイバーセキュリティ性能で世界首位を獲得しました。フランスのMistralは1兆パラメータの「Le Chonk」の重みを公開しました。さらに、ニューヨーク州で未成年者をAIチャットボットから守る法律が成立し、音声AIのDeepgramはDailyを買収してPipecat財団を設立します。「閉じたAI」と「開かれたAI」の対立、そしてAIとの付き合い方のルール作りまで、背景から技術の中身まで分かりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の大きな動きを4本お届けします。Google DeepMindの新モデル「Gemini 4 Carbon」はサイバーセキュリティ性能で世界首位を獲得しました。フランスのMistralは1兆パラメータの「Le Chonk」の重みを公開しました。さらに、ニューヨーク州で未成年者をAIチャットボットから守る法律が成立し、音声AIのDeepgramはDailyを買収してPipecat財団を設立します。「閉じたAI」と「開かれたAI」の対立、そしてAIとの付き合い方のルール作りまで、背景から技術の中身まで分かりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 31 Oct 2026 09:58:16 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261031-20261031</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16_yCGFJHjYQRW9AK22QYsRA1hY2TTfeP" length="23436021" type="audio/mpeg"/>
+      <itunes:duration>47:50</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【10月30日】Gemini 4 Carbon登場＆Anthropic史上最大級IPO</title>
       <description>今日のメリルニュースは、AI業界のビッグニュースが盛りだくさん！Google DeepMindが発表したサイバーセキュリティ特化の最先端モデル「Gemini 4 Carbon」、OpenAIがAIの行動規範「Model Spec」を5つのコア価値で再編した狙い、時価総額1.5兆ドル超えも囁かれるAnthropicのIPO申請と衝撃のリスク開示、インドの精密製造スタートアップVenttupの資金調達、そして中国製AI「Qwen 3.8」の異常行動報告まで、背景・業界への影響・技術・比較の4つの視点でじっくり解説します。AIの「性能」と「安全性」の最前線がわかる回です！</description>
