@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 01 Nov 2026 05:54:20 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:14:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月2日】OpenAI資金調達目標を下方修正＆AI学習拒否の共通ルール誕生</title>
+      <description>今回は3つのAIニュースを解説します。まず、OpenAIが資金調達目標を300億ドルから200億ドルへ引き下げました。評価額1.25兆ドルへの調整は「AIバブル」の転換点なのか、ライバルAnthropicのIPO準備との関係も含めて読み解きます。次に、Google・Microsoft・OpenAI・Anthropicが支持した、AI学習用のデータ収集を一括で拒否できる共通ルール「__usage_ai-training」の仕組みと影響を取り上げます。最後に、Canvaの新AIモデル「Brush」がデザイン編集を最大69%速くした理由を紹介します。</description>
+      <itunes:summary>今回は3つのAIニュースを解説します。まず、OpenAIが資金調達目標を300億ドルから200億ドルへ引き下げました。評価額1.25兆ドルへの調整は「AIバブル」の転換点なのか、ライバルAnthropicのIPO準備との関係も含めて読み解きます。次に、Google・Microsoft・OpenAI・Anthropicが支持した、AI学習用のデータ収集を一括で拒否できる共通ルール「__usage_ai-training」の仕組みと影響を取り上げます。最後に、Canvaの新AIモデル「Brush」がデザイン編集を最大69%速くした理由を紹介します。</itunes:summary>
+      <pubDate>Mon, 02 Nov 2026 06:14:41 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261102-20261102</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1N2iFKE9L4unEj2NaI5aXAx7klWRzOfMU" length="20807157" type="audio/mpeg"/>
+      <itunes:duration>42:34</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月1日】Anthropic上場申請＆AI学習拒否の新ルール誕生</title>
       <description>今回のメリルニュースは、ここ数日のAI業界の大きな動きを6本まとめてお届けします。ウェブサイトが「AIの学習に使わないで」と一括で意思表示できる新しいrobots.txtの仕組み、Mistralが公開した約1兆パラメータの巨大オープンモデル「Le Chonk」、AnthropicのIPO申請で明らかになった驚きの収益と損失を取り上げます。さらに、Nvidiaによる約130億ドル規模のHugging Face買収への米司法省の調査、Metaの超党派ロビー戦略、OpenAIの「Model Spec」改訂も、背景や業界への影響まで丁寧に解説します。</description>
