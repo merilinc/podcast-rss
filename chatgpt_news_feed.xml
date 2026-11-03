@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 09:11:16 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:40:43 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月4日】OpenAI報奨金4倍＆マツダとAI設計、ChatGPT統合の噂</title>
+      <description>今日のメリルニュースでは、2026年11月2日から3日にかけて報じられたOpenAI関連の3つのニュースを取り上げます。1つ目は、脆弱性報奨金を平均4倍に引き上げ、AIを使って弱点を探す「セキュリティスプリント」を始めたというニュースです。2つ目は、マツダや米国の名門レースチームと組んで、3DスキャンからCAD設計、空力シミュレーションまでAIで高速化する取り組み。3つ目は、ChatGPTの「Chat」と「Work」、そしてCodexの利用枠が統合されるのではという話題です。ホワイトハッカー、CAD、トークンといった用語も、例え話を使いながらやさしく解説します。</description>
+      <itunes:summary>今日のメリルニュースでは、2026年11月2日から3日にかけて報じられたOpenAI関連の3つのニュースを取り上げます。1つ目は、脆弱性報奨金を平均4倍に引き上げ、AIを使って弱点を探す「セキュリティスプリント」を始めたというニュースです。2つ目は、マツダや米国の名門レースチームと組んで、3DスキャンからCAD設計、空力シミュレーションまでAIで高速化する取り組み。3つ目は、ChatGPTの「Chat」と「Work」、そしてCodexの利用枠が統合されるのではという話題です。ホワイトハッカー、CAD、トークンといった用語も、例え話を使いながらやさしく解説します。</itunes:summary>
+      <pubDate>Wed, 04 Nov 2026 07:40:37 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261104-20261104</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1m4LcLkSAN3pU7Oekv-KeMaRWysBFO1P1" length="21665805" type="audio/mpeg"/>
+      <itunes:duration>44:41</itunes:duration>
+      <itunes:episode>222</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月3日】ChatGPTタブ統合と使用量共有、OpenAIの電力・石油AI戦略</title>
       <description>今日はOpenAIが11月2日に発表した3つのニュースをお届けします。1つ目は、ChatGPTの「Chat」と「Work」タブの統合と、12月から始まるChatGPTとCodexの使用量共有制度です。Plus・Pro・Businessユーザーの使い方はどう変わるのでしょうか。2つ目は、電力網がひっ迫したときにデータセンターの電力使用を減らす「Grid Protectors Program」です。3つ目は、アブダビの国営石油会社ADNOCとの産業AI提携です。ユーザー体験、料金、電力、産業応用という4つの視点から、AIの今をじっくり解説します。</description>
