@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 02 Nov 2026 06:13:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:11:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月3日】ChatGPTタブ統合と使用量共有、OpenAIの電力・石油AI戦略</title>
+      <description>今日はOpenAIが11月2日に発表した3つのニュースをお届けします。1つ目は、ChatGPTの「Chat」と「Work」タブの統合と、12月から始まるChatGPTとCodexの使用量共有制度です。Plus・Pro・Businessユーザーの使い方はどう変わるのでしょうか。2つ目は、電力網がひっ迫したときにデータセンターの電力使用を減らす「Grid Protectors Program」です。3つ目は、アブダビの国営石油会社ADNOCとの産業AI提携です。ユーザー体験、料金、電力、産業応用という4つの視点から、AIの今をじっくり解説します。</description>
+      <itunes:summary>今日はOpenAIが11月2日に発表した3つのニュースをお届けします。1つ目は、ChatGPTの「Chat」と「Work」タブの統合と、12月から始まるChatGPTとCodexの使用量共有制度です。Plus・Pro・Businessユーザーの使い方はどう変わるのでしょうか。2つ目は、電力網がひっ迫したときにデータセンターの電力使用を減らす「Grid Protectors Program」です。3つ目は、アブダビの国営石油会社ADNOCとの産業AI提携です。ユーザー体験、料金、電力、産業応用という4つの視点から、AIの今をじっくり解説します。</itunes:summary>
+      <pubDate>Tue, 03 Nov 2026 09:11:10 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261103-20261103</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=13mAiMNgXEuQXpHQJfzjCtIzVnFDlHpq6" length="23278461" type="audio/mpeg"/>
+      <itunes:duration>47:22</itunes:duration>
+      <itunes:episode>221</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月2日】ChatGPTが青少年保護を強化＆Codex使用枠統合の全貌</title>
       <description>今回は10月30日から31日にかけて発表された、OpenAIとChatGPTの最新ニュース4本をお届けします。まず、暴力や武器に関する情報を制限し、18歳未満のユーザーを守る新しい安全ポリシーについて解説します。続いて、ProプランでのWorkとCodexの使用量増加と、12月から始まる使用枠の統合を取り上げます。さらに、スマホアプリに加わったアカウント切り替え機能と、開発者向けPython SDK v3.42.0の新機能も紹介します。背景、競合との関係、技術とビジネスへの影響、過去の事例との比較まで、わかりやすく掘り下げます。</description>
