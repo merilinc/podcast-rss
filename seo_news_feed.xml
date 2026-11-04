@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 03 Nov 2026 09:16:14 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:42:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月5日】Google検索のクリック率が回復！AI時代のSEO最前線</title>
+      <description>「AIが答えを出すから、もうサイトは見てもらえない」と言われてきたGoogle検索。ところが最新のSemrushレポートでは、外部サイトへのクリック率が15か月ぶりの高水準になりました。今回は、AI Modeに追加されたホームサービスの直接予約リンク、回答の最後に表示される「次の質問候補」のテスト、9月のスパムアップデート完了、AI Overviewsが検索の8割以上で表示されているというデータ、Search Consoleの新しいフィルタ機能の5本を取り上げます。AI時代にWebサイトがどう生き残るか、SEOの基本からやさしく解説します。</description>
+      <itunes:summary>「AIが答えを出すから、もうサイトは見てもらえない」と言われてきたGoogle検索。ところが最新のSemrushレポートでは、外部サイトへのクリック率が15か月ぶりの高水準になりました。今回は、AI Modeに追加されたホームサービスの直接予約リンク、回答の最後に表示される「次の質問候補」のテスト、9月のスパムアップデート完了、AI Overviewsが検索の8割以上で表示されているというデータ、Search Consoleの新しいフィルタ機能の5本を取り上げます。AI時代にWebサイトがどう生き残るか、SEOの基本からやさしく解説します。</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 07:42:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261105-20261105</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GPPnFBGKx3wE4DO7wybXnr_huKPT55QB" length="22954797" type="audio/mpeg"/>
+      <itunes:duration>46:49</itunes:duration>
+      <itunes:episode>178</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月3日】AI学習拒否が一括設定へ！SEOの基本とAI Overviewの新配置</title>
       <description>Google・Microsoft・OpenAI・Anthropicの4社が、AIの学習にサイトのコンテンツを使わせない「共通のオプトアウト信号」をrobots.txtに導入する計画を発表しました。今日はその仕組みと各社の違いを解説します。さらに、Googleのジョン・ミューラー氏が語った「AI時代でもテクニカルSEOは土台」というメッセージと、ブランド検索でAI Overviewが右カラムに移動している現象もお届けします。サイト運営者やマーケターはもちろん、検索の今を知りたい方にもおすすめの回です！</description>
