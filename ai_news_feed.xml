@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 07:44:55 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:41:06 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月5日】Anthropic売上2.5兆円の光と影＆OpenAIのGitHub挑戦</title>
+      <description>今日のメリルニュースでは、AI業界の注目ニュース3本を解説します。IPOを控えるAnthropicは、四半期売上が約170億ドル（約2兆5500億円）、前年比1127%増という急成長を記録しました。一方で、純損失は233億ドルに膨らんでいます。続いて、OpenAIが開発者ツール企業Pierre Computerを買収した件を取り上げます。Microsoft傘下のGitHubとの競争がどう変わるのかを見ていきます。最後は、AIの回答が「本当にそのモデルのものか」を暗号技術で証明する「FlashProve」です。専門用語もかみ砕いてお届けします！</description>
+      <itunes:summary>今日のメリルニュースでは、AI業界の注目ニュース3本を解説します。IPOを控えるAnthropicは、四半期売上が約170億ドル（約2兆5500億円）、前年比1127%増という急成長を記録しました。一方で、純損失は233億ドルに膨らんでいます。続いて、OpenAIが開発者ツール企業Pierre Computerを買収した件を取り上げます。Microsoft傘下のGitHubとの競争がどう変わるのかを見ていきます。最後は、AIの回答が「本当にそのモデルのものか」を暗号技術で証明する「FlashProve」です。専門用語もかみ砕いてお届けします！</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 07:41:00 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261105-20261105</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1YgrHgh0Tlv251W99orpkJhzvL8az5OYO" length="23160837" type="audio/mpeg"/>
+      <itunes:duration>47:18</itunes:duration>
+      <itunes:episode>103</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月4日】OpenAI電力対策とサウジAI巨額投資、Claude新プラン</title>
       <description>今日のメリルニュースはAIの「電気」「お金」「料金プラン」を取り上げます。OpenAIは、電力がひっ迫したときにデータセンターの電力使用を減らす「Grid Protectors Program」を発表しました。サウジアラビアでは、国営石油会社AramcoがAI企業Humainの株式49％を取得し、国家ぐるみでAIインフラを強化します。Anthropicは「Max 20x」を「Ultra」に改称し、認証ユーザーの5時間ごとの利用制限を撤廃しました。背景や業界への影響、他社との違いまで詳しく解説します！</description>
