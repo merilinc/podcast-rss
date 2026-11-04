@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 07:40:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:43:19 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月5日】ChatGPTがGIF生成に対応！バグ報酬最大2500万円超も</title>
+      <description>今日はOpenAIの最新ニュース5本を一気に解説します。ChatGPTの新画像モデル「Images 2.6」はアニメーションGIFをコマ単位で編集できます。12月からはChatGPTとCodexの利用枠が統合されます。ほかに、最大約172,000ドルに拡大したバグ報奨金制度、データセンターの電力をピーク時に削減する「Grid Protectors Program」、日常生活でのAIの役立ち度を測る新ベンチマーク「LifeVal」も取り上げます。ユーザーにも開発者にも関わる話題を、背景から業界比較までわかりやすく掘り下げます！</description>
+      <itunes:summary>今日はOpenAIの最新ニュース5本を一気に解説します。ChatGPTの新画像モデル「Images 2.6」はアニメーションGIFをコマ単位で編集できます。12月からはChatGPTとCodexの利用枠が統合されます。ほかに、最大約172,000ドルに拡大したバグ報奨金制度、データセンターの電力をピーク時に削減する「Grid Protectors Program」、日常生活でのAIの役立ち度を測る新ベンチマーク「LifeVal」も取り上げます。ユーザーにも開発者にも関わる話題を、背景から業界比較までわかりやすく掘り下げます！</itunes:summary>
+      <pubDate>Thu, 05 Nov 2026 07:43:14 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261105-20261105</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18UDFtxj1ltd-EywzgFDdbY-H4UgSQIzd" length="23048469" type="audio/mpeg"/>
+      <itunes:duration>47:17</itunes:duration>
+      <itunes:episode>223</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月4日】OpenAI報奨金4倍＆マツダとAI設計、ChatGPT統合の噂</title>
       <description>今日のメリルニュースでは、2026年11月2日から3日にかけて報じられたOpenAI関連の3つのニュースを取り上げます。1つ目は、脆弱性報奨金を平均4倍に引き上げ、AIを使って弱点を探す「セキュリティスプリント」を始めたというニュースです。2つ目は、マツダや米国の名門レースチームと組んで、3DスキャンからCAD設計、空力シミュレーションまでAIで高速化する取り組み。3つ目は、ChatGPTの「Chat」と「Work」、そしてCodexの利用枠が統合されるのではという話題です。ホワイトハッカー、CAD、トークンといった用語も、例え話を使いながらやさしく解説します。</description>
