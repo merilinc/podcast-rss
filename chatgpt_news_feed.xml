@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 07:43:19 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:53:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月6日】GPT-6 Cyber登場＆ChatGPT週12億人突破</title>
+      <description>今日はOpenAIの重大発表を4本まとめてお届けします。社内の安全性評価で初めて「Critical（重大）」とされたセキュリティ特化モデル「GPT-6 Cyber」が、Linuxの脆弱性948件を発見した衝撃のニュース。GIFアニメ生成や生成速度50％向上を実現した画像生成モデル「Images 2.6」。ChatGPTの週間利用者12億人突破と「Google検索の約5分の1」という主張の真偽。さらにバグ報奨金を最大約17万ドルへ引き上げた背景まで、AIくんとサチコがわかりやすく深掘りします！</description>
+      <itunes:summary>今日はOpenAIの重大発表を4本まとめてお届けします。社内の安全性評価で初めて「Critical（重大）」とされたセキュリティ特化モデル「GPT-6 Cyber」が、Linuxの脆弱性948件を発見した衝撃のニュース。GIFアニメ生成や生成速度50％向上を実現した画像生成モデル「Images 2.6」。ChatGPTの週間利用者12億人突破と「Google検索の約5分の1」という主張の真偽。さらにバグ報奨金を最大約17万ドルへ引き上げた背景まで、AIくんとサチコがわかりやすく深掘りします！</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 07:53:13 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261106-20261106</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZAIsk7ITG7bGSDZFaf3tefMIV8lZuHDu" length="22374837" type="audio/mpeg"/>
+      <itunes:duration>45:58</itunes:duration>
+      <itunes:episode>224</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月5日】ChatGPTがGIF生成に対応！バグ報酬最大2500万円超も</title>
       <description>今日はOpenAIの最新ニュース5本を一気に解説します。ChatGPTの新画像モデル「Images 2.6」はアニメーションGIFをコマ単位で編集できます。12月からはChatGPTとCodexの利用枠が統合されます。ほかに、最大約172,000ドルに拡大したバグ報奨金制度、データセンターの電力をピーク時に削減する「Grid Protectors Program」、日常生活でのAIの役立ち度を測る新ベンチマーク「LifeVal」も取り上げます。ユーザーにも開発者にも関わる話題を、背景から業界比較までわかりやすく掘り下げます！</description>
