@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 07:41:06 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:49:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月6日】OpenAIがLinux脆弱性948件発見＆Meta買収とGoogle教育AI問題</title>
+      <description>今日はAI業界の大きなニュースを3本お届けします。OpenAIは、AIエージェントがLinuxカーネル約280万行を解析し、948件の深刻な脆弱性を発見して修正パッチまで作る自動パイプラインを発表しました。MetaはAIコーディングスタートアップ「Conductor」を買収しています。さらにGoogleは、学校でAIを無効にすると検索も使えなくなる新ルールを打ち出し、強い反発を受けています。セキュリティ、開発ツール、教育の3つの分野で、AIが業界の勢力図と安全性をどう塗り替えようとしているのかを、分かりやすく解説します。</description>
+      <itunes:summary>今日はAI業界の大きなニュースを3本お届けします。OpenAIは、AIエージェントがLinuxカーネル約280万行を解析し、948件の深刻な脆弱性を発見して修正パッチまで作る自動パイプラインを発表しました。MetaはAIコーディングスタートアップ「Conductor」を買収しています。さらにGoogleは、学校でAIを無効にすると検索も使えなくなる新ルールを打ち出し、強い反発を受けています。セキュリティ、開発ツール、教育の3つの分野で、AIが業界の勢力図と安全性をどう塗り替えようとしているのかを、分かりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 06 Nov 2026 07:49:15 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261106-20261106</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18vVzd_K_65H8tUuR4FY45qnDCqj11nkw" length="19706133" type="audio/mpeg"/>
+      <itunes:duration>40:16</itunes:duration>
+      <itunes:episode>104</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月5日】Anthropic売上2.5兆円の光と影＆OpenAIのGitHub挑戦</title>
       <description>今日のメリルニュースでは、AI業界の注目ニュース3本を解説します。IPOを控えるAnthropicは、四半期売上が約170億ドル（約2兆5500億円）、前年比1127%増という急成長を記録しました。一方で、純損失は233億ドルに膨らんでいます。続いて、OpenAIが開発者ツール企業Pierre Computerを買収した件を取り上げます。Microsoft傘下のGitHubとの競争がどう変わるのかを見ていきます。最後は、AIの回答が「本当にそのモデルのものか」を暗号技術で証明する「FlashProve」です。専門用語もかみ砕いてお届けします！</description>
