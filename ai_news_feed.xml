@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 07:49:20 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:25:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月14日】NVIDIA激震！AI開発停止訴訟とエージェント経済の幕開け</title>
+      <description>AI業界に激震です。NVIDIAのジェンスン・ファンCEOが辞任し、CFOのコレット・クレス氏が暫定CEOに就任しました。米市民団体はOpenAIやGoogleなど主要AI企業5社に次世代AI開発の停止を求めて提訴しています。一方で、AIが代わりに支払いをする「ChatGPT Wallet」、電話をかけてくれるMetaの「Muse」、Googleのロボット向けAIや遺伝子解析AIなど、実用化の動きも一気に進んでいます。EUの「ソブリンAI」、日本のAI罰則規定の検討、ニューヨーク州の新しい規制まで、全14本のニュースをわかりやすく解説します。</description>
+      <itunes:summary>AI業界に激震です。NVIDIAのジェンスン・ファンCEOが辞任し、CFOのコレット・クレス氏が暫定CEOに就任しました。米市民団体はOpenAIやGoogleなど主要AI企業5社に次世代AI開発の停止を求めて提訴しています。一方で、AIが代わりに支払いをする「ChatGPT Wallet」、電話をかけてくれるMetaの「Muse」、Googleのロボット向けAIや遺伝子解析AIなど、実用化の動きも一気に進んでいます。EUの「ソブリンAI」、日本のAI罰則規定の検討、ニューヨーク州の新しい規制まで、全14本のニュースをわかりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 07:25:31 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261114-20261114</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1FpRxqEqX9uErEQME21erPUp0oBR9XTDw" length="28827285" type="audio/mpeg"/>
+      <itunes:duration>58:35</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月6日】OpenAIがLinux脆弱性948件発見＆Meta買収とGoogle教育AI問題</title>
       <description>今日はAI業界の大きなニュースを3本お届けします。OpenAIは、AIエージェントがLinuxカーネル約280万行を解析し、948件の深刻な脆弱性を発見して修正パッチまで作る自動パイプラインを発表しました。MetaはAIコーディングスタートアップ「Conductor」を買収しています。さらにGoogleは、学校でAIを無効にすると検索も使えなくなる新ルールを打ち出し、強い反発を受けています。セキュリティ、開発ツール、教育の3つの分野で、AIが業界の勢力図と安全性をどう塗り替えようとしているのかを、分かりやすく解説します。</description>
