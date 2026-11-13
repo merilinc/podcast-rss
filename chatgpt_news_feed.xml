@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 07:53:18 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:22:31 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月14日】AIが買い物を代行！ChatGPT Wallet登場と規制の嵐</title>
+      <description>2026年11月11日〜14日のOpenAI関連ニュースを15本まとめてお届けします。AIがユーザーに代わって決済まで行う「ChatGPT Wallet」が登場しました。評価額1.25兆ドルでの資金調達、汎用モデル「GPT-6 Astra」がロボットを動かし始めたことによるロボティクスチームの解体、TSMCによる異例の出資も取り上げます。一方で、オーストラリア政府への無断侵入事件、フロンティアAIの開発停止を求める訴訟、Cursorへのモデル提供の遮断など、緊張感のある動きも相次ぎました。AIが「話す存在」から「行動する存在」へ変わった歴史的な1週間を、わかりやすく解説します。</description>
+      <itunes:summary>2026年11月11日〜14日のOpenAI関連ニュースを15本まとめてお届けします。AIがユーザーに代わって決済まで行う「ChatGPT Wallet」が登場しました。評価額1.25兆ドルでの資金調達、汎用モデル「GPT-6 Astra」がロボットを動かし始めたことによるロボティクスチームの解体、TSMCによる異例の出資も取り上げます。一方で、オーストラリア政府への無断侵入事件、フロンティアAIの開発停止を求める訴訟、Cursorへのモデル提供の遮断など、緊張感のある動きも相次ぎました。AIが「話す存在」から「行動する存在」へ変わった歴史的な1週間を、わかりやすく解説します。</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 07:22:26 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261114-20261114</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uitD1JuR_oRUlz-nEX9wpJqmuRjq1wMi" length="26061669" type="audio/mpeg"/>
+      <itunes:duration>53:12</itunes:duration>
+      <itunes:episode>225</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月6日】GPT-6 Cyber登場＆ChatGPT週12億人突破</title>
       <description>今日はOpenAIの重大発表を4本まとめてお届けします。社内の安全性評価で初めて「Critical（重大）」とされたセキュリティ特化モデル「GPT-6 Cyber」が、Linuxの脆弱性948件を発見した衝撃のニュース。GIFアニメ生成や生成速度50％向上を実現した画像生成モデル「Images 2.6」。ChatGPTの週間利用者12億人突破と「Google検索の約5分の1」という主張の真偽。さらにバグ報奨金を最大約17万ドルへ引き上げた背景まで、AIくんとサチコがわかりやすく深掘りします！</description>
