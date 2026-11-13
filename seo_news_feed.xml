@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 07:50:52 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:24:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月14日】Google11月コアアップデート始動＆Gemini 4 Hydrogen、AI検索の商業化が加速</title>
+      <description>今日は、Googleの「2026年11月コアアップデート」と、AI検索の新モデル「Gemini 4 Hydrogen」の同時展開を中心に、SEO・GEOの最新動向を解説します。Search Consoleのデータ欠損バグ、ChatGPT Business Hubの公開、ChatGPT広告のTarget CPA対応、出版社にコンテンツ利用料を還元するYahoo Scoutの新しい仕組みも取り上げます。さらに、Metaのオンデバイス測定、GA4のData Manager、Google広告の不正トラフィック対策、リテールメディアの最新潮流、日本郵便「ぽすくま」LINEアカウントの停止まで、全17本をお届けします。ブラックフライデー前に押さえておきたい情報ばかりです。</description>
+      <itunes:summary>今日は、Googleの「2026年11月コアアップデート」と、AI検索の新モデル「Gemini 4 Hydrogen」の同時展開を中心に、SEO・GEOの最新動向を解説します。Search Consoleのデータ欠損バグ、ChatGPT Business Hubの公開、ChatGPT広告のTarget CPA対応、出版社にコンテンツ利用料を還元するYahoo Scoutの新しい仕組みも取り上げます。さらに、Metaのオンデバイス測定、GA4のData Manager、Google広告の不正トラフィック対策、リテールメディアの最新潮流、日本郵便「ぽすくま」LINEアカウントの停止まで、全17本をお届けします。ブラックフライデー前に押さえておきたい情報ばかりです。</itunes:summary>
+      <pubDate>Sat, 14 Nov 2026 07:24:31 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261114-20261114</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iypBA5Q_YnzpEKAT52rxs1gSnhKRBLSO" length="33963021" type="audio/mpeg"/>
+      <itunes:duration>01:09:12</itunes:duration>
+      <itunes:episode>180</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月6日】AI Overviewsが右へ移動！激変するGoogle検索とSEO最前線</title>
       <description>今日はSEOと検索の最新ニュースを4本お届けします。ブランド名で検索したときにGoogleのAI要約が右側に表示されるようになった変化と、ナレッジパネルとの関係を解説します。続いて、AI Overviewsが検索の8割以上に表示されているというWebmaster Reportを取り上げます。さらに、欧州だけで「サイト評判悪用」ペナルティが検索結果に影響しなくなった理由と、Search Consoleの便利な新機能も紹介します。AI時代に企業やサイト運営者は何をすべきか、具体的なアクションまで分かりやすくお話しします。</description>
