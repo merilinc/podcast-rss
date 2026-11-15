@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 07:24:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:19:57 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月15日】ChatGPTで買い物完了へ！Gemini 4とAI検索の地殻変動</title>
+      <description>検索とマーケティングの世界が大きく動いた3日間を、20本のニュースで一気に解説します。Googleは検索を「Gemini 4 Hydrogen」へアップグレードする一方で、AI Modeを目立たなくするテストを実施。OpenAIはAIが代わりに買い物を済ませる「ChatGPT Wallet」と、成果を狙えるChatGPT広告を発表しました。さらに、MetaのAIエージェント「Muse」によるクローリング、パブリッシャーにお金を払うYahooの新モデル、Braveの暗号化URL、ディープフェイク広告の全面禁止まで取り上げます。AIエージェント時代のSEOと広告の行方がわかる回です。</description>
+      <itunes:summary>検索とマーケティングの世界が大きく動いた3日間を、20本のニュースで一気に解説します。Googleは検索を「Gemini 4 Hydrogen」へアップグレードする一方で、AI Modeを目立たなくするテストを実施。OpenAIはAIが代わりに買い物を済ませる「ChatGPT Wallet」と、成果を狙えるChatGPT広告を発表しました。さらに、MetaのAIエージェント「Muse」によるクローリング、パブリッシャーにお金を払うYahooの新モデル、Braveの暗号化URL、ディープフェイク広告の全面禁止まで取り上げます。AIエージェント時代のSEOと広告の行方がわかる回です。</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 13:19:52 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261115-20261115</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gM5-XhkjW7sFqcphIXSQlOL1ipusO3w6" length="34159629" type="audio/mpeg"/>
+      <itunes:duration>01:09:08</itunes:duration>
+      <itunes:episode>181</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月14日】Google11月コアアップデート始動＆Gemini 4 Hydrogen、AI検索の商業化が加速</title>
       <description>今日は、Googleの「2026年11月コアアップデート」と、AI検索の新モデル「Gemini 4 Hydrogen」の同時展開を中心に、SEO・GEOの最新動向を解説します。Search Consoleのデータ欠損バグ、ChatGPT Business Hubの公開、ChatGPT広告のTarget CPA対応、出版社にコンテンツ利用料を還元するYahoo Scoutの新しい仕組みも取り上げます。さらに、Metaのオンデバイス測定、GA4のData Manager、Google広告の不正トラフィック対策、リテールメディアの最新潮流、日本郵便「ぽすくま」LINEアカウントの停止まで、全17本をお届けします。ブラックフライデー前に押さえておきたい情報ばかりです。</description>
