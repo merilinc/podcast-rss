@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 13:23:17 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:25:56 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月16日】ChatGPTが買い物を代行！Wallet登場とAI安全性への警鐘</title>
+      <description>2026年11月13日〜16日のOpenAI関連ニュースをまとめてお届けします。AIがユーザーの代わりに決済まで行う「ChatGPT Wallet」が登場しました。汎用モデル「GPT-6 Astra」がロボット専用AIを上回り、ロボティクスチームが再編されました。企業向けの「Business Hub」と、SEOに代わる「AEO」の時代も始まっています。サイバー防衛を自動化する「Daybreak」、TSMCとNvidiaによる巨額出資、Claudeによるゲーデルのノート解読も紹介します。さらに、元取締役や安全性委員会メンバーが発した「制御喪失リスク」への警告まで、全12トピックを分かりやすく解説します。</description>
+      <itunes:summary>2026年11月13日〜16日のOpenAI関連ニュースをまとめてお届けします。AIがユーザーの代わりに決済まで行う「ChatGPT Wallet」が登場しました。汎用モデル「GPT-6 Astra」がロボット専用AIを上回り、ロボティクスチームが再編されました。企業向けの「Business Hub」と、SEOに代わる「AEO」の時代も始まっています。サイバー防衛を自動化する「Daybreak」、TSMCとNvidiaによる巨額出資、Claudeによるゲーデルのノート解読も紹介します。さらに、元取締役や安全性委員会メンバーが発した「制御喪失リスク」への警告まで、全12トピックを分かりやすく解説します。</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 06:25:51 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261116-20261116</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lZTPjoB5_pAYpHS1kmavKR1476DhFibA" length="28601493" type="audio/mpeg"/>
+      <itunes:duration>58:24</itunes:duration>
+      <itunes:episode>227</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月15日】ChatGPT Walletで買い物代行へ＆1.25兆ドル調達の衝撃</title>
       <description>今日はOpenAIが米国で始めたAIが買い物を代行する「ChatGPT Wallet」、評価額1.25兆ドルでの150億ドル調達、AnthropicのIPOを詳しく解説します。AI開発の凍結を求めるカリフォルニアの訴訟、カナダの著作権訴訟、Microsoftの大規模障害、独自チップ「Jalapeno」、AIが挑んだ物理学の難問「ヤン＝ミルズ理論」の証明、旧音声モードやCustom GPTsの廃止、Gemini のCarPlay参入、サイバー特化モデル「GPT-6 Cyber」まで、全15トピックをお届けします。</description>
