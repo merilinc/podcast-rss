@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 15 Nov 2026 13:19:57 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:31:59 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月16日】AIと検索の分断！Yahoo新検索・Bing・航空会社のAI拒否</title>
+      <description>検索の世界がAIをめぐって大きく揺れています。今日は、YahooのAI検索「Scout」の正式版が始めた、メディアにお金を払う新しい仕組みを詳しく解説します。さらに、AIを溶け込ませるGoogleと、選べるようにしたBingという正反対の戦略、ユナイテッド航空による「AIエージェント禁止」規約、ChatGPTの音声機能のGPT-Liveへの一本化、11月コアアップデートの順位変動、ディープフェイク広告の全面禁止まで、全13本をお届けします。SEOやマーケティングに関わる方は必聴です！</description>
+      <itunes:summary>検索の世界がAIをめぐって大きく揺れています。今日は、YahooのAI検索「Scout」の正式版が始めた、メディアにお金を払う新しい仕組みを詳しく解説します。さらに、AIを溶け込ませるGoogleと、選べるようにしたBingという正反対の戦略、ユナイテッド航空による「AIエージェント禁止」規約、ChatGPTの音声機能のGPT-Liveへの一本化、11月コアアップデートの順位変動、ディープフェイク広告の全面禁止まで、全13本をお届けします。SEOやマーケティングに関わる方は必聴です！</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 06:31:54 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261116-20261116</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MerUE5fq26L3dCY9BqMW4sR6iuw2JgQI" length="28494669" type="audio/mpeg"/>
+      <itunes:duration>58:18</itunes:duration>
+      <itunes:episode>182</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月15日】ChatGPTで買い物完了へ！Gemini 4とAI検索の地殻変動</title>
       <description>検索とマーケティングの世界が大きく動いた3日間を、20本のニュースで一気に解説します。Googleは検索を「Gemini 4 Hydrogen」へアップグレードする一方で、AI Modeを目立たなくするテストを実施。OpenAIはAIが代わりに買い物を済ませる「ChatGPT Wallet」と、成果を狙えるChatGPT広告を発表しました。さらに、MetaのAIエージェント「Muse」によるクローリング、パブリッシャーにお金を払うYahooの新モデル、Braveの暗号化URL、ディープフェイク広告の全面禁止まで取り上げます。AIエージェント時代のSEOと広告の行方がわかる回です。</description>
