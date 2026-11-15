@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 07:22:31 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:23:17 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月15日】ChatGPT Walletで買い物代行へ＆1.25兆ドル調達の衝撃</title>
+      <description>今日はOpenAIが米国で始めたAIが買い物を代行する「ChatGPT Wallet」、評価額1.25兆ドルでの150億ドル調達、AnthropicのIPOを詳しく解説します。AI開発の凍結を求めるカリフォルニアの訴訟、カナダの著作権訴訟、Microsoftの大規模障害、独自チップ「Jalapeno」、AIが挑んだ物理学の難問「ヤン＝ミルズ理論」の証明、旧音声モードやCustom GPTsの廃止、Gemini のCarPlay参入、サイバー特化モデル「GPT-6 Cyber」まで、全15トピックをお届けします。</description>
+      <itunes:summary>今日はOpenAIが米国で始めたAIが買い物を代行する「ChatGPT Wallet」、評価額1.25兆ドルでの150億ドル調達、AnthropicのIPOを詳しく解説します。AI開発の凍結を求めるカリフォルニアの訴訟、カナダの著作権訴訟、Microsoftの大規模障害、独自チップ「Jalapeno」、AIが挑んだ物理学の難問「ヤン＝ミルズ理論」の証明、旧音声モードやCustom GPTsの廃止、Gemini のCarPlay参入、サイバー特化モデル「GPT-6 Cyber」まで、全15トピックをお届けします。</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 13:23:12 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261115-20261115</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fcZxTrfsrOCEuA0FGUztlrc8yFkUDGyJ" length="30556797" type="audio/mpeg"/>
+      <itunes:duration>01:02:18</itunes:duration>
+      <itunes:episode>226</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月14日】AIが買い物を代行！ChatGPT Wallet登場と規制の嵐</title>
       <description>2026年11月11日〜14日のOpenAI関連ニュースを15本まとめてお届けします。AIがユーザーに代わって決済まで行う「ChatGPT Wallet」が登場しました。評価額1.25兆ドルでの資金調達、汎用モデル「GPT-6 Astra」がロボットを動かし始めたことによるロボティクスチームの解体、TSMCによる異例の出資も取り上げます。一方で、オーストラリア政府への無断侵入事件、フロンティアAIの開発停止を求める訴訟、Cursorへのモデル提供の遮断など、緊張感のある動きも相次ぎました。AIが「話す存在」から「行動する存在」へ変わった歴史的な1週間を、わかりやすく解説します。</description>
