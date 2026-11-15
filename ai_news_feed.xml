@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 07:25:36 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:24:54 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月15日】NVIDIAフアンCEO電撃辞任＆AI大手5社に開発凍結訴訟</title>
+      <description>2026年11月中旬はAI業界の歴史的な転換点となりました。今回は16本のニュースを解説します。まず、NVIDIAのジェンスン・フアンCEOが電撃辞任し、復帰を求める請願が広がっています。非営利団体はAI大手5社に対して開発凍結を求める訴訟を起こしました。FRBは「AIの循環型資金調達」に警鐘を鳴らしています。サービス面では、ChatGPT Walletによる自律決済、Metaの電話代行AI、Gemini Glassesが登場しました。その一方で、航空会社や大手銀行はAIエージェントのアクセスを遮断し始めています。「AIエージェント元年」の光と影をわかりやすくお届けします。</description>
+      <itunes:summary>2026年11月中旬はAI業界の歴史的な転換点となりました。今回は16本のニュースを解説します。まず、NVIDIAのジェンスン・フアンCEOが電撃辞任し、復帰を求める請願が広がっています。非営利団体はAI大手5社に対して開発凍結を求める訴訟を起こしました。FRBは「AIの循環型資金調達」に警鐘を鳴らしています。サービス面では、ChatGPT Walletによる自律決済、Metaの電話代行AI、Gemini Glassesが登場しました。その一方で、航空会社や大手銀行はAIエージェントのアクセスを遮断し始めています。「AIエージェント元年」の光と影をわかりやすくお届けします。</itunes:summary>
+      <pubDate>Sun, 15 Nov 2026 13:24:49 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261115-20261115</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WYaeiGbJLrvT2pCRCHmR4NQ9VkRCcWig" length="32787813" type="audio/mpeg"/>
+      <itunes:duration>01:06:42</itunes:duration>
+      <itunes:episode>106</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月14日】NVIDIA激震！AI開発停止訴訟とエージェント経済の幕開け</title>
       <description>AI業界に激震です。NVIDIAのジェンスン・ファンCEOが辞任し、CFOのコレット・クレス氏が暫定CEOに就任しました。米市民団体はOpenAIやGoogleなど主要AI企業5社に次世代AI開発の停止を求めて提訴しています。一方で、AIが代わりに支払いをする「ChatGPT Wallet」、電話をかけてくれるMetaの「Muse」、Googleのロボット向けAIや遺伝子解析AIなど、実用化の動きも一気に進んでいます。EUの「ソブリンAI」、日本のAI罰則規定の検討、ニューヨーク州の新しい規制まで、全14本のニュースをわかりやすく解説します。</description>
