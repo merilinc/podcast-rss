@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 06:31:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:40:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月17日】Googleコアアップデート直撃とAI検索の光と影</title>
+      <description>今日はSEO・検索広告の最新ニュースを19本まとめてお届けします。ブラックフライデー直前に直撃したGoogle「2026年11月コアアップデート」の順位変動、AI OverviewsでトラフィックがS減ったSystem1の決算、広告収益を減らしてでもAI検索に舵を切ったBaiduの戦略転換を詳しく解説します。さらに、AIによる著名人なりすまし広告の全面禁止、Search Analytics APIの大型アップデート、TikTokやAppleの検索広告強化、AI時代の新常識「GEO」まで、マーケターもそうでない人も「へぇ〜」となる話題が満載です！</description>
+      <itunes:summary>今日はSEO・検索広告の最新ニュースを19本まとめてお届けします。ブラックフライデー直前に直撃したGoogle「2026年11月コアアップデート」の順位変動、AI OverviewsでトラフィックがS減ったSystem1の決算、広告収益を減らしてでもAI検索に舵を切ったBaiduの戦略転換を詳しく解説します。さらに、AIによる著名人なりすまし広告の全面禁止、Search Analytics APIの大型アップデート、TikTokやAppleの検索広告強化、AI時代の新常識「GEO」まで、マーケターもそうでない人も「へぇ〜」となる話題が満載です！</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 09:40:47 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261117-20261117</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ArEl-5A91Wr8Ce979TgIGo1FdZ1jeVfZ" length="31732629" type="audio/mpeg"/>
+      <itunes:duration>01:04:22</itunes:duration>
+      <itunes:episode>183</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月16日】AIと検索の分断！Yahoo新検索・Bing・航空会社のAI拒否</title>
       <description>検索の世界がAIをめぐって大きく揺れています。今日は、YahooのAI検索「Scout」の正式版が始めた、メディアにお金を払う新しい仕組みを詳しく解説します。さらに、AIを溶け込ませるGoogleと、選べるようにしたBingという正反対の戦略、ユナイテッド航空による「AIエージェント禁止」規約、ChatGPTの音声機能のGPT-Liveへの一本化、11月コアアップデートの順位変動、ディープフェイク広告の全面禁止まで、全13本をお届けします。SEOやマーケティングに関わる方は必聴です！</description>
