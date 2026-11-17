@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 09:40:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:46:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月18日】FBIがSEO悪用に警告＆AI検索が変えるWeb集客の新常識</title>
+      <description>今日はSEOとAI検索の特集です。FBIがSEOを悪用したマルウェア「Gootloader」に異例の警告を出し、ランサムウェア被害は約42億円にのぼります。さらに、Google 11月コアアップデートによる大規模な順位変動、BingのAIなし「Web Mode」、ChatGPTの引用元から大手メディアが急減した件、新しい指標「推奨シェア」、YouTubeのShorts自動切り抜き機能など全10本を解説します。AI時代に企業が見つけてもらうための最新事情をお届けします。</description>
+      <itunes:summary>今日はSEOとAI検索の特集です。FBIがSEOを悪用したマルウェア「Gootloader」に異例の警告を出し、ランサムウェア被害は約42億円にのぼります。さらに、Google 11月コアアップデートによる大規模な順位変動、BingのAIなし「Web Mode」、ChatGPTの引用元から大手メディアが急減した件、新しい指標「推奨シェア」、YouTubeのShorts自動切り抜き機能など全10本を解説します。AI時代に企業が見つけてもらうための最新事情をお届けします。</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 01:46:32 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261118-20261118</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uttSlGKerlqcYgOxFJSbZwWpcJVOO8t4" length="23365773" type="audio/mpeg"/>
+      <itunes:duration>48:22</itunes:duration>
+      <itunes:episode>184</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月17日】Googleコアアップデート直撃とAI検索の光と影</title>
       <description>今日はSEO・検索広告の最新ニュースを19本まとめてお届けします。ブラックフライデー直前に直撃したGoogle「2026年11月コアアップデート」の順位変動、AI OverviewsでトラフィックがS減ったSystem1の決算、広告収益を減らしてでもAI検索に舵を切ったBaiduの戦略転換を詳しく解説します。さらに、AIによる著名人なりすまし広告の全面禁止、Search Analytics APIの大型アップデート、TikTokやAppleの検索広告強化、AI時代の新常識「GEO」まで、マーケターもそうでない人も「へぇ〜」となる話題が満載です！</description>
