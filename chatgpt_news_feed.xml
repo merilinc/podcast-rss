@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 06:25:56 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:36:00 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月17日】AIがあなたの代わりに買い物！ChatGPT Wallet徹底解説</title>
+      <description>OpenAIが米国のProユーザー向けに、AIエージェントが代理で買い物をする決済ツール「ChatGPT Wallet」の提供を開始しました。VisaやMastercardと組み、カード番号をAIに渡さない「トークン化」と、本人だけが承認できる「生体認証」でセキュリティの不安に応えます。なぜ今「AIが買い物する時代」なのか、Google・Amazon・Appleなどライバルの動き、決済の仕組みとビジネスモデル、Amazonの1-ClickやApple Payといった過去の事例との比較まで、エンジニアのAIくんとサチコがじっくり掘り下げます。私たちの買い物はどう変わるのでしょうか？</description>
+      <itunes:summary>OpenAIが米国のProユーザー向けに、AIエージェントが代理で買い物をする決済ツール「ChatGPT Wallet」の提供を開始しました。VisaやMastercardと組み、カード番号をAIに渡さない「トークン化」と、本人だけが承認できる「生体認証」でセキュリティの不安に応えます。なぜ今「AIが買い物する時代」なのか、Google・Amazon・Appleなどライバルの動き、決済の仕組みとビジネスモデル、Amazonの1-ClickやApple Payといった過去の事例との比較まで、エンジニアのAIくんとサチコがじっくり掘り下げます。私たちの買い物はどう変わるのでしょうか？</itunes:summary>
+      <pubDate>Tue, 17 Nov 2026 09:35:56 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261117-20261117</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ljgwgAwU8-c_JXnQtsiD-WVH82N5bw5f" length="21812013" type="audio/mpeg"/>
+      <itunes:duration>45:06</itunes:duration>
+      <itunes:episode>228</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月16日】ChatGPTが買い物を代行！Wallet登場とAI安全性への警鐘</title>
       <description>2026年11月13日〜16日のOpenAI関連ニュースをまとめてお届けします。AIがユーザーの代わりに決済まで行う「ChatGPT Wallet」が登場しました。汎用モデル「GPT-6 Astra」がロボット専用AIを上回り、ロボティクスチームが再編されました。企業向けの「Business Hub」と、SEOに代わる「AEO」の時代も始まっています。サイバー防衛を自動化する「Daybreak」、TSMCとNvidiaによる巨額出資、Claudeによるゲーデルのノート解読も紹介します。さらに、元取締役や安全性委員会メンバーが発した「制御喪失リスク」への警告まで、全12トピックを分かりやすく解説します。</description>
