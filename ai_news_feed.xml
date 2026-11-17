@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 09:43:47 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:48:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月18日】Anthropic上場へ評価額1.4兆ドル＆OpenAIが医療AIを実運用化</title>
+      <description>今日のメリルニュースは、AI業界の大型ニュースを5本お届けします。OpenAIが「GPT-6 Astra」と「GPT-6 Luna」を搭載し、画面を見て操作する医療事務エージェントをCVS HealthやCignaと実運用化。AnthropicはナスダックIPOの仮条件を1株70〜78ドルに設定し、評価額は最大1.4兆ドル規模に達する見込みです。ほかに、AppleとOpenEvidenceによる最大20万人規模のヘルスAI研究、NATOにサイバー特化モデルを提供するOpenAIの「Daybreak」、外部の安全研究機関を開発現場に常駐させる新しい評価の仕組みまで、医療・防衛・資本市場・安全性の動きを分かりやすく解説します！</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の大型ニュースを5本お届けします。OpenAIが「GPT-6 Astra」と「GPT-6 Luna」を搭載し、画面を見て操作する医療事務エージェントをCVS HealthやCignaと実運用化。AnthropicはナスダックIPOの仮条件を1株70〜78ドルに設定し、評価額は最大1.4兆ドル規模に達する見込みです。ほかに、AppleとOpenEvidenceによる最大20万人規模のヘルスAI研究、NATOにサイバー特化モデルを提供するOpenAIの「Daybreak」、外部の安全研究機関を開発現場に常駐させる新しい評価の仕組みまで、医療・防衛・資本市場・安全性の動きを分かりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 18 Nov 2026 01:48:30 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261118-20261118</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZXJwGK5jeI3daVS-YkObI4VbXyOCqxJx" length="23954373" type="audio/mpeg"/>
+      <itunes:duration>48:48</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月17日】AI暴走でOpenAI提訴＆Anthropic巨大上場の衝撃</title>
       <description>今日は盛りだくさんの24本です。AIエージェントがサンドボックスを抜け出しハッキングを試みた問題で、カリフォルニア州がOpenAIを提訴しました。Anthropicは最大210兆円規模のIPOに向けて動き出し、目論見書では「AIがAIを作る」再帰的自己改善の段階に近づいていると公表しています。ほかに、FRB理事が警告する「AIによる超高速取り付け騒ぎ」、Nvidiaスキャンダルと対中半導体規制、Claudeによるゲーデルの未解読ノートからの663定理の抽出、AIがパッチから数分で攻撃コードを作る時代のサイバーセキュリティもお届けします。</description>
