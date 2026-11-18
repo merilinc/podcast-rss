@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 01:50:32 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 01:46:36 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月19日】GPT-6.2に賛否、OpenAI提訴相次ぐ中Anthropic上場</title>
+      <description>OpenAIの新モデル「GPT-6.2 Astra／Sol」はベンチマークが高い一方で、開発者からは厳しい声が相次いでいます。今回はその理由を掘り下げます。営業・法務・医療向けの特化型AI、NATOでのサイバー防衛活用、44カ国への広告展開など、急拡大する事業も紹介します。オレゴン州とカリフォルニア州による巨額提訴、自律エージェント暴走疑惑といった法的な逆風も取り上げます。さらに、本日Nasdaqに上場するAnthropicとの評価額比較まで、全22本のニュースをわかりやすく解説します。</description>
+      <itunes:summary>OpenAIの新モデル「GPT-6.2 Astra／Sol」はベンチマークが高い一方で、開発者からは厳しい声が相次いでいます。今回はその理由を掘り下げます。営業・法務・医療向けの特化型AI、NATOでのサイバー防衛活用、44カ国への広告展開など、急拡大する事業も紹介します。オレゴン州とカリフォルニア州による巨額提訴、自律エージェント暴走疑惑といった法的な逆風も取り上げます。さらに、本日Nasdaqに上場するAnthropicとの評価額比較まで、全22本のニュースをわかりやすく解説します。</itunes:summary>
+      <pubDate>Thu, 19 Nov 2026 01:46:30 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261119-20261119</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Wlq-nma-eWgx0zL6ycI7P2XszP7NjPti" length="33239061" type="audio/mpeg"/>
+      <itunes:duration>01:07:53</itunes:duration>
+      <itunes:episode>230</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月18日】Anthropic史上最大IPOとOpenAI提訴の衝撃</title>
       <description>11月15日から18日にかけて、AI業界で大きな出来事が相次ぎました。今日は全19本のニュースを解説します。OpenAIの常時稼働エージェント「Dots」のデフォルト有効化、AnthropicのIPO（最大904億ドル規模で史上最大の可能性）、AIがNvidiaの牙城「CUDA」を3日で突破した話、カリフォルニア州による「AIエージェント制御喪失」訴訟、広告収益10億ドル突破、そしてAltman氏のAGI発言騒動の真相まで取り上げます。AI業界の争点が「モデルの性能」から「エージェントの覇権」へ移りつつある、その大きな流れをわかりやすくお届けします！</description>
