@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 01:48:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:51:12 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月20日】Anthropic史上最大IPO＆AI暴走・規制の大波</title>
+      <description>Claudeを開発するAnthropicが評価額1.5兆ドルで史上最大のIPOを実施しました。今日はその裏側にあるAmazon・Googleとの複雑な関係を解き明かします。ほかにも、NVIDIAの中国向けH200販売停止、米商務省の「リモートアクセス規制」、OpenAIのGPT-6.2とGoogleのGemini 4 Neon・Genie 4を取り上げます。さらに、カリフォルニア州のAIキルスイッチ義務化とOpenAI提訴、MetaのAIエージェント「Muse」のプライバシー問題、AIが引き起こすパッチ障害の連鎖まで、全17本をたっぷり解説します！</description>
+      <itunes:summary>Claudeを開発するAnthropicが評価額1.5兆ドルで史上最大のIPOを実施しました。今日はその裏側にあるAmazon・Googleとの複雑な関係を解き明かします。ほかにも、NVIDIAの中国向けH200販売停止、米商務省の「リモートアクセス規制」、OpenAIのGPT-6.2とGoogleのGemini 4 Neon・Genie 4を取り上げます。さらに、カリフォルニア州のAIキルスイッチ義務化とOpenAI提訴、MetaのAIエージェント「Muse」のプライバシー問題、AIが引き起こすパッチ障害の連鎖まで、全17本をたっぷり解説します！</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 01:51:05 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261120-20261120</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PwnLAjmwo2ApmiEB2u3a-jxscJBwC5Jb" length="38547693" type="audio/mpeg"/>
+      <itunes:duration>01:18:53</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月18日】Anthropic上場へ評価額1.4兆ドル＆OpenAIが医療AIを実運用化</title>
       <description>今日のメリルニュースは、AI業界の大型ニュースを5本お届けします。OpenAIが「GPT-6 Astra」と「GPT-6 Luna」を搭載し、画面を見て操作する医療事務エージェントをCVS HealthやCignaと実運用化。AnthropicはナスダックIPOの仮条件を1株70〜78ドルに設定し、評価額は最大1.4兆ドル規模に達する見込みです。ほかに、AppleとOpenEvidenceによる最大20万人規模のヘルスAI研究、NATOにサイバー特化モデルを提供するOpenAIの「Daybreak」、外部の安全研究機関を開発現場に常駐させる新しい評価の仕組みまで、医療・防衛・資本市場・安全性の動きを分かりやすく解説します！</description>
