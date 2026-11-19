@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 01:46:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:49:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月20日】GPT-6.2 Astra登場と賛否、AIがAIを作る時代へ</title>
+      <description>11月17日から20日のOpenAI関連ニュースを20本まとめて解説します。メインは新モデル「GPT-6.2 Astra / Sol」の登場です。価格は20%下がった一方で、開発者からは「実質使用不能」という厳しい声も出ています。Claude Fable 5.2との比較、自己改善リスクが「High」に達したことで稼働した緊急停止システム「Control Room」、AIによるAMD製GPUの設計改良、競合への出力データ流用を禁じた規約改定も取り上げます。さらにChatGPT広告の44カ国展開、医療データの学習利用ポリシー変更、オレゴン州による約3,000億円の提訴まで、AI業界の今を分かりやすくお届けします。</description>
+      <itunes:summary>11月17日から20日のOpenAI関連ニュースを20本まとめて解説します。メインは新モデル「GPT-6.2 Astra / Sol」の登場です。価格は20%下がった一方で、開発者からは「実質使用不能」という厳しい声も出ています。Claude Fable 5.2との比較、自己改善リスクが「High」に達したことで稼働した緊急停止システム「Control Room」、AIによるAMD製GPUの設計改良、競合への出力データ流用を禁じた規約改定も取り上げます。さらにChatGPT広告の44カ国展開、医療データの学習利用ポリシー変更、オレゴン州による約3,000億円の提訴まで、AI業界の今を分かりやすくお届けします。</itunes:summary>
+      <pubDate>Fri, 20 Nov 2026 01:49:35 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261120-20261120</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RU-llhTEVAmAkgjjMNvfzZVPFjhD-9Os" length="33613005" type="audio/mpeg"/>
+      <itunes:duration>01:08:36</itunes:duration>
+      <itunes:episode>231</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月19日】GPT-6.2に賛否、OpenAI提訴相次ぐ中Anthropic上場</title>
       <description>OpenAIの新モデル「GPT-6.2 Astra／Sol」はベンチマークが高い一方で、開発者からは厳しい声が相次いでいます。今回はその理由を掘り下げます。営業・法務・医療向けの特化型AI、NATOでのサイバー防衛活用、44カ国への広告展開など、急拡大する事業も紹介します。オレゴン州とカリフォルニア州による巨額提訴、自律エージェント暴走疑惑といった法的な逆風も取り上げます。さらに、本日Nasdaqに上場するAnthropicとの評価額比較まで、全22本のニュースをわかりやすく解説します。</description>
