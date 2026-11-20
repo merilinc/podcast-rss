@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 01:52:13 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:45:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月21日】Bing AI回答に広告解禁＆GPT-6.2登場、SEO新時代へ</title>
+      <description>今回は2026年11月18日〜20日のSEO・マーケティングニュース20本をまとめてお届けします。Googleの11月コアアップデートの展開状況、AI検索の履歴を再開できる新サイドバー、BingのAI Overviews内広告、OpenAIの新モデル「GPT-6.2 Astra／Sol」を解説します。さらに、NVIDIAの決算と中国の国産AI「Xing4」、Rank Mathの脆弱性、記事削除がAI検索に与えるリスク、LLMO・AEOといった新しい集客戦略も取り上げます。AI時代のマーケティングの変化を、専門用語の解説付きで分かりやすく紹介します。</description>
+      <itunes:summary>今回は2026年11月18日〜20日のSEO・マーケティングニュース20本をまとめてお届けします。Googleの11月コアアップデートの展開状況、AI検索の履歴を再開できる新サイドバー、BingのAI Overviews内広告、OpenAIの新モデル「GPT-6.2 Astra／Sol」を解説します。さらに、NVIDIAの決算と中国の国産AI「Xing4」、Rank Mathの脆弱性、記事削除がAI検索に与えるリスク、LLMO・AEOといった新しい集客戦略も取り上げます。AI時代のマーケティングの変化を、専門用語の解説付きで分かりやすく紹介します。</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 01:45:24 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261121-20261121</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19eaCO3Kx5P7I4eCWlPKPdbc8yXy4gafy" length="28529853" type="audio/mpeg"/>
+      <itunes:duration>57:58</itunes:duration>
+      <itunes:episode>187</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月20日】FBIがSEO悪用に警告＆AI検索時代の新常識</title>
       <description>検索結果の上位に偽サイトを表示させる「SEOポイズニング」で約42億円のランサムウェア被害が発覚し、FBIが異例の警告を出しました。Googleの11月コアアップデートの対処法、ChatGPTの引用元の急な変化、LA最大の学区がGoogleのAI要約を無効化した騒動、Googleマップで予約電話を代わりにかけてくれるAIなど、全20本のニュースをお届けします。検索・広告・AIが一体になっていく今、マーケターも一般ユーザーも知っておきたい話題を、AIくんとサチコがわかりやすく解説します！</description>
