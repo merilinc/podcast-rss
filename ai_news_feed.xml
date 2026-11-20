@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 01:51:12 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:53:53 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月21日】Anthropic史上最大IPO＆GTA6記録的発売、Nvidia激震</title>
+      <description>今日はAI業界の歴史が動いた一日をお届けします！Claudeを開発するAnthropicがNasdaqに上場し、SpaceXを超える史上最大のIPOに。さらにGTA6が48時間で約3,500億円を売り上げる記録的ローンチ。Nvidiaでは創業者ジェンスン・フアン氏の復帰拒否と最大1,180億ドルの債務保証開示、対中チップ出荷停止が重なりました。OpenAIの新モデルGPT-6.2や会計プラグイン、カリフォルニア州による提訴、Googleの世界モデルGenie 4、日本でも無料化されたGemini Tasksなど、全22本のニュースを徹底解説します！</description>
+      <itunes:summary>今日はAI業界の歴史が動いた一日をお届けします！Claudeを開発するAnthropicがNasdaqに上場し、SpaceXを超える史上最大のIPOに。さらにGTA6が48時間で約3,500億円を売り上げる記録的ローンチ。Nvidiaでは創業者ジェンスン・フアン氏の復帰拒否と最大1,180億ドルの債務保証開示、対中チップ出荷停止が重なりました。OpenAIの新モデルGPT-6.2や会計プラグイン、カリフォルニア州による提訴、Googleの世界モデルGenie 4、日本でも無料化されたGemini Tasksなど、全22本のニュースを徹底解説します！</itunes:summary>
+      <pubDate>Sat, 21 Nov 2026 01:53:47 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261121-20261121</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xlB7Ewb4ZGSssWxMfx2P_Dettt0QCrrB" length="38629845" type="audio/mpeg"/>
+      <itunes:duration>01:18:54</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月20日】Anthropic史上最大IPO＆AI暴走・規制の大波</title>
       <description>Claudeを開発するAnthropicが評価額1.5兆ドルで史上最大のIPOを実施しました。今日はその裏側にあるAmazon・Googleとの複雑な関係を解き明かします。ほかにも、NVIDIAの中国向けH200販売停止、米商務省の「リモートアクセス規制」、OpenAIのGPT-6.2とGoogleのGemini 4 Neon・Genie 4を取り上げます。さらに、カリフォルニア州のAIキルスイッチ義務化とOpenAI提訴、MetaのAIエージェント「Muse」のプライバシー問題、AIが引き起こすパッチ障害の連鎖まで、全17本をたっぷり解説します！</description>
