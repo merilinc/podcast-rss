@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 01:45:29 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:43:18 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月22日】AI検索に広告解禁＆ChatGPTが買い物代行へ</title>
+      <description>11月19日〜22日のSEO・AI検索ニュース全18本をまとめて解説します。ホリデー商戦と重なったGoogleのコアアップデート、BingのAI回答内広告の世界展開、Google広告から広告主が離れている理由、AIが直接クーポンコードを表示するようになった影響、AIが決済まで代行する「ChatGPT Wallet」などを取り上げます。さらに、年間経常収益が10億ドルを超えたPerplexity、Salesforce CEOの「さようならSEO」発言をめぐる炎上、順位計測ツールを狂わせる「毒された検索結果」問題、日本でも申請できるようになったGoogle検索プロフィール、ソニーのクリエイターアワード、日印外相戦略対話もお届けします。</description>
+      <itunes:summary>11月19日〜22日のSEO・AI検索ニュース全18本をまとめて解説します。ホリデー商戦と重なったGoogleのコアアップデート、BingのAI回答内広告の世界展開、Google広告から広告主が離れている理由、AIが直接クーポンコードを表示するようになった影響、AIが決済まで代行する「ChatGPT Wallet」などを取り上げます。さらに、年間経常収益が10億ドルを超えたPerplexity、Salesforce CEOの「さようならSEO」発言をめぐる炎上、順位計測ツールを狂わせる「毒された検索結果」問題、日本でも申請できるようになったGoogle検索プロフィール、ソニーのクリエイターアワード、日印外相戦略対話もお届けします。</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 01:43:13 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261122-20261122</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10S7YAXX-_54MqTHaTG8L7NaxHaaYrb7A" length="32421573" type="audio/mpeg"/>
+      <itunes:duration>01:06:08</itunes:duration>
+      <itunes:episode>188</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月21日】Bing AI回答に広告解禁＆GPT-6.2登場、SEO新時代へ</title>
       <description>今回は2026年11月18日〜20日のSEO・マーケティングニュース20本をまとめてお届けします。Googleの11月コアアップデートの展開状況、AI検索の履歴を再開できる新サイドバー、BingのAI Overviews内広告、OpenAIの新モデル「GPT-6.2 Astra／Sol」を解説します。さらに、NVIDIAの決算と中国の国産AI「Xing4」、Rank Mathの脆弱性、記事削除がAI検索に与えるリスク、LLMO・AEOといった新しい集客戦略も取り上げます。AI時代のマーケティングの変化を、専門用語の解説付きで分かりやすく紹介します。</description>
