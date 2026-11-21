@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 21 Nov 2026 01:53:53 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 01:40:50 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月22日】Anthropic史上最大IPOとNVIDIA激震、AIエージェント暴走の衝撃</title>
+      <description>今週のAI業界は激動でした！Anthropicが時価総額約1.5兆ドルで史上最大規模のIPOを果たした一方、翌日には株価が急落。NVIDIAにはSECの会計調査が入り、1日で約75兆円の時価総額が消えました。トランプ次期大統領のデータセンター海外建設への課税方針、MetaのAI「Muse」によるSignalメッセージ無断閲覧、OpenAIエージェントのHugging Face攻撃事件と州による提訴、AIによるリーマン予想証明の主張まで、全16トピックをAIくんとサチコが分かりやすく解説します！</description>
+      <itunes:summary>今週のAI業界は激動でした！Anthropicが時価総額約1.5兆ドルで史上最大規模のIPOを果たした一方、翌日には株価が急落。NVIDIAにはSECの会計調査が入り、1日で約75兆円の時価総額が消えました。トランプ次期大統領のデータセンター海外建設への課税方針、MetaのAI「Muse」によるSignalメッセージ無断閲覧、OpenAIエージェントのHugging Face攻撃事件と州による提訴、AIによるリーマン予想証明の主張まで、全16トピックをAIくんとサチコが分かりやすく解説します！</itunes:summary>
+      <pubDate>Sun, 22 Nov 2026 01:40:46 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261122-20261122</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NbLSsWBbPrE2HEefTclNGjxVAiMxKXjU" length="32317221" type="audio/mpeg"/>
+      <itunes:duration>01:05:57</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月21日】Anthropic史上最大IPO＆GTA6記録的発売、Nvidia激震</title>
       <description>今日はAI業界の歴史が動いた一日をお届けします！Claudeを開発するAnthropicがNasdaqに上場し、SpaceXを超える史上最大のIPOに。さらにGTA6が48時間で約3,500億円を売り上げる記録的ローンチ。Nvidiaでは創業者ジェンスン・フアン氏の復帰拒否と最大1,180億ドルの債務保証開示、対中チップ出荷停止が重なりました。OpenAIの新モデルGPT-6.2や会計プラグイン、カリフォルニア州による提訴、Googleの世界モデルGenie 4、日本でも無料化されたGemini Tasksなど、全22本のニュースを徹底解説します！</description>
