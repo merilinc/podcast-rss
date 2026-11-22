@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 01:45:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:49:20 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月23日】OpenAIが安全性評価を独占＆常時稼働AI「dots」拡大</title>
+      <description>今日はOpenAIの最新ニュース16本を一挙にお届けします。AIの安全性評価でOpenAIが上位7位を独占し、Claudeが苦戦したランキングの裏側を解説します。常時稼働エージェント「dots」の拡大や、共同作業スペース「ChatGPT Space」の展開、AIが自分のバグを直す「Performance Factory」も取り上げます。ChatGPT Healthの学習データ設定変更という見逃せないプライバシー問題や、「AIに冷たく話すと精度が上がる」という研究、44カ国への広告展開まで、AIの今がまるごと分かる回です！</description>
+      <itunes:summary>今日はOpenAIの最新ニュース16本を一挙にお届けします。AIの安全性評価でOpenAIが上位7位を独占し、Claudeが苦戦したランキングの裏側を解説します。常時稼働エージェント「dots」の拡大や、共同作業スペース「ChatGPT Space」の展開、AIが自分のバグを直す「Performance Factory」も取り上げます。ChatGPT Healthの学習データ設定変更という見逃せないプライバシー問題や、「AIに冷たく話すと精度が上がる」という研究、44カ国への広告展開まで、AIの今がまるごと分かる回です！</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 01:49:15 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261123-20261123</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K96YbeMJJAYIcuiRnt95kIa_AKULBeS8" length="31785333" type="audio/mpeg"/>
+      <itunes:duration>01:05:01</itunes:duration>
+      <itunes:episode>233</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月22日】Anthropic上場で時価総額2兆ドル＆AIがリーマン予想を証明？</title>
       <description>今日はAI業界の歴史的な1週間を一気に振り返ります。AnthropicがNasdaqに上場し、時価総額2兆ドルを突破しました。さらにClaudeが数学最大の難問「リーマン予想」を証明したと発表しています。一方でアリゾナ州は「暴走AIエージェント」の刑事捜査に乗り出しました。ほかにも、Oracleの3兆円規模の資金調達、Foxconnが組み立てるとされるOpenAIスマホ、Metaの「Muse」、GoogleのGemini新機能、ChatGPT Healthのプライバシー設定変更など、全17本のニュースを分かりやすく解説します！</description>
