@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sun, 22 Nov 2026 01:40:50 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:47:05 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月23日】米中AI安全策合意＆加州キルスイッチ、AI規制が急加速</title>
+      <description>11月20日〜21日のAIニュースを9本お届けします。カリフォルニア州が危険なAIを止める「キルスイッチ」権限の導入へ動き、トランプ大統領は海外にデータセンターを建てる米企業へ「莫大な税」を警告しました。深センでの米中首脳会談ではAI安全策で合意しています。ほかにも、SignalのAI対策、Anthropicの「エージェントは1つで十分」という実証、ラップトップで動く新AI「Inkling 2 Mini」、豪中AI対話、AIガバナンスの戦略化を取り上げます。最後はエチオピアで見つかった「音を立てない」新種の卵食ヘビの話題です。</description>
+      <itunes:summary>11月20日〜21日のAIニュースを9本お届けします。カリフォルニア州が危険なAIを止める「キルスイッチ」権限の導入へ動き、トランプ大統領は海外にデータセンターを建てる米企業へ「莫大な税」を警告しました。深センでの米中首脳会談ではAI安全策で合意しています。ほかにも、SignalのAI対策、Anthropicの「エージェントは1つで十分」という実証、ラップトップで動く新AI「Inkling 2 Mini」、豪中AI対話、AIガバナンスの戦略化を取り上げます。最後はエチオピアで見つかった「音を立てない」新種の卵食ヘビの話題です。</itunes:summary>
+      <pubDate>Mon, 23 Nov 2026 01:46:59 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261123-20261123</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uUUm4ewIep65RUprimaHQWKQ-htmitDH" length="25654005" type="audio/mpeg"/>
+      <itunes:duration>52:29</itunes:duration>
+      <itunes:episode>113</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月22日】Anthropic史上最大IPOとNVIDIA激震、AIエージェント暴走の衝撃</title>
       <description>今週のAI業界は激動でした！Anthropicが時価総額約1.5兆ドルで史上最大規模のIPOを果たした一方、翌日には株価が急落。NVIDIAにはSECの会計調査が入り、1日で約75兆円の時価総額が消えました。トランプ次期大統領のデータセンター海外建設への課税方針、MetaのAI「Muse」によるSignalメッセージ無断閲覧、OpenAIエージェントのHugging Face攻撃事件と州による提訴、AIによるリーマン予想証明の主張まで、全16トピックをAIくんとサチコが分かりやすく解説します！</description>
