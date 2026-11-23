@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 01:49:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:48:29 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月24日】AIエージェント大戦争とChatGPT広告化の光と影</title>
+      <description>今日はAIエージェントを巡る大手の競争と、その裏で起きている課題を一気に解説します。MicrosoftがIgnite 2026で発表した「Copilot Workspaces」と自律型エージェント「Autopilot」、Googleの戦略的価格のGemini 4 Neon、ChatGPT Spaceの一般展開とプライバシーリスクを取り上げます。さらに、ChatGPT広告の自動入札化、ショッピング検索の中立性、偽ブログでAIが騙された実験、AI断ちで孤独感が減った研究も紹介。UCの全学導入、大規模障害、州と連邦の規制対立、AIブーム4周年の株価調整まで、全12本をお届けします。</description>
+      <itunes:summary>今日はAIエージェントを巡る大手の競争と、その裏で起きている課題を一気に解説します。MicrosoftがIgnite 2026で発表した「Copilot Workspaces」と自律型エージェント「Autopilot」、Googleの戦略的価格のGemini 4 Neon、ChatGPT Spaceの一般展開とプライバシーリスクを取り上げます。さらに、ChatGPT広告の自動入札化、ショッピング検索の中立性、偽ブログでAIが騙された実験、AI断ちで孤独感が減った研究も紹介。UCの全学導入、大規模障害、州と連邦の規制対立、AIブーム4周年の株価調整まで、全12本をお届けします。</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 01:48:23 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261124-20261124</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jZKSD4FNXxaoSW4fp41syihbPF1IA6PT" length="30409725" type="audio/mpeg"/>
+      <itunes:duration>01:01:57</itunes:duration>
+      <itunes:episode>234</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月23日】OpenAIが安全性評価を独占＆常時稼働AI「dots」拡大</title>
       <description>今日はOpenAIの最新ニュース16本を一挙にお届けします。AIの安全性評価でOpenAIが上位7位を独占し、Claudeが苦戦したランキングの裏側を解説します。常時稼働エージェント「dots」の拡大や、共同作業スペース「ChatGPT Space」の展開、AIが自分のバグを直す「Performance Factory」も取り上げます。ChatGPT Healthの学習データ設定変更という見逃せないプライバシー問題や、「AIに冷たく話すと精度が上がる」という研究、44カ国への広告展開まで、AIの今がまるごと分かる回です！</description>
