@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 01:47:05 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:56:39 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月24日】AIが数学の難問に挑む？OpenAIの速度制限論と安全保障の最前線</title>
+      <description>今日のメリルニュースは盛りだくさんの9本です。OpenAIのチーフサイエンティストが提唱した「AI開発の速度制限」、AnthropicのClaudeの支援で167年来の難問「リーマン予想」の証明が発表された話、OpenRouterで起きたプロンプト漏洩問題、Cursorが検討する中国製モデルの排除、韓国の大学入試で起きたAI不正騒動と教育相の辞任を取り上げます。さらにTesla FSD v15の新機能「Reality View」、AIエージェントが11分でゼロデイ脆弱性を悪用したサイバー攻撃、国連のキラーロボット規制協議の決裂、InforとAnthropicの提携まで、技術の進化と社会のルールづくりのせめぎ合いを分かりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースは盛りだくさんの9本です。OpenAIのチーフサイエンティストが提唱した「AI開発の速度制限」、AnthropicのClaudeの支援で167年来の難問「リーマン予想」の証明が発表された話、OpenRouterで起きたプロンプト漏洩問題、Cursorが検討する中国製モデルの排除、韓国の大学入試で起きたAI不正騒動と教育相の辞任を取り上げます。さらにTesla FSD v15の新機能「Reality View」、AIエージェントが11分でゼロデイ脆弱性を悪用したサイバー攻撃、国連のキラーロボット規制協議の決裂、InforとAnthropicの提携まで、技術の進化と社会のルールづくりのせめぎ合いを分かりやすく解説します。</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 01:56:27 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261124-20261124</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wy9B7F37L4R2d4A-OAwNC6V48ExPmHle" length="27485829" type="audio/mpeg"/>
+      <itunes:duration>56:07</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月23日】米中AI安全策合意＆加州キルスイッチ、AI規制が急加速</title>
       <description>11月20日〜21日のAIニュースを9本お届けします。カリフォルニア州が危険なAIを止める「キルスイッチ」権限の導入へ動き、トランプ大統領は海外にデータセンターを建てる米企業へ「莫大な税」を警告しました。深センでの米中首脳会談ではAI安全策で合意しています。ほかにも、SignalのAI対策、Anthropicの「エージェントは1つで十分」という実証、ラップトップで動く新AI「Inkling 2 Mini」、豪中AI対話、AIガバナンスの戦略化を取り上げます。最後はエチオピアで見つかった「音を立てない」新種の卵食ヘビの話題です。</description>
