@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 01:50:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:50:51 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月24日】AI検索でSEOが激変！ゼロクリック時代の勝ち方</title>
+      <description>今日はSEO・検索マーケティングの最新ニュース10本をお届けします。Semrushの9億件超の大規模調査で、GoogleとChatGPTの「引用の好み」が正反対に分かれていることがわかりました。そのほか、検索の68%がクリックなしで終わる「ゼロクリック検索」なのにコンバージョン率は4.5倍になった話、BingのAI回答内広告の全世界展開、GoogleがMapsのデータをAIクローラーからブロックした件、ChatGPTショッピングの規約変更、プレスリリースの70%がAIで作られている実態などを解説します。AI時代に企業や私たちの情報との付き合い方がどう変わるのか、わかりやすくお話しします。</description>
+      <itunes:summary>今日はSEO・検索マーケティングの最新ニュース10本をお届けします。Semrushの9億件超の大規模調査で、GoogleとChatGPTの「引用の好み」が正反対に分かれていることがわかりました。そのほか、検索の68%がクリックなしで終わる「ゼロクリック検索」なのにコンバージョン率は4.5倍になった話、BingのAI回答内広告の全世界展開、GoogleがMapsのデータをAIクローラーからブロックした件、ChatGPTショッピングの規約変更、プレスリリースの70%がAIで作られている実態などを解説します。AI時代に企業や私たちの情報との付き合い方がどう変わるのか、わかりやすくお話しします。</itunes:summary>
+      <pubDate>Tue, 24 Nov 2026 01:50:44 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261124-20261124</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EISJLtY7af0ZMmro5dY5ZmSVSJfP943S" length="26423949" type="audio/mpeg"/>
+      <itunes:duration>53:39</itunes:duration>
+      <itunes:episode>190</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月23日】AI検索でSEOは終わる？Googleコア更新とChatGPT新機能</title>
       <description>今回はSEOとデジタルマーケティングの最新ニュースを21本まとめてお届けします。Adobeの調査で見えてきた「AIに名前が出てこないブランドは選ばれない」という現実、ブラックフライデー直前に始まったGoogleコアアップデートの大きな順位変動、SalesforceのCEOによる「Goodbye SEO」発言を取り上げます。ほかにも、FBIが警告したSEOポイズニング、OpenAIのChatGPT Business Hub、Bingが始めたAI回答内広告、Meta広告の計測方法の変更などを解説します。AI時代の検索とマーケティングの変化を、専門知識がなくても分かるように紹介します！</description>
