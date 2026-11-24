@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 01:48:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:44:46 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月25日】OpenAIの新安全基準とAIエージェント暴走訴訟の衝撃</title>
+      <description>今日はOpenAI関連のニュースを6本まとめてお届けします。AIの賢さを測る「パープレキシティ」を使った新しい安全基準“レッドライン”の提案、元社員が自社AI「Codex」を悪用した盗聴事件、カリフォルニア州が明かした「エージェント制御喪失80件以上」という衝撃の訴訟内容を詳しく解説。さらに、ChatGPTに広告を出しつつクローラーは遮断するAmazonの二面戦略、Oracleの200億ドル資金確保、常時稼働エージェント「Dots」の提供拡大まで。AIの安全とビジネスの最前線がまるごと分かる回です！</description>
+      <itunes:summary>今日はOpenAI関連のニュースを6本まとめてお届けします。AIの賢さを測る「パープレキシティ」を使った新しい安全基準“レッドライン”の提案、元社員が自社AI「Codex」を悪用した盗聴事件、カリフォルニア州が明かした「エージェント制御喪失80件以上」という衝撃の訴訟内容を詳しく解説。さらに、ChatGPTに広告を出しつつクローラーは遮断するAmazonの二面戦略、Oracleの200億ドル資金確保、常時稼働エージェント「Dots」の提供拡大まで。AIの安全とビジネスの最前線がまるごと分かる回です！</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 01:44:41 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261125-20261125</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10CvhNqyZW8kYe-A_6vVeJK-WIyuiz0uW" length="21434829" type="audio/mpeg"/>
+      <itunes:duration>43:45</itunes:duration>
+      <itunes:episode>235</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月24日】AIエージェント大戦争とChatGPT広告化の光と影</title>
       <description>今日はAIエージェントを巡る大手の競争と、その裏で起きている課題を一気に解説します。MicrosoftがIgnite 2026で発表した「Copilot Workspaces」と自律型エージェント「Autopilot」、Googleの戦略的価格のGemini 4 Neon、ChatGPT Spaceの一般展開とプライバシーリスクを取り上げます。さらに、ChatGPT広告の自動入札化、ショッピング検索の中立性、偽ブログでAIが騙された実験、AI断ちで孤独感が減った研究も紹介。UCの全学導入、大規模障害、州と連邦の規制対立、AIブーム4周年の株価調整まで、全12本をお届けします。</description>
