@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 01:50:51 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:51:26 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月25日】SEOからGEOへ！AI検索時代の生き残り戦略</title>
+      <description>AI検索の普及で「検索で1位を取る」というSEOの常識が変わりつつあります。今回はSEO特集として、AIに選ばれるための新常識「GEO」、AI Overviews内のリンク位置の変化とゼロクリック問題、AI経由の流入はコンバージョン率が61%高いというデータ、Google検索責任者Liz Reid氏の「コモディティコンテンツ淘汰」発言、Bingの新UIとAI広告、Google MapsによるAIクローラー遮断、Semrushの新ツール、「戻るボタンのハイジャック」規制、感謝祭のAIバルーンまで、全18トピックを分かりやすく解説します！</description>
+      <itunes:summary>AI検索の普及で「検索で1位を取る」というSEOの常識が変わりつつあります。今回はSEO特集として、AIに選ばれるための新常識「GEO」、AI Overviews内のリンク位置の変化とゼロクリック問題、AI経由の流入はコンバージョン率が61%高いというデータ、Google検索責任者Liz Reid氏の「コモディティコンテンツ淘汰」発言、Bingの新UIとAI広告、Google MapsによるAIクローラー遮断、Semrushの新ツール、「戻るボタンのハイジャック」規制、感謝祭のAIバルーンまで、全18トピックを分かりやすく解説します！</itunes:summary>
+      <pubDate>Wed, 25 Nov 2026 01:51:20 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261125-20261125</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GnyP-Rx-9Oh4cYyoN9hyCiILNbHOkvdj" length="33360045" type="audio/mpeg"/>
+      <itunes:duration>01:07:54</itunes:duration>
+      <itunes:episode>191</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月24日】AI検索でSEOが激変！ゼロクリック時代の勝ち方</title>
       <description>今日はSEO・検索マーケティングの最新ニュース10本をお届けします。Semrushの9億件超の大規模調査で、GoogleとChatGPTの「引用の好み」が正反対に分かれていることがわかりました。そのほか、検索の68%がクリックなしで終わる「ゼロクリック検索」なのにコンバージョン率は4.5倍になった話、BingのAI回答内広告の全世界展開、GoogleがMapsのデータをAIクローラーからブロックした件、ChatGPTショッピングの規約変更、プレスリリースの70%がAIで作られている実態などを解説します。AI時代に企業や私たちの情報との付き合い方がどう変わるのか、わかりやすくお話しします。</description>
