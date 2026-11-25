@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 01:51:26 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:51:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月26日】Google史上初のコア更新予告＆AIエージェント専用検索</title>
+      <description>Googleが史上初めてコアアップデートを事前予告し、11月のアップデートは14日間で完了しました。今回は、AI量産サイトが受けた打撃、新設された「ランキング透明性ハブ」、CloudflareのAIエージェント専用検索「Search for Agents」を解説します。Bingの88万件の調査で分かった「AIはブログよりPDFやサポートページを引用する」という結果や、AI Overviewsのリンク表示の変化、ショッピング広告の購入数バッジ、WordPressのシェア低下まで、SEO・広告の重要ニュース20本をまとめてお届けします。</description>
+      <itunes:summary>Googleが史上初めてコアアップデートを事前予告し、11月のアップデートは14日間で完了しました。今回は、AI量産サイトが受けた打撃、新設された「ランキング透明性ハブ」、CloudflareのAIエージェント専用検索「Search for Agents」を解説します。Bingの88万件の調査で分かった「AIはブログよりPDFやサポートページを引用する」という結果や、AI Overviewsのリンク表示の変化、ショッピング広告の購入数バッジ、WordPressのシェア低下まで、SEO・広告の重要ニュース20本をまとめてお届けします。</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 01:51:41 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261126-20261126</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XXK3ziKLYgD1AFAWjORFAUMIgrSholJB" length="33098229" type="audio/mpeg"/>
+      <itunes:duration>01:07:19</itunes:duration>
+      <itunes:episode>192</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月25日】SEOからGEOへ！AI検索時代の生き残り戦略</title>
       <description>AI検索の普及で「検索で1位を取る」というSEOの常識が変わりつつあります。今回はSEO特集として、AIに選ばれるための新常識「GEO」、AI Overviews内のリンク位置の変化とゼロクリック問題、AI経由の流入はコンバージョン率が61%高いというデータ、Google検索責任者Liz Reid氏の「コモディティコンテンツ淘汰」発言、Bingの新UIとAI広告、Google MapsによるAIクローラー遮断、Semrushの新ツール、「戻るボタンのハイジャック」規制、感謝祭のAIバルーンまで、全18トピックを分かりやすく解説します！</description>
