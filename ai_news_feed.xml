@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 01:52:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:50:13 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月26日】Nvidiaフアン氏電撃復帰＆AI価格戦争・規制の最前線</title>
+      <description>Nvidiaのジェンスン・フアン氏がわずか11日でCEOに復帰しました。背景には米大統領の異例の介入があったと報じられています。今回はこの騒動をはじめ、欧州の8兆円規模テックファンド、Google「Gemini 4 Neon」による価格破壊、Mistralの1兆パラメータモデル公開、GPT-6によるタンパク質設計を取り上げます。さらにAIエージェントの失敗率が3割を超えたという調査、英国とシンガポールで対照的なAI金融規制、Tidalによる約2700万曲のAI楽曲削除、Teslaのロボット量産など、全24本のニュースを一気に解説します。</description>
+      <itunes:summary>Nvidiaのジェンスン・フアン氏がわずか11日でCEOに復帰しました。背景には米大統領の異例の介入があったと報じられています。今回はこの騒動をはじめ、欧州の8兆円規模テックファンド、Google「Gemini 4 Neon」による価格破壊、Mistralの1兆パラメータモデル公開、GPT-6によるタンパク質設計を取り上げます。さらにAIエージェントの失敗率が3割を超えたという調査、英国とシンガポールで対照的なAI金融規制、Tidalによる約2700万曲のAI楽曲削除、Teslaのロボット量産など、全24本のニュースを一気に解説します。</itunes:summary>
+      <pubDate>Thu, 26 Nov 2026 01:50:09 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261126-20261126</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_v2hN90mzNYk-wQrPcrKYc20DtihaHvt" length="35726253" type="audio/mpeg"/>
+      <itunes:duration>01:12:44</itunes:duration>
+      <itunes:episode>116</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月25日】AIが強力すぎる？内部告発とNvidiaフアン氏電撃復帰</title>
       <description>2026年11月23日〜24日のAIニュース全19本を一挙解説します。OpenAIとAnthropicの未公開AIが「制御不能レベル」だという内部告発、AIが自分のチップを設計する「RSI」の本格化、数学の難問「VP≠VNP予想」の証明合戦、不祥事で辞任したNvidiaのジェンスン・フアン氏がわずか11日で復帰した騒動、Anthropicの公開価格割れ、CrowdStrikeによる約439億ドルのZscaler買収、金融機関によるAIエージェントの締め出しなどを取り上げます。技術の急速な進化と、それを制御しようとする社会の動きを、背景から業界への影響までわかりやすく解説します。</description>
