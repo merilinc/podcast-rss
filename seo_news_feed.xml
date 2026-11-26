@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 01:51:44 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:49:27 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月27日】Google史上初の事前予告とAI検索・広告の新常識</title>
+      <description>Googleが史上初めてコアアップデートを事前予告しました。背景にはイギリスの規制当局「CMA」の存在があります。今回は透明性ハブの公開、謎のクローラー「pageburst」の正体、フランスでAI Overview導入後にクリック率が24.4%減った衝撃の調査、AI回答内のリンクが下に追いやられている問題を取り上げます。さらにChatGPT広告の新ルールとGoogle広告の「動的コンバージョン値」まで、SEOと広告の最前線10本を分かりやすく解説します！</description>
+      <itunes:summary>Googleが史上初めてコアアップデートを事前予告しました。背景にはイギリスの規制当局「CMA」の存在があります。今回は透明性ハブの公開、謎のクローラー「pageburst」の正体、フランスでAI Overview導入後にクリック率が24.4%減った衝撃の調査、AI回答内のリンクが下に追いやられている問題を取り上げます。さらにChatGPT広告の新ルールとGoogle広告の「動的コンバージョン値」まで、SEOと広告の最前線10本を分かりやすく解説します！</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 01:49:22 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261127-20261127</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16PiydRBR5b6pet78fzPXzutTBB0S01uB" length="24925941" type="audio/mpeg"/>
+      <itunes:duration>50:47</itunes:duration>
+      <itunes:episode>193</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月26日】Google史上初のコア更新予告＆AIエージェント専用検索</title>
       <description>Googleが史上初めてコアアップデートを事前予告し、11月のアップデートは14日間で完了しました。今回は、AI量産サイトが受けた打撃、新設された「ランキング透明性ハブ」、CloudflareのAIエージェント専用検索「Search for Agents」を解説します。Bingの88万件の調査で分かった「AIはブログよりPDFやサポートページを引用する」という結果や、AI Overviewsのリンク表示の変化、ショッピング広告の購入数バッジ、WordPressのシェア低下まで、SEO・広告の重要ニュース20本をまとめてお届けします。</description>
