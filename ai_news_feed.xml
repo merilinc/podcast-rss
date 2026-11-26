@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 01:50:13 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:48:02 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月27日】AIの「料金所」時代到来＆数学の難問をAIが突破!?</title>
+      <description>今日のメリルニュースは、AI業界の大転換点をまとめてお届けします。GoogleがAIエージェント向けにWorkspaceの「料金所」を導入し、米国の半導体規制で中国AIの次世代モデルが大幅に遅れています。Appleによる中国製AIアプリ「Talkie」の全世界削除、OpenAIによる行列乗算やナビエ・ストークス方程式の数学的ブレイクスルー、SpaceXの宇宙データセンター承認、AmazonとMetaのAIショッピング攻防など、全21トピックを背景・業界の関係・技術・過去事例との比較の4つの視点でわかりやすく解説します。</description>
+      <itunes:summary>今日のメリルニュースは、AI業界の大転換点をまとめてお届けします。GoogleがAIエージェント向けにWorkspaceの「料金所」を導入し、米国の半導体規制で中国AIの次世代モデルが大幅に遅れています。Appleによる中国製AIアプリ「Talkie」の全世界削除、OpenAIによる行列乗算やナビエ・ストークス方程式の数学的ブレイクスルー、SpaceXの宇宙データセンター承認、AmazonとMetaのAIショッピング攻防など、全21トピックを背景・業界の関係・技術・過去事例との比較の4つの視点でわかりやすく解説します。</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 01:47:56 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261127-20261127</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dvwEq1RLPU6EERKjG8cmfb0IvP9mjP9B" length="35276205" type="audio/mpeg"/>
+      <itunes:duration>01:11:38</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月26日】Nvidiaフアン氏電撃復帰＆AI価格戦争・規制の最前線</title>
       <description>Nvidiaのジェンスン・フアン氏がわずか11日でCEOに復帰しました。背景には米大統領の異例の介入があったと報じられています。今回はこの騒動をはじめ、欧州の8兆円規模テックファンド、Google「Gemini 4 Neon」による価格破壊、Mistralの1兆パラメータモデル公開、GPT-6によるタンパク質設計を取り上げます。さらにAIエージェントの失敗率が3割を超えたという調査、英国とシンガポールで対照的なAI金融規制、Tidalによる約2700万曲のAI楽曲削除、Teslaのロボット量産など、全24本のニュースを一気に解説します。</description>
