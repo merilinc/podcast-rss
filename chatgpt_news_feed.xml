@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 01:57:14 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:50:44 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月27日】GPT-6.2利用制限40%増の衝撃とOpenAIの光と影</title>
+      <description>今回はOpenAIをめぐる19本のニュースを一気に解説します。GPT-6.2の利用量カウント修正で、利用上限に最大40%早く到達するようになった問題。ライバルClaude Fable 5.2とのベンチマーク対決。約4時間の大規模障害。一方で、機密推論「Private Inference」、Ciscoと共同開発したLinux防護ツール「Shirudo」、AIが代わりに買い物をする「ChatGPT Wallet」、24時間働くエージェント「Dots」など、新しい取り組みも次々と発表されました。人材流出、巨額のインフラ投資、盗聴事件まで、OpenAIの「今」がまるごと分かる回です！</description>
+      <itunes:summary>今回はOpenAIをめぐる19本のニュースを一気に解説します。GPT-6.2の利用量カウント修正で、利用上限に最大40%早く到達するようになった問題。ライバルClaude Fable 5.2とのベンチマーク対決。約4時間の大規模障害。一方で、機密推論「Private Inference」、Ciscoと共同開発したLinux防護ツール「Shirudo」、AIが代わりに買い物をする「ChatGPT Wallet」、24時間働くエージェント「Dots」など、新しい取り組みも次々と発表されました。人材流出、巨額のインフラ投資、盗聴事件まで、OpenAIの「今」がまるごと分かる回です！</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 01:50:39 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261127-20261127</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14RwHXDvOc5NbOoM37aYELNn7zjD4kDlQ" length="32592573" type="audio/mpeg"/>
+      <itunes:duration>01:06:31</itunes:duration>
+      <itunes:episode>237</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月26日】GPT-6.2 Sol登場＆AIの安全ブレーキ論争</title>
       <description>今日はOpenAI関連ニュースを16本まとめてお届けします。画像理解が大きく伸びた「GPT-6.2 Sol」の一般展開と旧モデルの引退、車の中から仕事を任せられる「ChatGPT Dots」のCarPlay対応を紹介します。汎用AIによるタンパク質設計という科学的成果や、首席科学者が提案した「パープレキシティ」によるAI開発の速度制限も取り上げます。さらに、著作権訴訟、AmazonとOpenAIの複雑な関係、Ciscoと共同開発した防御ツール「Shirudo」、カリフォルニア州の訴訟まで、AI業界の今を詳しく解説します！</description>
