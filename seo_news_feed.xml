@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 01:49:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:48:45 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月28日】ChatGPT広告の秘密主義とAI検索広告戦争</title>
+      <description>AI検索の広告をめぐって、各社の方針が大きく分かれています。OpenAIは「どんな質問で広告が出たか」を広告主に教えないと決め、MicrosoftはBingのAI回答に広告を溶け込ませて全世界へ展開しました。一方のGoogleは、検索意図を見える化する「Search Insights」で透明性を打ち出しています。さらに、代理店向けのMerchant Center新機能、AIエージェントの行動を分析するMicrosoft Clarity、カナダで始まったAI Mode内での直接決済「UCP」まで紹介。AIが買い物を代行する時代のウェブとマーケティングを、やさしく解説します！</description>
+      <itunes:summary>AI検索の広告をめぐって、各社の方針が大きく分かれています。OpenAIは「どんな質問で広告が出たか」を広告主に教えないと決め、MicrosoftはBingのAI回答に広告を溶け込ませて全世界へ展開しました。一方のGoogleは、検索意図を見える化する「Search Insights」で透明性を打ち出しています。さらに、代理店向けのMerchant Center新機能、AIエージェントの行動を分析するMicrosoft Clarity、カナダで始まったAI Mode内での直接決済「UCP」まで紹介。AIが買い物を代行する時代のウェブとマーケティングを、やさしく解説します！</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 01:48:40 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261128-20261128</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-0BgtFdt_85U_whW9gLQoEzDLFZ4Rm3g" length="18879069" type="audio/mpeg"/>
+      <itunes:duration>38:42</itunes:duration>
+      <itunes:episode>194</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月27日】Google史上初の事前予告とAI検索・広告の新常識</title>
       <description>Googleが史上初めてコアアップデートを事前予告しました。背景にはイギリスの規制当局「CMA」の存在があります。今回は透明性ハブの公開、謎のクローラー「pageburst」の正体、フランスでAI Overview導入後にクリック率が24.4%減った衝撃の調査、AI回答内のリンクが下に追いやられている問題を取り上げます。さらにChatGPT広告の新ルールとGoogle広告の「動的コンバージョン値」まで、SEOと広告の最前線10本を分かりやすく解説します！</description>
