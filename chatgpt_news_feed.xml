@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Fri, 27 Nov 2026 01:50:44 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:52:49 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月28日】常時稼働AI「Dots」始動＆行列乗算の歴史的証明</title>
+      <description>今日はOpenAIの怒涛の1週間を19本のニュースで徹底解説！24時間働くAIエージェント「Dots」の本格展開、行列の掛け算の計算量が「9/4」だと証明したとする論文、GPT-6による量子重力理論やタンパク質設計の話題をお届けします。さらに、GPT-6.2の課金ミス修正で利用枠が実質減少した件、ChatGPT Healthの規約変更、ドイツでの提訴、ブラックフライデーにAIショッピングがブロックされた件、NATOも使うサイバー防衛AIまで。AIの光と影がまとめて分かる回です！</description>
+      <itunes:summary>今日はOpenAIの怒涛の1週間を19本のニュースで徹底解説！24時間働くAIエージェント「Dots」の本格展開、行列の掛け算の計算量が「9/4」だと証明したとする論文、GPT-6による量子重力理論やタンパク質設計の話題をお届けします。さらに、GPT-6.2の課金ミス修正で利用枠が実質減少した件、ChatGPT Healthの規約変更、ドイツでの提訴、ブラックフライデーにAIショッピングがブロックされた件、NATOも使うサイバー防衛AIまで。AIの光と影がまとめて分かる回です！</itunes:summary>
+      <pubDate>Sat, 28 Nov 2026 01:52:45 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261128-20261128</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-XBP2a2a63Oq7TppDhVQ7_MvTkcf_0mu" length="29405469" type="audio/mpeg"/>
+      <itunes:duration>01:00:20</itunes:duration>
+      <itunes:episode>238</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月27日】GPT-6.2利用制限40%増の衝撃とOpenAIの光と影</title>
       <description>今回はOpenAIをめぐる19本のニュースを一気に解説します。GPT-6.2の利用量カウント修正で、利用上限に最大40%早く到達するようになった問題。ライバルClaude Fable 5.2とのベンチマーク対決。約4時間の大規模障害。一方で、機密推論「Private Inference」、Ciscoと共同開発したLinux防護ツール「Shirudo」、AIが代わりに買い物をする「ChatGPT Wallet」、24時間働くエージェント「Dots」など、新しい取り組みも次々と発表されました。人材流出、巨額のインフラ投資、盗聴事件まで、OpenAIの「今」がまるごと分かる回です！</description>
