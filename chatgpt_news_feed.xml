@@ -5,7 +5,7 @@
     <description>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Nov 2026 01:52:49 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2026 01:43:11 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新ChatGPT関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月29日】OpenAIがAppleを逆提訴！GPT-6.2利用枠問題とAI摩擦の最前線</title>
+      <description>今日はChatGPTを手がけるOpenAI特集です。Appleとの企業秘密を巡る法廷闘争への逆提訴、GPT-6.2の課金バグ修正で利用上限に40%早く到達する問題、ドイツの消費者団体による解約障壁訴訟、Amazonが決済をブロックするAIショッピングエージェント問題など全13本を解説します。LenovoのPCへのChatGPTプリインストール、企業向けの秘匿推論、Androidでの電話操作機能の発見、11月21日の大規模障害の原因も取り上げます。急拡大するOpenAIと、既存の企業や法制度との間で起きている摩擦の実態を分かりやすくお届けします！</description>
+      <itunes:summary>今日はChatGPTを手がけるOpenAI特集です。Appleとの企業秘密を巡る法廷闘争への逆提訴、GPT-6.2の課金バグ修正で利用上限に40%早く到達する問題、ドイツの消費者団体による解約障壁訴訟、Amazonが決済をブロックするAIショッピングエージェント問題など全13本を解説します。LenovoのPCへのChatGPTプリインストール、企業向けの秘匿推論、Androidでの電話操作機能の発見、11月21日の大規模障害の原因も取り上げます。急拡大するOpenAIと、既存の企業や法制度との間で起きている摩擦の実態を分かりやすくお届けします！</itunes:summary>
+      <pubDate>Sun, 29 Nov 2026 01:43:02 +0900</pubDate>
+      <guid isPermaLink="false">chatgpt_news_radio_20261129-20261129</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1GAjMQj51sz48YbmgAEjcL8o52lDJPX3Y" length="27189549" type="audio/mpeg"/>
+      <itunes:duration>55:31</itunes:duration>
+      <itunes:episode>239</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月28日】常時稼働AI「Dots」始動＆行列乗算の歴史的証明</title>
       <description>今日はOpenAIの怒涛の1週間を19本のニュースで徹底解説！24時間働くAIエージェント「Dots」の本格展開、行列の掛け算の計算量が「9/4」だと証明したとする論文、GPT-6による量子重力理論やタンパク質設計の話題をお届けします。さらに、GPT-6.2の課金ミス修正で利用枠が実質減少した件、ChatGPT Healthの規約変更、ドイツでの提訴、ブラックフライデーにAIショッピングがブロックされた件、NATOも使うサイバー防衛AIまで。AIの光と影がまとめて分かる回です！</description>
