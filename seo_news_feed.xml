@@ -5,7 +5,7 @@
     <description>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Nov 2026 01:48:45 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2026 01:39:41 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新SEO・マーケティング関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月29日】Google「404は放置でOK」＆量産型ページ一掃の衝撃</title>
+      <description>今回はGoogleが公式ドキュメントを更新し、「404エラーは基本的に放置して構わない」と明文化したニュースからお届けします。404と410の使い分けや、サイトマップの誤解も解説します。さらに11月のコアアップデートで大打撃を受けた「量産型の類似ページ」の実態、ローカルパックで「レビューなし」と誤表示されるバグも紹介。AI OverviewsによるクリックT率約25%低下の調査、AI Modeの画像10枚添付、IABが指摘した広告の成果帰属の問題、Bing AI Modeの広告事情まで、AI時代の検索とマーケティングの大転換をまとめて解説します！</description>
+      <itunes:summary>今回はGoogleが公式ドキュメントを更新し、「404エラーは基本的に放置して構わない」と明文化したニュースからお届けします。404と410の使い分けや、サイトマップの誤解も解説します。さらに11月のコアアップデートで大打撃を受けた「量産型の類似ページ」の実態、ローカルパックで「レビューなし」と誤表示されるバグも紹介。AI OverviewsによるクリックT率約25%低下の調査、AI Modeの画像10枚添付、IABが指摘した広告の成果帰属の問題、Bing AI Modeの広告事情まで、AI時代の検索とマーケティングの大転換をまとめて解説します！</itunes:summary>
+      <pubDate>Sun, 29 Nov 2026 01:39:38 +0900</pubDate>
+      <guid isPermaLink="false">seo_news_radio_20261129-20261129</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y9qkbis2QXG029Hz8CMkzqs2exWqP_V4" length="21178869" type="audio/mpeg"/>
+      <itunes:duration>43:28</itunes:duration>
+      <itunes:episode>195</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月28日】ChatGPT広告の秘密主義とAI検索広告戦争</title>
       <description>AI検索の広告をめぐって、各社の方針が大きく分かれています。OpenAIは「どんな質問で広告が出たか」を広告主に教えないと決め、MicrosoftはBingのAI回答に広告を溶け込ませて全世界へ展開しました。一方のGoogleは、検索意図を見える化する「Search Insights」で透明性を打ち出しています。さらに、代理店向けのMerchant Center新機能、AIエージェントの行動を分析するMicrosoft Clarity、カナダで始まったAI Mode内での直接決済「UCP」まで紹介。AIが買い物を代行する時代のウェブとマーケティングを、やさしく解説します！</description>
