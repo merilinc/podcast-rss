@@ -5,7 +5,7 @@
     <description>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</description>
     <language>ja</language>
     <copyright>© 2026 株式会社メリル</copyright>
-    <lastBuildDate>Sat, 28 Nov 2026 01:52:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 29 Nov 2026 01:45:16 +0900</lastBuildDate>
     <itunes:author>株式会社メリル</itunes:author>
     <itunes:summary>毎日の最新AI関連ニュースをラジオ形式でお届けします。AIくんとサチコがわかりやすく解説。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,17 @@
     <itunes:owner>
       <itunes:name>株式会社メリル</itunes:name>
     </itunes:owner>
+    <item>
+      <title>【11月29日】OpenAI対Apple逆提訴＆Nvidiaチップ密輸の衝撃</title>
+      <description>今日はAIの戦場が「ソフト」から「物理インフラ」へ移っていることがよく分かる回です。OpenAIがAppleを逆提訴した「ホテル・カリフォルニア条項」問題、上海で見つかった約1.5トンのNvidia最新サーバー、東南アジア向け出荷停止の舞台裏を解説します。さらに、Anthropicの約135兆円のインフラ契約、JERAと米テック大手のデータセンター協議、XPENGの人型ロボット量産、宇宙データセンター「Starmind」、日本のAI罰則法案まで、全22本のニュースをAIくんとサチコが分かりやすくお届けします！</description>
+      <itunes:summary>今日はAIの戦場が「ソフト」から「物理インフラ」へ移っていることがよく分かる回です。OpenAIがAppleを逆提訴した「ホテル・カリフォルニア条項」問題、上海で見つかった約1.5トンのNvidia最新サーバー、東南アジア向け出荷停止の舞台裏を解説します。さらに、Anthropicの約135兆円のインフラ契約、JERAと米テック大手のデータセンター協議、XPENGの人型ロボット量産、宇宙データセンター「Starmind」、日本のAI罰則法案まで、全22本のニュースをAIくんとサチコが分かりやすくお届けします！</itunes:summary>
+      <pubDate>Sun, 29 Nov 2026 01:45:00 +0900</pubDate>
+      <guid isPermaLink="false">ai_news_radio_20261129-20261129</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BNdxazTsM_Adwav-i_vxagMGCIcfdq6Y" length="34055613" type="audio/mpeg"/>
+      <itunes:duration>01:09:29</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>【11月28日】AIは制御不能？内部告発・宇宙データセンター・AI玩具禁止</title>
       <description>11月25日から28日のわずか4日間で、AI業界は大きな転換点を迎えました。OpenAIとAnthropicの未公開モデルをめぐる「制御不能」の内部告発、SpaceXの宇宙AIデータセンター100万基の承認、GoogleのAIが1日で数学論文6本を書いた話題を詳しく解説します。さらに、Nvidiaの東南アジア出荷停止、イングランド銀行による金融危機への警告、ニューヨーク州のAIおもちゃ禁止、日本のAI法改正案まで、全17本のニュースをお届けします。「AIの能力の爆発」と「規制による封じ込め」がぶつかる最前線を、わかりやすくお伝えします。</description>
